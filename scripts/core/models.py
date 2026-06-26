@@ -7,10 +7,10 @@ from __future__ import annotations
 
 import hashlib
 import json
-from dataclasses import dataclass, field, asdict
-from datetime import datetime, date
+from dataclasses import asdict, dataclass, field
+from datetime import date
 from enum import Enum
-from typing import List, Optional
+from typing import List
 
 
 class Category(str, Enum):

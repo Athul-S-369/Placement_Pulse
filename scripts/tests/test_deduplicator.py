@@ -1,8 +1,7 @@
 """Tests for the deduplication engine."""
 
-import pytest
+from scripts.core.deduplicator import _is_duplicate, _jaccard, deduplicate
 from scripts.core.models import Opportunity
-from scripts.core.deduplicator import deduplicate, _jaccard, _is_duplicate
 
 
 def test_jaccard_identical():

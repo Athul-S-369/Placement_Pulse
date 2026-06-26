@@ -6,22 +6,15 @@ from their official public pages (all allow indexing).
 
 from __future__ import annotations
 
-import re
 import sys
 from pathlib import Path
-from typing import List, Dict
+from typing import Dict, List
 
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
-from scripts.scrapers.base import BaseScraper
+from scripts.core.http_client import fetch_json
 from scripts.core.models import Opportunity
-from scripts.core.http_client import fetch_json, fetch_text
-
-try:
-    from bs4 import BeautifulSoup
-    BS4_AVAILABLE = True
-except ImportError:
-    BS4_AVAILABLE = False
+from scripts.scrapers.base import BaseScraper
 
 
 PROGRAMS: List[Dict] = [

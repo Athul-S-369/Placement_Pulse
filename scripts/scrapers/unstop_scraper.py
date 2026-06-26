@@ -18,11 +18,12 @@ from scripts.core.http_client import fetch_json
 BASE = "https://unstop.com/api/public/opportunity/search-result"
 
 PARAMS_LIST = [
-    {"oppType": "hackathon", "page": 1, "size": 30, "country": "India"},
-    {"oppType": "internship", "page": 1, "size": 30, "country": "India"},
-    {"oppType": "job", "page": 1, "size": 30, "country": "India"},
-    {"oppType": "competition", "page": 1, "size": 30, "country": "India"},
-    {"oppType": "scholarship", "page": 1, "size": 30, "country": "India"},
+    {"oppType": "hackathon",   "page": 1, "size": 40, "country": "India"},
+    {"oppType": "internship",  "page": 1, "size": 40, "country": "India"},
+    {"oppType": "job",         "page": 1, "size": 40, "country": "India"},
+    {"oppType": "competition", "page": 1, "size": 40, "country": "India"},
+    {"oppType": "scholarship", "page": 1, "size": 40, "country": "India"},
+    {"oppType": "fellowship",  "page": 1, "size": 20, "country": "India"},
 ]
 
 _OPP_TYPE_MAP = {

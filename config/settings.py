@@ -3,7 +3,6 @@ PlacementPulse - Global Configuration
 Central configuration for all scrapers, pipelines, and generators.
 """
 
-from dataclasses import dataclass, field
 from pathlib import Path
 from typing import List
 
@@ -43,8 +42,8 @@ GIT_AUTHOR_EMAIL = "bot@placementpulse.dev"
 # ─── Website ──────────────────────────────────────────────────────────────────
 SITE_TITLE = "PlacementPulse"
 SITE_DESCRIPTION = (
-    "The largest open-source collection of Indian software internship "
-    "and placement opportunities, updated daily."
+    "India's largest open-source collection of software internships, "
+    "fresher jobs, hackathons, and placement opportunities — updated daily, 100% free."
 )
 SITE_URL = "https://placementpulse.github.io"
 GITHUB_REPO_URL = "https://github.com/your-username/PlacementPulse"
@@ -68,11 +67,25 @@ TECH_DOMAINS = [
     "mobile", "embedded", "cloud", "design", "product",
 ]
 
+# ─── India-only mode ─────────────────────────────────────────────────────────
+# When True, any opportunity not linked to India is dropped after normalization.
+INDIA_ONLY: bool = True
+
 # ─── India-specific location keywords ────────────────────────────────────────
 INDIA_LOCATIONS = [
     "india", "bengaluru", "bangalore", "hyderabad", "pune", "mumbai",
-    "delhi", "gurugram", "gurgaon", "noida", "chennai", "kolkata",
-    "ahmedabad", "remote india", "pan india", "india remote",
+    "delhi", "new delhi", "gurugram", "gurgaon", "noida", "chennai",
+    "kolkata", "ahmedabad", "remote india", "pan india", "india remote",
+    "india / remote", "remote / india", "anywhere in india",
+    "kochi", "coimbatore", "jaipur", "indore", "bhubaneswar",
+    "thiruvananthapuram", "trivandrum", "chandigarh", "nagpur", "surat",
+]
+
+# Programmes / fellowships that are open worldwide but strongly India-eligible
+GLOBAL_PROGRAMS = [
+    "gsoc", "google summer of code", "outreachy", "mlh fellowship",
+    "linux foundation", "season of docs", "github campus expert",
+    "microsoft learn student ambassadors",
 ]
 
 # ─── Logging ──────────────────────────────────────────────────────────────────

@@ -1,8 +1,7 @@
 """Tests for the data normalizer."""
 
-import pytest
 from scripts.core.models import Opportunity, WorkMode
-from scripts.core.normalizer import normalize, _infer_work_mode, _infer_category, _infer_domains
+from scripts.core.normalizer import _infer_category, _infer_domains, _infer_work_mode, normalize
 
 
 def test_work_mode_remote():

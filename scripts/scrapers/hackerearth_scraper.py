@@ -45,6 +45,13 @@ class HackerEarthScraper(BaseScraper):
                 if "hiring" in challenge_type or "hiring" in title.lower():
                     category = "hiring-challenge"
 
+                # Only keep if it mentions India or is open to India
+                loc_hint = item.get("location_type", "") or ""
+                if "global" not in loc_hint.lower() and "india" not in (title + description).lower():
+                    # Skip events with no India relevance
+                    if company != "HackerEarth":
+                        continue
+
                 opps.append(Opportunity(
                     title=title,
                     company=company,

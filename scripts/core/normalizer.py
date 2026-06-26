@@ -14,7 +14,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from scripts.core.models import Opportunity, WorkMode, Category
 from scripts.core.logger import get_logger
-from config.settings import INDIA_LOCATIONS, CATEGORIES, TECH_DOMAINS
+from config.settings import CATEGORIES, GLOBAL_PROGRAMS, INDIA_LOCATIONS
 
 log = get_logger(__name__)
 
@@ -32,9 +32,28 @@ def _infer_work_mode(location: str) -> str:
         return WorkMode.HYBRID.value
     return WorkMode.ONSITE.value
 
-def _is_india_location(location: str) -> bool:
+_GLOBAL_PROGRAMS_LOWER = [p.lower() for p in GLOBAL_PROGRAMS]
+
+
+def _is_india_opportunity(title: str, company: str, location: str) -> bool:
+    """
+    Return True if this opportunity is relevant for Indian students.
+    Covers:
+      - Any location mentioning India or an Indian city
+      - Known global programmes (GSoC, Outreachy, MLH, etc.) — always India-eligible
+      - Generic 'Remote' with no country qualifier (benefit of the doubt)
+    """
     loc = location.lower()
-    return any(k in loc for k in _INDIA_KEYWORDS)
+    title_co = (title + " " + company).lower()
+
+    if any(k in loc for k in _INDIA_KEYWORDS):
+        return True
+    if any(prog in title_co for prog in _GLOBAL_PROGRAMS_LOWER):
+        return True
+    # Pure remote / blank — keep; scraper already targeted India or it's a global programme
+    if loc in ("remote", "work from home", "wfh", "anywhere", "remote / various", ""):
+        return True
+    return False
 
 # ─── Category inference ───────────────────────────────────────────────────────
 
@@ -118,7 +137,7 @@ def normalize(opp: Opportunity) -> Opportunity:
     if not opp.work_mode or opp.work_mode == WorkMode.UNKNOWN.value:
         opp.work_mode = _infer_work_mode(opp.location)
 
-    opp.is_india = _is_india_location(opp.location) or opp.is_india
+    opp.is_india = _is_india_opportunity(opp.title, opp.company, opp.location) or opp.is_india
 
     opp.category = _infer_category(opp.title, opp.description, opp.category)
 

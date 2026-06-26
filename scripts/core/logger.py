@@ -5,10 +5,9 @@ Call `get_logger(__name__)` in every module.
 
 import logging
 import sys
-from pathlib import Path
 from datetime import datetime
+from pathlib import Path
 
-import sys
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from config.settings import LOG_LEVEL, LOG_FORMAT, LOG_DATE_FORMAT, LOGS_DIR

@@ -19,12 +19,23 @@ from scripts.core.http_client import fetch_json, fetch_text
 
 # ─── Curated public GitHub sources ────────────────────────────────────────────
 GITHUB_SOURCES: List[Dict] = [
+    # India-focused internship lists
+    {
+        "name": "india-internships-md",
+        "url": "https://raw.githubusercontent.com/Aveek-Saha/InternList/master/README.md",
+        "source_name": "InternList GitHub",
+        "category": "internship",
+        "parser": "markdown_table",
+        "india_only": True,     # This list is already India-specific
+    },
+    # Global lists — will be filtered for India locations by the pipeline
     {
         "name": "pittcsc-summer2026",
         "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json",
         "source_name": "SimplifyJobs / PittCSC",
         "category": "internship",
         "parser": "simplify_json",
+        "india_only": False,    # Pipeline will filter for India locations
     },
     {
         "name": "pittcsc-new-grad",
@@ -32,22 +43,23 @@ GITHUB_SOURCES: List[Dict] = [
         "source_name": "SimplifyJobs New Grad",
         "category": "fresher-job",
         "parser": "simplify_json",
+        "india_only": False,
     },
-    {
-        "name": "india-internships-md",
-        "url": "https://raw.githubusercontent.com/Aveek-Saha/InternList/master/README.md",
-        "source_name": "InternList GitHub",
-        "category": "internship",
-        "parser": "markdown_table",
-    },
+    # GSoC — global but always India-eligible
     {
         "name": "gsoc-orgs",
         "url": "https://raw.githubusercontent.com/nicedoc/gsoc-orgs/main/orgs.json",
         "source_name": "GSoC Organisations",
         "category": "open-source-program",
         "parser": "gsoc_json",
+        "india_only": True,    # Marked India-eligible because it's a global open-source programme
     },
 ]
+
+INDIA_LOCATION_KEYWORDS = {
+    "india", "bengaluru", "bangalore", "hyderabad", "pune", "mumbai",
+    "delhi", "gurugram", "gurgaon", "noida", "chennai", "remote",
+}
 
 
 class GitHubOpportunitiesScraper(BaseScraper):
@@ -83,6 +95,7 @@ class GitHubOpportunitiesScraper(BaseScraper):
         if not data or not isinstance(data, list):
             return []
         opps = []
+        india_only = source.get("india_only", False)
         for item in data:
             if not isinstance(item, dict):
                 continue
@@ -94,6 +107,13 @@ class GitHubOpportunitiesScraper(BaseScraper):
             location = ", ".join(locations) if isinstance(locations, list) else str(locations)
             link = item.get("url") or ""
             salary = item.get("compensation") or ""
+
+            # For global lists, only keep India-location entries
+            if not india_only:
+                loc_lower = location.lower()
+                if not any(k in loc_lower for k in INDIA_LOCATION_KEYWORDS):
+                    continue
+
             opps.append(Opportunity(
                 title=title,
                 company=company,
@@ -103,6 +123,7 @@ class GitHubOpportunitiesScraper(BaseScraper):
                 source_name=source["source_name"],
                 location=location,
                 salary=salary,
+                is_india=True,
             ))
         return opps
 
@@ -160,5 +181,6 @@ class GitHubOpportunitiesScraper(BaseScraper):
                 description=desc[:500],
                 location="Remote",
                 work_mode="remote",
+                is_india=True,   # GSoC is open to Indian students
             ))
         return opps

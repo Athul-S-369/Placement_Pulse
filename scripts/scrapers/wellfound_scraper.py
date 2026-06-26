@@ -6,7 +6,6 @@ Does NOT use any API key; only public HTML.
 
 from __future__ import annotations
 
-import re
 import sys
 from pathlib import Path
 from typing import List
@@ -26,6 +25,8 @@ except ImportError:
 SEARCH_URLS = [
     "https://wellfound.com/jobs?country=IN&role=engineer&jobType=internship",
     "https://wellfound.com/jobs?country=IN&role=engineer&jobType=full_time&experience=0_2",
+    "https://wellfound.com/jobs?country=IN&role=data-scientist&jobType=internship",
+    "https://wellfound.com/jobs?country=IN&role=product-designer&jobType=internship",
 ]
 
 

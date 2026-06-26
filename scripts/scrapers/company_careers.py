@@ -8,15 +8,14 @@ from __future__ import annotations
 
 import re
 from pathlib import Path
-from typing import List, Dict, Optional
-from datetime import date
+from typing import Dict, List
 
 import sys
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from scripts.scrapers.base import BaseScraper
 from scripts.core.models import Opportunity
-from scripts.core.http_client import fetch_json, fetch_text, get
+from scripts.core.http_client import fetch_json, get
 
 try:
     from bs4 import BeautifulSoup

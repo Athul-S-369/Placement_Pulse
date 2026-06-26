@@ -1,8 +1,8 @@
 """Tests for core data models."""
 
-import pytest
 from datetime import date, timedelta
-from scripts.core.models import Opportunity, Category, WorkMode, VerificationStatus
+
+from scripts.core.models import Category, Opportunity
 
 
 def test_opportunity_fingerprint_is_stable():

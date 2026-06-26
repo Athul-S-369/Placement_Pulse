@@ -17,28 +17,33 @@ from scripts.core.models import Opportunity
 from scripts.core.http_client import fetch_text
 
 try:
-    from lxml import etree as ET
+    from lxml import etree as ET  # type: ignore[no-redef]
 except ImportError:
-    import xml.etree.ElementTree as ET  # type: ignore
+    import xml.etree.ElementTree as ET  # type: ignore[assignment]
 
 
 # ─── Feed definitions ─────────────────────────────────────────────────────────
 # Add more feeds here without touching any other code.
 
 RSS_FEEDS: List[Dict] = [
+    # India-specific job/internship feeds
     {
-        "name": "HackerNews-Jobs",
-        "url": "https://hnrss.org/jobs",
+        "name": "HackerNews-Jobs-India",
+        "url": "https://hnrss.org/jobs?q=india",
         "company": "Various",
         "category": "fresher-job",
         "source_name": "Hacker News",
+        "location": "India",
+        "is_india": True,
     },
     {
         "name": "MLH-Hackathons",
-        "url": "https://mlh.io/seasons/2025/events.rss",
+        "url": "https://mlh.io/seasons/2026/events.rss",
         "company": "Various",
         "category": "hackathon",
         "source_name": "MLH",
+        "location": "Remote",
+        "is_india": True,   # MLH is global/open to India
     },
     {
         "name": "Devfolio-Hackathons",
@@ -46,14 +51,18 @@ RSS_FEEDS: List[Dict] = [
         "company": "Various",
         "category": "hackathon",
         "source_name": "Devfolio",
+        "location": "India",
+        "is_india": True,
     },
+    # India internship list from GitHub (curated)
     {
-        "name": "GitHub-Internships",
-        "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2025-Internships/dev/.github/scripts/listings.json",
+        "name": "GitHub-India-Internships",
+        "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json",
         "company": "Various",
         "category": "internship",
         "source_name": "SimplifyJobs GitHub",
         "is_json": True,
+        "location": "India",
     },
 ]
 
@@ -105,16 +114,17 @@ class RssScraper(BaseScraper):
                 continue
 
             opps.append(Opportunity(
-                title=title,
-                company=feed.get("company", ""),
-                category=feed.get("category", "internship"),
-                apply_link=link,
-                source_url=feed["url"],
-                source_name=feed["source_name"],
-                description=desc[:500],
-                date_posted=_parse_date(pub_date),
-                location="Remote",
-            ))
+                    title=title,
+                    company=feed.get("company", ""),
+                    category=feed.get("category", "internship"),
+                    apply_link=link,
+                    source_url=feed["url"],
+                    source_name=feed["source_name"],
+                    description=desc[:500],
+                    date_posted=_parse_date(pub_date),
+                    location=feed.get("location", "Remote"),
+                    is_india=feed.get("is_india", False),
+                ))
 
         # Atom feeds
         if not opps:
@@ -137,7 +147,8 @@ class RssScraper(BaseScraper):
                     source_name=feed["source_name"],
                     description=summary[:500],
                     date_posted=updated[:10],
-                    location="Remote",
+                    location=feed.get("location", "Remote"),
+                    is_india=feed.get("is_india", False),
                 ))
 
         return opps

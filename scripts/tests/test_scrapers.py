@@ -4,11 +4,12 @@ Mark smoke tests with @pytest.mark.smoke so CI can skip them.
 """
 
 import pytest
-from unittest.mock import patch, MagicMock
+from unittest.mock import patch
+
 from scripts.core.models import Opportunity
 from scripts.scrapers.base import BaseScraper
-from scripts.scrapers.rss_scraper import RssScraper, _parse_date
 from scripts.scrapers.programs_scraper import ProgramsScraper
+from scripts.scrapers.rss_scraper import RssScraper, _parse_date
 from scripts.scrapers.unstop_scraper import UnstopScraper
 
 

@@ -10,7 +10,7 @@ import os
 import tempfile
 from datetime import datetime, date
 from pathlib import Path
-from typing import List, Dict, Optional
+from typing import Dict, List
 
 import sys
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))

@@ -12,11 +12,12 @@ from datetime import date
 
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
+from scripts.core.deduplicator import deduplicate
 from scripts.core.models import Opportunity
 from scripts.core.normalizer import normalize_all
-from scripts.core.deduplicator import deduplicate
-from scripts.core.storage import load_all, save_all, save_today, merge
+from scripts.core.storage import load_all, merge, save_all, save_today
 from scripts.core.logger import get_logger
+from config.settings import INDIA_ONLY
 
 # ─── Scraper registry ─────────────────────────────────────────────────────────
 from scripts.scrapers.rss_scraper import RssScraper
@@ -75,6 +76,13 @@ def run_pipeline() -> Tuple[List[Opportunity], dict]:
     # Step 2: Normalize
     normalized = normalize_all(raw)
     log.info("Normalized: %d opportunities", len(normalized))
+
+    # Step 2b: India-only filter
+    if INDIA_ONLY:
+        before = len(normalized)
+        normalized = [o for o in normalized if o.is_india]
+        dropped = before - len(normalized)
+        log.info("India filter: kept %d, dropped %d non-India opportunities", len(normalized), dropped)
 
     # Step 3: Deduplicate new batch
     deduped, removed_new = deduplicate(normalized)
