@@ -1,0 +1,7 @@
+# PlacementPulse Code Owners
+# These users are automatically requested for review on PRs
+
+* @Athul-S-369
+
+# Scrapers require careful review
+/scripts/scrapers/ @Athul-S-369
