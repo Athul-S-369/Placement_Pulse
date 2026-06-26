@@ -1,0 +1,118 @@
+name: Daily Opportunity Update
+
+on:
+  schedule:
+    # Run at 05:30 UTC (11:00 AM IST) and 13:30 UTC (7:00 PM IST)
+    - cron: "30 5 * * *"
+    - cron: "30 13 * * *"
+  workflow_dispatch:       # Manual trigger from GitHub UI
+    inputs:
+      dry_run:
+        description: "Dry run (skip commit)"
+        required: false
+        default: "false"
+        type: boolean
+      generate_only:
+        description: "Only regenerate content (no scraping)"
+        required: false
+        default: "false"
+        type: boolean
+
+permissions:
+  contents: write          # Needed to push commits
+  pages: write             # Needed to deploy GitHub Pages
+  id-token: write
+
+concurrency:
+  group: "placementpulse-update"
+  cancel-in-progress: false # Don't cancel running updates
+
+jobs:
+  update:
+    name: Scrape & Generate
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      # ── Checkout ────────────────────────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── Python setup ────────────────────────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ── Run pipeline ─────────────────────────────────────────────────────────
+      - name: Run PlacementPulse pipeline
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+        run: |
+          if [ "${{ inputs.generate_only }}" = "true" ]; then
+            python scripts/main.py --generate-only --dry-run
+          elif [ "${{ inputs.dry_run }}" = "true" ]; then
+            python scripts/main.py --dry-run
+          else
+            python scripts/main.py --dry-run   # Generate all files; commit done below
+          fi
+
+      # ── Commit only if changes exist ─────────────────────────────────────────
+      - name: Commit and push if changed
+        if: ${{ inputs.dry_run != 'true' }}
+        run: |
+          git config user.name  "PlacementPulse Bot"
+          git config user.email "bot@placementpulse.dev"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            TODAY=$(date -u +%Y-%m-%d)
+            COUNTS=$(python -c "
+          import json, sys
+          try:
+              with open('data/processed/opportunities.json') as f:
+                  data = json.load(f)
+              print(len(data))
+          except:
+              print('?')
+          ")
+            git commit -m "feat(data): update opportunities for $TODAY ($COUNTS total)"
+            git push
+            echo "Changes committed and pushed."
+          fi
+
+  # ── Deploy GitHub Pages ────────────────────────────────────────────────────
+  deploy-pages:
+    name: Deploy GitHub Pages
+    needs: update
+    if: ${{ inputs.dry_run != 'true' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main           # Ensure we have the latest commit
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload website artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: website/
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,65 @@
+name: CI — Tests & Lint
+
+on:
+  push:
+    branches: [main, develop]
+    paths:
+      - "scripts/**"
+      - "config/**"
+      - "requirements*.txt"
+      - ".github/workflows/ci.yml"
+  pull_request:
+    branches: [main]
+
+jobs:
+  test:
+    name: Test & Lint
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt -r requirements-dev.txt
+
+      - name: Lint with ruff
+        run: ruff check scripts/ config/ --output-format=github
+
+      - name: Type check with mypy
+        run: mypy scripts/core/ config/ --ignore-missing-imports
+        continue-on-error: true   # Non-blocking for now
+
+      - name: Run unit tests
+        run: pytest scripts/tests/ -v --tb=short
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+  scraper-smoke-test:
+    name: Scraper Smoke Test
+    runs-on: ubuntu-latest
+    # Only on push to main to avoid hammering external sites in PRs
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scrapers smoke test
+        run: python -m pytest scripts/tests/test_scrapers.py -v -k "smoke" --timeout=60
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+        continue-on-error: true   # External sites may be down

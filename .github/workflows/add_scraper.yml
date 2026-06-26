@@ -1,0 +1,74 @@
+name: Validate New Scraper PR
+
+on:
+  pull_request:
+    paths:
+      - "scripts/scrapers/**"
+
+jobs:
+  validate-scraper:
+    name: Validate Scraper
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt -r requirements-dev.txt
+
+      - name: Detect changed scraper files
+        id: changed
+        run: |
+          git fetch origin main
+          FILES=$(git diff --name-only origin/main...HEAD -- scripts/scrapers/ | grep '\.py$' | grep -v __init__ || true)
+          echo "files=$FILES" >> "$GITHUB_OUTPUT"
+          echo "Changed scraper files: $FILES"
+
+      - name: Validate scraper schema compliance
+        run: |
+          python -c "
+          import sys, importlib.util, pathlib
+          sys.path.insert(0, '.')
+          files = '''${{ steps.changed.outputs.files }}'''.strip().split()
+          errors = []
+          for f in files:
+              p = pathlib.Path(f)
+              if not p.exists():
+                  continue
+              spec = importlib.util.spec_from_file_location('mod', p)
+              mod = importlib.util.module_from_spec(spec)
+              try:
+                  spec.loader.exec_module(mod)
+              except Exception as e:
+                  errors.append(f'{f}: import failed — {e}')
+                  continue
+              from scripts.scrapers.base import BaseScraper
+              scrapers = [v for v in vars(mod).values()
+                          if isinstance(v, type) and issubclass(v, BaseScraper) and v is not BaseScraper]
+              if not scrapers:
+                  errors.append(f'{f}: no BaseScraper subclass found')
+              for s in scrapers:
+                  if not getattr(s, 'name', '') or s.name == 'unnamed':
+                      errors.append(f'{f}: {s.__name__}.name not set')
+          if errors:
+              print('Validation errors:')
+              for e in errors:
+                  print(f'  ✗ {e}')
+              sys.exit(1)
+          else:
+              print('All scrapers validated ✓')
+          "
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+
+      - name: Run new scraper (offline / cached)
+        run: pytest scripts/tests/test_scrapers.py -v --timeout=30
+        env:
+          PYTHONPATH: ${{ github.workspace }}
+        continue-on-error: true
