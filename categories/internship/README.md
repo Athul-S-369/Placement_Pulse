@@ -1,0 +1,110 @@
+# 🎓 Internship
+
+**711 active** | **0 expired** | **711 total**
+
+*Last updated: 2026-06-26*
+
+## Active Opportunities
+
+| Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
+|------|---------|----------|------|----------------|----------|--------|
+| [Software Engineering Intern](https://githubinc.jibeapply.com/jobs/4640) | GitHub | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [Advanced Analytics and Artificial Intelligence Intern - Summer 2026](https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/San-Diego/Advanced-Analytics-and-Artificial-Intelligence-Intern---Summer-2026_JR116229) | RSM | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [Co-op AI Platform Engineer - Winter 2026](https://job-boards.greenhouse.io/faire/jobs/8230131002?gh_jid=8230131002) | Faire | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [Data Engineer Intern](https://vermeer.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Data-Engineer-Intern_REQ-19859-1) | Vermeer | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [Backend Engineering Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4623927005) | The New York Times | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [Software Engineering Intern- Summer 2026](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Software-Engineering-Intern--Summer-2026_JR00014418) | ABB | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [Software Engineer Intern](https://retailcareers.staples.com//job/-/-/49589/87839758768) | Staples | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [Embedded Software Intern](https://jobs.lever.co/anysignal/b5f278c9-9911-49c2-b5e8-0ed61f7194eb) | AnySignal | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [Software Engineering Intern - Automation](https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/San-Jose-California/Software-Engineering-Intern---Automation_JR-20625) | Bloom Energy | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [Software Engineer, Intern - Summer 2026](https://careers.jackhenry.com/job/-/-/42859/87787419520) | Jack Henry | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [Intern, Software Engineer](https://www.kpmguscareers.com/jobdetail/?jobId=129155) | KPMG | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [Fixed Operations Data Analyst Intern](https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Fixed-Operations-Data-Analyst-Intern_JR104254) | JM Family | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [HPE Labs - AI Research Lab Research Associate (Intern)](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/HPE-Labs---AI-Research-Lab-Research-Associate--Intern-_1192299) | Hewlett Packard Enterprise | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [Software Engineering Intern](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineering-Intern_2532385-2) | KLA | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [AI Intern](https://prologis.wd5.myworkdayjobs.com/en-US/Prologis_External_Careers/job/San-Francisco-California/Intern--IT_R6209) | Prologis | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [Summer 2025 Intern - Software Engineer (Security/Government)](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Summer-2025-Intern---Software-Engineer--Security-Government-_JR311149-1) | Salesforce | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [AI & Automation Intern](https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Pittsburgh-Pennsylvania-USA/Data-Catalog-Maintenance-Intern_R-01328163c) | Thermo Fisher Scientific | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [AI & IoT Solution Advisor Intern](https://careers-sas.icims.com/jobs/40587/summer-2026-%E2%80%93-ai-%26-iot-solution-advisor-intern/job) | SAS | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [AI & Automation Intern](https://ksmcpa.wd12.myworkdayjobs.com/en-US/ksmcareers/job/Indianapolis/AI---Automation-Intern--Summer-2026-_R-100241) | KSM | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [AI Intern](https://job-boards.greenhouse.io/eqtcorporation/jobs/4956747008) | EQT Corporation | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [2026 Summer Intern, PhD, Software Engineer, Predictive Planner ML/DL](https://careers.withwaymo.com/jobs/2026-summer-intern-phd-software-engineer-predictive-planner-ml-dl-mountain-view-california-united-states?gh_jid=7368864) | Waymo | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [2026 U.S Summer Internship Program: AI Solution Developer – ShinrAI Center for AI/ML](https://takeda.wd3.myworkdayjobs.com/en-US/External/job/Cambridge-MA/XMLNAME-2026-US-Summer-Internship-Program--AI-Solution-Developer---ShinrAI-Center-for-AI-ML_R0166470) | Takeda | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [Frontend Engineering Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4624587005) | The New York Times | New York, NY | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Software Engineer (AI/ML) Intern](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2532241-1) | KLA | Austin, TX, Milpitas, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [AI/ML Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/AI-ML-Intern_1195728) | Hewlett Packard Enterprise | San Jose, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Software Developer Internship](https://llbean.wd1.myworkdayjobs.com/en-US/LLBean_Careers/job/Freeport-ME/Software-Developer-Internship_JR10190) | L.L.Bean | Freeport, ME | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Junior Software Engineer – Internship](https://job-boards.greenhouse.io/aechelontechnology/jobs/4831334008) | Aechelon Technology | Overland Park, KS | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Software Developer – Co-op - Engineering - Ruby on Rails, AngularJS, React Native, MySQL, Redis, ElasticSearch](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Vancouver/Software-Developer--Co-op_REQ-1577) | Clio | Toronto, ON, Canada, Calgary, AB, Canada, Vancouver, BC, Canada | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [2026 – Internship - Markets - Systematic Trading - New York](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210680133) | JP Morgan Chase | NYC | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Research Internship - Reinforcement Learning for Large Foundation Models](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1) | Tencent | Bellevue, WA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Software Developer Intern - Industrial Placement](https://job-boards.greenhouse.io/drwuniversityjobs/jobs/7364884) | DRW Holdings | London, UK | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [2026 – Seasonal/Off Cycle Internship - London - FICC & Equities - Sales & Trading](https://higher.gs.com/roles/150725?type=students) | Goldman Sachs | London, UK | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Engineering Intern -](https://jobs.ashbyhq.com/cluely/89809243-a79a-4a8f-a394-8e8b12743108/application) | Cluely | SF | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Quantitative Developer Intern](https://jobs.ashbyhq.com/scientech-research/47be106e-4a2a-4814-bca8-4a7b97816d7c/application) | Scientech Research | Jackson Township, NJ | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101987) | Copart | Dallas, TX | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Software Engineering Intern](https://jobs.lever.co/layup/0b42f7ad-ebdc-4b4a-8fe6-47640f6dba53/apply) | Layup Parts | Huntington Beach, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [2026 Machine Learning Research Intern](https://jobs.ashbyhq.com/Lambda/264f889c-38f4-42a5-9534-064a9512a3fe) | Lambda | San Francisco, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Physical Design for Machine Learning Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968215007) | Tenstorrent | Santa Clara, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Software Intern - AI Compilers](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968219007) | Tenstorrent | Austin, TX | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [SoC Performance Modeling Internship - Platform Architecture](https://jobs.apple.com/en-us/details/200629965) | Apple | London, UK | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Student Software Engineering Intern](https://jobs.smartrecruiters.com/oneclick-ui/company/RESPECInc/publication/643d3be0-a063-4b49-8b31-049c95eb74a5?dcr_ci=RESPECInc) | RESPEC | Richardson, TX | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Software Engineering Intern IV, Summer 2026](https://jobs.baesystems.com/global/en/job/BAE1US118035BREXTERNAL/Software-Engineering-Intern-IV-Summer-2026) | BAE Systems | Nashua, NH, Hudson, NH, Manchester, NH, Merrimack, NH | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Software Engineering Intern, Summer 2026](https://jobs.baesystems.com/global/en/job/BAE1US117813BREXTERNAL/Software-Engineering-Intern-Summer-2026) | BAE Systems | Fort Worth, TX | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Analog/Mixed-Signal IC & AI Systems R&D Intern - Master's Degree](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Irvine-CA/Analog-Mixed-Signal-IC---AI-Systems-R-D-Intern---Master-s-Degree_2502428) | Marvell | Irvine, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Applied Scientist / Research Engineer – Internship](https://jobs.lever.co/mistral/426ef8c0-eb26-4004-a690-f33c62b445a7/apply) | Mistral AI | London, UK, Paris, France | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Product Intern](https://job-boards.greenhouse.io/sezzle/jobs/6599073003) | Sezzle | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Data Science PhD Intern](https://job-boards.greenhouse.io/docugami/jobs/4192122003) | Docugami | Kirkland, WA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Machine Learning Engineer Intern - Monetization Technology](https://lifeattiktok.com/search/7562342433721862405) | TikTok | San Jose, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [ML Technology Intern, Graduate Students](https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Arlington/ML-Technology-Intern--Graduate-Students_R37735) | CoStar Group | Arlington, VA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Computer Science/Data Science Intern - Bachelor's Degree](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Santa-Clara-CA/Computer-Science-Data-Science-Intern---Bachelor-s-Degree_2502352) | Marvell | Santa Clara, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Data Analyst Intern](https://app.careerpuck.com/job-board/lyft/job/8218030002/) | Lyft | New York, NY | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [University 2026 Intern: Product Manager](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7388902003) | ID.me | McLean, VA, Mountain View, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Software Engineering Intern – Internal Tools 2026 (hybrid)](https://jobs.baesystems.com/global/en/job/BAE1US118298BREXTERNAL/Software-Engineering-Intern-Internal-Tools-2026-hybrid) | BAE Systems | Cedar Rapids, IA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [3D Graphics Engineer](https://jobs.bytedance.com/en/position/7564516412456306997/detail) | ByteDance | San Jose, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Intern – Engineer Operations & Analytics](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003877) | Berkshire Hathaway Energy | Omaha, NE | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Software Engineering Intern, Frontend](https://jobs.ashbyhq.com/tessera-labs/c0350717-8b4d-4a1a-af00-4c62204192fd) | Tessera Labs | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Embedded Software Engineering Intern](https://jobs.ashbyhq.com/regent/ef64cbcf-5184-43a1-a048-842f89f6cd0b) | REGENT | North Kingstown, RI | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Intern/New Grad Software Engineer](https://jobs.ashbyhq.com/anima/86ddfd6e-6aee-4ded-b9d0-440608763fb0) | Anima | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Human Interactive Driving Intern - World Models](https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149/apply) | Toyota Research Institute | Mountain View, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Intern Software Engineer](https://job-boards.greenhouse.io/octaura/jobs/4662934007) | Octaura | NYC | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Hardware Reliability Intern - Winter 2026](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | Figure | San Jose, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [2026 Summer Intern, MS/PhD, Software Engineer, Planner Reasoning ML/DL](https://careers.withwaymo.com/jobs/2026-summer-intern-ms-phd-software-engineer-planner-reasoning-ml-dl-mountain-view-california-united-states?gh_jid=7393132) | Waymo | Mountain View, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Drexel University Co-op: Embedded Software Engineering](https://careers-sri.icims.com/jobs/6262/drexel-university-co-op%3a-embedded-software-engineering/job) | SRI | Princeton, NJ | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [IC Development (Software)](https://careers.skyworksinc.com/job/Austin-IC-Development-(Software)-Summer-Intern-(May-'26-Aug-'26)-TX-73301/75987-en_US/) | Skyworks | Austin, TX | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [AI Engineer](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/839) | Hunt Oil Company | Dallas, TX | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [AI & Process Automation Intern](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Ann-Arbor-MI/AI---Process-Automation-Intern_2532515-1) | KLA | Ann Arbor, MI | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Software Engineering Intern](https://jobs.ashbyhq.com/reacher/99eb7e94-ebde-41c6-acae-efef58d3babe) | Reacher | San Francisco, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [ML PhD Intern - LLMs & Generative AI](https://job-boards.greenhouse.io/truveta/jobs/5712997004) | Truveta | Seattle, WA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Year-Round Intern - Quantitative Risk Management](https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---Quantitative-Risk-Management_REQ-4483-1) | OCC | Chicago, IL | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Software Engineering Intern](https://jobs.ashbyhq.com/mechanize/d148d54f-6db7-4c28-9699-0304596f554e) | Mechanize | San Francisco, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Software Application Developer Intern for GOES-R Series Satellites](https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Silver-Spring-Maryland/Software-Application-Developer-Intern-for-GOES-R-Series-Satellites_R2115543) | KBR | Silver Spring, MD | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Rtk Internship - Junior Software Engineer](https://job-boards.greenhouse.io/aechelontechnology/jobs/4904960008) | Aechelon Technology | Farmers Branch, TX | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [AI Automation Intern](https://apply.workable.com/advantmed/j/45F5E3C394/) | Advantmed | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Quantitative Research Analyst Intern](https://job-boards.greenhouse.io/ftandinternships/jobs/1304473) | Stevens Capital Management | Villanova, PA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Full Stack Developer Intern](https://jobs.ashbyhq.com/walrusfi/99c93c0e-ed9a-4e41-862a-0cdbe71d7d54) | Walrus | New York, NY | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Software Engineer Intern](https://jobs.ashbyhq.com/tenex/fbfefd5c-ae95-4a71-8a75-e2b61facb304) | TENEX.AI | San Jose, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Software Intern, Summer 2026](https://jobs.baesystems.com/global/en/job/BAE1US118688BREXTERNAL/Software-Intern-Summer-2026) | BAE Systems | Totowa, NJ | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Engineering High-Potential Launch Program Intern to Full-Time Program](https://job-boards.greenhouse.io/newsbreak/jobs/4621307006) | NewsBreak | Mountain View, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [2026 Summer Intern - Software Engineer, Machine Learning Validation (PhD)](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Machine-Learning-Validation--PhD-_JR-202523181) | General Motors | Mountain View, CA, Sunnyvale, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Software Engineer, Intern](https://jobs.ashbyhq.com/dandy/d8491a88-fa90-4299-afb0-af3a2121663f) | Dandy | New York, NY | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Verification Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Verification-Engineer-Intern_JR100109) | Ambarella | United States | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Data Scientist Intern](https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434) | Ardian | NYC | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Data Science Intern](https://jobs.ashbyhq.com/mercor/11516609-e54b-4087-87c2-e84a8bafbb5a) | Mercor | San Francisco, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002) | Point72 | NYC | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Software Engineer Intern - BCI Applications](https://boards.greenhouse.io/neuralink/jobs/6594422003) | Neuralink | Fremont, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Markets Quantitative Analyst Summer Internship 2027 New York](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Markets-Quantitative-Analyst-Summer-Internship-2027-New-York_JR-0000083408) | Barclays | New York, NY | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Drexel University Co-op: Software Engineering/Full stack development](https://careers-sri.icims.com/jobs/6263/drexel-university-co-op%3a-software-engineering-full-stack-development/job) | SRI International | Princeton, NJ | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [PhD Research Intern](https://jobs.ashbyhq.com/Simular/94cbb2c9-392a-4cea-a9bf-cb6c80be3009/application) | Simular | Palo Alto, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [AIE Intern](https://jobs.lever.co/ifm-us/5342e333-61b9-406d-bfea-61a687a94d1f/apply) | Institute of Foundation Models | Sunnyvale, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Machine Learning Engineer PhD Intern](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-PhD-Intern_R0130591) | PayPal | San Jose, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Amazon Robotics – Applied Scientist 2 Intern / Co-op - 2026](https://amazon.jobs/en/jobs/3104589/amazon-robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | Amazon | Seattle, WA, Wakefield, MA, Westborough, MA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Product Analyst Intern](https://job-boards.greenhouse.io/accuweather/jobs/7453001) | AccuWeather | State College, PA, Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Software Intern](https://jobs.ashbyhq.com/etched/605c286d-be56-4e83-83b8-436d29ce17df) | Etched.ai | San Jose, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Software Development Engineer Internship - Summer 2026 - US](https://amazon.jobs/en/jobs/3116030/software-development-engineer-internship-summer-2026-us) | Amazon | Seattle, WA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Firmware Engineer](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7/application) | Base Power | Austin, TX | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Research Intern - AIP AI Knowledge Multimodal AI](https://apply.careers.microsoft.com/careers/job/1970393556637119) | Microsoft | Redmond, WA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Research Intern - AI Network Observability](https://apply.careers.microsoft.com/careers/job/1970393556639544) | Microsoft | Redmond, WA, Mountain View, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Research Intern - Training Methods for LLM Efficiency](https://apply.careers.microsoft.com/careers/job/1970393556628881) | Microsoft | Mountain View, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Research Intern - Computational Social Science](https://apply.careers.microsoft.com/careers/job/1970393556639564) | Microsoft | NYC | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Research Intern - Microsoft Research Special Projects](https://apply.careers.microsoft.com/careers/job/1970393556628925) | Microsoft | Cambridge, MA, Kitsap County, WA, Redmond, WA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

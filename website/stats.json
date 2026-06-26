@@ -1,0 +1,115 @@
+{
+  "generated_at": "2026-06-26T20:59:55.558372Z",
+  "date": "2026-06-26",
+  "total": 1839,
+  "active": 1838,
+  "new_today": 1839,
+  "companies": 1234,
+  "categories": {
+    "fresher-job": 1116,
+    "internship": 711,
+    "hackathon": 6,
+    "open-source-program": 2,
+    "fellowship": 2,
+    "student-ambassador": 2
+  },
+  "top_companies": [
+    {
+      "name": "USM Business Systems",
+      "count": 21
+    },
+    {
+      "name": "Apple",
+      "count": 17
+    },
+    {
+      "name": "Microsoft",
+      "count": 14
+    },
+    {
+      "name": "Amazon",
+      "count": 13
+    },
+    {
+      "name": "Nokia",
+      "count": 13
+    },
+    {
+      "name": "Atria Group",
+      "count": 13
+    },
+    {
+      "name": "Integrated Resources",
+      "count": 12
+    },
+    {
+      "name": "JP Morgan Chase",
+      "count": 11
+    },
+    {
+      "name": "Innodata",
+      "count": 11
+    },
+    {
+      "name": "Oracle",
+      "count": 10
+    },
+    {
+      "name": "Tesla",
+      "count": 10
+    },
+    {
+      "name": "RTX",
+      "count": 9
+    },
+    {
+      "name": "SpaceX",
+      "count": 9
+    },
+    {
+      "name": "Collabera",
+      "count": 9
+    },
+    {
+      "name": "Jobs for Humanity",
+      "count": 8
+    },
+    {
+      "name": "BAE Systems",
+      "count": 7
+    },
+    {
+      "name": "Meta",
+      "count": 7
+    },
+    {
+      "name": "John Deere",
+      "count": 7
+    },
+    {
+      "name": "The Boeing Company",
+      "count": 7
+    },
+    {
+      "name": "L3Harris Technologies",
+      "count": 7
+    }
+  ],
+  "domain_tags": {
+    "ai-ml": 226,
+    "data-science": 153,
+    "software-engineering": 369,
+    "backend": 14,
+    "embedded": 43,
+    "cybersecurity": 13,
+    "frontend": 14,
+    "mobile": 10,
+    "design": 2,
+    "devops": 11,
+    "cloud": 18
+  },
+  "work_modes": {
+    "remote": 121,
+    "onsite": 1718
+  }
+}
