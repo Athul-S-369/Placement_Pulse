@@ -1,13 +1,14 @@
 # 💼 Fresher Job
 
-**1116 active** | **0 expired** | **1116 total**
+**1117 active** | **0 expired** | **1117 total**
 
-*Last updated: 2026-06-26*
+*Last updated: 2026-06-27*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand](https://www.flexport.com/company/careers/) | Various | India | 🏢 Onsite | — | — | Hacker News |
 | [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead) | Various | Remote | 🌐 Remote | — | — | Hacker News |
 | [Associate Software Engineer – Seeking 2025 & 2026 Grads - Engineering Development Program](https://jobs.lever.co/veeva/e31a2a3c-a508-459c-9f77-a2692a95f233/apply) | Veeva Systems | Raleigh, NC | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Backend Engineer – New Grad](https://d3.com/careers?gh_jid=4915295008) | D3 | LA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Technology Graduate](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8119127002) | Marshall Wace | London, UK | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [AI Trainer - Advanced Urdu Fluency - UK](https://job-boards.eu.greenhouse.io/prolific/jobs/4747728101) | Prolific | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Assembly Screening Technician - On the Job Training](https://careers-peraton.icims.com/jobs/161590/job?mobile=true&needsRedirect=false) | Peraton | Topeka, KS | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Software Engineer - Model Performance Tooling](https://jobs.ashbyhq.com/baseten/75d7beac-0298-40fa-b206-2e0c0c08a64f/application) | Baseten | Vancouver, BC, Canada | 🏢 Onsite | — | — | SimplifyJobs New Grad |

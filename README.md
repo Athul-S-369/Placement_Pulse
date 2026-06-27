@@ -9,8 +9,8 @@
 <br><br>
 
 [![Location](https://img.shields.io/badge/📍%20Location-India-FF9933?style=for-the-badge)](#)
-[![Total](https://img.shields.io/badge/Opportunities-1839-6C63FF?style=for-the-badge)](#)
-[![Active](https://img.shields.io/badge/Active-1838-00C853?style=for-the-badge)](#)
+[![Total](https://img.shields.io/badge/Opportunities-1846-6C63FF?style=for-the-badge)](#)
+[![Active](https://img.shields.io/badge/Active-1845-00C853?style=for-the-badge)](#)
 [![Updated](https://img.shields.io/badge/Updated-Jun%2027%202026-0D96F2?style=for-the-badge)](#)
 
 <br>
@@ -34,7 +34,7 @@
 
 ## 📅 Today &nbsp;—&nbsp; June 27, 2026
 
-No new opportunities scraped today
+&nbsp;&nbsp;💼 **63** Fresher Job &nbsp;·&nbsp; &nbsp;&nbsp;🎓 **58** Internship &nbsp;·&nbsp; &nbsp;&nbsp;🏆 **7** Hackathon &nbsp;·&nbsp; &nbsp;&nbsp;🔓 **2** Open Source Program &nbsp;·&nbsp; &nbsp;&nbsp;🌟 **2** Fellowship
 
 <sub>🔄 Auto-scraped at 11:00 AM & 7:00 PM IST via [GitHub Actions](.github/workflows/)</sub>
 
@@ -44,20 +44,20 @@ No new opportunities scraped today
 
 | Role | Company | Category | Location |
 |------|---------|----------|----------|
+| [Flexport (YC W14) Is Hiring in Indonesia, India, a…](https://www.flexport.com/company/careers/) | Various | 💼 Fresher Job | 🏢 Onsite |
+| [Product Carnival: National Product Management Chal…](https://unstop.com/competitions/product-carnival-national-product-management-challenge-book-my-mentor-1703082) | Book My Mentor | 🏆 Hackathon | 🏢 Onsite |
+| [Pitchfund](https://unstop.com/competitions/pitchfund-e-summit-2026-iit-ism-dhanbad-indian-institute-of-technology-indian-school-of-mines-iit-ism-dhanb-1704711) | Indian Institute of Te | 🏆 Hackathon | 🏢 Onsite |
+| [Ai Filmmaking Hackathon - Bangalore Edition](https://unstop.com/hackathons/ai-filmmaking-hackathon-bangalore-edition-ai-film-hackathon-bangalore-edition-11-fps-1703147) | 11 FPS | 🏆 Hackathon | 🏢 Onsite |
+| [The Future of AI Starts with Better Prompts](https://unstop.com/workshops-webinars/the-future-of-ai-starts-with-better-prompts-techbairn-1704883) | TechBairn | 🏆 Hackathon | 🏢 Onsite |
+| [Blueprints N Breakthroughs](https://unstop.com/workshops-webinars/blueprints-n-breakthroughs-maharaja-agrasen-institute-of-technology-mait-new-delhi-1704679) | Maharaja Agrasen Insti | 🏆 Hackathon | 🏢 Onsite |
+| [Nexus AI Quiz Ignite 2026](https://unstop.com/quiz/nexus-ai-quiz-ignite-2026-nexus-1703511) | Nexus | 🏆 Hackathon | 🏢 Onsite |
 | [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead) | Various | 💼 Fresher Job | 🌐 Remote |
 | [Software Engineering Intern](https://githubinc.jibeapply.com/jobs/4640) | GitHub | 🎓 Internship | 🌐 Remote |
 | [Advanced Analytics and Artificial Intelligence Int…](https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/San-Diego/Advanced-Analytics-and-Artificial-Intelligence-Intern---Summer-2026_JR116229) | RSM | 🎓 Internship | 🌐 Remote |
-| [Co-op AI Platform Engineer - Winter 2026](https://job-boards.greenhouse.io/faire/jobs/8230131002?gh_jid=8230131002) | Faire | 🎓 Internship | 🌐 Remote |
-| [Data Engineer Intern](https://vermeer.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Data-Engineer-Intern_REQ-19859-1) | Vermeer | 🎓 Internship | 🌐 Remote |
-| [Backend Engineering Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4623927005) | The New York Times | 🎓 Internship | 🌐 Remote |
-| [Software Engineering Intern- Summer 2026](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Software-Engineering-Intern--Summer-2026_JR00014418) | ABB | 🎓 Internship | 🌐 Remote |
-| [Software Engineer Intern](https://retailcareers.staples.com//job/-/-/49589/87839758768) | Staples | 🎓 Internship | 🌐 Remote |
-| [Embedded Software Intern](https://jobs.lever.co/anysignal/b5f278c9-9911-49c2-b5e8-0ed61f7194eb) | AnySignal | 🎓 Internship | 🌐 Remote |
-| [Software Engineering Intern - Automation](https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/San-Jose-California/Software-Engineering-Intern---Automation_JR-20625) | Bloom Energy | 🎓 Internship | 🌐 Remote |
 
 <div align="right">
 
-[→ See all 1839 opportunities](categories/)
+[→ See all 1846 opportunities](categories/)
 
 </div>
 
@@ -65,7 +65,7 @@ No new opportunities scraped today
 
 ## 📂 Browse by Category
 
-[💼 Fresher Job **1116**](categories/fresher-job/) · [🎓 Internship **711**](categories/internship/) · [🏆 Hackathon **6**](categories/hackathon/) · [🔓 Open Source Program **2**](categories/open-source-program/) · [🌟 Fellowship **2**](categories/fellowship/) · [📢 Student Ambassador **2**](categories/student-ambassador/)
+[💼 Fresher Job **1117**](categories/fresher-job/) · [🎓 Internship **711**](categories/internship/) · [🏆 Hackathon **12**](categories/hackathon/) · [🔓 Open Source Program **2**](categories/open-source-program/) · [🌟 Fellowship **2**](categories/fellowship/) · [📢 Student Ambassador **2**](categories/student-ambassador/)
 
 ---
 
@@ -112,6 +112,6 @@ No new opportunities scraped today
 
 <br>
 
-<sub><i>Last generated: 2026-06-27 05:44 UTC &nbsp;·&nbsp; 1234 companies tracked</i></sub>
+<sub><i>Last generated: 2026-06-27 15:04 UTC &nbsp;·&nbsp; 1240 companies tracked</i></sub>
 
 </div>

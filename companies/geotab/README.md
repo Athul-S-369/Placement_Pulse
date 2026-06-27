@@ -1,11 +1,11 @@
 # 🏢 Geotab
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-06-26*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-06-27*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Toronto, ON, Canada, Oakville, ON, Canada, Kitchener, ON, Canada, Oakville, ON, Canada
+- **Locations:** Oakville, ON, Canada, Toronto, ON, Canada, Oakville, ON, Canada, Kitchener, ON, Canada
 
 ## Current Opportunities
 

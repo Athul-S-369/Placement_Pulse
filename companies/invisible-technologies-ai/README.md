@@ -1,11 +1,11 @@
 # 🏢 Invisible Technologies AI
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-06-26*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-06-27*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in Canada, Remote in UK, Remote in USA
+- **Locations:** Remote in Canada, Remote in USA, Remote in UK
 
 ## Current Opportunities
 

@@ -1,11 +1,11 @@
 # 🏢 iCapital Network
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-06-26*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-06-27*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Boca Raton, FL, Salt Lake City, UT
+- **Locations:** Salt Lake City, UT, Boca Raton, FL
 
 ## Current Opportunities
 

@@ -1,11 +1,11 @@
 # 🏢 Meshy
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-06-26*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-06-27*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** San Francisco, CA, California
+- **Locations:** California, San Francisco, CA
 
 ## Current Opportunities
 
