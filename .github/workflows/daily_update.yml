@@ -86,15 +86,7 @@ jobs:
             echo "✓ No changes — skipping commit."
           else
             TODAY=$(date -u +%Y-%m-%d)
-            COUNT=$(python - <<'EOF'
-import json
-try:
-    with open("data/processed/opportunities.json") as f:
-        print(len(json.load(f)))
-except Exception:
-    print("?")
-EOF
-)
+            COUNT=$(python -c "import json; print(len(json.load(open('data/processed/opportunities.json'))))" 2>/dev/null || echo "?")
             git commit -m "feat(data): update opportunities for $TODAY ($COUNT total)"
 
             # Pull any remote changes (e.g. from a concurrent run) then push

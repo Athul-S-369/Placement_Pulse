@@ -15,7 +15,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from scripts.core.models import Opportunity
 from scripts.core.logger import get_logger
-from config.settings import GITHUB_REPO_URL, ROOT_DIR
+from config.settings import ROOT_DIR
 
 log = get_logger("generator.readme")
 
