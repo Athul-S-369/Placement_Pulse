@@ -2,108 +2,123 @@ name: Daily Opportunity Update
 
 on:
   schedule:
-    # Run at 05:30 UTC (11:00 AM IST) and 13:30 UTC (7:00 PM IST)
+    # 05:30 UTC = 11:00 AM IST  |  13:30 UTC = 7:00 PM IST
     - cron: "30 5 * * *"
     - cron: "30 13 * * *"
-  workflow_dispatch:       # Manual trigger from GitHub UI
+  workflow_dispatch:
     inputs:
       dry_run:
-        description: "Dry run (skip commit)"
+        description: "Dry run — scrape but skip commit"
         required: false
         default: "false"
-        type: boolean
+        type: choice
+        options: ["false", "true"]
       generate_only:
-        description: "Only regenerate content (no scraping)"
+        description: "Only regenerate content, skip scraping"
         required: false
         default: "false"
-        type: boolean
+        type: choice
+        options: ["false", "true"]
 
 permissions:
-  contents: write          # Needed to push commits
-  pages: write             # Needed to deploy GitHub Pages
+  contents: write
+  pages: write
   id-token: write
 
 concurrency:
-  group: "placementpulse-update"
-  cancel-in-progress: false # Don't cancel running updates
+  group: placementpulse-update
+  cancel-in-progress: false
 
 jobs:
+  # ─────────────────────────────────────────────────────────────────────────────
   update:
     name: Scrape & Generate
     runs-on: ubuntu-latest
     timeout-minutes: 30
 
     steps:
-      # ── Checkout ────────────────────────────────────────────────────────────
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          fetch-depth: 0          # Full history so push never conflicts
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      # ── Python setup ────────────────────────────────────────────────────────
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-          cache: "pip"
+          cache: pip
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # ── Run pipeline ─────────────────────────────────────────────────────────
-      - name: Run PlacementPulse pipeline
+      # ── Decide run mode ──────────────────────────────────────────────────────
+      # Scheduled runs → full pipeline (scrape + generate, no dry-run)
+      # Manual with generate_only=true → skip scraping
+      # Manual with dry_run=true → run everything but don't commit
+      - name: Run pipeline
         env:
           PYTHONPATH: ${{ github.workspace }}
         run: |
-          if [ "${{ inputs.generate_only }}" = "true" ]; then
+          GENERATE_ONLY="${{ inputs.generate_only }}"
+          DRY_RUN="${{ inputs.dry_run }}"
+
+          if [ "$GENERATE_ONLY" = "true" ]; then
+            echo "Mode: generate-only"
             python scripts/main.py --generate-only --dry-run
-          elif [ "${{ inputs.dry_run }}" = "true" ]; then
+          elif [ "$DRY_RUN" = "true" ]; then
+            echo "Mode: dry-run"
             python scripts/main.py --dry-run
           else
-            python scripts/main.py --dry-run   # Generate all files; commit done below
+            echo "Mode: full pipeline"
+            python scripts/main.py --dry-run
           fi
 
-      # ── Commit only if changes exist ─────────────────────────────────────────
+      # ── Commit only when real changes exist ──────────────────────────────────
       - name: Commit and push if changed
         if: ${{ inputs.dry_run != 'true' }}
         run: |
           git config user.name  "PlacementPulse Bot"
           git config user.email "bot@placementpulse.dev"
           git add -A
+
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "✓ No changes — skipping commit."
           else
             TODAY=$(date -u +%Y-%m-%d)
-            COUNTS=$(python -c "
-          import json, sys
-          try:
-              with open('data/processed/opportunities.json') as f:
-                  data = json.load(f)
-              print(len(data))
-          except:
-              print('?')
-          ")
-            git commit -m "feat(data): update opportunities for $TODAY ($COUNTS total)"
-            git push
-            echo "Changes committed and pushed."
+            COUNT=$(python - <<'EOF'
+import json
+try:
+    with open("data/processed/opportunities.json") as f:
+        print(len(json.load(f)))
+except Exception:
+    print("?")
+EOF
+)
+            git commit -m "feat(data): update opportunities for $TODAY ($COUNT total)"
+
+            # Pull any remote changes (e.g. from a concurrent run) then push
+            git pull --rebase origin main || true
+            git push origin main
+            echo "✓ Pushed: feat(data): update opportunities for $TODAY ($COUNT total)"
           fi
 
-  # ── Deploy GitHub Pages ────────────────────────────────────────────────────
+  # ─────────────────────────────────────────────────────────────────────────────
   deploy-pages:
     name: Deploy GitHub Pages
     needs: update
-    if: ${{ inputs.dry_run != 'true' }}
+    # Run on schedule always; on manual only when dry_run is false
+    if: ${{ github.event_name == 'schedule' || inputs.dry_run != 'true' }}
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deploy.outputs.page_url }}
 
     steps:
-      - name: Checkout
+      - name: Checkout latest main
         uses: actions/checkout@v4
         with:
-          ref: main           # Ensure we have the latest commit
+          ref: main
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
@@ -114,5 +129,5 @@ jobs:
           path: website/
 
       - name: Deploy to GitHub Pages
-        id: deployment
+        id: deploy
         uses: actions/deploy-pages@v4

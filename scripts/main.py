@@ -93,37 +93,40 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="PlacementPulse pipeline")
     parser.add_argument("--scrape-only", action="store_true", help="Only run scrapers")
     parser.add_argument("--generate-only", action="store_true", help="Only run generators")
-    parser.add_argument("--dry-run", action="store_true", help="Skip git commit/push")
+    parser.add_argument("--dry-run", action="store_true", help="Generate everything but skip git commit")
     args = parser.parse_args()
 
-    if args.generate_only:
-        all_opps = load_all()
-        today_opps = load_today_opps()
-        stats = {
-            "date": date.today().isoformat(),
-            "total": len(all_opps),
-            "new_today": len(today_opps),
-        }
-        run_generators(all_opps, today_opps, stats)
-    else:
-        all_opps, stats = run_pipeline()
-        today_opps = load_today_opps()
-        if not args.scrape_only:
+    try:
+        if args.generate_only:
+            all_opps = load_all()
+            today_opps = load_today_opps()
+            stats = {
+                "date": date.today().isoformat(),
+                "total": len(all_opps),
+                "new_today": len(today_opps),
+            }
             run_generators(all_opps, today_opps, stats)
-
-    if not args.scrape_only and not args.dry_run:
-        committed = git_commit_if_changed(dry_run=False)
-        if committed:
-            print("✓ Changes committed.")
         else:
-            print("✓ No changes — nothing committed.")
-    elif args.dry_run:
+            all_opps, stats = run_pipeline()
+            today_opps = load_today_opps()
+            if not args.scrape_only:
+                run_generators(all_opps, today_opps, stats)
+    except Exception as exc:
+        log.error("Pipeline failed: %s", exc, exc_info=True)
+        raise SystemExit(1) from exc
+
+    # The workflow's shell step handles the actual git commit/push.
+    # --dry-run just logs what would change (useful for debugging).
+    if args.dry_run:
         git_commit_if_changed(dry_run=True)
 
+    total = stats.get("total", "?")
+    new_today = stats.get("new_today", "?")
+    log.info("Run complete — total: %s, new today: %s", total, new_today)
     print(f"\n{'='*50}")
-    print(f"  PlacementPulse run complete — {date.today().isoformat()}")
-    print(f"  Total opportunities: {stats.get('total', '?')}")
-    print(f"  New today:          {stats.get('new_today', '?')}")
+    print(f"  PlacementPulse — {date.today().isoformat()}")
+    print(f"  Total opportunities : {total}")
+    print(f"  New today           : {new_today}")
     print(f"{'='*50}\n")
 
 
