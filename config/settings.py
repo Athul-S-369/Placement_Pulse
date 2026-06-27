@@ -45,8 +45,8 @@ SITE_DESCRIPTION = (
     "India's largest open-source collection of software internships, "
     "fresher jobs, hackathons, and placement opportunities — updated daily, 100% free."
 )
-SITE_URL = "https://placementpulse.github.io"
-GITHUB_REPO_URL = "https://github.com/your-username/PlacementPulse"
+SITE_URL = "https://athul-s-369.github.io/PlacementPulse"
+GITHUB_REPO_URL = "https://github.com/Athul-S-369/PlacementPulse"
 
 # ─── Opportunity Categories ───────────────────────────────────────────────────
 CATEGORIES = [

@@ -1,13 +1,13 @@
 """
 PlacementPulse - README Generator
-Auto-updates README.md with today's stats, recent opportunities, and archive links.
+Generates a clean, elegant README with today's snapshot.
 """
 
 from __future__ import annotations
 
 import sys
 from collections import Counter
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 from typing import List
 
@@ -15,16 +15,13 @@ sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from scripts.core.models import Opportunity
 from scripts.core.logger import get_logger
-from config.settings import (
-    SITE_DESCRIPTION, GITHUB_REPO_URL, SITE_URL,
-    ROOT_DIR,
-)
+from config.settings import GITHUB_REPO_URL, ROOT_DIR
 
 log = get_logger("generator.readme")
 
 README_PATH = ROOT_DIR / "README.md"
 
-CATEGORY_EMOJI = {
+CAT_EMOJI = {
     "internship": "🎓",
     "fresher-job": "💼",
     "off-campus-drive": "🚀",
@@ -43,218 +40,148 @@ def generate_readme(
     stats: dict,
 ) -> Path:
     today = date.today()
-    cat_counts = Counter(o.category for o in all_opps)
-    company_counts = Counter(o.company for o in all_opps)
-    top_companies = company_counts.most_common(10)
-    recent = sorted(all_opps, key=lambda o: o.date_found or "", reverse=True)[:15]
     active = [o for o in all_opps if not o.is_expired()]
-
-    # Category breakdown for today
+    company_counts = Counter(o.company for o in all_opps)
+    cat_counts = Counter(o.category for o in all_opps)
     today_cats = Counter(o.category for o in today_opps)
 
-    today_summary_lines = []
-    for cat, count in sorted(today_cats.items(), key=lambda x: -x[1]):
-        emoji = CATEGORY_EMOJI.get(cat, "•")
-        today_summary_lines.append(f"  - {emoji} **{count}** {cat.replace('-', ' ').title()}")
-    today_summary = "\n".join(today_summary_lines) or "  - No new opportunities today"
-
-    # Archive links (last 7 days)
-    from datetime import timedelta
-    archive_links = []
-    for i in range(7):
-        d = today - timedelta(days=i)
-        month_name = d.strftime("%B")
-        path = f"daily/{d.year}/{month_name}/{d.isoformat()}.md"
-        label = "Today" if i == 0 else d.strftime("%b %d")
-        archive_links.append(f"- [{label} ({d.isoformat()})]({path})")
-    archive_section = "\n".join(archive_links)
-
-    # Top 15 recent opportunities table
-    recent_table_rows = []
-    for opp in recent:
-        deadline = opp.deadline or "—"
-        mode_icon = {"remote": "🌐", "onsite": "🏢", "hybrid": "🔀"}.get(opp.work_mode, "❓")
-        recent_table_rows.append(
-            f"| [{opp.title[:45]}]({opp.apply_link}) "
-            f"| {opp.company[:20]} "
-            f"| {CATEGORY_EMOJI.get(opp.category, '•')} {opp.category.replace('-', ' ').title()} "
-            f"| {mode_icon} {opp.work_mode.title()} "
-            f"| {deadline} |"
+    # ── Today's snapshot (top 3 categories only) ──────────────────────────────
+    today_lines = []
+    for cat, count in sorted(today_cats.items(), key=lambda x: -x[1])[:5]:
+        today_lines.append(
+            f"&nbsp;&nbsp;{CAT_EMOJI.get(cat, '•')} **{count}** {cat.replace('-', ' ').title()}"
         )
-    recent_table = "\n".join(recent_table_rows)
+    today_snapshot = " &nbsp;·&nbsp; ".join(today_lines) or "No new opportunities scraped today"
 
-    # Category overview
-    cat_overview = []
-    for cat, count in sorted(cat_counts.items(), key=lambda x: -x[1]):
-        emoji = CATEGORY_EMOJI.get(cat, "•")
-        cat_link = f"categories/{cat}/README.md"
-        cat_overview.append(
-            f"| {emoji} [{cat.replace('-', ' ').title()}]({cat_link}) | **{count}** |"
-        )
-    cat_overview_md = "\n".join(cat_overview)
+    # ── Recent 10 opportunities (clean table) ─────────────────────────────────
+    recent = sorted(all_opps, key=lambda o: o.date_found or "", reverse=True)[:10]
+    rows = []
+    for o in recent:
+        mode = {"remote": "🌐 Remote", "onsite": "🏢 Onsite", "hybrid": "🔀 Hybrid"}.get(o.work_mode, "—")
+        cat_label = CAT_EMOJI.get(o.category, "•") + " " + o.category.replace("-", " ").title()
+        title = o.title[:50] + ("…" if len(o.title) > 50 else "")
+        company = o.company[:22]
+        rows.append(f"| [{title}]({o.apply_link}) | {company} | {cat_label} | {mode} |")
+    recent_table = "\n".join(rows)
 
-    # Top companies
-    company_rows = "\n".join(
-        f"| [{co}](companies/{co.lower().replace(' ', '-')}/README.md) | {cnt} |"
-        for co, cnt in top_companies
-        if co.strip()
+    # ── Category pills ─────────────────────────────────────────────────────────
+    cat_pills = " · ".join(
+        f"[{CAT_EMOJI.get(c, '')} {c.replace('-', ' ').title()} **{n}**](categories/{c}/)"
+        for c, n in sorted(cat_counts.items(), key=lambda x: -x[1])
     )
 
+    # ── Archive (last 5 days) ──────────────────────────────────────────────────
+    archive = []
+    for i in range(5):
+        d = today - timedelta(days=i)
+        path = f"daily/{d.year}/{d.strftime('%B')}/{d.isoformat()}.md"
+        label = f"**Today** — {d.strftime('%b %d, %Y')}" if i == 0 else d.strftime("%b %d, %Y")
+        archive.append(f"- [{label}]({path})")
+    archive_md = "\n".join(archive)
+
     readme_content = f"""\
-<!-- AUTO-GENERATED — DO NOT EDIT MANUALLY -->
-<!-- Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M')} UTC -->
+<!-- AUTO-GENERATED BY PLACEMENTPULSE BOT — DO NOT EDIT MANUALLY -->
 
 <div align="center">
 
-# 🚀 PlacementPulse
+<br>
 
-### The Largest Open-Source Collection of Indian Software Opportunities
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=PlacementPulse+%F0%9F%87%AE%F0%9F%87%B3;India's+Job+%26+Internship+Hub;Updated+Twice+Daily+%E2%9C%85;100%25+Free+%26+Open+Source" alt="PlacementPulse" />
 
-[![Last Updated](https://img.shields.io/badge/last%20updated-{today.isoformat()}-brightgreen)](#)
-[![Total Opportunities](https://img.shields.io/badge/total%20opportunities-{len(all_opps)}-blue)](#)
-[![Active](https://img.shields.io/badge/active-{len(active)}-success)](#)
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/PlacementPulse?style=social)]({GITHUB_REPO_URL})
+<br><br>
 
-**{SITE_DESCRIPTION}**
+[![Location](https://img.shields.io/badge/📍%20Location-India-FF9933?style=for-the-badge)](#)
+[![Total](https://img.shields.io/badge/Opportunities-{len(all_opps)}-6C63FF?style=for-the-badge)](#)
+[![Active](https://img.shields.io/badge/Active-{len(active)}-00C853?style=for-the-badge)](#)
+[![Updated](https://img.shields.io/badge/Updated-{today.strftime("%b %d %Y").replace(" ", "%20")}-0D96F2?style=for-the-badge)](#)
 
-[📖 Browse Opportunities](#-recent-opportunities) •
-[📊 Statistics](#-statistics) •
-[🏢 Companies](companies/) •
-[📁 Categories](categories/) •
-[🌐 Website]({SITE_URL}) •
-[🤝 Contribute](CONTRIBUTING.md)
+<br>
+
+> **India's open-source hub for software internships, fresher jobs,**
+> **hackathons & placement opportunities — auto-updated every day.**
+
+<br>
+
+[Browse Opportunities](#-latest-opportunities) &nbsp;·&nbsp;
+[Categories](categories/) &nbsp;·&nbsp;
+[Companies](companies/) &nbsp;·&nbsp;
+[Daily Archive](daily/) &nbsp;·&nbsp;
+[Contribute](CONTRIBUTING.md)
+
+</div>
+
+<br>
+
+---
+
+## 📅 Today &nbsp;—&nbsp; {today.strftime("%B %d, %Y")}
+
+{today_snapshot}
+
+<sub>🔄 Auto-scraped at 11:00 AM & 7:00 PM IST via [GitHub Actions](.github/workflows/)</sub>
+
+---
+
+## 🔥 Latest Opportunities
+
+| Role | Company | Category | Location |
+|------|---------|----------|----------|
+{recent_table}
+
+<div align="right">
+
+[→ See all {len(all_opps)} opportunities](categories/)
 
 </div>
 
 ---
 
-## 📅 Today's Updates — {today.strftime('%B %d, %Y')}
+## 📂 Browse by Category
 
-{today_summary}
-
-> 🔄 Auto-updated twice daily via [GitHub Actions](.github/workflows/)
-
----
-
-## 📋 Recent Opportunities
-
-| Role | Company | Category | Mode | Deadline |
-|------|---------|----------|------|----------|
-{recent_table}
-
-➡️ **[Browse all {len(all_opps)} opportunities →](categories/)**
-
----
-
-## 📊 Statistics
-
-| Metric | Count |
-|--------|-------|
-| 📦 Total Opportunities | **{len(all_opps)}** |
-| ✅ Active | **{len(active)}** |
-| 🏢 Companies Tracked | **{len(company_counts)}** |
-| 🆕 Added Today | **{len(today_opps)}** |
-
-### By Category
-
-| Category | Count |
-|----------|-------|
-{cat_overview_md}
-
-### Top Companies
-
-| Company | Opportunities |
-|---------|---------------|
-{company_rows}
-
----
-
-## 📅 Daily Archive
-
-{archive_section}
-
-➡️ **[Browse complete archive →](daily/)**
+{cat_pills}
 
 ---
 
 ## 🏢 Companies
 
-Browse opportunity history and interview resources for individual companies:
-
-> [Google](companies/google/) •
-> [Microsoft](companies/microsoft/) •
-> [Apple](companies/apple/) •
-> [Amazon](companies/amazon/) •
-> [Adobe](companies/adobe/) •
-> [NVIDIA](companies/nvidia/) •
-> [Atlassian](companies/atlassian/) •
-> [Razorpay](companies/razorpay/) •
-> [Zoho](companies/zoho/) •
-> [Swiggy](companies/swiggy/) •
-> [Flipkart](companies/flipkart/)
+[Google](companies/google/) &nbsp;·&nbsp;
+[Microsoft](companies/microsoft/) &nbsp;·&nbsp;
+[Amazon](companies/amazon/) &nbsp;·&nbsp;
+[Apple](companies/apple/) &nbsp;·&nbsp;
+[Adobe](companies/adobe/) &nbsp;·&nbsp;
+[NVIDIA](companies/nvidia/) &nbsp;·&nbsp;
+[Razorpay](companies/razorpay/) &nbsp;·&nbsp;
+[Zoho](companies/zoho/) &nbsp;·&nbsp;
+[Flipkart](companies/flipkart/) &nbsp;·&nbsp;
+[Swiggy](companies/swiggy/) &nbsp;·&nbsp;
+[Atlassian](companies/atlassian/)
 
 ---
 
-## 📁 Categories
+## 📆 Daily Archive
 
-| Category | Description |
-|----------|-------------|
-| [🎓 Internships](categories/internship/) | Summer and semester-long internships |
-| [💼 Fresher Jobs](categories/fresher-job/) | Entry-level positions for recent grads |
-| [🚀 Off-Campus Drives](categories/off-campus-drive/) | Mass hiring events |
-| [⚡ Hiring Challenges](categories/hiring-challenge/) | Competitive hiring contests |
-| [🏆 Hackathons](categories/hackathon/) | Competitive hackathon events |
-| [🌟 Fellowships](categories/fellowship/) | Paid fellowship programs |
-| [🔓 Open Source Programs](categories/open-source-program/) | GSoC, Outreachy, LFX |
-| [📢 Student Ambassadors](categories/student-ambassador/) | Campus ambassador roles |
-| [📚 Scholarships](categories/scholarship/) | Tech scholarships |
+{archive_md}
+
+[→ Full archive](daily/)
 
 ---
 
 ## 📚 Resources
 
-- [Resume Tips & Templates](resources/resume/)
-- [Learning Roadmaps](resources/roadmaps/)
-- [Interview Preparation](resources/interview-prep.md)
-
----
-
-## 🤝 Contributing
-
-PlacementPulse thrives on community contributions!
-
-- **Add a scraper:** See [CONTRIBUTING.md](CONTRIBUTING.md)
-- **Report a broken link:** [Open an Issue]({GITHUB_REPO_URL}/issues)
-- **Suggest a source:** [Start a Discussion]({GITHUB_REPO_URL}/discussions)
-
----
-
-## ⚙️ How It Works
-
-```
-GitHub Actions (2x daily)
-     │
-     ▼
-Run Scrapers ──── company careers pages
-     │           ├── RSS feeds
-     │           ├── public JSON APIs
-     │           └── curated GitHub lists
-     ▼
-Normalize & Deduplicate
-     ▼
-Generate Markdown + Website
-     ▼
-Commit only if changes exist → Push
-```
-
-**100% free to run.** No API keys required. Fork and deploy in minutes.
+[Resume Templates](resources/resume/) &nbsp;·&nbsp;
+[Learning Roadmaps](resources/roadmaps/) &nbsp;·&nbsp;
+[Contributing Guide](CONTRIBUTING.md) &nbsp;·&nbsp;
+[Setup Guide](SETUP.md)
 
 ---
 
 <div align="center">
 
-*Auto-generated by PlacementPulse Bot • {today.isoformat()}*
-*[⭐ Star this repo]({GITHUB_REPO_URL}) to help more students discover opportunities*
+<sub>Built with ❤️ for Indian students &nbsp;·&nbsp; No API keys &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Auto-updated daily</sub>
+
+<br>
+
+<sub><i>Last generated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M')} UTC &nbsp;·&nbsp; {len(company_counts)} companies tracked</i></sub>
 
 </div>
 """
