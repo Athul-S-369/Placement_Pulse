@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Chicago, IL, Dublin, OH, El Segundo, CA, Westminster, CO, Augusta, ME
+- **Categories:** Fresher Job, Internship
+- **Locations:** Westminster, CO, Chantilly, VA, Washington, DC, Manassas, VA, Southfield, MI
 
 ## Current Opportunities
 

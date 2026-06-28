@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Huntsville, AL, Longueuil, QC, Canada, Barrie, ON, Canada, Goleta, CA, Cedar Rapids, IA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Longueuil, QC, Canada, Arlington, VA, Fort Wayne, IN, Barrie, ON, Canada, Huntsville, AL
 
 ## Current Opportunities
 
