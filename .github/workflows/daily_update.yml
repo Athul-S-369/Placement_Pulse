@@ -2,9 +2,10 @@ name: Daily Opportunity Update
 
 on:
   schedule:
-    # 05:30 UTC = 11:00 AM IST  |  13:30 UTC = 7:00 PM IST
-    - cron: "30 5 * * *"
-    - cron: "30 13 * * *"
+    # Every 8 hours — 6:00 AM | 2:00 PM | 10:00 PM IST
+    - cron: "30 0 * * *"
+    - cron: "30 8 * * *"
+    - cron: "30 16 * * *"
   workflow_dispatch:
     inputs:
       dry_run:
