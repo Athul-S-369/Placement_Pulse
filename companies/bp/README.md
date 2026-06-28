@@ -1,11 +1,11 @@
 # 🏢 BP
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-06-27*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-06-28*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Houston, TX, Chicago, IL
+- **Locations:** Chicago, IL, Houston, TX
 
 ## Current Opportunities
 

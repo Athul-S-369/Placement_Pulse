@@ -1,11 +1,11 @@
 # 🏢 Peraton
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-06-27*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-06-28*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Wheatland, CA, Remote in USA, Topeka, KS, Blacksburg, VA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Topeka, KS, Remote in USA, Wheatland, CA, Blacksburg, VA
 
 ## Current Opportunities
 

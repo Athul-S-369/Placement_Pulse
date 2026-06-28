@@ -1,11 +1,11 @@
 # 🏢 KLA
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-06-27*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-06-28*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Ann Arbor, MI, Milpitas, CA, Remote / Various, Austin, TX, Milpitas, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Milpitas, CA, Remote / Various, Ann Arbor, MI, Austin, TX, Milpitas, CA
 
 ## Current Opportunities
 

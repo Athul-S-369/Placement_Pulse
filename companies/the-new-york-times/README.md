@@ -1,11 +1,11 @@
 # 🏢 The New York Times
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-06-27*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-06-28*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote / Various, New York, NY
+- **Locations:** New York, NY, Remote / Various
 
 ## Current Opportunities
 

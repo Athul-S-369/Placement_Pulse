@@ -1,6 +1,6 @@
 # 🏢 MKS Instruments
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-06-27*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-06-28*
 
 ## Overview
 

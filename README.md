@@ -9,9 +9,9 @@
 <br><br>
 
 [![Location](https://img.shields.io/badge/📍%20Location-India-FF9933?style=for-the-badge)](#)
-[![Total](https://img.shields.io/badge/Opportunities-1846-6C63FF?style=for-the-badge)](#)
-[![Active](https://img.shields.io/badge/Active-1845-00C853?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-Jun%2027%202026-0D96F2?style=for-the-badge)](#)
+[![Total](https://img.shields.io/badge/Opportunities-1853-6C63FF?style=for-the-badge)](#)
+[![Active](https://img.shields.io/badge/Active-1852-00C853?style=for-the-badge)](#)
+[![Updated](https://img.shields.io/badge/Updated-Jun%2028%202026-0D96F2?style=for-the-badge)](#)
 
 <br>
 
@@ -32,9 +32,9 @@
 
 ---
 
-## 📅 Today &nbsp;—&nbsp; June 27, 2026
+## 📅 Today &nbsp;—&nbsp; June 28, 2026
 
-&nbsp;&nbsp;💼 **63** Fresher Job &nbsp;·&nbsp; &nbsp;&nbsp;🎓 **58** Internship &nbsp;·&nbsp; &nbsp;&nbsp;🏆 **7** Hackathon &nbsp;·&nbsp; &nbsp;&nbsp;🔓 **2** Open Source Program &nbsp;·&nbsp; &nbsp;&nbsp;🌟 **2** Fellowship
+&nbsp;&nbsp;💼 **62** Fresher Job &nbsp;·&nbsp; &nbsp;&nbsp;🎓 **47** Internship &nbsp;·&nbsp; &nbsp;&nbsp;🏆 **10** Hackathon &nbsp;·&nbsp; &nbsp;&nbsp;🔓 **2** Open Source Program &nbsp;·&nbsp; &nbsp;&nbsp;🌟 **2** Fellowship
 
 <sub>🔄 Auto-scraped at 11:00 AM & 7:00 PM IST via [GitHub Actions](.github/workflows/)</sub>
 
@@ -44,20 +44,20 @@
 
 | Role | Company | Category | Location |
 |------|---------|----------|----------|
+| [The Beautiful Game || A Football Quiz](https://unstop.com/quiz/the-beautiful-game-a-football-quiz-quizarc-1704677) | Quizarc | 🏆 Hackathon | 🏢 Onsite |
+| [Hack to Survive](https://unstop.com/hackathons/hack-to-survive-kiras-logic-1705001) | Kiras Logic | 🏆 Hackathon | 🏢 Onsite |
+| [Stock Analysis - July 2026](https://unstop.com/competitions/stock-analysis-july-2026-ibs-business-school-ahmedabad-1705209) | IBS Business School Ah | 🏆 Hackathon | 🏢 Onsite |
+| [The FinSight Fellowship](https://unstop.com/workshops-webinars/the-finsight-fellowship-hindu-college-1704704) | Hindu College | 🏆 Hackathon | 🏢 Onsite |
+| [Crack the Internship: Lead Challenge-2](https://unstop.com/competitions/crack-the-internship-lead-challenge-2-internselite-edutech-private-limited-1704808) | Internselite Edutech P | 🏆 Hackathon | 🏢 Onsite |
+| [Electronics Hub](https://unstop.com/competitions/electronics-hub-raghu-engineeringbcollege-1704857) | Raghu EngineeringbColl | 🏆 Hackathon | 🏢 Onsite |
+| [How is AI disrupting Engineering Roles and where d…](https://unstop.com/workshops-webinars/how-is-ai-disrupting-engineering-roles-and-where-do-students-go-for-advice-scripthonix-solutions-1704925) | Scripthonix Solutions | 🏆 Hackathon | 🏢 Onsite |
 | [Flexport (YC W14) Is Hiring in Indonesia, India, a…](https://www.flexport.com/company/careers/) | Various | 💼 Fresher Job | 🏢 Onsite |
 | [Product Carnival: National Product Management Chal…](https://unstop.com/competitions/product-carnival-national-product-management-challenge-book-my-mentor-1703082) | Book My Mentor | 🏆 Hackathon | 🏢 Onsite |
 | [Pitchfund](https://unstop.com/competitions/pitchfund-e-summit-2026-iit-ism-dhanbad-indian-institute-of-technology-indian-school-of-mines-iit-ism-dhanb-1704711) | Indian Institute of Te | 🏆 Hackathon | 🏢 Onsite |
-| [Ai Filmmaking Hackathon - Bangalore Edition](https://unstop.com/hackathons/ai-filmmaking-hackathon-bangalore-edition-ai-film-hackathon-bangalore-edition-11-fps-1703147) | 11 FPS | 🏆 Hackathon | 🏢 Onsite |
-| [The Future of AI Starts with Better Prompts](https://unstop.com/workshops-webinars/the-future-of-ai-starts-with-better-prompts-techbairn-1704883) | TechBairn | 🏆 Hackathon | 🏢 Onsite |
-| [Blueprints N Breakthroughs](https://unstop.com/workshops-webinars/blueprints-n-breakthroughs-maharaja-agrasen-institute-of-technology-mait-new-delhi-1704679) | Maharaja Agrasen Insti | 🏆 Hackathon | 🏢 Onsite |
-| [Nexus AI Quiz Ignite 2026](https://unstop.com/quiz/nexus-ai-quiz-ignite-2026-nexus-1703511) | Nexus | 🏆 Hackathon | 🏢 Onsite |
-| [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead) | Various | 💼 Fresher Job | 🌐 Remote |
-| [Software Engineering Intern](https://githubinc.jibeapply.com/jobs/4640) | GitHub | 🎓 Internship | 🌐 Remote |
-| [Advanced Analytics and Artificial Intelligence Int…](https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/San-Diego/Advanced-Analytics-and-Artificial-Intelligence-Intern---Summer-2026_JR116229) | RSM | 🎓 Internship | 🌐 Remote |
 
 <div align="right">
 
-[→ See all 1846 opportunities](categories/)
+[→ See all 1853 opportunities](categories/)
 
 </div>
 
@@ -65,7 +65,7 @@
 
 ## 📂 Browse by Category
 
-[💼 Fresher Job **1117**](categories/fresher-job/) · [🎓 Internship **711**](categories/internship/) · [🏆 Hackathon **12**](categories/hackathon/) · [🔓 Open Source Program **2**](categories/open-source-program/) · [🌟 Fellowship **2**](categories/fellowship/) · [📢 Student Ambassador **2**](categories/student-ambassador/)
+[💼 Fresher Job **1117**](categories/fresher-job/) · [🎓 Internship **711**](categories/internship/) · [🏆 Hackathon **19**](categories/hackathon/) · [🔓 Open Source Program **2**](categories/open-source-program/) · [🌟 Fellowship **2**](categories/fellowship/) · [📢 Student Ambassador **2**](categories/student-ambassador/)
 
 ---
 
@@ -87,11 +87,11 @@
 
 ## 📆 Daily Archive
 
-- [**Today** — Jun 27, 2026](daily/2026/June/2026-06-27.md)
+- [**Today** — Jun 28, 2026](daily/2026/June/2026-06-28.md)
+- [Jun 27, 2026](daily/2026/June/2026-06-27.md)
 - [Jun 26, 2026](daily/2026/June/2026-06-26.md)
 - [Jun 25, 2026](daily/2026/June/2026-06-25.md)
 - [Jun 24, 2026](daily/2026/June/2026-06-24.md)
-- [Jun 23, 2026](daily/2026/June/2026-06-23.md)
 
 [→ Full archive](daily/)
 
@@ -112,6 +112,6 @@
 
 <br>
 
-<sub><i>Last generated: 2026-06-27 15:04 UTC &nbsp;·&nbsp; 1240 companies tracked</i></sub>
+<sub><i>Last generated: 2026-06-28 08:16 UTC &nbsp;·&nbsp; 1247 companies tracked</i></sub>
 
 </div>

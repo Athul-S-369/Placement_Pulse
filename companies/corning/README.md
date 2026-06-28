@@ -1,11 +1,11 @@
 # 🏢 Corning
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-06-27*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-06-28*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Elmira, NY, Westlake, TX
+- **Locations:** Westlake, TX, Elmira, NY
 
 ## Current Opportunities
 
