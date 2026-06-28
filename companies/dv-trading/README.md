@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** London, UK, Chicago, IL, NYC
+- **Locations:** Chicago, IL, London, UK, NYC
 
 ## Current Opportunities
 

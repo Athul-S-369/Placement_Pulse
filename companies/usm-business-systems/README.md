@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Chicago, IL, El Segundo, CA, Augusta, ME, California City, CA, Alexandria, VA
+- **Locations:** Chicago, IL, Dublin, OH, El Segundo, CA, Westminster, CO, Augusta, ME
 
 ## Current Opportunities
 
