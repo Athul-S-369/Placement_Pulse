@@ -17,7 +17,7 @@ sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from scripts.core.models import Opportunity
 from scripts.core.logger import get_logger
-from config.settings import WEBSITE_DIR, SITE_TITLE, SITE_DESCRIPTION, GITHUB_REPO_URL
+from config.settings import WEBSITE_DIR, SITE_DESCRIPTION, GITHUB_REPO_URL
 
 log = get_logger("generator.website")
 
