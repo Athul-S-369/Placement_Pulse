@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Westminster, CO, Chantilly, VA, Washington, DC, Manassas, VA, Southfield, MI
+- **Locations:** Washington, DC, Southfield, MI, Augusta, ME, Baltimore, MD, Bloomington, MN
 
 ## Current Opportunities
 

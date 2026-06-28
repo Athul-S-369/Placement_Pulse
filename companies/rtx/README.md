@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Longueuil, QC, Canada, Arlington, VA, Fort Wayne, IN, Barrie, ON, Canada, Huntsville, AL
+- **Locations:** Longueuil, QC, Canada, McKinney, TX, Barrie, ON, Canada, Fort Wayne, IN, Huntsville, AL
 
 ## Current Opportunities
 

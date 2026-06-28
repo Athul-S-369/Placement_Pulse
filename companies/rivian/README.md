@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Palo Alto, CA, Irvine, CA, Urbana, IL
+- **Locations:** Urbana, IL, Palo Alto, CA, Irvine, CA
 
 ## Current Opportunities
 
