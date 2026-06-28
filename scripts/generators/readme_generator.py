@@ -1,6 +1,6 @@
 """
 PlacementPulse - README Generator
-Generates a clean, elegant README with today's snapshot.
+Generates a professional, elegant README with the latest opportunities snapshot.
 """
 
 from __future__ import annotations
@@ -15,22 +15,22 @@ sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 
 from scripts.core.models import Opportunity
 from scripts.core.logger import get_logger
-from config.settings import ROOT_DIR
+from config.settings import ROOT_DIR, GITHUB_REPO_URL
 
 log = get_logger("generator.readme")
 
 README_PATH = ROOT_DIR / "README.md"
 
-CAT_EMOJI = {
-    "internship": "🎓",
-    "fresher-job": "💼",
-    "off-campus-drive": "🚀",
-    "hiring-challenge": "⚡",
-    "hackathon": "🏆",
-    "fellowship": "🌟",
-    "open-source-program": "🔓",
-    "student-ambassador": "📢",
-    "scholarship": "📚",
+CAT_LABEL = {
+    "internship": "Internship",
+    "fresher-job": "Fresher Job",
+    "off-campus-drive": "Off-Campus Drive",
+    "hiring-challenge": "Hiring Challenge",
+    "hackathon": "Hackathon",
+    "fellowship": "Fellowship",
+    "open-source-program": "Open Source Program",
+    "student-ambassador": "Student Ambassador",
+    "scholarship": "Scholarship",
 }
 
 
@@ -45,104 +45,121 @@ def generate_readme(
     cat_counts = Counter(o.category for o in all_opps)
     today_cats = Counter(o.category for o in today_opps)
 
-    # ── Today's snapshot (top 3 categories only) ──────────────────────────────
+    # ── Today's category summary ───────────────────────────────────────────────
     today_lines = []
-    for cat, count in sorted(today_cats.items(), key=lambda x: -x[1])[:5]:
-        today_lines.append(
-            f"&nbsp;&nbsp;{CAT_EMOJI.get(cat, '•')} **{count}** {cat.replace('-', ' ').title()}"
+    for cat, count in sorted(today_cats.items(), key=lambda x: -x[1])[:6]:
+        label = CAT_LABEL.get(cat, cat.replace("-", " ").title())
+        today_lines.append(f"**{count}** {label}")
+    today_snapshot = " &nbsp;·&nbsp; ".join(today_lines) or "No new opportunities in this run"
+
+    # ── Newly found opportunities in this run (up to 25) ──────────────────────
+    new_opps = sorted(today_opps, key=lambda o: o.date_found or "", reverse=True)[:25]
+    new_rows = []
+    for o in new_opps:
+        cat_label = CAT_LABEL.get(o.category, o.category.replace("-", " ").title())
+        mode = o.work_mode.title() if o.work_mode else "—"
+        title = o.title[:55] + ("..." if len(o.title) > 55 else "")
+        company = o.company[:25] if o.company else "—"
+        deadline = o.deadline or "—"
+        new_rows.append(
+            f"| [{title}]({o.apply_link}) | {company} | {cat_label} | {mode} | {deadline} |"
         )
-    today_snapshot = " &nbsp;·&nbsp; ".join(today_lines) or "No new opportunities scraped today"
+    new_opps_table = "\n".join(new_rows) if new_rows else "| No new opportunities in this run | — | — | — | — |"
 
-    # ── Recent 10 opportunities (clean table) ─────────────────────────────────
-    recent = sorted(all_opps, key=lambda o: o.date_found or "", reverse=True)[:10]
-    rows = []
+    # ── Recent 15 opportunities across all time ────────────────────────────────
+    recent = sorted(all_opps, key=lambda o: o.date_found or "", reverse=True)[:15]
+    recent_rows = []
     for o in recent:
-        mode = {"remote": "🌐 Remote", "onsite": "🏢 Onsite", "hybrid": "🔀 Hybrid"}.get(o.work_mode, "—")
-        cat_label = CAT_EMOJI.get(o.category, "•") + " " + o.category.replace("-", " ").title()
-        title = o.title[:50] + ("…" if len(o.title) > 50 else "")
-        company = o.company[:22]
-        rows.append(f"| [{title}]({o.apply_link}) | {company} | {cat_label} | {mode} |")
-    recent_table = "\n".join(rows)
+        cat_label = CAT_LABEL.get(o.category, o.category.replace("-", " ").title())
+        mode = o.work_mode.title() if o.work_mode else "—"
+        title = o.title[:55] + ("..." if len(o.title) > 55 else "")
+        company = o.company[:25] if o.company else "—"
+        recent_rows.append(
+            f"| [{title}]({o.apply_link}) | {company} | {cat_label} | {mode} |"
+        )
+    recent_table = "\n".join(recent_rows)
 
-    # ── Category pills ─────────────────────────────────────────────────────────
-    cat_pills = " · ".join(
-        f"[{CAT_EMOJI.get(c, '')} {c.replace('-', ' ').title()} **{n}**](categories/{c}/)"
-        for c, n in sorted(cat_counts.items(), key=lambda x: -x[1])
-    )
+    # ── Category breakdown ─────────────────────────────────────────────────────
+    cat_rows = []
+    for c, n in sorted(cat_counts.items(), key=lambda x: -x[1]):
+        label = CAT_LABEL.get(c, c.replace("-", " ").title())
+        cat_rows.append(f"| [{label}](categories/{c}/) | {n} |")
+    cat_table = "\n".join(cat_rows)
 
-    # ── Archive (last 5 days) ──────────────────────────────────────────────────
+    # ── Archive (last 7 days) ──────────────────────────────────────────────────
     archive = []
-    for i in range(5):
+    for i in range(7):
         d = today - timedelta(days=i)
         path = f"daily/{d.year}/{d.strftime('%B')}/{d.isoformat()}.md"
-        label = f"**Today** — {d.strftime('%b %d, %Y')}" if i == 0 else d.strftime("%b %d, %Y")
+        label = f"{d.strftime('%B %d, %Y')} (Today)" if i == 0 else d.strftime("%B %d, %Y")
         archive.append(f"- [{label}]({path})")
     archive_md = "\n".join(archive)
 
     readme_content = f"""\
-<!-- AUTO-GENERATED BY PLACEMENTPULSE BOT — DO NOT EDIT MANUALLY -->
+<!-- AUTO-GENERATED — DO NOT EDIT MANUALLY -->
 
 <div align="center">
 
-<br>
+# PlacementPulse
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=PlacementPulse+%F0%9F%87%AE%F0%9F%87%B3;India's+Job+%26+Internship+Hub;Updated+Twice+Daily+%E2%9C%85;100%25+Free+%26+Open+Source" alt="PlacementPulse" />
+**India's open-source aggregator for software internships, fresher jobs,<br>hackathons, fellowships and placement opportunities.**
 
-<br><br>
+[![Opportunities](https://img.shields.io/badge/Opportunities-{len(all_opps)}-1a1d27?style=flat-square&labelColor=0d1117&color=c9a84c)](#latest-opportunities)
+[![Active](https://img.shields.io/badge/Active-{len(active)}-1a1d27?style=flat-square&labelColor=0d1117&color=10b981)](#latest-opportunities)
+[![Companies](https://img.shields.io/badge/Companies-{len(company_counts)}-1a1d27?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
+[![India](https://img.shields.io/badge/India-Only-1a1d27?style=flat-square&labelColor=FF9933&color=138808)](#)
+[![Updated](https://img.shields.io/badge/Updated-{today.strftime("%b %d %Y").replace(" ", "%20")}-1a1d27?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
-[![Location](https://img.shields.io/badge/📍%20Location-India-FF9933?style=for-the-badge)](#)
-[![Total](https://img.shields.io/badge/Opportunities-{len(all_opps)}-6C63FF?style=for-the-badge)](#)
-[![Active](https://img.shields.io/badge/Active-{len(active)}-00C853?style=for-the-badge)](#)
-[![Updated](https://img.shields.io/badge/Updated-{today.strftime("%b %d %Y").replace(" ", "%20")}-0D96F2?style=for-the-badge)](#)
-
-<br>
-
-> **India's open-source hub for software internships, fresher jobs,**
-> **hackathons & placement opportunities — auto-updated every day.**
-
-<br>
-
-[Browse Opportunities](#-latest-opportunities) &nbsp;·&nbsp;
-[Categories](categories/) &nbsp;·&nbsp;
-[Companies](companies/) &nbsp;·&nbsp;
-[Daily Archive](daily/) &nbsp;·&nbsp;
-[Contribute](CONTRIBUTING.md)
+[Opportunities](#latest-opportunities) &nbsp;·&nbsp;
+[New This Run](#new-in-this-run) &nbsp;·&nbsp;
+[Categories](#categories) &nbsp;·&nbsp;
+[Companies](#companies) &nbsp;·&nbsp;
+[Archive](#daily-archive) &nbsp;·&nbsp;
+[Website]({GITHUB_REPO_URL.replace("github.com", "athul-s-369.github.io").replace("/Placement_Pulse", "/Placement_Pulse")})
 
 </div>
 
-<br>
-
 ---
 
-## 📅 Today &nbsp;—&nbsp; {today.strftime("%B %d, %Y")}
+## Run Summary &nbsp;—&nbsp; {today.strftime("%B %d, %Y")}
 
 {today_snapshot}
 
-<sub>🔄 Auto-scraped at 11:00 AM & 7:00 PM IST via [GitHub Actions](.github/workflows/)</sub>
+> Automatically scraped every 8 hours via [GitHub Actions](.github/workflows/daily_update.yml) — 6:00 AM, 2:00 PM and 10:00 PM IST.
 
 ---
 
-## 🔥 Latest Opportunities
+## New in This Run
 
-| Role | Company | Category | Location |
-|------|---------|----------|----------|
+The following opportunities were discovered or updated in the most recent automated run.
+
+| Role | Company | Category | Mode | Deadline |
+|------|---------|----------|------|----------|
+{new_opps_table}
+
+---
+
+## Latest Opportunities
+
+The 15 most recently added opportunities across all categories.
+
+| Role | Company | Category | Mode |
+|------|---------|----------|------|
 {recent_table}
 
-<div align="right">
-
-[→ See all {len(all_opps)} opportunities](categories/)
-
-</div>
+[Browse all {len(all_opps)} opportunities on the website]({GITHUB_REPO_URL.replace("github.com", "athul-s-369.github.io").replace("/Placement_Pulse", "/Placement_Pulse")})
 
 ---
 
-## 📂 Browse by Category
+## Categories
 
-{cat_pills}
+| Category | Count |
+|----------|-------|
+{cat_table}
 
 ---
 
-## 🏢 Companies
+## Companies
 
 [Google](companies/google/) &nbsp;·&nbsp;
 [Microsoft](companies/microsoft/) &nbsp;·&nbsp;
@@ -158,15 +175,15 @@ def generate_readme(
 
 ---
 
-## 📆 Daily Archive
+## Daily Archive
 
 {archive_md}
 
-[→ Full archive](daily/)
+[Full archive](daily/)
 
 ---
 
-## 📚 Resources
+## Resources
 
 [Resume Templates](resources/resume/) &nbsp;·&nbsp;
 [Learning Roadmaps](resources/roadmaps/) &nbsp;·&nbsp;
@@ -177,11 +194,9 @@ def generate_readme(
 
 <div align="center">
 
-<sub>Built with ❤️ for Indian students &nbsp;·&nbsp; No API keys &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Auto-updated daily</sub>
+<sub>Open-source &nbsp;·&nbsp; No API keys &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<br>
-
-<sub><i>Last generated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M')} UTC &nbsp;·&nbsp; {len(company_counts)} companies tracked</i></sub>
+<sub>Last generated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M')} UTC</sub>
 
 </div>
 """
