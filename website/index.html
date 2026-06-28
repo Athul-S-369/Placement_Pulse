@@ -4,18 +4,20 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="India's largest open-source collection of software internships, fresher jobs, hackathons, and placement opportunities — updated daily, 100% free.">
-  <title>PlacementPulse — Indian Software Internships & Jobs</title>
+  <title>PlacementPulse — India Tech Careers</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet" href="assets/style.css">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚀</text></svg>">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='6' fill='%23111820'/><text x='6' y='24' font-size='20' font-family='serif' fill='%23c9a84c'>P</text></svg>">
 </head>
 <body>
 
 <header>
   <div class="container header-inner">
     <div class="logo">Placement<span>Pulse</span></div>
+    <div class="header-badge">India &middot; Tech Careers</div>
     <nav>
       <a href="#opportunities">Opportunities</a>
-      <a href="stats.json">Stats</a>
       <a href="https://github.com/Athul-S-369/PlacementPulse" target="_blank">GitHub</a>
     </nav>
   </div>
@@ -23,55 +25,70 @@
 
 <main>
   <section class="hero container">
-    <h1>🚀 PlacementPulse</h1>
-    <p>India's largest open-source collection of software internships, fresher jobs, hackathons, and placement opportunities — updated daily, 100% free.</p>
+    <div class="hero-eyebrow">India &middot; Software &middot; Updated Daily</div>
+    <h1>Find Your Next<br><em>Tech Opportunity</em></h1>
+    <p>Internships, fresher jobs, hackathons and fellowships across India — curated daily from the best sources.</p>
 
     <div class="stats-bar">
-      <div class="stat-chip">📦 <strong>1853</strong> total</div>
-      <div class="stat-chip">✅ <strong>1852</strong> active</div>
-      <div class="stat-chip">🏢 <strong>1247</strong> companies</div>
-      <div class="stat-chip">🕒 Updated <strong>2026-06-28</strong></div>
+      <div class="stat-chip">
+        <span class="stat-val">1853</span>
+        <span class="stat-label">Total</span>
+      </div>
+      <div class="stat-chip">
+        <span class="stat-val">1852</span>
+        <span class="stat-label">Active</span>
+      </div>
+      <div class="stat-chip">
+        <span class="stat-val">1247</span>
+        <span class="stat-label">Companies</span>
+      </div>
+      <div class="stat-chip">
+        <span class="stat-val">Jun 28</span>
+        <span class="stat-label">Updated</span>
+      </div>
     </div>
 
-    <div class="search-bar">
-      <input type="search" id="search-input" placeholder="Search by title, company, or skill…" autocomplete="off">
+    <div class="search-wrap">
+      <span class="search-icon">&#9906;</span>
+      <input type="search" id="search-input" placeholder="Search roles, companies, skills..." autocomplete="off">
     </div>
   </section>
 
   <section id="opportunities" class="container">
-    <div class="filters">
-      <button class="filter-btn active" data-filter="category:all">All</button><button class="filter-btn" data-filter="category:fresher-job">💼 Fresher Job (1117)</button><button class="filter-btn" data-filter="category:internship">🎓 Internship (711)</button><button class="filter-btn" data-filter="category:hackathon">🏆 Hackathon (19)</button><button class="filter-btn" data-filter="category:fellowship">🌟 Fellowship (2)</button><button class="filter-btn" data-filter="category:student-ambassador">📢 Student Ambassador (2)</button><button class="filter-btn" data-filter="category:open-source-program">🔓 Open Source Program (1)</button>
-      &nbsp;
-      <button class="filter-btn active" data-filter="mode:all">All Modes</button>
-      <button class="filter-btn" data-filter="mode:remote">🌐 Remote</button>
-      <button class="filter-btn" data-filter="mode:onsite">🏢 Onsite</button>
-      <button class="filter-btn" data-filter="mode:hybrid">🔀 Hybrid</button>
+    <div class="filter-section">
+      <div class="filter-group">
+        <span class="filter-label">Category</span>
+        <button class="filter-btn active" data-filter="category:all">All Categories</button><button class="filter-btn" data-filter="category:fresher-job">Fresher Job (1117)</button><button class="filter-btn" data-filter="category:internship">Internship (711)</button><button class="filter-btn" data-filter="category:hackathon">Hackathon (19)</button><button class="filter-btn" data-filter="category:fellowship">Fellowship (2)</button><button class="filter-btn" data-filter="category:student-ambassador">Ambassador (2)</button><button class="filter-btn" data-filter="category:open-source-program">Open Source (1)</button>
+      </div>
+      <div class="filter-group">
+        <span class="filter-label">Mode</span>
+        <button class="filter-btn active" data-filter="mode:all">All</button>
+        <button class="filter-btn" data-filter="mode:remote">Remote</button>
+        <button class="filter-btn" data-filter="mode:onsite">Onsite</button>
+        <button class="filter-btn" data-filter="mode:hybrid">Hybrid</button>
+      </div>
     </div>
 
-    <p style="color:var(--text-muted);font-size:0.85rem;margin-bottom:1rem;">
-      Showing <span id="result-count"></span>
-    </p>
+    <div class="results-meta">Showing <span id="result-count"></span></div>
 
     <div id="cards" class="cards">
-      <!-- Populated by app.js -->
-      <noscript>
-        <p>Please enable JavaScript to use the interactive search.</p>
-      </noscript>
+      <noscript><p style="padding:2rem;color:var(--text-muted)">Enable JavaScript to use the interactive search.</p></noscript>
     </div>
   </section>
 </main>
 
 <footer>
   <div class="container">
-    <p>
-      🚀 <strong>PlacementPulse</strong> — Open-source, updated daily via GitHub Actions.<br>
-      <a href="https://github.com/Athul-S-369/PlacementPulse" target="_blank">⭐ Star on GitHub</a> •
-      <a href="https://github.com/Athul-S-369/PlacementPulse/blob/main/CONTRIBUTING.md" target="_blank">Contribute</a> •
+    <div class="footer-logo">PlacementPulse</div>
+    <div class="footer-links">
+      <a href="https://github.com/Athul-S-369/PlacementPulse" target="_blank">GitHub</a>
+      <a href="https://github.com/Athul-S-369/PlacementPulse/blob/main/CONTRIBUTING.md" target="_blank">Contribute</a>
       <a href="https://github.com/Athul-S-369/PlacementPulse/issues" target="_blank">Report Issue</a>
-    </p>
-    <p style="margin-top:0.5rem;color:var(--text-muted);font-size:0.78rem;">
-      Last updated: 2026-06-28 08:16 UTC
-    </p>
+    </div>
+    <div class="footer-meta">
+      Open-source &middot; No API keys &middot; Updated 3&times; daily &middot;
+      Last run 2026-06-28 08:43 UTC
+    </div>
   </div>
 </footer>
 

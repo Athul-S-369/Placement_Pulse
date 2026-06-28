@@ -112,6 +112,6 @@
 
 <br>
 
-<sub><i>Last generated: 2026-06-28 08:16 UTC &nbsp;·&nbsp; 1247 companies tracked</i></sub>
+<sub><i>Last generated: 2026-06-28 08:43 UTC &nbsp;·&nbsp; 1247 companies tracked</i></sub>
 
 </div>

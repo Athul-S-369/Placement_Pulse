@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Cambridge, MA, Seattle, WA, Austin, TX, Gloucester, UK, Beaverton, OR
+- **Categories:** Internship, Fresher Job
+- **Locations:** Cupertino, CA, Gloucester, UK, Santa Clara, CA, San Diego, CA, Waltham, MA
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Washington, DC, Baltimore, MD, NYC, Bloomington, MN, El Segundo, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Chicago, IL, El Segundo, CA, Augusta, ME, California City, CA, Alexandria, VA
 
 ## Current Opportunities
 
