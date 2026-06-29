@@ -79,8 +79,8 @@ jobs:
       - name: Commit and push if changed
         if: ${{ inputs.dry_run != 'true' }}
         run: |
-          git config user.name  "PlacementPulse Bot"
-          git config user.email "bot@placementpulse.dev"
+          git config user.name  "Athul-S-369"
+          git config user.email "176425883+Athul-S-369@users.noreply.github.com"
           git add -A
 
           if git diff --cached --quiet; then
