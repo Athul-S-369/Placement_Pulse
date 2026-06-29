@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** San Antonio, TX, Manassas, VA, Washington, DC, Dublin, OH, Bluemont, VA
+- **Categories:** Fresher Job, Internship
+- **Locations:** El Segundo, CA, San Antonio, TX, California City, CA, Manassas, VA, Traverse City, MI
 
 ## Current Opportunities
 

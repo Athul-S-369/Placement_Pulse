@@ -1,0 +1,22 @@
+# 🏢 Indian Institute of Technology (IIT), Gandhinagar
+
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-06-29*
+
+## Overview
+
+- **Categories:** Hackathon
+- **Locations:** India
+
+## Current Opportunities
+
+| Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
+|------|---------|----------|------|----------------|----------|--------|
+| [Betaverse](https://unstop.com/events/betaverse-iit-gandhinagar-1706043) | Indian Institute of Technology (IIT), Gandhinagar | India | 🏢 Onsite | — | 2026-07-01 | Unstop |
+
+## 📖 Interview Preparation
+
+| Resource | Link |
+|----------|------|
+| GeeksForGeeks – Indian Institute of Technology (IIT), Gandhinagar | [Search](https://www.geeksforgeeks.org/search/?q=Indian+Institute+of+Technology+(IIT),+Gandhinagar) |
+| LeetCode – Indian Institute of Technology (IIT), Gandhinagar | [Problems](https://leetcode.com/company/indian-institute-of-technology-iit-gandhinagar/) |
+| Glassdoor – Indian Institute of Technology (IIT), Gandhinagar | [Reviews](https://www.glassdoor.com/Reviews/Indian-Institute-of-Technology-(IIT),-Gandhinagar-Reviews-E.htm) |

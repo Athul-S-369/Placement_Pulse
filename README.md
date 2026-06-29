@@ -6,9 +6,9 @@
 
 **India's open-source aggregator for software internships, fresher jobs,<br>hackathons, fellowships, and placement opportunities.**
 
-[![Opportunities](https://img.shields.io/badge/Opportunities-1854-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
-[![Active](https://img.shields.io/badge/Active-1853-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
-[![Companies](https://img.shields.io/badge/Companies-1248-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
+[![Opportunities](https://img.shields.io/badge/Opportunities-1857-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
+[![Active](https://img.shields.io/badge/Active-1856-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
+[![Companies](https://img.shields.io/badge/Companies-1251-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
 [![Updated](https://img.shields.io/badge/Updated-Jun%2029%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**June 29, 2026** &nbsp;—&nbsp; **61** Fresher Job &nbsp;·&nbsp; **42** Internship &nbsp;·&nbsp; **10** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**June 29, 2026** &nbsp;—&nbsp; **61** Fresher Job &nbsp;·&nbsp; **42** Internship &nbsp;·&nbsp; **5** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**119 opportunities** added or updated in the latest run (June 29, 2026).
+**114 opportunities** added or updated in the latest run (June 29, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -106,16 +106,11 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Full Stack / Backend Software Engineer](https://jobs.ashbyhq.com/candidate.fyi/0448a10e-863f-437f-80bb-d65ee09f8b6e/application) | candidate fyi | Remote in USA | Fresher Job | Remote | — |
 | [Data Analytics Engineer 1](https://job-boards.greenhouse.io/dv01/jobs/8497282002) | dv01 | Remote in USA | Fresher Job | Remote | — |
 | [Full Stack Engineer](https://jobs.lever.co/hhaexchange/37711e74-f9e9-42c5-9c4f-66df2afab2e2/apply) | hhaexchange | Remote in USA | Fresher Job | Remote | — |
-| [Product Carnival: National Product Management Challenge](https://unstop.com/competitions/product-carnival-national-product-management-challenge-book-my-mentor-1703082) | Book My Mentor | India | Hackathon | Onsite | 2026-07-05 |
-| [The FinSight Fellowship](https://unstop.com/workshops-webinars/the-finsight-fellowship-hindu-college-1704704) | Hindu College | India | Hackathon | Onsite | 2026-07-07 |
-| [Stock Analysis - July 2026](https://unstop.com/competitions/stock-analysis-july-2026-ibs-business-school-ahmedabad-1705209) | IBS Business School Ahmedaba | India | Hackathon | Onsite | 2026-07-07 |
-| [Pitchfund](https://unstop.com/competitions/pitchfund-e-summit-2026-iit-ism-dhanbad-indian-institute-of-technology-indian-school-of-mines-iit-ism-dhanb-1704711) | Indian Institute of Technolo | India | Hackathon | Onsite | 2026-08-09 |
-| [Crack the Internship: Lead Challenge-2](https://unstop.com/competitions/crack-the-internship-lead-challenge-2-internselite-edutech-private-limited-1704808) | Internselite Edutech Private | India | Hackathon | Onsite | 2026-07-16 |
-| [Hack to Survive](https://unstop.com/hackathons/hack-to-survive-kiras-logic-1705001) | Kiras Logic | India | Hackathon | Onsite | 2026-08-08 |
-| [Young Innovators League](https://unstop.com/quiz/young-innovators-league-outthinkx-1704699) | OutThinkX | India | Hackathon | Onsite | 2026-08-15 |
-| [The Beautiful Game || A Football Quiz](https://unstop.com/quiz/the-beautiful-game-a-football-quiz-quizarc-1704677) | Quizarc | India | Hackathon | Onsite | 2026-07-26 |
-| [Electronics Hub](https://unstop.com/competitions/electronics-hub-raghu-engineeringbcollege-1704857) | Raghu EngineeringbCollege | India | Hackathon | Onsite | 2026-08-29 |
-| [How is AI disrupting Engineering Roles and where do students...](https://unstop.com/workshops-webinars/how-is-ai-disrupting-engineering-roles-and-where-do-students-go-for-advice-scripthonix-solutions-1704925) | Scripthonix Solutions | India | Hackathon | Onsite | 2026-07-09 |
+| [Betaverse](https://unstop.com/events/betaverse-iit-gandhinagar-1706043) | Indian Institute of Technolo | India | Hackathon | Onsite | 2026-07-01 |
+| [Quiz Masters Challenge 2026](https://unstop.com/quiz/quiz-masters-challenge-2026-iit-roorkee-1706666) | Indian Institute of Technolo | India | Hackathon | Onsite | 2026-07-30 |
+| [IndiaStox Nifty50 Predictions Challenge](https://unstop.com/competitions/indiastox-nifty50-predictions-challenge-indiastox-1705751) | Indiastox | India | Hackathon | Onsite | 2026-07-05 |
+| [Building Strong Software Foundations: An Introduction to Sys...](https://unstop.com/workshops-webinars/building-strong-software-foundations-an-introduction-to-system-design-techbairn-1708268) | TechBairn | India | Hackathon | Onsite | 2026-07-02 |
+| [How Modern Applications Really Work](https://unstop.com/workshops-webinars/how-modern-applications-really-work-techbairn-research-1706436) | TechBairn Research | India | Hackathon | Onsite | 2026-06-30 |
 | [Developer Intern - Front-End Platform](https://jobs.ashbyhq.com/1password/c90c5d23-fd41-4c01-8422-08f4b64144f5/application) | 1Password | Remote in USA, Remote in  | Internship | Remote | — |
 | [Internship Senior Signal Associate](https://job-boards.greenhouse.io/60decibelsinc/jobs/4684949006) | 60decibelsinc | London, UK, Bengaluru, Ka | Internship | Onsite | — |
 | [Product Analyst Intern](https://job-boards.greenhouse.io/accuweather/jobs/7453001) | AccuWeather | State College, PA, Remote | Internship | Remote | — |
@@ -168,10 +163,13 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 ## Active Opportunities
 
 The 50 most recently added active opportunities across all categories.
-[View all 1854 on the website.](https://athul-s-369.github.io/Placement_Pulse)
+[View all 1857 on the website.](https://athul-s-369.github.io/Placement_Pulse)
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
+| [Quiz Masters Challenge 2026](https://unstop.com/quiz/quiz-masters-challenge-2026-iit-roorkee-1706666) | Indian Institute of Technolo | India | Hackathon | Onsite | 2026-07-30 |
+| [IndiaStox Nifty50 Predictions Challenge](https://unstop.com/competitions/indiastox-nifty50-predictions-challenge-indiastox-1705751) | Indiastox | India | Hackathon | Onsite | 2026-07-05 |
+| [Betaverse](https://unstop.com/events/betaverse-iit-gandhinagar-1706043) | Indian Institute of Technolo | India | Hackathon | Onsite | 2026-07-01 |
 | [The Beautiful Game || A Football Quiz](https://unstop.com/quiz/the-beautiful-game-a-football-quiz-quizarc-1704677) | Quizarc | India | Hackathon | Onsite | 2026-07-26 |
 | [Hack to Survive](https://unstop.com/hackathons/hack-to-survive-kiras-logic-1705001) | Kiras Logic | India | Hackathon | Onsite | 2026-08-08 |
 | [Stock Analysis - July 2026](https://unstop.com/competitions/stock-analysis-july-2026-ibs-business-school-ahmedabad-1705209) | IBS Business School Ahmedaba | India | Hackathon | Onsite | 2026-07-07 |
@@ -219,9 +217,6 @@ The 50 most recently added active opportunities across all categories.
 | [2026 – Internship - Markets - Systematic Trading - New York](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210680133) | JP Morgan Chase | NYC | Internship | Onsite | Open |
 | [Research Internship - Reinforcement Learning for Large Found...](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1) | Tencent | Bellevue, WA | Internship | Onsite | Open |
 | [Software Developer Intern - Industrial Placement](https://job-boards.greenhouse.io/drwuniversityjobs/jobs/7364884) | DRW Holdings | London, UK | Internship | Onsite | Open |
-| [2026 – Seasonal/Off Cycle Internship - London - FICC & Equit...](https://higher.gs.com/roles/150725?type=students) | Goldman Sachs | London, UK | Internship | Onsite | Open |
-| [Engineering Intern -](https://jobs.ashbyhq.com/cluely/89809243-a79a-4a8f-a394-8e8b12743108/application) | Cluely | SF | Internship | Onsite | Open |
-| [Quantitative Developer Intern](https://jobs.ashbyhq.com/scientech-research/47be106e-4a2a-4814-bca8-4a7b97816d7c/application) | Scientech Research | Jackson Township, NJ | Internship | Onsite | Open |
 
 ---
 
@@ -231,7 +226,7 @@ The 50 most recently added active opportunities across all categories.
 |----------|-------|
 | [Fresher Job](categories/fresher-job/) | 1117 |
 | [Internship](categories/internship/) | 711 |
-| [Hackathon](categories/hackathon/) | 20 |
+| [Hackathon](categories/hackathon/) | 23 |
 | [Open Source Program](categories/open-source-program/) | 2 |
 | [Fellowship](categories/fellowship/) | 2 |
 | [Student Ambassador](categories/student-ambassador/) | 2 |
@@ -281,6 +276,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-06-29 16:16 UTC</sub>
+<sub>Last generated: 2026-06-29 18:33 UTC</sub>
 
 </div>

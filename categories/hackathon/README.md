@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**20 active** | **0 expired** | **20 total**
+**23 active** | **0 expired** | **23 total**
 
 *Last updated: 2026-06-29*
 
@@ -8,6 +8,9 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Quiz Masters Challenge 2026](https://unstop.com/quiz/quiz-masters-challenge-2026-iit-roorkee-1706666) | Indian Institute of Technology (IIT), Roorkee | India | 🏢 Onsite | — | 2026-07-30 | Unstop |
+| [IndiaStox Nifty50 Predictions Challenge](https://unstop.com/competitions/indiastox-nifty50-predictions-challenge-indiastox-1705751) | Indiastox | India | 🏢 Onsite | — | 2026-07-05 | Unstop |
+| [Betaverse](https://unstop.com/events/betaverse-iit-gandhinagar-1706043) | Indian Institute of Technology (IIT), Gandhinagar | India | 🏢 Onsite | — | 2026-07-01 | Unstop |
 | [The Beautiful Game || A Football Quiz](https://unstop.com/quiz/the-beautiful-game-a-football-quiz-quizarc-1704677) | Quizarc | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
 | [Hack to Survive](https://unstop.com/hackathons/hack-to-survive-kiras-logic-1705001) | Kiras Logic | India | 🏢 Onsite | — | 2026-08-08 | Unstop |
 | [Stock Analysis - July 2026](https://unstop.com/competitions/stock-analysis-july-2026-ibs-business-school-ahmedabad-1705209) | IBS Business School Ahmedabad | India | 🏢 Onsite | — | 2026-07-07 | Unstop |
