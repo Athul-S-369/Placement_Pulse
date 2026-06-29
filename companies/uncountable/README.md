@@ -4,7 +4,7 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
+- **Categories:** Internship, Fresher Job
 - **Locations:** SF, NYC, London, UK, SF, NYC, Munich, Germany, San Francisco, New York, London
 
 ## Current Opportunities

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Florence, KY, Memphis, TN
+- **Locations:** Memphis, TN, Florence, KY
 
 ## Current Opportunities
 

@@ -4,7 +4,7 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
+- **Categories:** Internship, Fresher Job
 - **Locations:** Ashford District, UK, Halifax Regional Municipality, NS, Canada
 
 ## Current Opportunities

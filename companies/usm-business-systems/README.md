@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Chantilly, VA, Westminster, CO, Baltimore, MD, Rochester, MI, Columbus, OH
+- **Categories:** Internship, Fresher Job
+- **Locations:** San Antonio, TX, Manassas, VA, Washington, DC, Dublin, OH, Bluemont, VA
 
 ## Current Opportunities
 
