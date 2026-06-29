@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Chicago, IL, Baltimore, MD, Bloomington, MN, Dublin, OH, Washington, DC
+- **Locations:** Chantilly, VA, Westminster, CO, Baltimore, MD, Rochester, MI, Columbus, OH
 
 ## Current Opportunities
 

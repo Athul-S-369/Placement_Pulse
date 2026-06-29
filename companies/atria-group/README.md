@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Hartford, CT, Sunnyvale, CA, Chicago, IL, NYC, Plainview, NY
+- **Locations:** Hartford, CT, Broomfield, CO, Dallas, TX, St. Louis, MO, Plainview, NY
 
 ## Current Opportunities
 

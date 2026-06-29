@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Queens, NY, NYC
+- **Locations:** NYC, Queens, NY
 
 ## Current Opportunities
 

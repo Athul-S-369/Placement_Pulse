@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Urbana, IL, Utica, NY
+- **Locations:** Utica, NY, Urbana, IL
 
 ## Current Opportunities
 
