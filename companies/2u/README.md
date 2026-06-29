@@ -1,11 +1,11 @@
 # 🏢 2U
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-06-28*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-06-29*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Alexandria, VA, Arlington, VA
+- **Locations:** Arlington, VA, Alexandria, VA
 
 ## Current Opportunities
 

@@ -10,7 +10,7 @@
 [![Active](https://img.shields.io/badge/Active-1853-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
 [![Companies](https://img.shields.io/badge/Companies-1248-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
-[![Updated](https://img.shields.io/badge/Updated-Jun%2028%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
+[![Updated](https://img.shields.io/badge/Updated-Jun%2029%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
 [Latest Run](#latest-run) &nbsp;·&nbsp;
 [Active Opportunities](#active-opportunities) &nbsp;·&nbsp;
@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**June 28, 2026** &nbsp;—&nbsp; **62** Fresher Job &nbsp;·&nbsp; **47** Internship &nbsp;·&nbsp; **10** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**June 29, 2026** &nbsp;—&nbsp; **62** Fresher Job &nbsp;·&nbsp; **41** Internship &nbsp;·&nbsp; **10** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**125 opportunities** added or updated in the latest run (June 28, 2026).
+**119 opportunities** added or updated in the latest run (June 29, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -135,19 +135,14 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Data Science Intern - Customer Success](https://job-boards.greenhouse.io/cresta/jobs/5213417008) | Cresta | Remote in USA | Internship | Remote | — |
 | [Forward Deployed Engineering Intern - AI Agent](https://job-boards.greenhouse.io/cresta/jobs/5106468008) | Cresta | Remote in Canada | Internship | Remote | — |
 | [Intelligence Launch Intern](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Intelligence-Launch-Intern---Summer-2026--Remote-_R26263) | Crowdstrike | Remote in USA | Internship | Remote | — |
-| [AI Intern](https://job-boards.greenhouse.io/eqtcorporation/jobs/4956747008) | EQT Corporation | Remote / Various | Internship | Remote | — |
 | [Engineering Excellence Engineer Intern](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Engineering-Excellence-Intern_R041330) | Ensemble Health Partners | Remote in USA | Internship | Remote | — |
 | [AI Researcher Intern](https://job-boards.greenhouse.io/genscript/jobs/5138842007) | GenScript | Remote in USA | Internship | Remote | — |
 | [Research Intern](https://job-boards.eu.greenhouse.io/gensyn/jobs/4579609101) | Gensyn | Remote in UK | Internship | Remote | — |
 | [AI Engineer Intern](https://jobs.ashbyhq.com/greatquestion/c533196c-75d5-43b8-b1c8-dedf2437d544/application) | Great Question | SF, Remote in USA | Internship | Remote | — |
-| [AI/ML Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/AI-ML-Intern_1195728) | Hewlett Packard Enterprise | Remote / Various | Internship | Remote | — |
 | [Machine Learning PhD Intern - Economics](https://instacart.careers/job/?gh_jid=7532267) | Instacart | Remote in USA | Internship | Remote | — |
-| [AI & Automation Intern](https://ksmcpa.wd12.myworkdayjobs.com/en-US/ksmcareers/job/Indianapolis/AI---Automation-Intern--Summer-2026-_R-100241) | KSM | Remote / Various | Internship | Remote | — |
 | [Software Developer Internship](https://llbean.wd1.myworkdayjobs.com/en-US/LLBean_Careers/job/Freeport-ME/Software-Developer-Internship_JR10190) | L.L.Bean | Remote / Various | Internship | Remote | — |
 | [AI Product Engineer Intern](https://jobs.gusto.com/postings/myemployment-llc-ai-product-engineer-intern-c08d7fd3-115e-46ad-a46f-6c4be1f77263) | MyEmployment | Remote in US | Internship | Remote | — |
 | [Generative AI Engineer Intern](https://careers-peraton.icims.com/jobs/167460/job?mobile=true&needsRedirect=false) | Peraton | Remote in USA | Internship | Remote | — |
-| [AI & IoT Solution Advisor Intern](https://careers-sas.icims.com/jobs/40587/summer-2026-%E2%80%93-ai-%26-iot-solution-advisor-intern/job) | SAS | Remote / Various | Internship | Remote | — |
-| [Summer 2025 Intern - Software Engineer (Security/Government)](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Summer-2025-Intern---Software-Engineer--Security-Government-_JR311149-1) | Salesforce | Remote / Various | Internship | Remote | — |
 | [Product Intern](https://job-boards.greenhouse.io/sezzle/jobs/6599073003) | Sezzle | Remote in Canada | Internship | Remote | — |
 | [AI & Data Engineering Apprentice](https://job-boards.greenhouse.io/simpletechnologysolutions/jobs/6099047004) | Simple Technology Solutions | Remote in USA | Internship | Remote | — |
 | [Software Engineer Intern - Data](https://jobs.ashbyhq.com/super.com/026d7e42-85b6-4baa-bab8-bf3f6d10bc0d/application) | Super | Remote in Canada | Internship | Remote | — |
@@ -158,7 +153,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [IP Product Operations](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4530843007) | Tenstorrent | Remote in USA, Remote in  | Internship | Remote | — |
 | [Software Engineering Intern, Frontend](https://jobs.ashbyhq.com/tessera-labs/c0350717-8b4d-4a1a-af00-4c62204192fd) | Tessera Labs | Remote in USA | Internship | Remote | — |
 | [Agentic AI Engineer Co-op](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015) | The Campbell's Company | Remote in USA | Internship | Remote | — |
-| [AI & Automation Intern](https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Pittsburgh-Pennsylvania-USA/Data-Catalog-Maintenance-Intern_R-01328163c) | Thermo Fisher Scientific | Remote / Various | Internship | Remote | — |
 | [Data Engineer](https://velera.wd5.myworkdayjobs.com/veleracareers/job/Remote-USA/Intern---Data-Engineer--REMOTE-_8844) | Velera | Remote in USA | Internship | Remote | — |
 | [Full Stack Developer Intern](https://vetsez.breezy.hr/p/a4010fdb3a7001-full-stack-developer-intern-remote-opportunity) | VetsEZ | Remote in US | Internship | Remote | — |
 | [2026 Summer Intern, PhD, Software Engineer, Predictive Plann...](https://careers.withwaymo.com/jobs/2026-summer-intern-phd-software-engineer-predictive-planner-ml-dl-mountain-view-california-united-states?gh_jid=7368864) | Waymo | Remote / Various | Internship | Remote | — |
@@ -262,13 +256,13 @@ The 50 most recently added active opportunities across all categories.
 
 ## Archive
 
-- [June 28, 2026 — Today](daily/2026/June/2026-06-28.md)
+- [June 29, 2026 — Today](daily/2026/June/2026-06-29.md)
+- [June 28, 2026](daily/2026/June/2026-06-28.md)
 - [June 27, 2026](daily/2026/June/2026-06-27.md)
 - [June 26, 2026](daily/2026/June/2026-06-26.md)
 - [June 25, 2026](daily/2026/June/2026-06-25.md)
 - [June 24, 2026](daily/2026/June/2026-06-24.md)
 - [June 23, 2026](daily/2026/June/2026-06-23.md)
-- [June 22, 2026](daily/2026/June/2026-06-22.md)
 
 [Full archive](daily/)
 
@@ -287,6 +281,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-06-28 17:47 UTC</sub>
+<sub>Last generated: 2026-06-29 05:14 UTC</sub>
 
 </div>

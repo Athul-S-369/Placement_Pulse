@@ -1,11 +1,11 @@
 # 🏢 Mariana Minerals
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-06-28*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-06-29*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Moab, UT, Houston, TX, SF, Ann Arbor, MI
+- **Locations:** Houston, TX, SF, Ann Arbor, MI, Moab, UT
 
 ## Current Opportunities
 
