@@ -1,11 +1,11 @@
 # 🏢 Waymo
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-06-29*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-06-30*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote / Various, Mountain View, CA
+- **Locations:** Mountain View, CA, Remote / Various
 
 ## Current Opportunities
 

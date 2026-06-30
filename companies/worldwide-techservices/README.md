@@ -1,11 +1,11 @@
 # 🏢 Worldwide TechServices
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-06-29*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-06-30*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Binghamton, NY, Topeka, KS
+- **Locations:** Topeka, KS, Binghamton, NY
 
 ## Current Opportunities
 

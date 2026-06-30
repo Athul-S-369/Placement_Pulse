@@ -1,11 +1,11 @@
 # 🏢 BAE Systems
 
-**7 active opportunities** | **7 total tracked** | *Last updated: 2026-06-29*
+**7 active opportunities** | **7 total tracked** | *Last updated: 2026-06-30*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Fort Worth, TX, Greenlawn, NY, Girvan, UK, Nashua, NH, Hudson, NH, Manchester, NH, Merrimack, NH, Cedar Rapids, IA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Greenlawn, NY, Girvan, UK, Nashua, NH, Hudson, NH, Manchester, NH, Merrimack, NH, Cedar Rapids, IA, Totowa, NJ
 
 ## Current Opportunities
 

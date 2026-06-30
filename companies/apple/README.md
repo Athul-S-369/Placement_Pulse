@@ -1,11 +1,11 @@
 # 🏢 Apple
 
-**17 active opportunities** | **17 total tracked** | *Last updated: 2026-06-29*
+**17 active opportunities** | **17 total tracked** | *Last updated: 2026-06-30*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Beaverton, OR, Morrisville, NC, Gloucester, UK, Waltham, MA, Lafayette, KS
+- **Categories:** Internship, Fresher Job
+- **Locations:** Lafayette, KS, Cambridge, MA, Seattle, WA, United States, Austin, TX
 
 ## Current Opportunities
 

@@ -1,11 +1,11 @@
 # 🏢 Teamworks
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-06-29*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-06-30*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, Remote in Canada, North Carolina
+- **Locations:** North Carolina, Remote in USA, Remote in Canada
 
 ## Current Opportunities
 

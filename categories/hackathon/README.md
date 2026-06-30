@@ -1,13 +1,15 @@
 # 🏆 Hackathon
 
-**23 active** | **0 expired** | **23 total**
+**25 active** | **0 expired** | **25 total**
 
-*Last updated: 2026-06-29*
+*Last updated: 2026-06-30*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [MangaVerse](https://unstop.com/competitions/mangaverse-ieee-sheaspire-30-veer-surendra-sai-university-of-technology-vssut-odisha-1703969) | Veer Surendra Sai University of Technology (VSSUT), Odisha | India | 🏢 Onsite | — | 2026-07-06 | Unstop |
+| [Cascade - A Cryptic Hunt](https://unstop.com/hackathons/cascade-a-cryptic-hunt-manipal-university-mu-jaipur-1704689) | Manipal University (MU), Jaipur | India | 🏢 Onsite | — | 2026-07-05 | Unstop |
 | [Quiz Masters Challenge 2026](https://unstop.com/quiz/quiz-masters-challenge-2026-iit-roorkee-1706666) | Indian Institute of Technology (IIT), Roorkee | India | 🏢 Onsite | — | 2026-07-30 | Unstop |
 | [IndiaStox Nifty50 Predictions Challenge](https://unstop.com/competitions/indiastox-nifty50-predictions-challenge-indiastox-1705751) | Indiastox | India | 🏢 Onsite | — | 2026-07-05 | Unstop |
 | [Betaverse](https://unstop.com/events/betaverse-iit-gandhinagar-1706043) | Indian Institute of Technology (IIT), Gandhinagar | India | 🏢 Onsite | — | 2026-07-01 | Unstop |

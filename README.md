@@ -6,11 +6,11 @@
 
 **India's open-source aggregator for software internships, fresher jobs,<br>hackathons, fellowships, and placement opportunities.**
 
-[![Opportunities](https://img.shields.io/badge/Opportunities-1857-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
-[![Active](https://img.shields.io/badge/Active-1856-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
-[![Companies](https://img.shields.io/badge/Companies-1251-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
+[![Opportunities](https://img.shields.io/badge/Opportunities-1859-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
+[![Active](https://img.shields.io/badge/Active-1858-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
+[![Companies](https://img.shields.io/badge/Companies-1253-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
-[![Updated](https://img.shields.io/badge/Updated-Jun%2029%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
+[![Updated](https://img.shields.io/badge/Updated-Jun%2030%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
 [Latest Run](#latest-run) &nbsp;·&nbsp;
 [Active Opportunities](#active-opportunities) &nbsp;·&nbsp;
@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**June 29, 2026** &nbsp;—&nbsp; **61** Fresher Job &nbsp;·&nbsp; **42** Internship &nbsp;·&nbsp; **5** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**June 30, 2026** &nbsp;—&nbsp; **61** Fresher Job &nbsp;·&nbsp; **42** Internship &nbsp;·&nbsp; **3** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**114 opportunities** added or updated in the latest run (June 29, 2026).
+**112 opportunities** added or updated in the latest run (June 30, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -106,11 +106,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Full Stack / Backend Software Engineer](https://jobs.ashbyhq.com/candidate.fyi/0448a10e-863f-437f-80bb-d65ee09f8b6e/application) | candidate fyi | Remote in USA | Fresher Job | Remote | — |
 | [Data Analytics Engineer 1](https://job-boards.greenhouse.io/dv01/jobs/8497282002) | dv01 | Remote in USA | Fresher Job | Remote | — |
 | [Full Stack Engineer](https://jobs.lever.co/hhaexchange/37711e74-f9e9-42c5-9c4f-66df2afab2e2/apply) | hhaexchange | Remote in USA | Fresher Job | Remote | — |
-| [Betaverse](https://unstop.com/events/betaverse-iit-gandhinagar-1706043) | Indian Institute of Technolo | India | Hackathon | Onsite | 2026-07-01 |
-| [Quiz Masters Challenge 2026](https://unstop.com/quiz/quiz-masters-challenge-2026-iit-roorkee-1706666) | Indian Institute of Technolo | India | Hackathon | Onsite | 2026-07-30 |
-| [IndiaStox Nifty50 Predictions Challenge](https://unstop.com/competitions/indiastox-nifty50-predictions-challenge-indiastox-1705751) | Indiastox | India | Hackathon | Onsite | 2026-07-05 |
+| [Cascade - A Cryptic Hunt](https://unstop.com/hackathons/cascade-a-cryptic-hunt-manipal-university-mu-jaipur-1704689) | Manipal University (MU), Jai | India | Hackathon | Onsite | 2026-07-05 |
 | [Building Strong Software Foundations: An Introduction to Sys...](https://unstop.com/workshops-webinars/building-strong-software-foundations-an-introduction-to-system-design-techbairn-1708268) | TechBairn | India | Hackathon | Onsite | 2026-07-02 |
-| [How Modern Applications Really Work](https://unstop.com/workshops-webinars/how-modern-applications-really-work-techbairn-research-1706436) | TechBairn Research | India | Hackathon | Onsite | 2026-06-30 |
+| [MangaVerse](https://unstop.com/competitions/mangaverse-ieee-sheaspire-30-veer-surendra-sai-university-of-technology-vssut-odisha-1703969) | Veer Surendra Sai University | India | Hackathon | Onsite | 2026-07-06 |
 | [Developer Intern - Front-End Platform](https://jobs.ashbyhq.com/1password/c90c5d23-fd41-4c01-8422-08f4b64144f5/application) | 1Password | Remote in USA, Remote in  | Internship | Remote | — |
 | [Internship Senior Signal Associate](https://job-boards.greenhouse.io/60decibelsinc/jobs/4684949006) | 60decibelsinc | London, UK, Bengaluru, Ka | Internship | Onsite | — |
 | [Product Analyst Intern](https://job-boards.greenhouse.io/accuweather/jobs/7453001) | AccuWeather | State College, PA, Remote | Internship | Remote | — |
@@ -163,10 +161,12 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 ## Active Opportunities
 
 The 50 most recently added active opportunities across all categories.
-[View all 1857 on the website.](https://athul-s-369.github.io/Placement_Pulse)
+[View all 1859 on the website.](https://athul-s-369.github.io/Placement_Pulse)
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
+| [MangaVerse](https://unstop.com/competitions/mangaverse-ieee-sheaspire-30-veer-surendra-sai-university-of-technology-vssut-odisha-1703969) | Veer Surendra Sai University | India | Hackathon | Onsite | 2026-07-06 |
+| [Cascade - A Cryptic Hunt](https://unstop.com/hackathons/cascade-a-cryptic-hunt-manipal-university-mu-jaipur-1704689) | Manipal University (MU), Jai | India | Hackathon | Onsite | 2026-07-05 |
 | [Quiz Masters Challenge 2026](https://unstop.com/quiz/quiz-masters-challenge-2026-iit-roorkee-1706666) | Indian Institute of Technolo | India | Hackathon | Onsite | 2026-07-30 |
 | [IndiaStox Nifty50 Predictions Challenge](https://unstop.com/competitions/indiastox-nifty50-predictions-challenge-indiastox-1705751) | Indiastox | India | Hackathon | Onsite | 2026-07-05 |
 | [Betaverse](https://unstop.com/events/betaverse-iit-gandhinagar-1706043) | Indian Institute of Technolo | India | Hackathon | Onsite | 2026-07-01 |
@@ -215,8 +215,6 @@ The 50 most recently added active opportunities across all categories.
 | [Junior Software Engineer – Internship](https://job-boards.greenhouse.io/aechelontechnology/jobs/4831334008) | Aechelon Technology | Overland Park, KS | Internship | Onsite | Open |
 | [Software Developer – Co-op - Engineering - Ruby on Rails, An...](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Vancouver/Software-Developer--Co-op_REQ-1577) | Clio | Toronto, ON, Canada, Calg | Internship | Onsite | Open |
 | [2026 – Internship - Markets - Systematic Trading - New York](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210680133) | JP Morgan Chase | NYC | Internship | Onsite | Open |
-| [Research Internship - Reinforcement Learning for Large Found...](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1) | Tencent | Bellevue, WA | Internship | Onsite | Open |
-| [Software Developer Intern - Industrial Placement](https://job-boards.greenhouse.io/drwuniversityjobs/jobs/7364884) | DRW Holdings | London, UK | Internship | Onsite | Open |
 
 ---
 
@@ -226,7 +224,7 @@ The 50 most recently added active opportunities across all categories.
 |----------|-------|
 | [Fresher Job](categories/fresher-job/) | 1117 |
 | [Internship](categories/internship/) | 711 |
-| [Hackathon](categories/hackathon/) | 23 |
+| [Hackathon](categories/hackathon/) | 25 |
 | [Open Source Program](categories/open-source-program/) | 2 |
 | [Fellowship](categories/fellowship/) | 2 |
 | [Student Ambassador](categories/student-ambassador/) | 2 |
@@ -251,13 +249,13 @@ The 50 most recently added active opportunities across all categories.
 
 ## Archive
 
-- [June 29, 2026 — Today](daily/2026/June/2026-06-29.md)
+- [June 30, 2026 — Today](daily/2026/June/2026-06-30.md)
+- [June 29, 2026](daily/2026/June/2026-06-29.md)
 - [June 28, 2026](daily/2026/June/2026-06-28.md)
 - [June 27, 2026](daily/2026/June/2026-06-27.md)
 - [June 26, 2026](daily/2026/June/2026-06-26.md)
 - [June 25, 2026](daily/2026/June/2026-06-25.md)
 - [June 24, 2026](daily/2026/June/2026-06-24.md)
-- [June 23, 2026](daily/2026/June/2026-06-23.md)
 
 [Full archive](daily/)
 
@@ -276,6 +274,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-06-29 18:33 UTC</sub>
+<sub>Last generated: 2026-06-30 04:48 UTC</sub>
 
 </div>

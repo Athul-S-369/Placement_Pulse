@@ -1,6 +1,6 @@
 # 🏢 Vanasse Hangen Brustlin (VHB)
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-06-29*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-06-30*
 
 ## Overview
 
