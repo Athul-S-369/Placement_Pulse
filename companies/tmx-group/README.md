@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Montreal, QC, Canada, Toronto, ON, Canada, London, UK
+- **Locations:** London, UK, Montreal, QC, Canada, Toronto, ON, Canada
 
 ## Current Opportunities
 

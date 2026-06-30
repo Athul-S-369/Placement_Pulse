@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Broomfield, CO, Dallas, TX, Thousand Oaks, CA, Hartford, CT, San Jose, CA
+- **Locations:** Chicago, IL, San Jose, CA, Alpharetta, GA, Broomfield, CO, St. Louis, MO
 
 ## Current Opportunities
 

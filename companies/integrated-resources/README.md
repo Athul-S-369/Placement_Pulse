@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Boston, MA, Cambridge, MA, North Haven, CT, Elmira, NY, Exton, PA
+- **Locations:** Hickory, NC, Santa Clara, CA, Cherry Hills Village, CO, Ambler, PA, Exton, PA
 
 ## Current Opportunities
 

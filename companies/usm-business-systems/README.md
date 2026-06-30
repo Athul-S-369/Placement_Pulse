@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** NYC, Bloomington, MN, Jefferson City, MO, St. Louis, MO, Columbus, OH
+- **Locations:** Rochester, MI, Southfield, MI, St. Louis, MO, Jefferson City, MO, Bloomington, MN
 
 ## Current Opportunities
 
