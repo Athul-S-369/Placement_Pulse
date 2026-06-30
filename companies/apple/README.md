@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Santa Clara, CA, San Jose, CA, Waltham, MA, Cupertino, CA, Morrisville, NC
+- **Categories:** Fresher Job, Internship
+- **Locations:** Santa Clara, CA, Seattle, WA, Beaverton, OR, Waltham, MA, United States
 
 ## Current Opportunities
 

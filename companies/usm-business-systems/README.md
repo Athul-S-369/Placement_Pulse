@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Rochester, MI, Southfield, MI, St. Louis, MO, Jefferson City, MO, Bloomington, MN
+- **Categories:** Fresher Job, Internship
+- **Locations:** Alexandria, VA, Manassas, VA, Dublin, OH, St. Louis, MO, Westminster, CO
 
 ## Current Opportunities
 
