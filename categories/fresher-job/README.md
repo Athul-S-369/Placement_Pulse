@@ -1,13 +1,22 @@
 # 💼 Fresher Job
 
-**1117 active** | **0 expired** | **1117 total**
+**1126 active** | **0 expired** | **1126 total**
 
-*Last updated: 2026-06-30*
+*Last updated: 2026-07-01*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Senior Data Scientist](https://apply.careers.microsoft.com/careers/job/1970393556833959) | Microsoft | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Senior Software Engineer](https://jobs.ashbyhq.com/sardine/69604df3-fb78-4621-a250-4b2bd6af0531/application) | Sardine | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [System Specialist](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/System-Specialist_R22024) | Wex | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Associate Certification Program Systems Analyst](https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946) | Guidewire | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Associate Data Analyst - People Analytics & Automation](https://jdgroupnam.wd1.myworkdayjobs.com/JDFL_Corporate_Careers/job/FL-Customer-Central---Indianapolis-Indiana/Associate-Data-Analyst--People-Analytics---Automation_JR133993) | JD Finish line | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
+| [Data Research Analyst](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/US-Other/Data-Analyst_R-6161) | TMX Group | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [BI Engineer 1](https://jobs.lever.co/Trend-Health-Partners/5f478cad-abe8-40a2-aba0-76abef8b330f/apply) | Trend Health Partners | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Engineer 1](https://jobs.lever.co/aledade/1f5c4e2f-d8f7-4c55-aefb-d4bf300b1e6f/apply) | Aledade | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Data Warehouse Software Engineer 1](https://job-boards.greenhouse.io/babelstreet/jobs/8030833) | Babel Street | Cambridge, MA, Remote in USA, Reston, VA, Solon, OH | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand](https://www.flexport.com/company/careers/) | Various | India | 🏢 Onsite | — | — | Hacker News |
 | [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead) | Various | Remote | 🌐 Remote | — | — | Hacker News |
 | [Associate Software Engineer – Seeking 2025 & 2026 Grads - Engineering Development Program](https://jobs.lever.co/veeva/e31a2a3c-a508-459c-9f77-a2692a95f233/apply) | Veeva Systems | Raleigh, NC | 🏢 Onsite | — | — | SimplifyJobs New Grad |
@@ -99,12 +108,3 @@
 | [Quantitative Financial Risk Analyst](https://Quantitative Financial Risk Analyst) | Susquehanna | Bala Cynwyd, PA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Data Scientist I - Hybrid](https://compass.wd501.myworkdayjobs.com/en-US/radian_external_career_site/job/New-York-NY/Data-Scientist-I---Hybrid_R20250160) | Radian | New York, NY | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Trading Assistant - Trading Assistant](https://job-boards.greenhouse.io/fiveringsllc/jobs/5047415008) | Five Rings Capital | NYC | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Junior RUST Embedded Software Engineer (cleared)](https://careers-gdms.icims.com/jobs/69871/junior-rust-embedded-software-engineer-%28cleared%29/job) | General Dynamics Mission Systems | Taunton, MA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Quantitative Analyst 1](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26076) | Fanatics | Denver, CO | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Software Engineer](https://jobs.lever.co/mechanicalorchard/3ee619b5-9916-453c-8ed0-30fcbf75a675/apply) | Mechanical Orchard | Toronto, ON, Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Controls Electrician](https://job-boards.greenhouse.io/axiscompany/jobs/8343454002) | Axis Automation | Grand Rapids, MI | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Field Service Engineer](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Pittsburgh-Pennsylvania-United-States/Field-Service-Engineer----Pittsburgh--PA_R1301684-1) | Danaher Corporation | Altoona, PA, Pittsburgh, PA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Graduate Silicon Engineer](https://job-boards.greenhouse.io/graphcore/jobs/8360495002) | Graphcore | Bristol, UK | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Technology Graduate](https://job-boards.greenhouse.io/mw-tech-grad/jobs/8119127002) | Marshall Wace | London, UK | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [AI Trainer - Advanced Urdu Fluency - UK](https://job-boards.eu.greenhouse.io/prolific/jobs/4747728101) | Prolific | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Assembly Screening Technician - On the Job Training](https://careers-peraton.icims.com/jobs/161590/job?mobile=true&needsRedirect=false) | Peraton | Topeka, KS | 🏢 Onsite | — | — | SimplifyJobs New Grad |

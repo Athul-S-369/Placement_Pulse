@@ -1,16 +1,17 @@
 # 🏢 Microsoft
 
-**14 active opportunities** | **14 total tracked** | *Last updated: 2026-06-30*
+**15 active opportunities** | **15 total tracked** | *Last updated: 2026-07-01*
 
 ## Overview
 
-- **Categories:** Student Ambassador, Fresher Job, Internship
-- **Locations:** Redmond, WA, Vancouver, BC, Canada, Berkeley, CA, Burlington, MA, Annapolis Junction, MD, Reston, VA, NYC
+- **Categories:** Fresher Job, Internship, Student Ambassador
+- **Locations:** Annapolis Junction, MD, Reston, VA, NYC, Berkeley, CA, Burlington, MA, Cambridge, MA, Kitsap County, WA, Redmond, WA, Cambridge, MA, NYC
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Senior Data Scientist](https://apply.careers.microsoft.com/careers/job/1970393556833959) | Microsoft | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Research Intern - AIP AI Knowledge Multimodal AI](https://apply.careers.microsoft.com/careers/job/1970393556637119) | Microsoft | Redmond, WA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Research Intern - AI Network Observability](https://apply.careers.microsoft.com/careers/job/1970393556639544) | Microsoft | Redmond, WA, Mountain View, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Research Intern - Training Methods for LLM Efficiency](https://apply.careers.microsoft.com/careers/job/1970393556628881) | Microsoft | Mountain View, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

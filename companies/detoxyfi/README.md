@@ -1,6 +1,6 @@
 # 🏢 Detoxyfi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-06-30*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-01*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Industry Design Competition](https://unstop.com/competitions/industry-design-competition-detoxyfi-1704554) | Detoxyfi | India | 🏢 Onsite | — | 2026-06-30 | Unstop |
 
 ## 📖 Interview Preparation
 

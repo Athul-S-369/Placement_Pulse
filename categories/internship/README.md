@@ -1,13 +1,19 @@
 # 🎓 Internship
 
-**711 active** | **0 expired** | **711 total**
+**717 active** | **0 expired** | **717 total**
 
-*Last updated: 2026-06-30*
+*Last updated: 2026-07-01*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer Intern - Software Engineer](https://job-boards.greenhouse.io/rise8/jobs/4359623007) | Rise8 | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Special Projects Associate - Sustainability Data Monitoring](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/US-Territory-Field-based/Special-Projects-Associate---Sustainability-Data-Monitoring_R0026251) | Elanco | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Data Analyst Intern](https://sedgwick.wd1.myworkdayjobs.com/en-US/Sedgwick/job/Telecommuter-TX/Data-Analyst_R75316) | Sedgwick Claims Management Services | New Mexico, Washington, Kansas, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Texas, Montana, Jackson Township, NJ, Florida, Waterbury, CT, Nevada, South Carolina, South Dakota, Georgia, Arizona, Concord, NH, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, U.S. Virgin Islands, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Data Science AI Intern](https://job-boards.greenhouse.io/pointc/jobs/5236086008) | Point C | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Software Engineer Intern](https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895/application) | Binance | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [AI Software Engineer Intern](https://jobs.ashbyhq.com/outmarket/8d192421-2422-42f5-854f-6a0765a949da/application) | Outmarket AI | Remote in India, Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineering Intern](https://githubinc.jibeapply.com/jobs/4640) | GitHub | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Advanced Analytics and Artificial Intelligence Intern - Summer 2026](https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/San-Diego/Advanced-Analytics-and-Artificial-Intelligence-Intern---Summer-2026_JR116229) | RSM | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Co-op AI Platform Engineer - Winter 2026](https://job-boards.greenhouse.io/faire/jobs/8230131002?gh_jid=8230131002) | Faire | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
@@ -102,9 +108,3 @@
 | [Product Analyst Intern](https://job-boards.greenhouse.io/accuweather/jobs/7453001) | AccuWeather | State College, PA, Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Intern](https://jobs.ashbyhq.com/etched/605c286d-be56-4e83-83b8-436d29ce17df) | Etched.ai | San Jose, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Software Development Engineer Internship - Summer 2026 - US](https://amazon.jobs/en/jobs/3116030/software-development-engineer-internship-summer-2026-us) | Amazon | Seattle, WA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Firmware Engineer](https://jobs.ashbyhq.com/base-power/a8ee9a66-e90b-42c2-a4a2-28d997c3e8c7/application) | Base Power | Austin, TX | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Research Intern - AIP AI Knowledge Multimodal AI](https://apply.careers.microsoft.com/careers/job/1970393556637119) | Microsoft | Redmond, WA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Research Intern - AI Network Observability](https://apply.careers.microsoft.com/careers/job/1970393556639544) | Microsoft | Redmond, WA, Mountain View, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Research Intern - Training Methods for LLM Efficiency](https://apply.careers.microsoft.com/careers/job/1970393556628881) | Microsoft | Mountain View, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Research Intern - Computational Social Science](https://apply.careers.microsoft.com/careers/job/1970393556639564) | Microsoft | NYC | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Research Intern - Microsoft Research Special Projects](https://apply.careers.microsoft.com/careers/job/1970393556628925) | Microsoft | Cambridge, MA, Kitsap County, WA, Redmond, WA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

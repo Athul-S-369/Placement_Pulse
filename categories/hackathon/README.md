@@ -1,13 +1,16 @@
 # 🏆 Hackathon
 
-**31 active** | **0 expired** | **31 total**
+**31 active** | **3 expired** | **34 total**
 
-*Last updated: 2026-06-30*
+*Last updated: 2026-07-01*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Roboauto-2026](https://unstop.com/hackathons/roboauto-2026-vidya-jyothi-institute-of-technology-1671501) | Vidya Jyothi Institute of Technology | India | 🏢 Onsite | — | 2026-07-05 | Unstop |
+| [CineVerse 2026 – The Ultimate Movie Challenge](https://unstop.com/quiz/cineverse-2026-the-ultimate-movie-challenge-gla-university-glau-uttar-pradesh-1709052) | GLA University (GLAU), Uttar Pradesh | India | 🏢 Onsite | — | 2026-07-06 | Unstop |
+| [Technostrophe '26](https://unstop.com/quiz/technostrophe-26-e-summit-26-indian-institute-of-technology-iit-dharwad-1709090) | Indian Institute of Technology (IIT), Dharwad | India | 🏢 Onsite | — | 2026-07-20 | Unstop |
 | [MangaVerse](https://unstop.com/competitions/mangaverse-ieee-sheaspire-30-veer-surendra-sai-university-of-technology-vssut-odisha-1703969) | Veer Surendra Sai University of Technology (VSSUT), Odisha | India | 🏢 Onsite | — | 2026-07-06 | Unstop |
 | [Cascade - A Cryptic Hunt](https://unstop.com/hackathons/cascade-a-cryptic-hunt-manipal-university-mu-jaipur-1704689) | Manipal University (MU), Jaipur | India | 🏢 Onsite | — | 2026-07-05 | Unstop |
 | [National Aptitude & Logic Olympiad](https://unstop.com/quiz/national-aptitude-logic-olympiad-conquer-e-learning-1708844) | Conquer E Learning | India | 🏢 Onsite | — | 2026-07-03 | Unstop |
@@ -30,12 +33,17 @@
 | [Product Carnival: National Product Management Challenge](https://unstop.com/competitions/product-carnival-national-product-management-challenge-book-my-mentor-1703082) | Book My Mentor | India | 🏢 Onsite | — | 2026-07-07 | Unstop |
 | [Pitchfund](https://unstop.com/competitions/pitchfund-e-summit-2026-iit-ism-dhanbad-indian-institute-of-technology-indian-school-of-mines-iit-ism-dhanb-1704711) | Indian Institute of Technology, Indian School of Mines (IIT ISM), Dhanbad | India | 🏢 Onsite | — | 2026-08-09 | Unstop |
 | [Ai Filmmaking Hackathon - Bangalore Edition](https://unstop.com/hackathons/ai-filmmaking-hackathon-bangalore-edition-ai-film-hackathon-bangalore-edition-11-fps-1703147) | 11 FPS | India | 🏢 Onsite | — | 2026-07-08 | Unstop |
-| [The Future of AI Starts with Better Prompts](https://unstop.com/workshops-webinars/the-future-of-ai-starts-with-better-prompts-techbairn-1704883) | TechBairn | India | 🏢 Onsite | — | 2026-06-30 | Unstop |
 | [Blueprints N Breakthroughs](https://unstop.com/workshops-webinars/blueprints-n-breakthroughs-maharaja-agrasen-institute-of-technology-mait-new-delhi-1704679) | Maharaja Agrasen Institute of Technology (MAIT), New Delhi | India | 🏢 Onsite | — | 2026-07-01 | Unstop |
 | [Nexus AI Quiz Ignite 2026](https://unstop.com/quiz/nexus-ai-quiz-ignite-2026-nexus-1703511) | Nexus | India | 🏢 Onsite | — | 2026-07-17 | Unstop |
 | [AI for Beginners: Understanding Artificial Intelligence, Machine Learning, Generative AI & AI Agents](https://unstop.com/workshops-webinars/ai-for-beginners-understanding-artificial-intelligence-machine-learning-generative-ai-ai-agents-sa-en-1704656) | S.A. Engineering College (SAEC), Chennai | India | 🏢 Onsite | — | 2026-07-08 | Unstop |
-| [Beyond Campus Placements: Your Path to a Tech Career](https://unstop.com/workshops-webinars/beyond-campus-placements-your-path-to-a-tech-career-techbairn-research-1704647) | TechBairn Research | India | 🏢 Onsite | — | 2026-06-30 | Unstop |
 | [Student Innovation & Product Summit (SIPS) 2026](https://unstop.com/hackathons/student-innovation-product-summit-sips-2026-iim-bangalore-1704216) | Indian Institute of Management (IIM), Bangalore | India | 🏢 Onsite | — | 2026-07-30 | Unstop |
 | [AI, Startups & You- The New Rules of Career Growth](https://unstop.com/workshops-webinars/ai-startups-you-the-new-rules-of-career-growth-ai-startups-you-the-new-rules-of-career-growth-cloud-c-1704629) | Cloud Counselage | India | 🏢 Onsite | — | 2026-07-04 | Unstop |
-| [Industry Design Competition](https://unstop.com/competitions/industry-design-competition-detoxyfi-1704554) | Detoxyfi | India | 🏢 Onsite | — | 2026-06-30 | Unstop |
 | [Build in AI for India](https://unstop.com/hackathons/build-in-ai-for-india-build-in-ai-for-india-1704081) | Build in AI for India | India | 🏢 Onsite | — | 2026-07-06 | Unstop |
+
+## Recently Expired
+
+| Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
+|------|---------|----------|------|----------------|----------|--------|
+| [Beyond Campus Placements: Your Path to a Tech Career](https://unstop.com/workshops-webinars/beyond-campus-placements-your-path-to-a-tech-career-techbairn-research-1704647) | TechBairn Research | India | 🏢 Onsite | — | 2026-06-30 | Unstop |
+| [Industry Design Competition](https://unstop.com/competitions/industry-design-competition-detoxyfi-1704554) | Detoxyfi | India | 🏢 Onsite | — | 2026-06-30 | Unstop |
+| [The Future of AI Starts with Better Prompts](https://unstop.com/workshops-webinars/the-future-of-ai-starts-with-better-prompts-techbairn-1704883) | TechBairn | India | 🏢 Onsite | — | 2026-06-30 | Unstop |

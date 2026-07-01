@@ -1,6 +1,6 @@
 # 🏢 Ciena
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-06-30*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-01*
 
 ## Overview
 
