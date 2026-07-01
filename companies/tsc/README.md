@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Plymouth, MA, Dahlgren, VA, Silver Spring, MD
+- **Locations:** Dahlgren, VA, Plymouth, MA, Silver Spring, MD
 
 ## Current Opportunities
 

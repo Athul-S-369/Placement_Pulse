@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Colorado Springs, CO, Houston, TX, Newark, NJ
+- **Locations:** Colorado Springs, CO, Newark, NJ, Houston, TX
 
 ## Current Opportunities
 

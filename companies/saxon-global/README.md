@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Denver, CO, Westchester County, NY
+- **Locations:** Westchester County, NY, Denver, CO
 
 ## Current Opportunities
 

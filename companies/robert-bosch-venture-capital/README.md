@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Sunnyvale, CA, Southfield, MI, Atlanta, GA
+- **Locations:** Southfield, MI, Atlanta, GA, Sunnyvale, CA
 
 ## Current Opportunities
 

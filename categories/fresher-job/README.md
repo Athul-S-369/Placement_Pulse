@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1126 active** | **0 expired** | **1126 total**
+**1128 active** | **0 expired** | **1128 total**
 
 *Last updated: 2026-07-01*
 
@@ -17,6 +17,8 @@
 | [BI Engineer 1](https://jobs.lever.co/Trend-Health-Partners/5f478cad-abe8-40a2-aba0-76abef8b330f/apply) | Trend Health Partners | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer 1](https://jobs.lever.co/aledade/1f5c4e2f-d8f7-4c55-aefb-d4bf300b1e6f/apply) | Aledade | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Warehouse Software Engineer 1](https://job-boards.greenhouse.io/babelstreet/jobs/8030833) | Babel Street | Cambridge, MA, Remote in USA, Reston, VA, Solon, OH | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Engineer - Backend - Core Services](https://job-boards.greenhouse.io/censys/jobs/8500307002) | Censys | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [IGS Calibration Engineer](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/IGS-Calibration-Engineer_R4041210-2) | GE Healthcare | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand](https://www.flexport.com/company/careers/) | Various | India | 🏢 Onsite | — | — | Hacker News |
 | [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead) | Various | Remote | 🌐 Remote | — | — | Hacker News |
 | [Associate Software Engineer – Seeking 2025 & 2026 Grads - Engineering Development Program](https://jobs.lever.co/veeva/e31a2a3c-a508-459c-9f77-a2692a95f233/apply) | Veeva Systems | Raleigh, NC | 🏢 Onsite | — | — | SimplifyJobs New Grad |
@@ -106,5 +108,3 @@
 | [Junior Software Engineer](https://job-boards.greenhouse.io/oklo/jobs/5739861004) | Oklo | Santa Clara, CA, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Software Engineer (Temporary)](https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/IL-Chicago-2650A-W-Bradley-Place/Associate-Software-Engineer--Temporary-_R000101071) | Warner Bros. | Chicago, IL | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Quantitative Financial Risk Analyst](https://Quantitative Financial Risk Analyst) | Susquehanna | Bala Cynwyd, PA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Data Scientist I - Hybrid](https://compass.wd501.myworkdayjobs.com/en-US/radian_external_career_site/job/New-York-NY/Data-Scientist-I---Hybrid_R20250160) | Radian | New York, NY | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Trading Assistant - Trading Assistant](https://job-boards.greenhouse.io/fiveringsllc/jobs/5047415008) | Five Rings Capital | NYC | 🏢 Onsite | — | — | SimplifyJobs New Grad |
