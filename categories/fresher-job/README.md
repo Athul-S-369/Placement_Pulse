@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1128 active** | **0 expired** | **1128 total**
+**1130 active** | **0 expired** | **1130 total**
 
 *Last updated: 2026-07-01*
 
@@ -19,6 +19,8 @@
 | [Data Warehouse Software Engineer 1](https://job-boards.greenhouse.io/babelstreet/jobs/8030833) | Babel Street | Cambridge, MA, Remote in USA, Reston, VA, Solon, OH | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer - Backend - Core Services](https://job-boards.greenhouse.io/censys/jobs/8500307002) | Censys | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [IGS Calibration Engineer](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/IGS-Calibration-Engineer_R4041210-2) | GE Healthcare | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Project Engineer Associate](https://uscareers-fujifilm.icims.com/jobs/36847/job?mobile=true&needsRedirect=false) | Fujifilm | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Engineer 1](https://jobs.lever.co/sophos/797834ca-58be-4a7c-a220-b2eefd449d97/apply) | Sophos | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand](https://www.flexport.com/company/careers/) | Various | India | 🏢 Onsite | — | — | Hacker News |
 | [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead) | Various | Remote | 🌐 Remote | — | — | Hacker News |
 | [Associate Software Engineer – Seeking 2025 & 2026 Grads - Engineering Development Program](https://jobs.lever.co/veeva/e31a2a3c-a508-459c-9f77-a2692a95f233/apply) | Veeva Systems | Raleigh, NC | 🏢 Onsite | — | — | SimplifyJobs New Grad |
@@ -106,5 +108,3 @@
 | [Data & Analytics Analyst - Data & Analytics](https://mmc.wd1.myworkdayjobs.com/mmc/job/Toronto---Bremner/Oliver-Wyman---Data---Analytics---Analyst---Toronto_R_334480) | Marsh | Toronto, ON, Canada | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Junior Software Engineer](https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490) | Mechanize | San Francisco, CA, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Junior Software Engineer](https://job-boards.greenhouse.io/oklo/jobs/5739861004) | Oklo | Santa Clara, CA, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Associate Software Engineer (Temporary)](https://warnerbros.wd5.myworkdayjobs.com/en-US/global/job/IL-Chicago-2650A-W-Bradley-Place/Associate-Software-Engineer--Temporary-_R000101071) | Warner Bros. | Chicago, IL | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Quantitative Financial Risk Analyst](https://Quantitative Financial Risk Analyst) | Susquehanna | Bala Cynwyd, PA | 🏢 Onsite | — | — | SimplifyJobs New Grad |

@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**40 active** | **3 expired** | **43 total**
+**44 active** | **3 expired** | **47 total**
 
 *Last updated: 2026-07-01*
 
@@ -20,6 +20,10 @@
 | [Sprint'26](https://unstop.com/competitions/sprint26-iim-calcutta-1704312) | Indian Institute of Management (IIM), Calcutta | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
 | [Pep Sales Stars](https://unstop.com/workshops-webinars/crp-pep-sales-stars-pep-stars-2026-pepsico-1687498) | PepsiCo | India | 🏢 Onsite | — | 2026-09-30 | Unstop |
 | [Boardroom to Boundary](https://unstop.com/competitions/boardroom-to-boundary-hr-college-of-commerce-and-economics-1709208) | H.R. College of Commerce and Economics | India | 🏢 Onsite | — | 2026-07-10 | Unstop |
+| [Astro Verdict](https://unstop.com/competitions/astro-verdict-parikalp--1709529) | Maulana Azad National Institute of Technology (MANIT), Bhopal | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
+| [AI Career Hackathon](https://unstop.com/hackathons/shebuilds-ai-career-hackathon-shebuilds-1709515) | SheBuilds | India | 🏢 Onsite | — | 2026-07-04 | Unstop |
+| [Career Options After B.com](https://unstop.com/workshops-webinars/career-options-after-bcom-cfereadycom-1708857) | Cfeready.com | India | 🏢 Onsite | — | 2026-07-10 | Unstop |
+| [Smart School FinTech Innovation Challenge 2026](https://unstop.com/hackathons/smart-school-fintech-innovation-challenge-2026-paper-buddy-1709331) | Paper Buddy | India | 🏢 Onsite | — | 2026-07-16 | Unstop |
 | [MangaVerse](https://unstop.com/competitions/mangaverse-ieee-sheaspire-30-veer-surendra-sai-university-of-technology-vssut-odisha-1703969) | Veer Surendra Sai University of Technology (VSSUT), Odisha | India | 🏢 Onsite | — | 2026-07-06 | Unstop |
 | [Cascade - A Cryptic Hunt](https://unstop.com/hackathons/cascade-a-cryptic-hunt-manipal-university-mu-jaipur-1704689) | Manipal University (MU), Jaipur | India | 🏢 Onsite | — | 2026-07-05 | Unstop |
 | [National Aptitude & Logic Olympiad](https://unstop.com/quiz/national-aptitude-logic-olympiad-conquer-e-learning-1708844) | Conquer E Learning | India | 🏢 Onsite | — | 2026-07-03 | Unstop |

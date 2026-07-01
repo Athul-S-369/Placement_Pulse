@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Columbus, OH, Rochester, MI, El Segundo, CA, California City, CA, Bluemont, VA
+- **Locations:** Bloomington, MN, Washington, DC, Traverse City, MI, Columbus, OH, Alexandria, VA
 
 ## Current Opportunities
 
