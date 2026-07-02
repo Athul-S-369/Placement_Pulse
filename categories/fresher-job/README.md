@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1135 active** | **0 expired** | **1135 total**
+**1136 active** | **0 expired** | **1136 total**
 
 *Last updated: 2026-07-02*
 
@@ -13,6 +13,7 @@
 | [Vietnamese Voice Recording Specialist - Voice Recording](https://jobs.lever.co/appen/bea969fc-4198-4680-b527-dae3bf67527e/apply) | CrowdGen by Appen | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Machine Learning Engineer - Relevance and Personalization](https://careers.airbnb.com/positions/7708224?gh_jid=7708224) | Airbnb | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineering MTS - Salesforce Engineer](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Salesforce-Developer_JR318246) | Salesforce | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
+| [Field Geophysicist / Field Geologist](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Field-Geophysicist---Field-Geologist_R182544) | Parsons | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Senior Data Scientist](https://apply.careers.microsoft.com/careers/job/1970393556833959) | Microsoft | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Senior Software Engineer](https://jobs.ashbyhq.com/sardine/69604df3-fb78-4621-a250-4b2bd6af0531/application) | Sardine | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [System Specialist](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/System-Specialist_R22024) | Wex | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Backend Engineer - AI](https://jobs.ashbyhq.com/anything/f4123aa5-855a-4b82-b762-66fb4a77f493/application) | Anything | SF | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Entry Level Software Engineer](https://jobs.baesystems.com/global/en/job/BAE1US119273BREXTERNAL/Entry-Level-Software-Engineer) | BAE Systems | Greenlawn, NY | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Software Engineer I](https://jda.wd5.myworkdayjobs.com/en-US/university/job/Dallas/Software-Engineer-I_253496) | Blue Yonder | Dallas, TX | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Product Manager 2](https://job-boards.greenhouse.io/xometry/jobs/4990695007) | Xometry | Waltham, MA | 🏢 Onsite | — | — | SimplifyJobs New Grad |

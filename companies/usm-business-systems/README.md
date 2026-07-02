@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Chantilly, VA, NYC, San Antonio, TX, St. Louis, MO, Washington, DC
+- **Locations:** St. Louis, MO, California City, CA, Rochester, MI, Dublin, OH, Bloomington, MN
 
 ## Current Opportunities
 
