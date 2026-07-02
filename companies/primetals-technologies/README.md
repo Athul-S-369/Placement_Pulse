@@ -1,11 +1,11 @@
 # 🏢 Primetals Technologies
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-01*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-02*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Orlando, FL, Laval, QC, Canada, Mississauga, ON, Canada
+- **Locations:** Laval, QC, Canada, Mississauga, ON, Canada, Orlando, FL
 
 ## Current Opportunities
 

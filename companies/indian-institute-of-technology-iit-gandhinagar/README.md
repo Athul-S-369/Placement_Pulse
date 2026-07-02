@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Technology (IIT), Gandhinagar
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-01*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-02*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Betaverse](https://unstop.com/events/betaverse-iit-gandhinagar-1706043) | Indian Institute of Technology (IIT), Gandhinagar | India | 🏢 Onsite | — | 2026-07-01 | Unstop |
 
 ## 📖 Interview Preparation
 

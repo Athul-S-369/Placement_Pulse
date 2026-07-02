@@ -1,6 +1,6 @@
 # 🏢 Maharaja Agrasen Institute of Technology (MAIT), New Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-01*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-02*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Blueprints N Breakthroughs](https://unstop.com/workshops-webinars/blueprints-n-breakthroughs-maharaja-agrasen-institute-of-technology-mait-new-delhi-1704679) | Maharaja Agrasen Institute of Technology (MAIT), New Delhi | India | 🏢 Onsite | — | 2026-07-01 | Unstop |
 
 ## 📖 Interview Preparation
 

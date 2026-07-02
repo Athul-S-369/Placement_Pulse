@@ -1,13 +1,18 @@
 # 💼 Fresher Job
 
-**1130 active** | **0 expired** | **1130 total**
+**1135 active** | **0 expired** | **1135 total**
 
-*Last updated: 2026-07-01*
+*Last updated: 2026-07-02*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer](https://boards.greenhouse.io/opensesame/jobs/7927745) | OpenSesame | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Insights and Advisory Services Analyst](https://jobs.lever.co/aviahealth/e31be4d2-06de-4cc0-832d-8c02000ae174/apply) | Avia Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Vietnamese Voice Recording Specialist - Voice Recording](https://jobs.lever.co/appen/bea969fc-4198-4680-b527-dae3bf67527e/apply) | CrowdGen by Appen | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Machine Learning Engineer - Relevance and Personalization](https://careers.airbnb.com/positions/7708224?gh_jid=7708224) | Airbnb | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Engineering MTS - Salesforce Engineer](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Salesforce-Developer_JR318246) | Salesforce | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Senior Data Scientist](https://apply.careers.microsoft.com/careers/job/1970393556833959) | Microsoft | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Senior Software Engineer](https://jobs.ashbyhq.com/sardine/69604df3-fb78-4621-a250-4b2bd6af0531/application) | Sardine | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [System Specialist](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/System-Specialist_R22024) | Wex | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -103,8 +108,3 @@
 | [Entry Level Software Engineer](https://jobs.baesystems.com/global/en/job/BAE1US119273BREXTERNAL/Entry-Level-Software-Engineer) | BAE Systems | Greenlawn, NY | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Software Engineer I](https://jda.wd5.myworkdayjobs.com/en-US/university/job/Dallas/Software-Engineer-I_253496) | Blue Yonder | Dallas, TX | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Product Manager 2](https://job-boards.greenhouse.io/xometry/jobs/4990695007) | Xometry | Waltham, MA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [GPU Kernel Development Engineer - Multiple Levels Available - Graphics Software Engineering](https://qualcomm.eightfold.ai/careers/job/446715939731) | Qualcomm | San Diego, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Software Engineer](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---VA-Centreville/Software-Engineer_R175644-1) | Parsons | Centreville, VA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Data & Analytics Analyst - Data & Analytics](https://mmc.wd1.myworkdayjobs.com/mmc/job/Toronto---Bremner/Oliver-Wyman---Data---Analytics---Analyst---Toronto_R_334480) | Marsh | Toronto, ON, Canada | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Junior Software Engineer](https://jobs.ashbyhq.com/mechanize/b50c89dc-001c-4fb6-a4fc-a9f52f35b490) | Mechanize | San Francisco, CA, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Junior Software Engineer](https://job-boards.greenhouse.io/oklo/jobs/5739861004) | Oklo | Santa Clara, CA, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
