@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Waltham, MA, SF, Morrisville, NC, Cupertino, CA, London, UK
+- **Locations:** Seattle, WA, San Diego, CA, Morrisville, NC, Waltham, MA, London, UK
 
 ## Current Opportunities
 

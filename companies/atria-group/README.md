@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Dallas, TX, Hartford, CT, Novato, CA, San Jose, CA, NYC
+- **Locations:** Thousand Oaks, CA, NYC, Chicago, IL, San Jose, CA, Dallas, TX
 
 ## Current Opportunities
 

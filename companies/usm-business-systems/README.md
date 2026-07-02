@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Manassas, VA, Westminster, CO, NYC, Augusta, ME, Alexandria, VA
+- **Locations:** NYC, Columbus, OH, St. Louis, MO, Southfield, MI, Dublin, OH
 
 ## Current Opportunities
 
