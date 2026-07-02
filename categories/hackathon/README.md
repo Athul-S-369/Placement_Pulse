@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**50 active** | **5 expired** | **55 total**
+**54 active** | **5 expired** | **59 total**
 
 *Last updated: 2026-07-02*
 
@@ -16,6 +16,10 @@
 | [Aerothon 2026 - HAL x IITI](https://unstop.com/hackathons/aerothon-2026-hal-x-iiti-iit-indore-1709519) | Indian Institute of Technology (IIT), Indore | India | 🏢 Onsite | — | 2026-08-08 | Unstop |
 | [MicroThink 360: Decode ,Diagnose ,Discover](https://unstop.com/quiz/microthink-360-decode-diagnose-discover-sns-college-of-nursing-coimbatore-tamil-nadu-1709662) | SNS College of Nursing, Coimbatore, Tamil Nadu | India | 🏢 Onsite | — | 2026-07-22 | Unstop |
 | [Interview Preparation Workshop: Logical reasoning](https://unstop.com/workshops-webinars/interview-preparation-workshop-logical-reasoning-adore-india-1709576) | Adore India | India | 🏢 Onsite | — | 2026-07-06 | Unstop |
+| [NetSprint 2026 – A 2-Day Networking Demo Session](https://unstop.com/workshops-webinars/netsprint-2026-a-2-day-networking-demo-session-baba-farid-college-of-engineering-and-technology-bfcet-1710097) | Baba Farid College of Engineering and Technology (BFCET), Bathinda | India | 🏢 Onsite | — | 2026-07-15 | Unstop |
+| [Google Gemini QuizOff 2026](https://unstop.com/quiz/google-gemini-quizoff-2026-campuscrew-1685313) | CampusCrew | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
+| [Monthly Quiz Mania-29](https://unstop.com/quiz/monthly-quiz-mania-29-netclan-inc-1709487) | Netclan Inc | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
+| [Campus Ambassador - Asian Paints Alchemy 2026](https://unstop.com/competitions/crp-campus-ambassador-asian-paints-alchemy-2026-asian-paints-1708823) | Asian Paints | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
 | [Roboauto-2026](https://unstop.com/hackathons/roboauto-2026-vidya-jyothi-institute-of-technology-1671501) | Vidya Jyothi Institute of Technology | India | 🏢 Onsite | — | 2026-07-05 | Unstop |
 | [CineVerse 2026 – The Ultimate Movie Challenge](https://unstop.com/quiz/cineverse-2026-the-ultimate-movie-challenge-gla-university-glau-uttar-pradesh-1709052) | GLA University (GLAU), Uttar Pradesh | India | 🏢 Onsite | — | 2026-07-06 | Unstop |
 | [Technostrophe '26](https://unstop.com/quiz/technostrophe-26-e-summit-26-indian-institute-of-technology-iit-dharwad-1709090) | Indian Institute of Technology (IIT), Dharwad | India | 🏢 Onsite | — | 2026-07-20 | Unstop |

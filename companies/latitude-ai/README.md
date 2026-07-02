@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Palo Alto, CA, Taylor, MI, Pittsburgh, PA, Pittsburgh, PA
+- **Locations:** Pittsburgh, PA, Palo Alto, CA, Taylor, MI, Pittsburgh, PA
 
 ## Current Opportunities
 

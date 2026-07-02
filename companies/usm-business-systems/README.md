@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** St. Louis, MO, California City, CA, Rochester, MI, Dublin, OH, Bloomington, MN
+- **Locations:** Rochester, MI, California City, CA, Traverse City, MI, NYC, Chicago, IL
 
 ## Current Opportunities
 
