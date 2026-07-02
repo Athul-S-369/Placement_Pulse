@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Charlotte, NC, Milwaukee, WI
+- **Locations:** Milwaukee, WI, Charlotte, NC
 
 ## Current Opportunities
 

@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**July 02, 2026** &nbsp;—&nbsp; **63** Fresher Job &nbsp;·&nbsp; **42** Internship &nbsp;·&nbsp; **9** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**July 02, 2026** &nbsp;—&nbsp; **62** Fresher Job &nbsp;·&nbsp; **42** Internship &nbsp;·&nbsp; **2** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**120 opportunities** added or updated in the latest run (July 02, 2026).
+**112 opportunities** added or updated in the latest run (July 02, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -101,22 +101,14 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Founding Engineer](https://job-boards.greenhouse.io/applytotruebuilt/jobs/4588866004) | TrueBuilt | Remote in USA | Fresher Job | Remote | — |
 | [Software Engineer](https://job-boards.greenhouse.io/twilio/jobs/7681338) | Twilio | Remote in USA | Fresher Job | Remote | — |
 | [Trading Assistant](https://job-boards.greenhouse.io/underdogfantasy/jobs/4595201005) | Underdog Fantasy | Remote in USA | Fresher Job | Remote | — |
-| [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailan...](https://www.flexport.com/company/careers/) | Various | India | Fresher Job | Onsite | — |
 | [Software Engineer](https://job-boards.greenhouse.io/warp/jobs/4324888004) | Warp | Remote in USA, Remote in  | Fresher Job | Remote | — |
 | [System Specialist](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/System-Specialist_R22024) | Wex | Remote in USA | Fresher Job | Remote | — |
 | [Software Development](https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote--WA/Software-Development_R17786-1) | Zoom | Remote in USA | Fresher Job | Remote | — |
 | [Full Stack / Backend Software Engineer](https://jobs.ashbyhq.com/candidate.fyi/0448a10e-863f-437f-80bb-d65ee09f8b6e/application) | candidate fyi | Remote in USA | Fresher Job | Remote | — |
 | [Data Analytics Engineer 1](https://job-boards.greenhouse.io/dv01/jobs/8497282002) | dv01 | Remote in USA | Fresher Job | Remote | — |
 | [Full Stack Engineer](https://jobs.lever.co/hhaexchange/37711e74-f9e9-42c5-9c4f-66df2afab2e2/apply) | hhaexchange | Remote in USA | Fresher Job | Remote | — |
-| [IEEE Returning Mothers Conference 2026 – Ideathon & Pitchfes...](https://unstop.com/conferences/ieee-returning-mothers-conference-2026-ideathon-pitchfest-anna-university-au-chennai-1709710) | Anna University (AU), Chenna | India | Hackathon | Onsite | 2026-07-10 |
-| [Campus Ambassador - Asian Paints Alchemy 2026](https://unstop.com/competitions/crp-campus-ambassador-asian-paints-alchemy-2026-asian-paints-1708823) | Asian Paints | India | Hackathon | Onsite | 2026-10-01 |
-| [NetSprint 2026 – A 2-Day Networking Demo Session](https://unstop.com/workshops-webinars/netsprint-2026-a-2-day-networking-demo-session-baba-farid-college-of-engineering-and-technology-bfcet-1710097) | Baba Farid College of Engine | India | Hackathon | Onsite | 2026-07-15 |
-| [Google Gemini QuizOff 2026](https://unstop.com/quiz/google-gemini-quizoff-2026-campuscrew-1685313) | CampusCrew | India | Hackathon | Onsite | 2026-07-19 |
-| [Frontend Wars 2026: Build the Future](https://unstop.com/hackathons/frontend-wars-2026-build-the-future-frontend-arena-1709357) | Frontend Arena | India | Hackathon | Onsite | 2026-08-01 |
-| [Monthly Quiz Mania-29](https://unstop.com/quiz/monthly-quiz-mania-29-netclan-inc-1709487) | Netclan Inc | India | Hackathon | Onsite | 2026-07-31 |
-| [Prompt Engineering & AI Tools for Students](https://unstop.com/quiz/prompt-engineering-ai-tools-for-students-sa-engineering-college-saec-chennai-1710101) | S.A. Engineering College (SA | India | Hackathon | Onsite | 2026-07-16 |
-| [Skillumni Scholarship Aptitude](https://unstop.com/quiz/skillumni-scholarship-aptitude-skillumni-1708448) | Skillumni | India | Hackathon | Onsite | 2026-07-17 |
-| [Students' Research Conclave 4.0](https://unstop.com/competitions/students-research-conclave-40-symbiosis-centre-for-management-studies-scms-pune-1709716) | Symbiosis Centre for Managem | India | Hackathon | Onsite | 2026-11-15 |
+| [Digital Tools Every Student Should Explore](https://unstop.com/workshops-webinars/digital-tools-every-student-should-explore-techbairn-1710141) | TechBairn | India | Hackathon | Onsite | 2026-07-06 |
+| [The Future of Work Starts Today](https://unstop.com/workshops-webinars/the-future-of-work-starts-today-techbairn-research-1710143) | TechBairn Research | India | Hackathon | Onsite | 2026-07-06 |
 | [Developer Intern - Trust Platforms](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/application) | 1Password | Remote in USA, Remote in  | Internship | Remote | — |
 | [Internship Senior Signal Associate](https://job-boards.greenhouse.io/60decibelsinc/jobs/4684949006) | 60decibelsinc | London, UK, Bengaluru, Ka | Internship | Onsite | — |
 | [Product Analyst Intern](https://job-boards.greenhouse.io/accuweather/jobs/7453001) | AccuWeather | State College, PA, Remote | Internship | Remote | — |
@@ -282,6 +274,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-07-02 18:17 UTC</sub>
+<sub>Last generated: 2026-07-02 20:17 UTC</sub>
 
 </div>

@@ -4,7 +4,7 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
+- **Categories:** Fresher Job, Internship
 - **Locations:** Toronto, ON, Canada, Newcastle upon Tyne, UK
 
 ## Current Opportunities
