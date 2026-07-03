@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-02T20:31:20.978241Z",
-  "date": "2026-07-02",
-  "total": 1918,
-  "active": 1912,
-  "new_today": 113,
-  "companies": 1307,
+  "generated_at": "2026-07-03T04:28:18.627280Z",
+  "date": "2026-07-03",
+  "total": 1928,
+  "active": 1922,
+  "new_today": 125,
+  "companies": 1315,
   "categories": {
-    "fresher-job": 1136,
-    "internship": 717,
-    "hackathon": 59,
+    "fresher-job": 1139,
+    "internship": 720,
+    "hackathon": 63,
     "open-source-program": 2,
     "fellowship": 2,
     "student-ambassador": 2
@@ -75,6 +75,10 @@
       "count": 8
     },
     {
+      "name": "Tenstorrent",
+      "count": 7
+    },
+    {
       "name": "BAE Systems",
       "count": 7
     },
@@ -89,10 +93,6 @@
     {
       "name": "The Boeing Company",
       "count": 7
-    },
-    {
-      "name": "L3Harris Technologies",
-      "count": 7
     }
   ],
   "domain_tags": {
@@ -101,7 +101,7 @@
     "software-engineering": 379,
     "backend": 15,
     "embedded": 43,
-    "cybersecurity": 14,
+    "cybersecurity": 15,
     "frontend": 15,
     "mobile": 10,
     "design": 2,
@@ -109,7 +109,7 @@
     "cloud": 18
   },
   "work_modes": {
-    "remote": 143,
-    "onsite": 1775
+    "remote": 149,
+    "onsite": 1779
   }
 }

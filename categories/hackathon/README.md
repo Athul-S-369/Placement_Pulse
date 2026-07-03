@@ -1,13 +1,17 @@
 # 🏆 Hackathon
 
-**54 active** | **5 expired** | **59 total**
+**58 active** | **5 expired** | **63 total**
 
-*Last updated: 2026-07-02*
+*Last updated: 2026-07-03*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [CMR Thinkfest 3.0](https://unstop.com/hackathons/cmr-thinkfest-30-cmr-college-of-engineering-and-technology-cmrcet-hyderabad-1708928) | CMR College of Engineering and Technology (CMRCET), Hyderabad | India | 🏢 Onsite | — | 2026-07-14 | Unstop |
+| [Code Cup 2026](https://unstop.com/hackathons/code-cup-2026-rv-college-of-engineering-rvce-bangalore-1709589) | R.V. College of Engineering (RVCE), Bangalore | India | 🏢 Onsite | — | 2026-07-07 | Unstop |
+| [AlgoVerse 2026](https://unstop.com/quiz/algoverse-2026-techverse-solutions-1710202) | TechVerse Solutions | India | 🏢 Onsite | — | 2026-07-13 | Unstop |
+| [Hacklabify V1.0](https://unstop.com/hackathons/hacklabify-v10-hacklabify-1699949) | Hacklabify | India | 🏢 Onsite | — | 2026-09-02 | Unstop |
 | [Skillumni Scholarship Aptitude](https://unstop.com/quiz/skillumni-scholarship-aptitude-skillumni-1708448) | Skillumni | India | 🏢 Onsite | — | 2026-07-17 | Unstop |
 | [Frontend Wars 2026: Build the Future](https://unstop.com/hackathons/frontend-wars-2026-build-the-future-frontend-arena-1709357) | Frontend Arena | India | 🏢 Onsite | — | 2026-08-01 | Unstop |
 | [Students' Research Conclave 4.0](https://unstop.com/competitions/students-research-conclave-40-symbiosis-centre-for-management-studies-scms-pune-1709716) | Symbiosis Centre for Management Studies (SCMS), Pune | India | 🏢 Onsite | — | 2026-11-15 | Unstop |

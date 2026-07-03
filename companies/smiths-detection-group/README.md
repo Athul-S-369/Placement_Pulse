@@ -1,11 +1,11 @@
 # 🏢 Smiths Detection Group
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-02*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-03*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Gunpowder, MD, Birmingham, UK
+- **Categories:** Internship, Fresher Job
+- **Locations:** Birmingham, UK, Gunpowder, MD
 
 ## Current Opportunities
 

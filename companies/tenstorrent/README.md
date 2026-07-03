@@ -1,16 +1,17 @@
 # 🏢 Tenstorrent
 
-**6 active opportunities** | **6 total tracked** | *Last updated: 2026-07-02*
+**7 active opportunities** | **7 total tracked** | *Last updated: 2026-07-03*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Toronto, ON, Canada, Austin, TX, Santa Clara, CA, Santa Clara, CA, Remote in USA, Remote in Canada, Boston, MA
+- **Locations:** Toronto, ON, Canada, Austin, TX, Remote in USA, Remote in Canada, Boston, MA, Remote / Various
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Chiplet Security Research Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4955926007) | Tenstorrent | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Physical Design for Machine Learning Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968215007) | Tenstorrent | Santa Clara, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Software Intern - AI Compilers](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968219007) | Tenstorrent | Austin, TX | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [IP Product Operations](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4530843007) | Tenstorrent | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
