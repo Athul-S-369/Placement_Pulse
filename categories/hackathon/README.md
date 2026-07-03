@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**58 active** | **5 expired** | **63 total**
+**67 active** | **5 expired** | **72 total**
 
 *Last updated: 2026-07-03*
 
@@ -12,6 +12,15 @@
 | [Code Cup 2026](https://unstop.com/hackathons/code-cup-2026-rv-college-of-engineering-rvce-bangalore-1709589) | R.V. College of Engineering (RVCE), Bangalore | India | 🏢 Onsite | — | 2026-07-07 | Unstop |
 | [AlgoVerse 2026](https://unstop.com/quiz/algoverse-2026-techverse-solutions-1710202) | TechVerse Solutions | India | 🏢 Onsite | — | 2026-07-13 | Unstop |
 | [Hacklabify V1.0](https://unstop.com/hackathons/hacklabify-v10-hacklabify-1699949) | Hacklabify | India | 🏢 Onsite | — | 2026-09-02 | Unstop |
+| [CodeQuest: Python, C++ & DBMS Showdown](https://unstop.com/quiz/codequest-python-c-dbms-showdown-mr-semester-llp-1710402) | Mr Semester LLP | India | 🏢 Onsite | — | 2026-07-12 | Unstop |
+| [Vibeathon 6.0 (Vibecoding Hackathon)](https://unstop.com/hackathons/vibeathon-60-vibecoding-hackathon-nxtgensec-1710440) | NXTGENSEC | India | 🏢 Onsite | — | 2026-07-24 | Unstop |
+| [Fundamentals of Programming: Logic Building & Problem Solving](https://unstop.com/workshops-webinars/fundamentals-of-programming-logic-building-problem-solving-cipherschools-1710407) | CipherSchools | India | 🏢 Onsite | — | 2026-07-06 | Unstop |
+| [Bodhisotto 1.0 U26 General Quiz](https://unstop.com/quiz/bodhisotto-10-u26-general-quiz-university-of-calcutta-1710346) | University of Calcutta | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
+| [GenAI VS Agentic AI with Bleep in collabroation with Ecell IIT Hyderabad](https://unstop.com/workshops-webinars/genai-vs-agentic-ai-with-bleep-in-collabroation-with-ecell-iit-hyderabad-bleep-education-1710340) | Bleep Education | India | 🏢 Onsite | — | 2026-07-17 | Unstop |
+| [International Conference on AI for Humanity: Leveraging indian knowledge systems to accelerate sustainable development goals](https://unstop.com/conferences/international-conference-on-ai-for-humanity-leveraging-indian-knowledge-systems-to-accelerate-sustainable-de-1699546) | Kalinga University, Raipur | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
+| [Summer of Projects'26](https://unstop.com/competitions/summer-of-projects26-bms-institute-of-technology-and-management-bmsitm-bangalore-1702115) | BMS Institute of Technology and Management (BMSITM), Bangalore | India | 🏢 Onsite | — | 2026-08-15 | Unstop |
+| [NeuraMorphix HackForge 2026](https://unstop.com/hackathons/neuramorphix-hackforge-2026-srm-institute-of-science-and-technology-kattankulathur-chennai-1708229) | SRM Institute of Science and Technology (SRMIST), Kattankulathur, Chennai | India | 🏢 Onsite | — | 2026-09-13 | Unstop |
+| [SquidHack 2026](https://unstop.com/hackathons/squidhack-sage-university-sageu-indore-madhya-pradesh-1703351) | SAGE University (SAGEU), Indore, Madhya Pradesh | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
 | [Skillumni Scholarship Aptitude](https://unstop.com/quiz/skillumni-scholarship-aptitude-skillumni-1708448) | Skillumni | India | 🏢 Onsite | — | 2026-07-17 | Unstop |
 | [Frontend Wars 2026: Build the Future](https://unstop.com/hackathons/frontend-wars-2026-build-the-future-frontend-arena-1709357) | Frontend Arena | India | 🏢 Onsite | — | 2026-08-01 | Unstop |
 | [Students' Research Conclave 4.0](https://unstop.com/competitions/students-research-conclave-40-symbiosis-centre-for-management-studies-scms-pune-1709716) | Symbiosis Centre for Management Studies (SCMS), Pune | India | 🏢 Onsite | — | 2026-11-15 | Unstop |

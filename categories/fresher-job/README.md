@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1139 active** | **0 expired** | **1139 total**
+**1140 active** | **0 expired** | **1140 total**
 
 *Last updated: 2026-07-03*
 
@@ -11,6 +11,7 @@
 | [Staffing and Resource Forecasting Analyst](https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Remote/Staffing-and-Resource-Forecasting-Analyst_JR4810) | WellSky | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Developer 1 - Software Engineering](https://job-boards.eu.greenhouse.io/cision/jobs/4899574101) | Cision | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Quality Process Analyst](https://job-boards.greenhouse.io/natera/jobs/6105091004) | Natera | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Computer Voice Rating Task for Scottish English](https://jobs.lever.co/appen/b5ff2202-1209-44eb-85a5-d7959c579989/apply) | CrowdGen by Appen | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://boards.greenhouse.io/opensesame/jobs/7927745) | OpenSesame | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Insights and Advisory Services Analyst](https://jobs.lever.co/aviahealth/e31be4d2-06de-4cc0-832d-8c02000ae174/apply) | Avia Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Vietnamese Voice Recording Specialist - Voice Recording](https://jobs.lever.co/appen/bea969fc-4198-4680-b527-dae3bf67527e/apply) | CrowdGen by Appen | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [AI Product Engineer – New Grad](https://jobs.ashbyhq.com/Lightfield/bb758825-5422-46c4-86c3-0be1cc89148f/application) | Lightfield | SF | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Software Engineer - New Grad](https://jobs.ashbyhq.com/sentra/3c9729ca-67b3-4f9f-9c64-5e1e10be1719) | Sentra | San Francisco, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Software Engineer I](https://apply.workable.com/thorlabs/j/EA6A31C779/) | Thorlabs | West Columbia, SC | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Associate Software Engineer](https://career-schwab.icims.com/jobs/117784/associate-software-engineer/job) | Charles Schwab | Lone Tree, CO | 🏢 Onsite | — | — | SimplifyJobs New Grad |

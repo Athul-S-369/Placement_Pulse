@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington, VA, NYC, Bellevue, WA, San Diego, CA, Sunnyvale, CA, Tempe, AZ, Seattle, WA, Wakefield, MA, Westborough, MA, London, UK
+- **Categories:** Fresher Job, Internship
+- **Locations:** Seattle, WA, London, UK, Edinburgh, UK, Cambridge, UK, London, UK, Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington, VA, NYC, Bellevue, WA, San Diego, CA, Sunnyvale, CA
 
 ## Current Opportunities
 

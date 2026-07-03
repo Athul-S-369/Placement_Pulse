@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Westminster, CO, Augusta, ME, Alexandria, VA, Southfield, MI, NYC
+- **Categories:** Fresher Job, Internship
+- **Locations:** Alexandria, VA, NYC, Traverse City, MI, Washington, DC, California City, CA
 
 ## Current Opportunities
 

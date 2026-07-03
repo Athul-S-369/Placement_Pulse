@@ -4,7 +4,7 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
+- **Categories:** Fresher Job, Internship
 - **Locations:** Rhode Island, Remote / Various
 
 ## Current Opportunities

@@ -6,9 +6,9 @@
 
 **India's open-source aggregator for software internships, fresher jobs,<br>hackathons, fellowships, and placement opportunities.**
 
-[![Opportunities](https://img.shields.io/badge/Opportunities-1928-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
-[![Active](https://img.shields.io/badge/Active-1922-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
-[![Companies](https://img.shields.io/badge/Companies-1315-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
+[![Opportunities](https://img.shields.io/badge/Opportunities-1938-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
+[![Active](https://img.shields.io/badge/Active-1932-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
+[![Companies](https://img.shields.io/badge/Companies-1324-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
 [![Updated](https://img.shields.io/badge/Updated-Jul%2003%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**July 03, 2026** &nbsp;—&nbsp; **66** Fresher Job &nbsp;·&nbsp; **46** Internship &nbsp;·&nbsp; **7** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**July 03, 2026** &nbsp;—&nbsp; **64** Fresher Job &nbsp;·&nbsp; **46** Internship &nbsp;·&nbsp; **10** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**125 opportunities** added or updated in the latest run (July 03, 2026).
+**126 opportunities** added or updated in the latest run (July 03, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -57,16 +57,15 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [EMR Analyst 1 - Epic Patient Access](https://cincinnatichildrens.wd5.myworkdayjobs.com/careersatcincinnatichildrens/job/Remote/EMR-Analyst-I---Epic-Patient-Access_JR221008-1) | Cincinnati Children’s Hospit | Remote in USA | Fresher Job | Remote | — |
 | [Software Developer 1 - Software Engineering](https://job-boards.eu.greenhouse.io/cision/jobs/4899574101) | Cision | Remote in Canada | Fresher Job | Remote | — |
 | [Research Fellow](https://jobs.lever.co/civitech/73f65925-e49b-4250-a3f3-d32413a97608/apply) | Civitech | Austin, TX, Remote in USA | Fresher Job | Remote | — |
+| [Computer Voice Rating Task for Scottish English](https://jobs.lever.co/appen/b5ff2202-1209-44eb-85a5-d7959c579989/apply) | CrowdGen by Appen | Remote in UK | Fresher Job | Remote | — |
 | [Vietnamese Voice Recording Specialist - Voice Recording](https://jobs.lever.co/appen/bea969fc-4198-4680-b527-dae3bf67527e/apply) | CrowdGen by Appen | Remote in USA | Fresher Job | Remote | — |
 | [Cloud Platform Engineer I](https://careers-ebscoind.icims.com/jobs/1873/cloud-platform-engineer-i/job) | EBSCO | Ipswich, MA, Remote | Fresher Job | Remote | — |
 | [Full-Stack Growth Engineer](https://jobs.ashbyhq.com/elevenlabs/5881bc5d-765a-430e-9d28-7d598a0e1a03/application) | ElevenLabs | Remote in USA, Remote in  | Fresher Job | Remote | — |
-| [Nonqualified Analytics Analyst](https://empower.wd12.myworkdayjobs.com/empower/job/Nationwide-Remote/Nonqualified-Analytics-Analyst_R0059587) | Empower | Remote in USA | Fresher Job | Remote | — |
 | [Postdoctoral Science Fellow - Methane](https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Atkinson-Postdoctoral-Science-Fellow--Methane_REQ-002466) | Environmental Defense Fund | Boston, MA, Washington, D | Fresher Job | Remote | — |
 | [Junior Software Engineer - Full-Stack](https://job-boards.greenhouse.io/epickids/jobs/7751646003) | Epic Kids | Remote in USA | Fresher Job | Remote | — |
 | [Data Engineer 1](https://jobs.ashbyhq.com/flashpoint.io/84e64d83-f0b2-43db-8151-94dc75f2c705/application) | Flashpoint | Remote in USA | Fresher Job | Remote | — |
 | [Graduate Software Engineer](https://job-boards.eu.greenhouse.io/fuzehealth/jobs/4833389101) | Fuze Health | Remote in USA | Fresher Job | Remote | — |
 | [Software Development Engineer 1](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260271) | GM financial | Remote in USA | Fresher Job | Remote | — |
-| [Associate Certification Program Systems Analyst](https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946) | Guidewire | Remote in USA | Fresher Job | Remote | — |
 | [Hardware Engineer - AI Trainer](https://jobs.ashbyhq.com/handshake/a2005298-96da-46f6-8809-231008720bd9/application) | Handshake | Remote in USA | Fresher Job | Remote | — |
 | [Corporate Legal Technology Consultant - Discovery and Data M...](https://job-boards.greenhouse.io/harborglobal/jobs/5091441007) | Harbor | Remote in USA | Fresher Job | Remote | — |
 | [Data Collection Contributor](https://job-boards.greenhouse.io/humansignal/jobs/5823639004) | HumanSignal | Remote in USA | Fresher Job | Remote | — |
@@ -103,7 +102,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Founding Engineer](https://job-boards.greenhouse.io/applytotruebuilt/jobs/4588866004) | TrueBuilt | Remote in USA | Fresher Job | Remote | — |
 | [Software Engineer](https://job-boards.greenhouse.io/twilio/jobs/7681338) | Twilio | Remote in USA | Fresher Job | Remote | — |
 | [Trading Assistant](https://job-boards.greenhouse.io/underdogfantasy/jobs/4595201005) | Underdog Fantasy | Remote in USA | Fresher Job | Remote | — |
-| [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailan...](https://www.flexport.com/company/careers/) | Various | India | Fresher Job | Onsite | — |
 | [Software Engineer](https://job-boards.greenhouse.io/warp/jobs/4324888004) | Warp | Remote in USA, Remote in  | Fresher Job | Remote | — |
 | [Staffing and Resource Forecasting Analyst](https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Remote/Staffing-and-Resource-Forecasting-Analyst_JR4810) | WellSky | Remote in USA | Fresher Job | Remote | — |
 | [System Specialist](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/System-Specialist_R22024) | Wex | Remote in USA | Fresher Job | Remote | — |
@@ -111,13 +109,16 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Full Stack / Backend Software Engineer](https://jobs.ashbyhq.com/candidate.fyi/0448a10e-863f-437f-80bb-d65ee09f8b6e/application) | candidate fyi | Remote in USA | Fresher Job | Remote | — |
 | [Data Analytics Engineer 1](https://job-boards.greenhouse.io/dv01/jobs/8497282002) | dv01 | Remote in USA | Fresher Job | Remote | — |
 | [Full Stack Engineer](https://jobs.lever.co/hhaexchange/37711e74-f9e9-42c5-9c4f-66df2afab2e2/apply) | hhaexchange | Remote in USA | Fresher Job | Remote | — |
-| [CMR Thinkfest 3.0](https://unstop.com/hackathons/cmr-thinkfest-30-cmr-college-of-engineering-and-technology-cmrcet-hyderabad-1708928) | CMR College of Engineering a | India | Hackathon | Onsite | 2026-07-14 |
-| [Hacklabify V1.0](https://unstop.com/hackathons/hacklabify-v10-hacklabify-1699949) | Hacklabify | India | Hackathon | Onsite | 2026-09-02 |
-| [Escalade 15.0](https://unstop.com/competitions/escalade-150-escalade-150-iit-guwahati-1667939) | Indian Institute of Technolo | India | Hackathon | Onsite | 2026-07-31 |
-| [Code Cup 2026](https://unstop.com/hackathons/code-cup-2026-rv-college-of-engineering-rvce-bangalore-1709589) | R.V. College of Engineering  | India | Hackathon | Onsite | 2026-07-07 |
-| [Digital Tools Every Student Should Explore](https://unstop.com/workshops-webinars/digital-tools-every-student-should-explore-techbairn-1710141) | TechBairn | India | Hackathon | Onsite | 2026-07-06 |
-| [The Future of Work Starts Today](https://unstop.com/workshops-webinars/the-future-of-work-starts-today-techbairn-research-1710143) | TechBairn Research | India | Hackathon | Onsite | 2026-07-06 |
-| [AlgoVerse 2026](https://unstop.com/quiz/algoverse-2026-techverse-solutions-1710202) | TechVerse Solutions | India | Hackathon | Onsite | 2026-07-13 |
+| [Summer of Projects'26](https://unstop.com/competitions/summer-of-projects26-bms-institute-of-technology-and-management-bmsitm-bangalore-1702115) | BMS Institute of Technology  | India | Hackathon | Onsite | 2026-08-15 |
+| [GenAI VS Agentic AI with Bleep in collabroation with Ecell I...](https://unstop.com/workshops-webinars/genai-vs-agentic-ai-with-bleep-in-collabroation-with-ecell-iit-hyderabad-bleep-education-1710340) | Bleep Education | India | Hackathon | Onsite | 2026-07-17 |
+| [Google Gemini QuizOff 2026](https://unstop.com/quiz/google-gemini-quizoff-2026-campuscrew-1685313) | CampusCrew | India | Hackathon | Onsite | 2026-07-19 |
+| [Fundamentals of Programming: Logic Building & Problem Solvin...](https://unstop.com/workshops-webinars/fundamentals-of-programming-logic-building-problem-solving-cipherschools-1710407) | CipherSchools | India | Hackathon | Onsite | 2026-07-06 |
+| [International Conference on AI for Humanity: Leveraging indi...](https://unstop.com/conferences/international-conference-on-ai-for-humanity-leveraging-indian-knowledge-systems-to-accelerate-sustainable-de-1699546) | Kalinga University, Raipur | India | Hackathon | Onsite | 2026-07-31 |
+| [CodeQuest: Python, C++ & DBMS Showdown](https://unstop.com/quiz/codequest-python-c-dbms-showdown-mr-semester-llp-1710402) | Mr Semester LLP | India | Hackathon | Onsite | 2026-07-12 |
+| [Vibeathon 6.0 (Vibecoding Hackathon)](https://unstop.com/hackathons/vibeathon-60-vibecoding-hackathon-nxtgensec-1710440) | NXTGENSEC | India | Hackathon | Onsite | 2026-07-24 |
+| [SquidHack 2026](https://unstop.com/hackathons/squidhack-sage-university-sageu-indore-madhya-pradesh-1703351) | SAGE University (SAGEU), Ind | India | Hackathon | Onsite | 2026-08-02 |
+| [NeuraMorphix HackForge 2026](https://unstop.com/hackathons/neuramorphix-hackforge-2026-srm-institute-of-science-and-technology-kattankulathur-chennai-1708229) | SRM Institute of Science and | India | Hackathon | Onsite | 2026-09-13 |
+| [Bodhisotto 1.0 U26 General Quiz](https://unstop.com/quiz/bodhisotto-10-u26-general-quiz-university-of-calcutta-1710346) | University of Calcutta | India | Hackathon | Onsite | 2026-07-23 |
 | [Developer Intern - Trust Platforms](https://jobs.ashbyhq.com/1password/8f8774dc-e400-48b1-8100-c6840b8eaed1/application) | 1Password | Remote in USA, Remote in  | Internship | Remote | — |
 | [Internship Senior Signal Associate](https://job-boards.greenhouse.io/60decibelsinc/jobs/4684949006) | 60decibelsinc | London, UK, Bengaluru, Ka | Internship | Onsite | — |
 | [Product Analyst Intern](https://job-boards.greenhouse.io/accuweather/jobs/7453001) | AccuWeather | State College, PA, Remote | Internship | Remote | — |
@@ -174,7 +175,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 ## Active Opportunities
 
 The 50 most recently added active opportunities across all categories.
-[View all 1928 on the website.](https://athul-s-369.github.io/Placement_Pulse)
+[View all 1938 on the website.](https://athul-s-369.github.io/Placement_Pulse)
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -188,6 +189,16 @@ The 50 most recently added active opportunities across all categories.
 | [Code Cup 2026](https://unstop.com/hackathons/code-cup-2026-rv-college-of-engineering-rvce-bangalore-1709589) | R.V. College of Engineering  | India | Hackathon | Onsite | 2026-07-07 |
 | [AlgoVerse 2026](https://unstop.com/quiz/algoverse-2026-techverse-solutions-1710202) | TechVerse Solutions | India | Hackathon | Onsite | 2026-07-13 |
 | [Hacklabify V1.0](https://unstop.com/hackathons/hacklabify-v10-hacklabify-1699949) | Hacklabify | India | Hackathon | Onsite | 2026-09-02 |
+| [Computer Voice Rating Task for Scottish English](https://jobs.lever.co/appen/b5ff2202-1209-44eb-85a5-d7959c579989/apply) | CrowdGen by Appen | Remote in UK | Fresher Job | Remote | Open |
+| [CodeQuest: Python, C++ & DBMS Showdown](https://unstop.com/quiz/codequest-python-c-dbms-showdown-mr-semester-llp-1710402) | Mr Semester LLP | India | Hackathon | Onsite | 2026-07-12 |
+| [Vibeathon 6.0 (Vibecoding Hackathon)](https://unstop.com/hackathons/vibeathon-60-vibecoding-hackathon-nxtgensec-1710440) | NXTGENSEC | India | Hackathon | Onsite | 2026-07-24 |
+| [Fundamentals of Programming: Logic Building & Problem Solvin...](https://unstop.com/workshops-webinars/fundamentals-of-programming-logic-building-problem-solving-cipherschools-1710407) | CipherSchools | India | Hackathon | Onsite | 2026-07-06 |
+| [Bodhisotto 1.0 U26 General Quiz](https://unstop.com/quiz/bodhisotto-10-u26-general-quiz-university-of-calcutta-1710346) | University of Calcutta | India | Hackathon | Onsite | 2026-07-23 |
+| [GenAI VS Agentic AI with Bleep in collabroation with Ecell I...](https://unstop.com/workshops-webinars/genai-vs-agentic-ai-with-bleep-in-collabroation-with-ecell-iit-hyderabad-bleep-education-1710340) | Bleep Education | India | Hackathon | Onsite | 2026-07-17 |
+| [International Conference on AI for Humanity: Leveraging indi...](https://unstop.com/conferences/international-conference-on-ai-for-humanity-leveraging-indian-knowledge-systems-to-accelerate-sustainable-de-1699546) | Kalinga University, Raipur | India | Hackathon | Onsite | 2026-07-31 |
+| [Summer of Projects'26](https://unstop.com/competitions/summer-of-projects26-bms-institute-of-technology-and-management-bmsitm-bangalore-1702115) | BMS Institute of Technology  | India | Hackathon | Onsite | 2026-08-15 |
+| [NeuraMorphix HackForge 2026](https://unstop.com/hackathons/neuramorphix-hackforge-2026-srm-institute-of-science-and-technology-kattankulathur-chennai-1708229) | SRM Institute of Science and | India | Hackathon | Onsite | 2026-09-13 |
+| [SquidHack 2026](https://unstop.com/hackathons/squidhack-sage-university-sageu-indore-madhya-pradesh-1703351) | SAGE University (SAGEU), Ind | India | Hackathon | Onsite | 2026-08-02 |
 | [Software Engineer](https://boards.greenhouse.io/opensesame/jobs/7927745) | OpenSesame | Remote in USA | Fresher Job | Remote | Open |
 | [Insights and Advisory Services Analyst](https://jobs.lever.co/aviahealth/e31be4d2-06de-4cc0-832d-8c02000ae174/apply) | Avia Health | Remote in USA | Fresher Job | Remote | Open |
 | [Vietnamese Voice Recording Specialist - Voice Recording](https://jobs.lever.co/appen/bea969fc-4198-4680-b527-dae3bf67527e/apply) | CrowdGen by Appen | Remote in USA | Fresher Job | Remote | Open |
@@ -218,16 +229,6 @@ The 50 most recently added active opportunities across all categories.
 | [Associate Certification Program Systems Analyst](https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946) | Guidewire | Remote in USA | Fresher Job | Remote | Open |
 | [Associate Data Analyst - People Analytics & Automation](https://jdgroupnam.wd1.myworkdayjobs.com/JDFL_Corporate_Careers/job/FL-Customer-Central---Indianapolis-Indiana/Associate-Data-Analyst--People-Analytics---Automation_JR133993) | JD Finish line | Indianapolis, IN | Fresher Job | Onsite | Open |
 | [Data Research Analyst](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/US-Other/Data-Analyst_R-6161) | TMX Group | Remote in USA | Fresher Job | Remote | Open |
-| [BI Engineer 1](https://jobs.lever.co/Trend-Health-Partners/5f478cad-abe8-40a2-aba0-76abef8b330f/apply) | Trend Health Partners | Remote in USA | Fresher Job | Remote | Open |
-| [Software Engineer 1](https://jobs.lever.co/aledade/1f5c4e2f-d8f7-4c55-aefb-d4bf300b1e6f/apply) | Aledade | Remote in USA | Fresher Job | Remote | Open |
-| [Data Warehouse Software Engineer 1](https://job-boards.greenhouse.io/babelstreet/jobs/8030833) | Babel Street | Cambridge, MA, Remote in  | Fresher Job | Remote | Open |
-| [Roboauto-2026](https://unstop.com/hackathons/roboauto-2026-vidya-jyothi-institute-of-technology-1671501) | Vidya Jyothi Institute of Te | India | Hackathon | Onsite | 2026-07-05 |
-| [CineVerse 2026 – The Ultimate Movie Challenge](https://unstop.com/quiz/cineverse-2026-the-ultimate-movie-challenge-gla-university-glau-uttar-pradesh-1709052) | GLA University (GLAU), Uttar | India | Hackathon | Onsite | 2026-07-06 |
-| [Technostrophe '26](https://unstop.com/quiz/technostrophe-26-e-summit-26-indian-institute-of-technology-iit-dharwad-1709090) | Indian Institute of Technolo | India | Hackathon | Onsite | 2026-07-20 |
-| [Software Engineer - Backend - Core Services](https://job-boards.greenhouse.io/censys/jobs/8500307002) | Censys | Remote in USA, Remote in  | Fresher Job | Remote | Open |
-| [IGS Calibration Engineer](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/IGS-Calibration-Engineer_R4041210-2) | GE Healthcare | Remote in USA | Fresher Job | Remote | Open |
-| [The Audience Roast](https://unstop.com/events/the-audience-roast-beacon-indica-1709388) | Beacon Indica | India | Hackathon | Onsite | 2026-07-10 |
-| [AI for Bharat Hackathon 2026 – Build AI Solutions for India'...](https://unstop.com/hackathons/ai-for-bharat-hackathon-2026-build-ai-solutions-for-indias-real-problems-indraprastha-institute-of-informatio-1709437) | Indraprastha Institute of In | India | Hackathon | Onsite | 2026-07-15 |
 
 ---
 
@@ -235,9 +236,9 @@ The 50 most recently added active opportunities across all categories.
 
 | Category | Total |
 |----------|-------|
-| [Fresher Job](categories/fresher-job/) | 1139 |
+| [Fresher Job](categories/fresher-job/) | 1140 |
 | [Internship](categories/internship/) | 720 |
-| [Hackathon](categories/hackathon/) | 63 |
+| [Hackathon](categories/hackathon/) | 72 |
 | [Open Source Program](categories/open-source-program/) | 2 |
 | [Fellowship](categories/fellowship/) | 2 |
 | [Student Ambassador](categories/student-ambassador/) | 2 |
@@ -287,6 +288,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-07-03 04:28 UTC</sub>
+<sub>Last generated: 2026-07-03 11:12 UTC</sub>
 
 </div>
