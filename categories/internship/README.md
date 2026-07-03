@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**720 active** | **0 expired** | **720 total**
+**721 active** | **0 expired** | **721 total**
 
 *Last updated: 2026-07-03*
 
@@ -11,6 +11,7 @@
 | [Chiplet Security Research Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4955926007) | Tenstorrent | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [China Subject Matter Expert Intern](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004) | Two Six Technologies | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Technical Intern](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR105488-1) | Centific | Remote in USA, Redmond, WA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Student Worker](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---Great-Britain/Student-Worker_R0005973) | Cerence | Remote in UK | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern - Software Engineer](https://job-boards.greenhouse.io/rise8/jobs/4359623007) | Rise8 | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Special Projects Associate - Sustainability Data Monitoring](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/US-Territory-Field-based/Special-Projects-Associate---Sustainability-Data-Monitoring_R0026251) | Elanco | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Data Analyst Intern](https://sedgwick.wd1.myworkdayjobs.com/en-US/Sedgwick/job/Telecommuter-TX/Data-Analyst_R75316) | Sedgwick Claims Management Services | New Mexico, Washington, Kansas, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Texas, Montana, Jackson Township, NJ, Florida, Waterbury, CT, Nevada, South Carolina, South Dakota, Georgia, Arizona, Concord, NH, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, U.S. Virgin Islands, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [PhD Research Intern](https://jobs.ashbyhq.com/Simular/94cbb2c9-392a-4cea-a9bf-cb6c80be3009/application) | Simular | Palo Alto, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [AIE Intern](https://jobs.lever.co/ifm-us/5342e333-61b9-406d-bfea-61a687a94d1f/apply) | Institute of Foundation Models | Sunnyvale, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Machine Learning Engineer PhD Intern](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-PhD-Intern_R0130591) | PayPal | San Jose, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Amazon Robotics – Applied Scientist 2 Intern / Co-op - 2026](https://amazon.jobs/en/jobs/3104589/amazon-robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | Amazon | Seattle, WA, Wakefield, MA, Westborough, MA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

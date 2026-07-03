@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Alexandria, VA, NYC, Traverse City, MI, Washington, DC, California City, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Baltimore, MD, Alexandria, VA, Bluemont, VA, Washington, DC, Southfield, MI
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Bentonville, AR, Blackpool, UK, Lake Grove, NY
+- **Locations:** Bentonville, AR, Lake Grove, NY, Blackpool, UK
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Pasadena, CA, Philadelphia, PA, Kansas City, MO, Bakersfield, CA, Manchester, UK
+- **Categories:** Internship, Fresher Job
+- **Locations:** Atlanta, GA, Whiteley, UK, Cardiff, UK, Bakersfield, CA, Kansas City, MO, Cambridge, UK
 
 ## Current Opportunities
 

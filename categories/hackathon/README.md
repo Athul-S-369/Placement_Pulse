@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**67 active** | **5 expired** | **72 total**
+**72 active** | **5 expired** | **77 total**
 
 *Last updated: 2026-07-03*
 
@@ -21,6 +21,11 @@
 | [Summer of Projects'26](https://unstop.com/competitions/summer-of-projects26-bms-institute-of-technology-and-management-bmsitm-bangalore-1702115) | BMS Institute of Technology and Management (BMSITM), Bangalore | India | 🏢 Onsite | — | 2026-08-15 | Unstop |
 | [NeuraMorphix HackForge 2026](https://unstop.com/hackathons/neuramorphix-hackforge-2026-srm-institute-of-science-and-technology-kattankulathur-chennai-1708229) | SRM Institute of Science and Technology (SRMIST), Kattankulathur, Chennai | India | 🏢 Onsite | — | 2026-09-13 | Unstop |
 | [SquidHack 2026](https://unstop.com/hackathons/squidhack-sage-university-sageu-indore-madhya-pradesh-1703351) | SAGE University (SAGEU), Indore, Madhya Pradesh | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
+| [AVANZARE V19.0 – National Level Tech Fest](https://unstop.com/competitions/avanzare-v190-national-level-tech-fest-kongu-engineering-college-kec-erode-1695426) | Kongu Engineering College (KEC), Erode | India | 🏢 Onsite | — | 2026-07-15 | Unstop |
+| [HackOcean — A National Level Frontend Hackathon](https://unstop.com/hackathons/hackocean-a-national-level-frontend-hackathon-madhav-institute-of-technology-and-science-mits-gwalior-1707618) | Madhav Institute of Technology and Science (MITS), Gwalior | India | 🏢 Onsite | — | 2026-07-22 | Unstop |
+| [Careers Connect on August 18](https://unstop.com/workshops-webinars/crp-careers-connect-on-august-18-accenture-1696701) | Accenture | India | 🏢 Onsite | — | 2026-08-18 | Unstop |
+| [Devengers Promptwars 2026](https://unstop.com/hackathons/devengers-promptwars-2026-devengers-promptwars-2026-devengers-1709488) | Devengers | India | 🏢 Onsite | — | 2026-07-07 | Unstop |
+| [Shri Ram Centenary Olympiad](https://unstop.com/quiz/shri-ram-centenary-olympiad-srcc-du-1704691) | Shri Ram College of Commerce, University of Delhi | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
 | [Skillumni Scholarship Aptitude](https://unstop.com/quiz/skillumni-scholarship-aptitude-skillumni-1708448) | Skillumni | India | 🏢 Onsite | — | 2026-07-17 | Unstop |
 | [Frontend Wars 2026: Build the Future](https://unstop.com/hackathons/frontend-wars-2026-build-the-future-frontend-arena-1709357) | Frontend Arena | India | 🏢 Onsite | — | 2026-08-01 | Unstop |
 | [Students' Research Conclave 4.0](https://unstop.com/competitions/students-research-conclave-40-symbiosis-centre-for-management-studies-scms-pune-1709716) | Symbiosis Centre for Management Studies (SCMS), Pune | India | 🏢 Onsite | — | 2026-11-15 | Unstop |
