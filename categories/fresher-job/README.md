@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1141 active** | **0 expired** | **1141 total**
+**1142 active** | **0 expired** | **1142 total**
 
 *Last updated: 2026-07-04*
 
@@ -9,6 +9,7 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [Software Engineer](https://job-boards.greenhouse.io/transcendinc/jobs/4202502009) | Transcend | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Associate Systems Analyst](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Remote/Associate-Systems-Analyst---MyChart-Digital-Experience_JR26-37123-1) | WVUMedicine | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Staffing and Resource Forecasting Analyst](https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Remote/Staffing-and-Resource-Forecasting-Analyst_JR4810) | WellSky | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Developer 1 - Software Engineering](https://job-boards.eu.greenhouse.io/cision/jobs/4899574101) | Cision | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Quality Process Analyst](https://job-boards.greenhouse.io/natera/jobs/6105091004) | Natera | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Junior Full Stack Developer](https://harmonia.com/job-openings/job-application/?gh_jid=7548893003) | Harmonia | Washington, DC | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Associate / Staff Mission Data Analyst](https://apply.workable.com/scitec/j/301788B4BF/apply) | SciTec | Aurora, CO | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [AI Product Engineer – New Grad](https://jobs.ashbyhq.com/Lightfield/bb758825-5422-46c4-86c3-0be1cc89148f/application) | Lightfield | SF | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Software Engineer - New Grad](https://jobs.ashbyhq.com/sentra/3c9729ca-67b3-4f9f-9c64-5e1e10be1719) | Sentra | San Francisco, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |

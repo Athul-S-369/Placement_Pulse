@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Milwaukee, WI, Exton, PA, North Haven, CT, Birmingham, AL, Boston, MA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Boston, MA, North Haven, CT, Hickory, NC, Elmira, NY, Cambridge, MA
 
 ## Current Opportunities
 

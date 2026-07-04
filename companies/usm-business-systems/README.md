@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Chicago, IL, Bluemont, VA, Traverse City, MI, St. Louis, MO, Washington, DC
+- **Categories:** Fresher Job, Internship
+- **Locations:** Alexandria, VA, NYC, Chicago, IL, Washington, DC, Dublin, OH
 
 ## Current Opportunities
 
