@@ -1,11 +1,11 @@
 # 🏢 Virtu Financial
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-03*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-04*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** NYC, Austin, TX
+- **Locations:** Austin, TX, NYC
 
 ## Current Opportunities
 

@@ -1,13 +1,20 @@
 # 🏆 Hackathon
 
-**72 active** | **5 expired** | **77 total**
+**76 active** | **8 expired** | **84 total**
 
-*Last updated: 2026-07-03*
+*Last updated: 2026-07-04*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Agents of Change – National Agentic AI Bootcamp & Buildathon 2026](https://unstop.com/hackathons/agents-of-change-national-agentic-ai-bootcamp-buildathon-2026-agents-of-change-2026-oriental-group-of-institu-1710516) | Oriental Group of Institutes, Bhopal, Madhya Pradesh | India | 🏢 Onsite | — | 2026-07-08 | Unstop |
+| [Can you solve what 4100+ professionals were struggling with?](https://unstop.com/competitions/can-you-solve-what-4100-professionals-were-struggling-with-generally-critical-1710246) | Generally Critical | India | 🏢 Onsite | — | 2026-12-31 | Unstop |
+| [Cash Me If You Can](https://unstop.com/quiz/cash-me-if-you-can-the-university-of-texas-at-dallas-tutad-1710207) | The University of Texas at Dallas (TUTAD) | India | 🏢 Onsite | — | 2026-07-10 | Unstop |
+| [Tech-A-Thon 5.0](https://unstop.com/hackathons/tech-a-thon-50-bit-mesra-ranchi-1699177) | Birla Institute of Technology (BIT), Mesra, Ranchi | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
+| [Build Your First AI Agent](https://unstop.com/workshops-webinars/build-your-first-ai-agent-gradient-technology-services-gradientts-1709143) | Gradient Technology Services (Gradientts) | India | 🏢 Onsite | — | 2026-07-10 | Unstop |
+| [AlgoSprint 2026 – Online Coding Challenge](https://unstop.com/hackathons/algosprint-2026-online-coding-challenge-gyan-ganga-college-of-technology-ggct-1710621) | Gyan Ganga College Of Technology (GGCT) | India | 🏢 Onsite | — | 2026-09-30 | Unstop |
+| [Hack Synthesis 3.0 - 2026](https://unstop.com/hackathons/hack-synthesis-30-2026-university-of-engineering-and-management-kolkata-1710631) | University of Engineering and Management Kolkata | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 | [CMR Thinkfest 3.0](https://unstop.com/hackathons/cmr-thinkfest-30-cmr-college-of-engineering-and-technology-cmrcet-hyderabad-1708928) | CMR College of Engineering and Technology (CMRCET), Hyderabad | India | 🏢 Onsite | — | 2026-07-14 | Unstop |
 | [Code Cup 2026](https://unstop.com/hackathons/code-cup-2026-rv-college-of-engineering-rvce-bangalore-1709589) | R.V. College of Engineering (RVCE), Bangalore | India | 🏢 Onsite | — | 2026-07-07 | Unstop |
 | [AlgoVerse 2026](https://unstop.com/quiz/algoverse-2026-techverse-solutions-1710202) | TechVerse Solutions | India | 🏢 Onsite | — | 2026-07-13 | Unstop |
@@ -56,12 +63,9 @@
 | [Smart School FinTech Innovation Challenge 2026](https://unstop.com/hackathons/smart-school-fintech-innovation-challenge-2026-paper-buddy-1709331) | Paper Buddy | India | 🏢 Onsite | — | 2026-07-16 | Unstop |
 | [MangaVerse](https://unstop.com/competitions/mangaverse-ieee-sheaspire-30-veer-surendra-sai-university-of-technology-vssut-odisha-1703969) | Veer Surendra Sai University of Technology (VSSUT), Odisha | India | 🏢 Onsite | — | 2026-07-06 | Unstop |
 | [Cascade - A Cryptic Hunt](https://unstop.com/hackathons/cascade-a-cryptic-hunt-manipal-university-mu-jaipur-1704689) | Manipal University (MU), Jaipur | India | 🏢 Onsite | — | 2026-07-05 | Unstop |
-| [National Aptitude & Logic Olympiad](https://unstop.com/quiz/national-aptitude-logic-olympiad-conquer-e-learning-1708844) | Conquer E Learning | India | 🏢 Onsite | — | 2026-07-03 | Unstop |
 | [Finopoly- The Finance Competition](https://unstop.com/competitions/finopoly-the-finance-competition-iim-indore-1708977) | Indian Institute of Management (IIM), Indore | India | 🏢 Onsite | — | 2026-07-20 | Unstop |
-| [How to Become a Data Analyst 101](https://unstop.com/workshops-webinars/how-to-become-a-data-analyst-101-yai-infraventure-1708829) | YAI Infraventure | India | 🏢 Onsite | — | 2026-07-03 | Unstop |
 | [Young Investors' Fellowship Programme 7.0](https://unstop.com/workshops-webinars/young-investors-fellowship-programme-70-hansraj-collegeuniversity-of-delhi-1705220) | Hansraj College,University of Delhi | India | 🏢 Onsite | — | 2026-07-30 | Unstop |
 | [CyberStrike 26- National Level Capture The Flag (CTF) Competition](https://unstop.com/competitions/cyberstrike-26-national-level-capture-the-flag-ctf-competition-sreenidhi-institute-of-science-and-technolog-1707627) | Sreenidhi Institute Of Science And Technology (SNIST), Hyderabad | India | 🏢 Onsite | — | 2026-07-13 | Unstop |
-| [Public and Private Universities – A Comparison & Future Opportunities](https://unstop.com/workshops-webinars/public-and-private-universities-a-comparison-future-opportunities-public-and-private-universities-a-c-1708855) | Workpunkt | India | 🏢 Onsite | — | 2026-07-03 | Unstop |
 | [Quiz Masters Challenge 2026](https://unstop.com/quiz/quiz-masters-challenge-2026-iit-roorkee-1706666) | Indian Institute of Technology (IIT), Roorkee | India | 🏢 Onsite | — | 2026-07-30 | Unstop |
 | [IndiaStox Nifty50 Predictions Challenge](https://unstop.com/competitions/indiastox-nifty50-predictions-challenge-indiastox-1705751) | Indiastox | India | 🏢 Onsite | — | 2026-07-05 | Unstop |
 | [The Beautiful Game || A Football Quiz](https://unstop.com/quiz/the-beautiful-game-a-football-quiz-quizarc-1704677) | Quizarc | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
@@ -85,6 +89,9 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [National Aptitude & Logic Olympiad](https://unstop.com/quiz/national-aptitude-logic-olympiad-conquer-e-learning-1708844) | Conquer E Learning | India | 🏢 Onsite | — | 2026-07-03 | Unstop |
+| [How to Become a Data Analyst 101](https://unstop.com/workshops-webinars/how-to-become-a-data-analyst-101-yai-infraventure-1708829) | YAI Infraventure | India | 🏢 Onsite | — | 2026-07-03 | Unstop |
+| [Public and Private Universities – A Comparison & Future Opportunities](https://unstop.com/workshops-webinars/public-and-private-universities-a-comparison-future-opportunities-public-and-private-universities-a-c-1708855) | Workpunkt | India | 🏢 Onsite | — | 2026-07-03 | Unstop |
 | [Blueprints N Breakthroughs](https://unstop.com/workshops-webinars/blueprints-n-breakthroughs-maharaja-agrasen-institute-of-technology-mait-new-delhi-1704679) | Maharaja Agrasen Institute of Technology (MAIT), New Delhi | India | 🏢 Onsite | — | 2026-07-01 | Unstop |
 | [Betaverse](https://unstop.com/events/betaverse-iit-gandhinagar-1706043) | Indian Institute of Technology (IIT), Gandhinagar | India | 🏢 Onsite | — | 2026-07-01 | Unstop |
 | [Beyond Campus Placements: Your Path to a Tech Career](https://unstop.com/workshops-webinars/beyond-campus-placements-your-path-to-a-tech-career-techbairn-research-1704647) | TechBairn Research | India | 🏢 Onsite | — | 2026-06-30 | Unstop |

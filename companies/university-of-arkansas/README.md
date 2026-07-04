@@ -1,11 +1,11 @@
 # 🏢 University of Arkansas
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-07-03*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-07-04*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Pine Bluff, AR, Fayetteville, AR, Little Rock, AR
+- **Locations:** Little Rock, AR, Fayetteville, AR, Pine Bluff, AR
 
 ## Current Opportunities
 

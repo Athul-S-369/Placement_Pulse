@@ -1,11 +1,11 @@
 # 🏢 Latitude AI
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-03*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-04*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Palo Alto, CA, Taylor, MI, Pittsburgh, PA, Pittsburgh, PA
+- **Locations:** Pittsburgh, PA, Palo Alto, CA, Taylor, MI, Pittsburgh, PA
 
 ## Current Opportunities
 

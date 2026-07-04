@@ -1,6 +1,6 @@
 # 🏢 YAI Infraventure
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-03*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-04*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [How to Become a Data Analyst 101](https://unstop.com/workshops-webinars/how-to-become-a-data-analyst-101-yai-infraventure-1708829) | YAI Infraventure | India | 🏢 Onsite | — | 2026-07-03 | Unstop |
 
 ## 📖 Interview Preparation
 

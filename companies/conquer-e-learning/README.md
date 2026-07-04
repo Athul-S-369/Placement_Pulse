@@ -1,6 +1,6 @@
 # 🏢 Conquer E Learning
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-03*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-04*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [National Aptitude & Logic Olympiad](https://unstop.com/quiz/national-aptitude-logic-olympiad-conquer-e-learning-1708844) | Conquer E Learning | India | 🏢 Onsite | — | 2026-07-03 | Unstop |
 
 ## 📖 Interview Preparation
 

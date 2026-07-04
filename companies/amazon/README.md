@@ -1,11 +1,11 @@
 # 🏢 Amazon
 
-**13 active opportunities** | **13 total tracked** | *Last updated: 2026-07-03*
+**13 active opportunities** | **13 total tracked** | *Last updated: 2026-07-04*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Winnipeg, MB, Canada, Toronto, ON, Canada, Victoria, BC, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, London, UK, Edinburgh, UK, Cambridge, UK, Fredericksburg, VA, Ashburn, VA, Manassas, VA, Reston, VA, Dulles, VA, Seattle, WA, Wakefield, MA, Westborough, MA, Sunnyvale, CA
+- **Locations:** Tempe, AZ, Seattle, WA, Wakefield, MA, Westborough, MA, Sunnyvale, CA, Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington, VA, NYC, Bellevue, WA, San Diego, CA, Seattle, WA, SF
 
 ## Current Opportunities
 
