@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**84 active** | **10 expired** | **94 total**
+**85 active** | **10 expired** | **95 total**
 
 *Last updated: 2026-07-05*
 
@@ -10,6 +10,7 @@
 |------|---------|----------|------|----------------|----------|--------|
 | [Full Stack Developer Webinar and Workshops](https://unstop.com/workshops-webinars/full-stack-developer-webinar-and-workshops-soft-webtech-solutions-1711321) | Soft Webtech Solutions | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
 | [Blog Writing Competetion](https://unstop.com/events/blog-writing-competetion-noida-international-university-niu-greater-noida-1711311) | Noida International University (NIU), Greater Noida | India | 🏢 Onsite | — | 2026-07-07 | Unstop |
+| [SELL IT 2026: A Battle of Wits | Revive. Rebuild. Reimagine.](https://unstop.com/competitions/sell-it-2026-a-battle-of-wits-revive-rebuild-reimagine-startup-grind-bhubaneswar-1710208) | Startup Grind Bhubaneswar | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
 | [Agents of Change – National Agentic AI Bootcamp & Buildathon 2026](https://unstop.com/hackathons/agents-of-change-national-agentic-ai-bootcamp-buildathon-2026-agents-of-change-2026-oriental-group-of-institu-1710516) | Oriental Group of Institutes, Bhopal, Madhya Pradesh | India | 🏢 Onsite | — | 2026-07-08 | Unstop |
 | [Can you solve what 4100+ professionals were struggling with?](https://unstop.com/competitions/can-you-solve-what-4100-professionals-were-struggling-with-generally-critical-1710246) | Generally Critical | India | 🏢 Onsite | — | 2026-12-31 | Unstop |
 | [Cash Me If You Can](https://unstop.com/quiz/cash-me-if-you-can-the-university-of-texas-at-dallas-tutad-1710207) | The University of Texas at Dallas (TUTAD) | India | 🏢 Onsite | — | 2026-07-10 | Unstop |

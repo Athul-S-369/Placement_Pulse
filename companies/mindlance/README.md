@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Syracuse, NY, Frisco, TX, Charlotte, NC, NYC
+- **Locations:** NYC, Syracuse, NY, Frisco, TX, Charlotte, NC
 
 ## Current Opportunities
 

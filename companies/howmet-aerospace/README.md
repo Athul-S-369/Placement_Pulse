@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Hampton, VA, Muskegon, MI
+- **Locations:** Muskegon, MI, Hampton, VA
 
 ## Current Opportunities
 

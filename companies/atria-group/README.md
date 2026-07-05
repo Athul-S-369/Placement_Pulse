@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Alpharetta, GA, San Jose, CA, Thousand Oaks, CA, Broomfield, CO, Sunnyvale, CA
+- **Locations:** Dallas, TX, Thousand Oaks, CA, Sunnyvale, CA, St. Louis, MO, Novato, CA
 
 ## Current Opportunities
 

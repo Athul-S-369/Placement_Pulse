@@ -58846,5 +58846,36 @@
     "verification_status": "unverified",
     "is_duplicate": false,
     "duplicate_of": ""
+  },
+  {
+    "id": "2061e1e1ac053849",
+    "title": "SELL IT 2026: A Battle of Wits | Revive. Rebuild. Reimagine.",
+    "company": "Startup Grind Bhubaneswar",
+    "company_slug": "startup-grind-bhubaneswar",
+    "category": "hackathon",
+    "domain_tags": [],
+    "tags": [],
+    "location": "India",
+    "work_mode": "onsite",
+    "is_india": true,
+    "apply_link": "https://unstop.com/competitions/sell-it-2026-a-battle-of-wits-revive-rebuild-reimagine-startup-grind-bhubaneswar-1710208",
+    "source_url": "https://unstop.com",
+    "source_name": "Unstop",
+    "date_found": "2026-07-05",
+    "date_posted": "",
+    "deadline": "2026-07-19",
+    "last_checked": "2026-07-05",
+    "batch_eligible": [
+      "2026"
+    ],
+    "experience_required": "0",
+    "skills_required": [],
+    "salary": "",
+    "stipend": "",
+    "description": "",
+    "responsibilities": [],
+    "verification_status": "unverified",
+    "is_duplicate": false,
+    "duplicate_of": ""
   }
 ]
