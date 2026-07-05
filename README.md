@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**July 05, 2026** &nbsp;—&nbsp; **64** Fresher Job &nbsp;·&nbsp; **47** Internship &nbsp;·&nbsp; **5** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**July 05, 2026** &nbsp;—&nbsp; **65** Fresher Job &nbsp;·&nbsp; **47** Internship &nbsp;·&nbsp; **7** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**122 opportunities** added or updated in the latest run (July 05, 2026).
+**125 opportunities** added or updated in the latest run (July 05, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -64,7 +64,8 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Junior Software Engineer - Full-Stack](https://job-boards.greenhouse.io/epickids/jobs/7751646003) | Epic Kids | Remote in USA | Fresher Job | Remote | — |
 | [Data Engineer 1](https://jobs.ashbyhq.com/flashpoint.io/84e64d83-f0b2-43db-8151-94dc75f2c705/application) | Flashpoint | Remote in USA | Fresher Job | Remote | — |
 | [Graduate Software Engineer](https://job-boards.eu.greenhouse.io/fuzehealth/jobs/4833389101) | Fuze Health | Remote in USA | Fresher Job | Remote | — |
-| [Field Service Engineer 1](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1-San-Diego_R4042998) | GE Healthcare | Remote in USA | Fresher Job | Remote | — |
+| [Field Engineer 1](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois_R4041927-1) | GE Healthcare | Remote in USA | Fresher Job | Remote | — |
+| [Field Service Engineer 1](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4043077-1) | GE Healthcare | Austin, TX, Remote in USA | Fresher Job | Remote | — |
 | [Software Development Engineer 1](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260271) | GM financial | Remote in USA | Fresher Job | Remote | — |
 | [Hardware Engineer - AI Trainer](https://jobs.ashbyhq.com/handshake/a2005298-96da-46f6-8809-231008720bd9/application) | Handshake | Remote in USA | Fresher Job | Remote | — |
 | [Corporate Legal Technology Consultant - Discovery and Data M...](https://job-boards.greenhouse.io/harborglobal/jobs/5091441007) | Harbor | Remote in USA | Fresher Job | Remote | — |
@@ -101,16 +102,18 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Founding Engineer](https://job-boards.greenhouse.io/applytotruebuilt/jobs/4588866004) | TrueBuilt | Remote in USA | Fresher Job | Remote | — |
 | [Software Engineer](https://job-boards.greenhouse.io/twilio/jobs/7681338) | Twilio | Remote in USA | Fresher Job | Remote | — |
 | [Trading Assistant](https://job-boards.greenhouse.io/underdogfantasy/jobs/4595201005) | Underdog Fantasy | Remote in USA | Fresher Job | Remote | — |
-| [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailan...](https://www.flexport.com/company/careers/) | Various | India | Fresher Job | Onsite | — |
 | [Associate Systems Analyst](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Remote/Associate-Systems-Analyst---MyChart-Digital-Experience_JR26-37123-1) | WVUMedicine | Remote in USA | Fresher Job | Remote | — |
 | [Maps Personalization Relevance Rater - English](https://jobs.lever.co/weloglobal/0157c8d2-ccef-4760-89c2-cd874506955f/apply) | Welo Global | Remote in USA | Fresher Job | Remote | — |
 | [System Specialist](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/System-Specialist_R22024) | Wex | Remote in USA | Fresher Job | Remote | — |
+| [Healthcare Claims Analyst](https://job-boards.greenhouse.io/withumsmithbrown/jobs/8459137002) | Withum | Remote in USA | Fresher Job | Remote | — |
 | [Software Development](https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote--WA/Software-Development_R17786-1) | Zoom | Remote in USA | Fresher Job | Remote | — |
 | [Full Stack / Backend Software Engineer](https://jobs.ashbyhq.com/candidate.fyi/0448a10e-863f-437f-80bb-d65ee09f8b6e/application) | candidate fyi | Remote in USA | Fresher Job | Remote | — |
 | [Data Analytics Engineer 1](https://job-boards.greenhouse.io/dv01/jobs/8497282002) | dv01 | Remote in USA | Fresher Job | Remote | — |
 | [Full Stack Engineer](https://jobs.lever.co/hhaexchange/37711e74-f9e9-42c5-9c4f-66df2afab2e2/apply) | hhaexchange | Remote in USA | Fresher Job | Remote | — |
-| [Verve | The Group Dance Competition](https://unstop.com/events/verve-the-group-dance-competition-atharv-ranbhoomi-2026-iim-indore-1711313) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-07-26 |
+| [Placement Prep Quiz 2026](https://unstop.com/quiz/placement-prep-quiz-2026-gla-university-glau-uttar-pradesh-1711374) | GLA University (GLAU), Uttar | India | Hackathon | Onsite | 2026-07-19 |
+| [Vanity | The Fashion Show Competition](https://unstop.com/events/vanity-the-fashion-show-competition-atharv-ranbhoomi-2026-iim-indore-1711312) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-10-18 |
 | [Blog Writing Competetion](https://unstop.com/events/blog-writing-competetion-noida-international-university-niu-greater-noida-1711311) | Noida International Universi | India | Hackathon | Onsite | 2026-07-07 |
+| [Tech Verse Workshop Series Shortlistment Test](https://unstop.com/quiz/tech-verse-workshop-series-shortlistment-test-oriental-institute-of-science-and-technology-oist-bhopal-1711270) | Oriental Institute of Scienc | India | Hackathon | Onsite | 2026-07-05 |
 | [Pro](https://unstop.com/quiz/pro-shri-mathura-high-school-sitamarhi-bihar-1710965) | Shri Mathura High School, Si | India | Hackathon | Onsite | 2026-07-19 |
 | [Full Stack Developer Webinar and Workshops](https://unstop.com/workshops-webinars/full-stack-developer-webinar-and-workshops-soft-webtech-solutions-1711321) | Soft Webtech Solutions | India | Hackathon | Onsite | 2026-08-02 |
 | [ThunderCipher Case Files #001: The Crypto Heist](https://unstop.com/hackathons/thundercipher-case-files-001-the-crypto-heist-thundercipher-1710309) | ThunderCipher | India | Hackathon | Onsite | 2026-07-19 |
@@ -284,6 +287,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-07-05 04:43 UTC</sub>
+<sub>Last generated: 2026-07-05 10:39 UTC</sub>
 
 </div>

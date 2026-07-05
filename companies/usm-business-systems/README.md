@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** San Antonio, TX, Chicago, IL, El Segundo, CA, Jefferson City, MO, Augusta, ME
+- **Categories:** Fresher Job, Internship
+- **Locations:** Bluemont, VA, Alexandria, VA, St. Louis, MO, Chantilly, VA, NYC
 
 ## Current Opportunities
 

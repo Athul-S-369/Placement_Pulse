@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** United States, Morrisville, NC, Cambridge, MA, SF, Beaverton, OR
+- **Categories:** Fresher Job, Internship
+- **Locations:** San Jose, CA, Lafayette, KS, SF, Morrisville, NC, Cupertino, CA
 
 ## Current Opportunities
 

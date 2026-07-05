@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Allen, TX, Glasgow, UK
+- **Locations:** Glasgow, UK, Allen, TX
 
 ## Current Opportunities
 

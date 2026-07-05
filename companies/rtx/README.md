@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Huntsville, AL, Longueuil, QC, Canada, Andover, MA, Cedar Rapids, IA, Fort Wayne, IN
+- **Categories:** Fresher Job, Internship
+- **Locations:** McKinney, TX, Goleta, CA, Longueuil, QC, Canada, Andover, MA, Arlington, VA
 
 ## Current Opportunities
 
