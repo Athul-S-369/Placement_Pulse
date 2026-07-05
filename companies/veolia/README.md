@@ -1,11 +1,11 @@
 # 🏢 Veolia
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-07-04*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-07-05*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Boulder, CO, Beaumont, TX, Montreal, QC, Canada
+- **Categories:** Internship, Fresher Job
+- **Locations:** Boulder, CO, Montreal, QC, Canada, Beaumont, TX
 
 ## Current Opportunities
 

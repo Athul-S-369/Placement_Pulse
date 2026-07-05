@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-04T17:37:27.782606Z",
-  "date": "2026-07-04",
-  "total": 1961,
-  "active": 1952,
+  "generated_at": "2026-07-05T04:43:47.311143Z",
+  "date": "2026-07-05",
+  "total": 1964,
+  "active": 1953,
   "new_today": 122,
-  "companies": 1346,
+  "companies": 1349,
   "categories": {
-    "fresher-job": 1142,
+    "fresher-job": 1143,
     "internship": 721,
-    "hackathon": 92,
+    "hackathon": 94,
     "open-source-program": 2,
     "fellowship": 2,
     "student-ambassador": 2
@@ -98,7 +98,7 @@
   "domain_tags": {
     "ai-ml": 239,
     "data-science": 157,
-    "software-engineering": 381,
+    "software-engineering": 382,
     "backend": 15,
     "embedded": 43,
     "cybersecurity": 15,
@@ -109,7 +109,7 @@
     "cloud": 18
   },
   "work_modes": {
-    "remote": 153,
-    "onsite": 1808
+    "remote": 154,
+    "onsite": 1810
   }
 }

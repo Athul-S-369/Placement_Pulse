@@ -1,11 +1,11 @@
 # 🏢 PAR Tech
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-04*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-05*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Utica, NY, Urbana, IL
+- **Locations:** Urbana, IL, Utica, NY
 
 ## Current Opportunities
 

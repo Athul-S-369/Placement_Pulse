@@ -1,13 +1,14 @@
 # 💼 Fresher Job
 
-**1142 active** | **0 expired** | **1142 total**
+**1143 active** | **0 expired** | **1143 total**
 
-*Last updated: 2026-07-04*
+*Last updated: 2026-07-05*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Maps Personalization Relevance Rater - English](https://jobs.lever.co/weloglobal/0157c8d2-ccef-4760-89c2-cd874506955f/apply) | Welo Global | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://job-boards.greenhouse.io/transcendinc/jobs/4202502009) | Transcend | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Systems Analyst](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Remote/Associate-Systems-Analyst---MyChart-Digital-Experience_JR26-37123-1) | WVUMedicine | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Staffing and Resource Forecasting Analyst](https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Remote/Staffing-and-Resource-Forecasting-Analyst_JR4810) | WellSky | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Korean Bilingual Software Test Engineer (Entry Level)](https://btisolutions.wd12.myworkdayjobs.com/external/job/Plano-TX/Korean-Bilingual-Software-Test-Engineer--Entry-Level--AO7167525_JR101482) | BTI Solutions | Plano, TX | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Junior Full Stack Developer](https://harmonia.com/job-openings/job-application/?gh_jid=7548893003) | Harmonia | Washington, DC | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Associate / Staff Mission Data Analyst](https://apply.workable.com/scitec/j/301788B4BF/apply) | SciTec | Aurora, CO | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [AI Product Engineer – New Grad](https://jobs.ashbyhq.com/Lightfield/bb758825-5422-46c4-86c3-0be1cc89148f/application) | Lightfield | SF | 🏢 Onsite | — | — | SimplifyJobs New Grad |

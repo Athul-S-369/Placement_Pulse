@@ -1,11 +1,11 @@
 # 🏢 Apple
 
-**17 active opportunities** | **17 total tracked** | *Last updated: 2026-07-04*
+**17 active opportunities** | **17 total tracked** | *Last updated: 2026-07-05*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Morrisville, NC, California, Cambridge, MA, Lafayette, KS, Cupertino, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** United States, Morrisville, NC, Cambridge, MA, SF, Beaverton, OR
 
 ## Current Opportunities
 

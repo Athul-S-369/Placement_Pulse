@@ -1,6 +1,6 @@
 # 🏢 SheBuilds
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-04*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-05*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AI Career Hackathon](https://unstop.com/hackathons/shebuilds-ai-career-hackathon-shebuilds-1709515) | SheBuilds | India | 🏢 Onsite | — | 2026-07-04 | Unstop |
 
 ## 📖 Interview Preparation
 

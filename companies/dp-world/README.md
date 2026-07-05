@@ -1,11 +1,11 @@
 # 🏢 DP World
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-04*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-05*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** London, UK, Thurrock, UK
+- **Categories:** Internship, Fresher Job
+- **Locations:** Thurrock, UK, London, UK
 
 ## Current Opportunities
 
