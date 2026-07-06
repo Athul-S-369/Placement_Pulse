@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Longueuil, QC, Canada, Barrie, ON, Canada, Andover, MA, Cedar Rapids, IA, Huntsville, AL
+- **Categories:** Fresher Job, Internship
+- **Locations:** Cedar Rapids, IA, Longueuil, QC, Canada, Andover, MA, Huntsville, AL, Barrie, ON, Canada
 
 ## Current Opportunities
 

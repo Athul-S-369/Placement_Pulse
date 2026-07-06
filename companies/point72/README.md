@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Stamford, CT, NYC, London, UK, NYC, SF, Florida, Chicago, IL, NYC
+- **Locations:** SF, Florida, Chicago, IL, NYC, NYC, Stamford, CT, NYC, London, UK
 
 ## Current Opportunities
 

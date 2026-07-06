@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Bloomington, MN, Jefferson City, MO, California City, CA, Rochester, MI, NYC
+- **Categories:** Fresher Job, Internship
+- **Locations:** St. Louis, MO, Jefferson City, MO, San Antonio, TX, Columbus, OH, California City, CA
 
 ## Current Opportunities
 

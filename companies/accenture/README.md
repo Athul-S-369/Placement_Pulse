@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Hackathon, Fresher Job
-- **Locations:** Ottawa, ON, Canada, Vancouver, BC, Canada, Boston, MA, Seattle, WA, Houston, TX, SF, LA, Arlington, TX, Philadelphia, PA, Las Colinas, Irving, TX, Chicago, IL, Charlotte, NC, Columbus, OH, NYC, Atlanta, GA, Washington, DC, India
+- **Categories:** Fresher Job, Hackathon, Internship
+- **Locations:** India, Boston, MA, Seattle, WA, Houston, TX, SF, LA, Arlington, TX, Philadelphia, PA, Las Colinas, Irving, TX, Chicago, IL, Charlotte, NC, Columbus, OH, NYC, Atlanta, GA, Washington, DC, Ottawa, ON, Canada, Vancouver, BC, Canada
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**83 active** | **14 expired** | **97 total**
+**87 active** | **14 expired** | **101 total**
 
 *Last updated: 2026-07-06*
 
@@ -10,6 +10,10 @@
 |------|---------|----------|------|----------------|----------|--------|
 | [Gemini Prompt Wars](https://unstop.com/competitions/gemini-prompt-wars-bn-college-of-engineering-and-technology-lucknow-uttar-pradesh-1711583) | B.N. College Of Engineering And Technology, Lucknow, Uttar Pradesh | India | 🏢 Onsite | — | 2026-08-05 | Unstop |
 | [Varithon 2026](https://unstop.com/hackathons/varithon-2026-marathwada-mitra-mandals-college-of-engineering-mmcoe-pune-1711499) | Marathwada Mitra Mandal's College of Engineering (MMCOE), Pune | India | 🏢 Onsite | — | 2026-08-29 | Unstop |
+| [MerchVerse 2026](https://unstop.com/quiz/merchverse-2026-h-p-projects-1711835) | H & P Projects | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
+| [ProdXPulse 2026: AI Product Festival - Workshop](https://unstop.com/competitions/prodxpulse-2026-ai-product-festival-workshop-cmr-university-cmru-bangalore-karnataka-1709887) | CMR University (CMRU), Bangalore, Karnataka | India | 🏢 Onsite | — | 2026-07-09 | Unstop |
+| [Your Time to Shine : Wribate July 2026 Challenge](https://unstop.com/competitions/your-time-to-shine-wribate-july-2026-challenge-your-time-to-shine-writers-debaters-wribate-july-2026-challe-1699409) | Wribate | India | 🏢 Onsite | — | 2026-07-20 | Unstop |
+| [CodeArena Genesis 1.0 – National Tech Quiz 2026](https://unstop.com/quiz/codearena-genesis-10-national-tech-quiz-2026-codearena-1709501) | CodeArena | India | 🏢 Onsite | — | 2026-07-16 | Unstop |
 | [Full Stack Developer Webinar and Workshops](https://unstop.com/workshops-webinars/full-stack-developer-webinar-and-workshops-soft-webtech-solutions-1711321) | Soft Webtech Solutions | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
 | [Blog Writing Competetion](https://unstop.com/events/blog-writing-competetion-noida-international-university-niu-greater-noida-1711311) | Noida International University (NIU), Greater Noida | India | 🏢 Onsite | — | 2026-07-07 | Unstop |
 | [SELL IT 2026: A Battle of Wits | Revive. Rebuild. Reimagine.](https://unstop.com/competitions/sell-it-2026-a-battle-of-wits-revive-rebuild-reimagine-startup-grind-bhubaneswar-1710208) | Startup Grind Bhubaneswar | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
