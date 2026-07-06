@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Austin, TX, Milpitas, CA, Ann Arbor, MI, Remote / Various, Milpitas, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Milpitas, CA, Austin, TX, Milpitas, CA, Ann Arbor, MI, Remote / Various
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** St. Louis, MO, Jefferson City, MO, San Antonio, TX, Columbus, OH, California City, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Columbus, OH, Westminster, CO, Rochester, MI, Washington, DC, Chicago, IL
 
 ## Current Opportunities
 

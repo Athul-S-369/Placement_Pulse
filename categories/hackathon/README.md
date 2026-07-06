@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**87 active** | **14 expired** | **101 total**
+**91 active** | **14 expired** | **105 total**
 
 *Last updated: 2026-07-06*
 
@@ -14,6 +14,10 @@
 | [ProdXPulse 2026: AI Product Festival - Workshop](https://unstop.com/competitions/prodxpulse-2026-ai-product-festival-workshop-cmr-university-cmru-bangalore-karnataka-1709887) | CMR University (CMRU), Bangalore, Karnataka | India | 🏢 Onsite | — | 2026-07-09 | Unstop |
 | [Your Time to Shine : Wribate July 2026 Challenge](https://unstop.com/competitions/your-time-to-shine-wribate-july-2026-challenge-your-time-to-shine-writers-debaters-wribate-july-2026-challe-1699409) | Wribate | India | 🏢 Onsite | — | 2026-07-20 | Unstop |
 | [CodeArena Genesis 1.0 – National Tech Quiz 2026](https://unstop.com/quiz/codearena-genesis-10-national-tech-quiz-2026-codearena-1709501) | CodeArena | India | 🏢 Onsite | — | 2026-07-16 | Unstop |
+| [ExploitX: Into the Void 2.0 CTF](https://unstop.com/hackathons/exploitx-into-the-void-20-ctf-chennai-institute-of-technology-1708797) | Chennai Institute of Technology | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
+| [Innovate 4 Impact](https://unstop.com/hackathons/innovate-4-impact-ieee-wie-affinity-group-bharati-vidyapeeth-deemed-to-be-university-college-of-engineering-p-1711745) | IEEE WIE Affinity Group, Bharati Vidyapeeth (Deemed to be University) College of Engineering, Pune | India | 🏢 Onsite | — | 2026-08-07 | Unstop |
+| [National Level Technical Hackathon](https://unstop.com/hackathons/national-level-technical-hackathon-dhanalakshmi-srinivasan-engineering-college-perambalur-1711964) | Dhanalakshmi Srinivasan Engineering College, Perambalur | India | 🏢 Onsite | — | 2026-08-11 | Unstop |
+| [Tech Trivia](https://unstop.com/quiz/tech-trivia-pranveer-singh-institute-of-technology-psit-kanpur-1711927) | Pranveer Singh Institute of Technology (PSIT), Kanpur | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
 | [Full Stack Developer Webinar and Workshops](https://unstop.com/workshops-webinars/full-stack-developer-webinar-and-workshops-soft-webtech-solutions-1711321) | Soft Webtech Solutions | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
 | [Blog Writing Competetion](https://unstop.com/events/blog-writing-competetion-noida-international-university-niu-greater-noida-1711311) | Noida International University (NIU), Greater Noida | India | 🏢 Onsite | — | 2026-07-07 | Unstop |
 | [SELL IT 2026: A Battle of Wits | Revive. Rebuild. Reimagine.](https://unstop.com/competitions/sell-it-2026-a-battle-of-wits-revive-rebuild-reimagine-startup-grind-bhubaneswar-1710208) | Startup Grind Bhubaneswar | India | 🏢 Onsite | — | 2026-07-19 | Unstop |

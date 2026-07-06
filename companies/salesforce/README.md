@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Indianapolis, IN, London, UK, Remote / Various, Palo Alto, CA, SF, Bellevue, WA, Seattle, WA
+- **Categories:** Internship, Fresher Job
+- **Locations:** London, UK, Palo Alto, CA, SF, Bellevue, WA, Seattle, WA, Indianapolis, IN, Remote / Various
 
 ## Current Opportunities
 
