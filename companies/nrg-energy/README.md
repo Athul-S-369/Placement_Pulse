@@ -1,11 +1,11 @@
 # 🏢 NRG Energy
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-05*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-06*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Little Rock, AR, Corpus Christi, TX
+- **Categories:** Internship, Fresher Job
+- **Locations:** Corpus Christi, TX, Little Rock, AR
 
 ## Current Opportunities
 

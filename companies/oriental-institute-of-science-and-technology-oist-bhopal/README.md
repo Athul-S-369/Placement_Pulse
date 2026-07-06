@@ -1,6 +1,6 @@
 # 🏢 Oriental Institute of Science and Technology (OIST), Bhopal
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-05*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-06*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Tech Verse Workshop Series Shortlistment Test](https://unstop.com/quiz/tech-verse-workshop-series-shortlistment-test-oriental-institute-of-science-and-technology-oist-bhopal-1711270) | Oriental Institute of Science and Technology (OIST), Bhopal | India | 🏢 Onsite | — | 2026-07-05 | Unstop |
 
 ## 📖 Interview Preparation
 

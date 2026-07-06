@@ -1,6 +1,6 @@
 # 🏢 Manipal University (MU), Jaipur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-05*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-06*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Cascade - A Cryptic Hunt](https://unstop.com/hackathons/cascade-a-cryptic-hunt-manipal-university-mu-jaipur-1704689) | Manipal University (MU), Jaipur | India | 🏢 Onsite | — | 2026-07-05 | Unstop |
 
 ## 📖 Interview Preparation
 

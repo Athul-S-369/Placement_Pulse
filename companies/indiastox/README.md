@@ -1,6 +1,6 @@
 # 🏢 Indiastox
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-05*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-06*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [IndiaStox Nifty50 Predictions Challenge](https://unstop.com/competitions/indiastox-nifty50-predictions-challenge-indiastox-1705751) | Indiastox | India | 🏢 Onsite | — | 2026-07-05 | Unstop |
 
 ## 📖 Interview Preparation
 

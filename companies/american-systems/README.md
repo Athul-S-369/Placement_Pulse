@@ -1,11 +1,11 @@
 # 🏢 AMERICAN SYSTEMS
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-07-05*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-07-06*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Lakewood, CO, Colorado Springs, CO, Quantico, VA
+- **Locations:** Quantico, VA, Colorado Springs, CO, Lakewood, CO
 
 ## Current Opportunities
 

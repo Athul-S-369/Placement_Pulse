@@ -1,11 +1,11 @@
 # 🏢 DAT Freight & Analytics
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-05*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-06*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Seattle, WA, Denver, CO
+- **Locations:** Denver, CO, Seattle, WA
 
 ## Current Opportunities
 

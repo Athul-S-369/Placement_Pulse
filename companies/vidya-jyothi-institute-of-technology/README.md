@@ -1,6 +1,6 @@
 # 🏢 Vidya Jyothi Institute of Technology
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-05*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-06*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Roboauto-2026](https://unstop.com/hackathons/roboauto-2026-vidya-jyothi-institute-of-technology-1671501) | Vidya Jyothi Institute of Technology | India | 🏢 Onsite | — | 2026-07-05 | Unstop |
 
 ## 📖 Interview Preparation
 
