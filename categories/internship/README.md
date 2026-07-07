@@ -1,13 +1,14 @@
 # 🎓 Internship
 
-**721 active** | **0 expired** | **721 total**
+**722 active** | **0 expired** | **722 total**
 
-*Last updated: 2026-07-06*
+*Last updated: 2026-07-07*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer Intern](https://job-boards.greenhouse.io/ada18/jobs/5180710007) | Ada | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Chiplet Security Research Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4955926007) | Tenstorrent | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [China Subject Matter Expert Intern](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004) | Two Six Technologies | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Technical Intern](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR105488-1) | Centific | Remote in USA, Redmond, WA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [Drexel University Co-op: Software Engineering/Full stack development](https://careers-sri.icims.com/jobs/6263/drexel-university-co-op%3a-software-engineering-full-stack-development/job) | SRI International | Princeton, NJ | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [PhD Research Intern](https://jobs.ashbyhq.com/Simular/94cbb2c9-392a-4cea-a9bf-cb6c80be3009/application) | Simular | Palo Alto, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [AIE Intern](https://jobs.lever.co/ifm-us/5342e333-61b9-406d-bfea-61a687a94d1f/apply) | Institute of Foundation Models | Sunnyvale, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Machine Learning Engineer PhD Intern](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-PhD-Intern_R0130591) | PayPal | San Jose, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

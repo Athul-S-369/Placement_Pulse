@@ -1,6 +1,6 @@
 # 🏢 Build in AI for India
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-06*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-07*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Build in AI for India](https://unstop.com/hackathons/build-in-ai-for-india-build-in-ai-for-india-1704081) | Build in AI for India | India | 🏢 Onsite | — | 2026-07-06 | Unstop |
 
 ## 📖 Interview Preparation
 

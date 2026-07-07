@@ -1,6 +1,6 @@
 # 🏢 Veer Surendra Sai University of Technology (VSSUT), Odisha
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-06*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-07*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [MangaVerse](https://unstop.com/competitions/mangaverse-ieee-sheaspire-30-veer-surendra-sai-university-of-technology-vssut-odisha-1703969) | Veer Surendra Sai University of Technology (VSSUT), Odisha | India | 🏢 Onsite | — | 2026-07-06 | Unstop |
 
 ## 📖 Interview Preparation
 

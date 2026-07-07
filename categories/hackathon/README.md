@@ -1,8 +1,8 @@
 # 🏆 Hackathon
 
-**91 active** | **14 expired** | **105 total**
+**86 active** | **19 expired** | **105 total**
 
-*Last updated: 2026-07-06*
+*Last updated: 2026-07-07*
 
 ## Active Opportunities
 
@@ -41,7 +41,6 @@
 | [Hacklabify V1.0](https://unstop.com/hackathons/hacklabify-v10-hacklabify-1699949) | Hacklabify | India | 🏢 Onsite | — | 2026-09-02 | Unstop |
 | [CodeQuest: Python, C++ & DBMS Showdown](https://unstop.com/quiz/codequest-python-c-dbms-showdown-mr-semester-llp-1710402) | Mr Semester LLP | India | 🏢 Onsite | — | 2026-07-12 | Unstop |
 | [Vibeathon 6.0 (Vibecoding Hackathon)](https://unstop.com/hackathons/vibeathon-60-vibecoding-hackathon-nxtgensec-1710440) | NXTGENSEC | India | 🏢 Onsite | — | 2026-07-24 | Unstop |
-| [Fundamentals of Programming: Logic Building & Problem Solving](https://unstop.com/workshops-webinars/fundamentals-of-programming-logic-building-problem-solving-cipherschools-1710407) | CipherSchools | India | 🏢 Onsite | — | 2026-07-06 | Unstop |
 | [Bodhisotto 1.0 U26 General Quiz](https://unstop.com/quiz/bodhisotto-10-u26-general-quiz-university-of-calcutta-1710346) | University of Calcutta | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
 | [GenAI VS Agentic AI with Bleep in collabroation with Ecell IIT Hyderabad](https://unstop.com/workshops-webinars/genai-vs-agentic-ai-with-bleep-in-collabroation-with-ecell-iit-hyderabad-bleep-education-1710340) | Bleep Education | India | 🏢 Onsite | — | 2026-07-17 | Unstop |
 | [International Conference on AI for Humanity: Leveraging indian knowledge systems to accelerate sustainable development goals](https://unstop.com/conferences/international-conference-on-ai-for-humanity-leveraging-indian-knowledge-systems-to-accelerate-sustainable-de-1699546) | Kalinga University, Raipur | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
@@ -60,12 +59,10 @@
 | [NISM Series XV: Starter Session – Research Analyst Essentials](https://unstop.com/workshops-webinars/nism-series-xv-starter-session-research-analyst-essentials-institute-of-management-studies-ims-mgkvp--1709697) | Institute of Management Studies (IMS) MGKVP, Varanasi | India | 🏢 Onsite | — | 2026-07-16 | Unstop |
 | [Aerothon 2026 - HAL x IITI](https://unstop.com/hackathons/aerothon-2026-hal-x-iiti-iit-indore-1709519) | Indian Institute of Technology (IIT), Indore | India | 🏢 Onsite | — | 2026-08-08 | Unstop |
 | [MicroThink 360: Decode ,Diagnose ,Discover](https://unstop.com/quiz/microthink-360-decode-diagnose-discover-sns-college-of-nursing-coimbatore-tamil-nadu-1709662) | SNS College of Nursing, Coimbatore, Tamil Nadu | India | 🏢 Onsite | — | 2026-07-22 | Unstop |
-| [Interview Preparation Workshop: Logical reasoning](https://unstop.com/workshops-webinars/interview-preparation-workshop-logical-reasoning-adore-india-1709576) | Adore India | India | 🏢 Onsite | — | 2026-07-06 | Unstop |
 | [NetSprint 2026 – A 2-Day Networking Demo Session](https://unstop.com/workshops-webinars/netsprint-2026-a-2-day-networking-demo-session-baba-farid-college-of-engineering-and-technology-bfcet-1710097) | Baba Farid College of Engineering and Technology (BFCET), Bathinda | India | 🏢 Onsite | — | 2026-07-15 | Unstop |
 | [Google Gemini QuizOff 2026](https://unstop.com/quiz/google-gemini-quizoff-2026-campuscrew-1685313) | CampusCrew | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
 | [Monthly Quiz Mania-29](https://unstop.com/quiz/monthly-quiz-mania-29-netclan-inc-1709487) | Netclan Inc | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
 | [Campus Ambassador - Asian Paints Alchemy 2026](https://unstop.com/competitions/crp-campus-ambassador-asian-paints-alchemy-2026-asian-paints-1708823) | Asian Paints | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
-| [CineVerse 2026 – The Ultimate Movie Challenge](https://unstop.com/quiz/cineverse-2026-the-ultimate-movie-challenge-gla-university-glau-uttar-pradesh-1709052) | GLA University (GLAU), Uttar Pradesh | India | 🏢 Onsite | — | 2026-07-06 | Unstop |
 | [Technostrophe '26](https://unstop.com/quiz/technostrophe-26-e-summit-26-indian-institute-of-technology-iit-dharwad-1709090) | Indian Institute of Technology (IIT), Dharwad | India | 🏢 Onsite | — | 2026-07-20 | Unstop |
 | [The Audience Roast](https://unstop.com/events/the-audience-roast-beacon-indica-1709388) | Beacon Indica | India | 🏢 Onsite | — | 2026-07-10 | Unstop |
 | [AI for Bharat Hackathon 2026 – Build AI Solutions for India's Real Problems](https://unstop.com/hackathons/ai-for-bharat-hackathon-2026-build-ai-solutions-for-indias-real-problems-indraprastha-institute-of-informatio-1709437) | Indraprastha Institute of Information Technology Delhi | India | 🏢 Onsite | — | 2026-07-15 | Unstop |
@@ -79,7 +76,6 @@
 | [Astro Verdict](https://unstop.com/competitions/astro-verdict-parikalp--1709529) | Maulana Azad National Institute of Technology (MANIT), Bhopal | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
 | [Career Options After B.com](https://unstop.com/workshops-webinars/career-options-after-bcom-cfereadycom-1708857) | Cfeready.com | India | 🏢 Onsite | — | 2026-07-10 | Unstop |
 | [Smart School FinTech Innovation Challenge 2026](https://unstop.com/hackathons/smart-school-fintech-innovation-challenge-2026-paper-buddy-1709331) | Paper Buddy | India | 🏢 Onsite | — | 2026-07-16 | Unstop |
-| [MangaVerse](https://unstop.com/competitions/mangaverse-ieee-sheaspire-30-veer-surendra-sai-university-of-technology-vssut-odisha-1703969) | Veer Surendra Sai University of Technology (VSSUT), Odisha | India | 🏢 Onsite | — | 2026-07-06 | Unstop |
 | [Finopoly- The Finance Competition](https://unstop.com/competitions/finopoly-the-finance-competition-iim-indore-1708977) | Indian Institute of Management (IIM), Indore | India | 🏢 Onsite | — | 2026-07-20 | Unstop |
 | [Young Investors' Fellowship Programme 7.0](https://unstop.com/workshops-webinars/young-investors-fellowship-programme-70-hansraj-collegeuniversity-of-delhi-1705220) | Hansraj College,University of Delhi | India | 🏢 Onsite | — | 2026-07-30 | Unstop |
 | [CyberStrike 26- National Level Capture The Flag (CTF) Competition](https://unstop.com/competitions/cyberstrike-26-national-level-capture-the-flag-ctf-competition-sreenidhi-institute-of-science-and-technolog-1707627) | Sreenidhi Institute Of Science And Technology (SNIST), Hyderabad | India | 🏢 Onsite | — | 2026-07-13 | Unstop |
@@ -98,12 +94,16 @@
 | [Nexus AI Quiz Ignite 2026](https://unstop.com/quiz/nexus-ai-quiz-ignite-2026-nexus-1703511) | Nexus | India | 🏢 Onsite | — | 2026-07-17 | Unstop |
 | [AI for Beginners: Understanding Artificial Intelligence, Machine Learning, Generative AI & AI Agents](https://unstop.com/workshops-webinars/ai-for-beginners-understanding-artificial-intelligence-machine-learning-generative-ai-ai-agents-sa-en-1704656) | S.A. Engineering College (SAEC), Chennai | India | 🏢 Onsite | — | 2026-07-08 | Unstop |
 | [Student Innovation & Product Summit (SIPS) 2026](https://unstop.com/hackathons/student-innovation-product-summit-sips-2026-iim-bangalore-1704216) | Indian Institute of Management (IIM), Bangalore | India | 🏢 Onsite | — | 2026-07-30 | Unstop |
-| [Build in AI for India](https://unstop.com/hackathons/build-in-ai-for-india-build-in-ai-for-india-1704081) | Build in AI for India | India | 🏢 Onsite | — | 2026-07-06 | Unstop |
 
 ## Recently Expired
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Build in AI for India](https://unstop.com/hackathons/build-in-ai-for-india-build-in-ai-for-india-1704081) | Build in AI for India | India | 🏢 Onsite | — | 2026-07-06 | Unstop |
+| [MangaVerse](https://unstop.com/competitions/mangaverse-ieee-sheaspire-30-veer-surendra-sai-university-of-technology-vssut-odisha-1703969) | Veer Surendra Sai University of Technology (VSSUT), Odisha | India | 🏢 Onsite | — | 2026-07-06 | Unstop |
+| [CineVerse 2026 – The Ultimate Movie Challenge](https://unstop.com/quiz/cineverse-2026-the-ultimate-movie-challenge-gla-university-glau-uttar-pradesh-1709052) | GLA University (GLAU), Uttar Pradesh | India | 🏢 Onsite | — | 2026-07-06 | Unstop |
+| [Interview Preparation Workshop: Logical reasoning](https://unstop.com/workshops-webinars/interview-preparation-workshop-logical-reasoning-adore-india-1709576) | Adore India | India | 🏢 Onsite | — | 2026-07-06 | Unstop |
+| [Fundamentals of Programming: Logic Building & Problem Solving](https://unstop.com/workshops-webinars/fundamentals-of-programming-logic-building-problem-solving-cipherschools-1710407) | CipherSchools | India | 🏢 Onsite | — | 2026-07-06 | Unstop |
 | [IndiaStox Nifty50 Predictions Challenge](https://unstop.com/competitions/indiastox-nifty50-predictions-challenge-indiastox-1705751) | Indiastox | India | 🏢 Onsite | — | 2026-07-05 | Unstop |
 | [Cascade - A Cryptic Hunt](https://unstop.com/hackathons/cascade-a-cryptic-hunt-manipal-university-mu-jaipur-1704689) | Manipal University (MU), Jaipur | India | 🏢 Onsite | — | 2026-07-05 | Unstop |
 | [Roboauto-2026](https://unstop.com/hackathons/roboauto-2026-vidya-jyothi-institute-of-technology-1671501) | Vidya Jyothi Institute of Technology | India | 🏢 Onsite | — | 2026-07-05 | Unstop |

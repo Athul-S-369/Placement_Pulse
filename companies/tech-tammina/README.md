@@ -1,11 +1,11 @@
 # 🏢 Tech Tammina
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-07-06*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-07-07*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Atlanta, GA, Princeton, NJ, Rockford, IL
+- **Locations:** Princeton, NJ, Atlanta, GA, Rockford, IL
 
 ## Current Opportunities
 

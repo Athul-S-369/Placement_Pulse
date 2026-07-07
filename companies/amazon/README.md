@@ -1,11 +1,11 @@
 # 🏢 Amazon
 
-**13 active opportunities** | **13 total tracked** | *Last updated: 2026-07-06*
+**13 active opportunities** | **13 total tracked** | *Last updated: 2026-07-07*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** London, UK, Seattle, WA, SF, Winnipeg, MB, Canada, Toronto, ON, Canada, Victoria, BC, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Sunnyvale, CA, Fredericksburg, VA, Ashburn, VA, Manassas, VA, Reston, VA, Dulles, VA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Seattle, WA, Sunnyvale, CA, Fredericksburg, VA, Ashburn, VA, Manassas, VA, Reston, VA, Dulles, VA, Winnipeg, MB, Canada, Toronto, ON, Canada, Victoria, BC, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, London, UK
 
 ## Current Opportunities
 

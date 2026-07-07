@@ -1,11 +1,11 @@
 # 🏢 Atria Group
 
-**13 active opportunities** | **13 total tracked** | *Last updated: 2026-07-06*
+**13 active opportunities** | **13 total tracked** | *Last updated: 2026-07-07*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Alpharetta, GA, San Jose, CA, Chicago, IL, Dallas, TX, Novato, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Sunnyvale, CA, St. Louis, MO, Plainview, NY, Thousand Oaks, CA, NYC
 
 ## Current Opportunities
 

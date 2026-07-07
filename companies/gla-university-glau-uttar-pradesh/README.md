@@ -1,6 +1,6 @@
 # 🏢 GLA University (GLAU), Uttar Pradesh
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-06*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-07*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [CineVerse 2026 – The Ultimate Movie Challenge](https://unstop.com/quiz/cineverse-2026-the-ultimate-movie-challenge-gla-university-glau-uttar-pradesh-1709052) | GLA University (GLAU), Uttar Pradesh | India | 🏢 Onsite | — | 2026-07-06 | Unstop |
 
 ## 📖 Interview Preparation
 

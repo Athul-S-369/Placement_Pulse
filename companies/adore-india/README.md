@@ -1,6 +1,6 @@
 # 🏢 Adore India
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-06*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-07*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Interview Preparation Workshop: Logical reasoning](https://unstop.com/workshops-webinars/interview-preparation-workshop-logical-reasoning-adore-india-1709576) | Adore India | India | 🏢 Onsite | — | 2026-07-06 | Unstop |
 
 ## 📖 Interview Preparation
 
