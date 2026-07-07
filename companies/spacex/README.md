@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Redmond, WA, Texas, Bothell, WA, Sunnyvale, CA, Brownsville, TX
+- **Categories:** Internship, Fresher Job
+- **Locations:** Brownsville, TX, Bothell, WA, Texas, Palo Alto, CA, Bastrop, TX, Irvine, CA, Cape Canaveral, FL, Brownsville, TX, Redmond, WA, McGregor, TX, West Athens, CA, Sunnyvale, CA
 
 ## Current Opportunities
 

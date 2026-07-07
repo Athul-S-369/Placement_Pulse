@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1146 active** | **0 expired** | **1146 total**
+**1147 active** | **0 expired** | **1147 total**
 
 *Last updated: 2026-07-07*
 
@@ -9,6 +9,7 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [Senior Social Media Analyst - Integrated Intelligence](https://job-boards.greenhouse.io/realchemistry/jobs/5262316008) | Real Chemistry | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Data Engineer](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Data-Engineer_REQ228) | DuCharme, McMillen & Associates | Indianapolis, IN, Fort Wayne, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [AI & Analytics Engineer](https://pmpediatrics.wd5.myworkdayjobs.com/PMPeds/job/Remote---United-States/AI---Analytics-Engineer_2026-R0988-3) | PM Pediatric Care | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Data Scientist](https://ats.rippling.com/adelaide/jobs/60b7ea31-eb5b-42d9-863e-4ae0c602ea1d) | Adelaide Metrics | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Maps Personalization Relevance Rater - English](https://jobs.lever.co/weloglobal/0157c8d2-ccef-4760-89c2-cd874506955f/apply) | Welo Global | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [F18 Flight Simulation – Associate Software Technical Analyst](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/F18-Flight-Simulation---Associate-Software-Technical-Analyst_JR2025486201-1) | Boeing | Berkeley, M | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Data Dictionary Software Engineer 1](https://caci.wd1.myworkdayjobs.com/en-US/External/job/US-MD-Hanover/Data-Dictionary-Software-Engineer-1_320288) | CACI | Hanover, MD | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Software Engineer I](https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Bristol-CT-USA/Software-Engineer-I_10137037) | Disney | Bristol, CT | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Associate Cloud Engineer](https://www.publicstoragejobs.com/jobs/associate-cloud-engineer-location-plano-tx-united-states-jobs-category-marketing-744000098165225) | Public Storage | Plano, TX | 🏢 Onsite | — | — | SimplifyJobs New Grad |

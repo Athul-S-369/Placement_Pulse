@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Bloomington, MN, California City, CA, Baltimore, MD, Washington, DC, Southfield, MI
+- **Categories:** Internship, Fresher Job
+- **Locations:** Jefferson City, MO, Southfield, MI, Chantilly, VA, Dublin, OH, Traverse City, MI
 
 ## Current Opportunities
 

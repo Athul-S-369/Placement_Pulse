@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Seattle, WA, London, UK, San Jose, CA, NYC
+- **Locations:** San Jose, CA, London, UK, Seattle, WA, NYC
 
 ## Current Opportunities
 
