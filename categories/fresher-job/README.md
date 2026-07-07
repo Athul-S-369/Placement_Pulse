@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1147 active** | **0 expired** | **1147 total**
+**1150 active** | **0 expired** | **1150 total**
 
 *Last updated: 2026-07-07*
 
@@ -10,6 +10,9 @@
 |------|---------|----------|------|----------------|----------|--------|
 | [Senior Social Media Analyst - Integrated Intelligence](https://job-boards.greenhouse.io/realchemistry/jobs/5262316008) | Real Chemistry | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Engineer](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Data-Engineer_REQ228) | DuCharme, McMillen & Associates | Indianapolis, IN, Fort Wayne, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
+| [Product Manager](https://theaccessgroup.wd103.myworkdayjobs.com/Access_Group_External_Careers/job/United-Kingdom-Remote/Product-Manager_JR004229-2) | The Access Group | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Data Operations Associate](https://jobs.lever.co/thetrevorproject/90a30d32-6048-4ec1-b323-bacdc78aacd9/apply) | The Trevor Project | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Data Imports Analyst](https://job-boards.greenhouse.io/srsacquiom/jobs/5143375007) | SRS Acquiom | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI & Analytics Engineer](https://pmpediatrics.wd5.myworkdayjobs.com/PMPeds/job/Remote---United-States/AI---Analytics-Engineer_2026-R0988-3) | PM Pediatric Care | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Data Scientist](https://ats.rippling.com/adelaide/jobs/60b7ea31-eb5b-42d9-863e-4ae0c602ea1d) | Adelaide Metrics | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Maps Personalization Relevance Rater - English](https://jobs.lever.co/weloglobal/0157c8d2-ccef-4760-89c2-cd874506955f/apply) | Welo Global | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -105,6 +108,3 @@
 | [Software Developer – New Graduate](https://www.d2l.com/careers/jobs/?job_id=7455458&gh_jid=7455458) | D2L | Winnipeg, MB, Canada, Toronto, ON, Canada, Kitchener, ON, Canada, Vancouver, BC, Canada | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Software Engineer I, Frontend](https://job-boards.greenhouse.io/twitch/jobs/8329910002) | Twitch | Irvine, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Junior Backend Engineer](https://job-boards.greenhouse.io/baselayer/jobs/5023884008) | Baselayer | San Francisco, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [F18 Flight Simulation – Associate Software Technical Analyst](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/F18-Flight-Simulation---Associate-Software-Technical-Analyst_JR2025486201-1) | Boeing | Berkeley, M | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Data Dictionary Software Engineer 1](https://caci.wd1.myworkdayjobs.com/en-US/External/job/US-MD-Hanover/Data-Dictionary-Software-Engineer-1_320288) | CACI | Hanover, MD | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Software Engineer I](https://disney.wd5.myworkdayjobs.com/en-US/disneycareerdc/job/Bristol-CT-USA/Software-Engineer-I_10137037) | Disney | Bristol, CT | 🏢 Onsite | — | — | SimplifyJobs New Grad |

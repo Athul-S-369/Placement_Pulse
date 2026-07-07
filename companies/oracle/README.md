@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Kansas City, MO, Kansas City, KS, Allen, TX, Seattle, WA, Santa Clara, CA, Ashburn, VA, Nashville, TN, Austin, TX, United States
+- **Locations:** Allen, TX, Seattle, WA, Santa Clara, CA, Kitchener, ON, Canada, United States, Kansas City, MO, Kansas City, KS
 
 ## Current Opportunities
 

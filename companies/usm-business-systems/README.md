@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Jefferson City, MO, Southfield, MI, Chantilly, VA, Dublin, OH, Traverse City, MI
+- **Locations:** Washington, DC, Columbus, OH, Dublin, OH, Manassas, VA, Bluemont, VA
 
 ## Current Opportunities
 
