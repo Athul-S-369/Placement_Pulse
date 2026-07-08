@@ -1,6 +1,6 @@
 # 🏢 Hindu College
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-07*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-08*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [The FinSight Fellowship](https://unstop.com/workshops-webinars/the-finsight-fellowship-hindu-college-1704704) | Hindu College | India | 🏢 Onsite | — | 2026-07-07 | Unstop |
 
 ## 📖 Interview Preparation
 

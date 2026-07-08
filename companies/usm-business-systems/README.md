@@ -1,11 +1,11 @@
 # 🏢 USM Business Systems
 
-**21 active opportunities** | **21 total tracked** | *Last updated: 2026-07-07*
+**21 active opportunities** | **21 total tracked** | *Last updated: 2026-07-08*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Washington, DC, Columbus, OH, Dublin, OH, Manassas, VA, Bluemont, VA
+- **Locations:** Washington, DC, Traverse City, MI, Chicago, IL, Dublin, OH, Jefferson City, MO
 
 ## Current Opportunities
 

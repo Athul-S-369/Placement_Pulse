@@ -1,11 +1,11 @@
 # 🏢 Direct Staffing
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-07*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-08*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Perrysburg, OH, Stamford, CT
+- **Locations:** Stamford, CT, Perrysburg, OH
 
 ## Current Opportunities
 

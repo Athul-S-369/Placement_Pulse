@@ -1,11 +1,11 @@
 # 🏢 Aquatic Capital Management
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-07*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-08*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** London, UK, Chicago, IL, Chicago, IL, NYC
+- **Locations:** Chicago, IL, NYC, London, UK, Chicago, IL
 
 ## Current Opportunities
 

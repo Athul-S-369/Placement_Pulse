@@ -1,11 +1,11 @@
 # 🏢 Freedom Technology Solutions Group
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-07*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-08*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Annapolis Junction, MD, St. Louis, MO
+- **Locations:** St. Louis, MO, Annapolis Junction, MD
 
 ## Current Opportunities
 

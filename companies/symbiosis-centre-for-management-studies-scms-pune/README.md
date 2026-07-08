@@ -1,6 +1,6 @@
 # 🏢 Symbiosis Centre for Management Studies (SCMS), Pune
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-07*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-08*
 
 ## Overview
 

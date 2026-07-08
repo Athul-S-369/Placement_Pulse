@@ -1,6 +1,6 @@
 # 🏢 R.V. College of Engineering (RVCE), Bangalore
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-07*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-08*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Code Cup 2026](https://unstop.com/hackathons/code-cup-2026-rv-college-of-engineering-rvce-bangalore-1709589) | R.V. College of Engineering (RVCE), Bangalore | India | 🏢 Onsite | — | 2026-07-07 | Unstop |
 
 ## 📖 Interview Preparation
 

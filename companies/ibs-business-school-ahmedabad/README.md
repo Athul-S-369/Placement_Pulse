@@ -1,6 +1,6 @@
 # 🏢 IBS Business School Ahmedabad
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-07*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-08*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Stock Analysis - July 2026](https://unstop.com/competitions/stock-analysis-july-2026-ibs-business-school-ahmedabad-1705209) | IBS Business School Ahmedabad | India | 🏢 Onsite | — | 2026-07-07 | Unstop |
 
 ## 📖 Interview Preparation
 
