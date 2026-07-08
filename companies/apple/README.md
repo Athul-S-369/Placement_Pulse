@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Lafayette, KS, San Jose, CA, San Diego, CA, California, United States
+- **Categories:** Internship, Fresher Job
+- **Locations:** California, Austin, TX, Santa Clara, CA, San Diego, CA, Beaverton, OR
 
 ## Current Opportunities
 

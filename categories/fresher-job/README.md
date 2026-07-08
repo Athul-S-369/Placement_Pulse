@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1153 active** | **0 expired** | **1153 total**
+**1156 active** | **0 expired** | **1156 total**
 
 *Last updated: 2026-07-08*
 
@@ -11,6 +11,9 @@
 | [Application Developer 1 - Osf](https://bankatfirst.wd1.myworkdayjobs.com/ffb/job/IN---Indianapolis---Keystone-Crossing/Application-Developer-I--OSF_R9139) | First Financial Bank | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Software Engineer 1](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Indianapolis---Lakeview-Parkway---Multiple-OpCo/Software-Engineer-I_R1312947) | Danaher Corporation | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Mathematician - Foundation Team](https://jobs.ashbyhq.com/hilberts/adbe0102-fa3e-484f-98c8-bf02dd478945/application) | Hilbert | SF, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Field Service Engineer](https://careers-kemin.icims.com/jobs/12130/job?mobile=true&needsRedirect=false) | Kemin | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Junior Software Engineer - AI Agent Platform](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Junior-Software-Engineer--AI-Agent-Platform_R66146) | Motorola | Alberta, Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Engineer 1 - Full-Stack](https://job-boards.greenhouse.io/roadrunner/jobs/4307451009) | RoadRunner Recycling | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Senior Social Media Analyst - Integrated Intelligence](https://job-boards.greenhouse.io/realchemistry/jobs/5262316008) | Real Chemistry | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Engineer](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Data-Engineer_REQ228) | DuCharme, McMillen & Associates | Indianapolis, IN, Fort Wayne, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Product Manager](https://theaccessgroup.wd103.myworkdayjobs.com/Access_Group_External_Careers/job/United-Kingdom-Remote/Product-Manager_JR004229-2) | The Access Group | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -105,6 +108,3 @@
 | [Junior Software Engineer, AI](https://jobs.ashbyhq.com/magical/2c4734af-1ca2-423a-bb4e-29a7da894249) | Magical | San Francisco, CA, Toronto, CAN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Software Developer I](https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Bedford-Massachusetts/Software-Developer-I_R8120) | AspenTech | Bedford, MA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Staff Engineer I, Software Process Engineering](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Staff-Engineer-I--Software-Process-Engineering_R112003) | Samsung | Mountain View, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Software Quality Assurance Associate](https://sec.wd3.myworkdayjobs.com/en-US/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Software-Quality-Assurance-Associate_R111947) | Samsung | Plano, TX | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Software Engineer 1](https://jobs.lever.co/wyetechllc/c1b8f940-b5ab-4647-832f-f8cdb3c360fa) | Wyetech | Annapolis Junction, MD | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Junior Crypto Electronic Trading Support Engineer](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7351141) | Hudson River Trading | London, UK | 🏢 Onsite | — | — | SimplifyJobs New Grad |

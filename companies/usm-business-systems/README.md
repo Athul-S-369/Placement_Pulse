@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** NYC, Chicago, IL, Baltimore, MD, Manassas, VA, Rochester, MI
+- **Categories:** Internship, Fresher Job
+- **Locations:** Traverse City, MI, Augusta, ME, Rochester, MI, Columbus, OH, Southfield, MI
 
 ## Current Opportunities
 

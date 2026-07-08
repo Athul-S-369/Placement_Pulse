@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** United Kingdom, Arkansas
+- **Locations:** Arkansas, United Kingdom
 
 ## Current Opportunities
 
