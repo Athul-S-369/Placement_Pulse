@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Washington, DC, Traverse City, MI, Chicago, IL, Dublin, OH, Jefferson City, MO
+- **Categories:** Fresher Job, Internship
+- **Locations:** NYC, Chicago, IL, Baltimore, MD, Manassas, VA, Rochester, MI
 
 ## Current Opportunities
 

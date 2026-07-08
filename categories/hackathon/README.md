@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**88 active** | **25 expired** | **113 total**
+**90 active** | **25 expired** | **115 total**
 
 *Last updated: 2026-07-08*
 
@@ -9,6 +9,8 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [Founders Playbook Webinar series - 10](https://unstop.com/workshops-webinars/founders-playbook-webinar-series-10-iit-madras-1712349) | Indian Institute of Technology (IIT), Madras | India | 🏢 Onsite | — | 2026-07-24 | Unstop |
+| [HR Through The Lens – National Online HR Video Challenge 2026](https://unstop.com/competitions/hr-through-the-lens-national-online-hr-video-challenge-2026-kiit-school-of-management-ksom-bhubaneswar-1714312) | KIIT School of Management (KSOM), Bhubaneswar | India | 🏢 Onsite | — | 2026-07-21 | Unstop |
+| [Indradhanu: PCCOE International Grand Challenge 2026](https://unstop.com/hackathons/indradhanu-pccoe-international-grand-challenge-2026-pimpri-chinchwad-college-of-engineering-pccoe-pune-1710779) | Pimpri Chinchwad College of Engineering (PCCOE), Pune | India | 🏢 Onsite | — | 2027-02-15 | Unstop |
 | [TECHSPHERE 2026 – National Level Science & Technology Student Conclave](https://unstop.com/competitions/techsphere-2026-national-level-science-technology-student-conclave-woxsen-university-hyderabad-1711435) | Woxsen University, Hyderabad | India | 🏢 Onsite | — | 2026-07-30 | Unstop |
 | [The Sports Quiz](https://unstop.com/quiz/the-sports-quiz-govt-degree-college-padder-1712158) | Govt. Degree College, Padder | India | 🏢 Onsite | — | 2026-07-22 | Unstop |
 | [2-Day No-Code Bootcamp : From Idea to Execution](https://unstop.com/workshops-webinars/2-day-no-code-bootcamp-from-idea-to-execution-shekunj-1712331) | SheKunj | India | 🏢 Onsite | — | 2026-07-13 | Unstop |
