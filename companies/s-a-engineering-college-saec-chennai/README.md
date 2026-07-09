@@ -1,6 +1,6 @@
 # 🏢 S.A. Engineering College (SAEC), Chennai
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-08*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-09*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AI for Beginners: Understanding Artificial Intelligence, Machine Learning, Generative AI & AI Agents](https://unstop.com/workshops-webinars/ai-for-beginners-understanding-artificial-intelligence-machine-learning-generative-ai-ai-agents-sa-en-1704656) | S.A. Engineering College (SAEC), Chennai | India | 🏢 Onsite | — | 2026-07-08 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,13 +1,16 @@
 # 💼 Fresher Job
 
-**1156 active** | **0 expired** | **1156 total**
+**1159 active** | **0 expired** | **1159 total**
 
-*Last updated: 2026-07-08*
+*Last updated: 2026-07-09*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [AI Enablement Specialist](https://jobs.ashbyhq.com/kong/c0a091c1-46ba-4a87-93d9-45a1449ec234/application) | Kong | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Data Analyst - Software Engineering Track](https://job-boards.greenhouse.io/acuitymd/jobs/6111981004) | AcuityMD | Boston, MA, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Machine Learning Engineer New Grad](https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4/application) | Quora | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Application Developer 1 - Osf](https://bankatfirst.wd1.myworkdayjobs.com/ffb/job/IN---Indianapolis---Keystone-Crossing/Application-Developer-I--OSF_R9139) | First Financial Bank | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Software Engineer 1](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Indianapolis---Lakeview-Parkway---Multiple-OpCo/Software-Engineer-I_R1312947) | Danaher Corporation | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Mathematician - Foundation Team](https://jobs.ashbyhq.com/hilberts/adbe0102-fa3e-484f-98c8-bf02dd478945/application) | Hilbert | SF, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -105,6 +108,3 @@
 | [Human Performance Data Scientist 1](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Hurlburt-Field---Hurlburt-Fld-FLC017/Human-Performance-Data-Scientist-I_RQ210954) | General Dynamics Information Technology | Florida | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Data Scientist 1](https://jobs.lever.co/leverdemo/874a045c-6ecd-4e62-b682-67d095d4723f/apply) | Lever | Belfast, UK | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [UK Business Intelligence Analyst-Travel & Expense](https://jobs.lever.co/pibenchmark/67c5bdb8-d019-43ff-a6de-cca1917058d8/apply) | PredictX | London, UK | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Junior Software Engineer, AI](https://jobs.ashbyhq.com/magical/2c4734af-1ca2-423a-bb4e-29a7da894249) | Magical | San Francisco, CA, Toronto, CAN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Software Developer I](https://aspentech.wd5.myworkdayjobs.com/en-US/AspenTech/job/Bedford-Massachusetts/Software-Developer-I_R8120) | AspenTech | Bedford, MA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Staff Engineer I, Software Process Engineering](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/645-Clyde-Avenue-Mountain-View-CA-USA/Staff-Engineer-I--Software-Process-Engineering_R112003) | Samsung | Mountain View, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |

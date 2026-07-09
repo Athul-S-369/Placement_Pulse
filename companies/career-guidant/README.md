@@ -1,11 +1,11 @@
 # 🏢 Career Guidant
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-07-08*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-07-09*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** NYC, Minneapolis, MN, Princeton, NJ
+- **Locations:** Minneapolis, MN, NYC, Princeton, NJ
 
 ## Current Opportunities
 

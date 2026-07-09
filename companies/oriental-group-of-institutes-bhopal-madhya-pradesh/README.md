@@ -1,6 +1,6 @@
 # 🏢 Oriental Group of Institutes, Bhopal, Madhya Pradesh
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-08*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-09*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Agents of Change – National Agentic AI Bootcamp & Buildathon 2026](https://unstop.com/hackathons/agents-of-change-national-agentic-ai-bootcamp-buildathon-2026-agents-of-change-2026-oriental-group-of-institu-1710516) | Oriental Group of Institutes, Bhopal, Madhya Pradesh | India | 🏢 Onsite | — | 2026-07-08 | Unstop |
 
 ## 📖 Interview Preparation
 

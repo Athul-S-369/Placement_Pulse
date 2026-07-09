@@ -1,6 +1,6 @@
 # 🏢 11 FPS
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-08*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-09*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Ai Filmmaking Hackathon - Bangalore Edition](https://unstop.com/hackathons/ai-filmmaking-hackathon-bangalore-edition-ai-film-hackathon-bangalore-edition-11-fps-1703147) | 11 FPS | India | 🏢 Onsite | — | 2026-07-08 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,11 +1,11 @@
 # 🏢 Cresta
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-08*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-09*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote in USA, Remote in Canada
+- **Locations:** Remote in Canada, Remote in USA
 
 ## Current Opportunities
 

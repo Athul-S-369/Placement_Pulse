@@ -1,13 +1,16 @@
 # 🎓 Internship
 
-**722 active** | **0 expired** | **722 total**
+**725 active** | **0 expired** | **725 total**
 
-*Last updated: 2026-07-08*
+*Last updated: 2026-07-09*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Associate/Undergraduate Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote/XMLNAME--Associate-Undergraduate--Intern---Carbon-Management-and-Large-Energy-Systems_R14405) | National Laboratory of the Rockies | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Data Engineering Intern](https://job-boards.greenhouse.io/honehealth/jobs/5308958008) | Hone Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Data Migration Analyst Intern](https://jobs.ashbyhq.com/Ontic/20af94c6-329e-45f5-b02b-4be582b5dee3/application) | Ontic | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/ada18/jobs/5180710007) | Ada | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Chiplet Security Research Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4955926007) | Tenstorrent | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [China Subject Matter Expert Intern](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004) | Two Six Technologies | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -105,6 +108,3 @@
 | [Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002) | Point72 | NYC | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern - BCI Applications](https://boards.greenhouse.io/neuralink/jobs/6594422003) | Neuralink | Fremont, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Markets Quantitative Analyst Summer Internship 2027 New York](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Markets-Quantitative-Analyst-Summer-Internship-2027-New-York_JR-0000083408) | Barclays | New York, NY | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Drexel University Co-op: Software Engineering/Full stack development](https://careers-sri.icims.com/jobs/6263/drexel-university-co-op%3a-software-engineering-full-stack-development/job) | SRI International | Princeton, NJ | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [PhD Research Intern](https://jobs.ashbyhq.com/Simular/94cbb2c9-392a-4cea-a9bf-cb6c80be3009/application) | Simular | Palo Alto, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [AIE Intern](https://jobs.lever.co/ifm-us/5342e333-61b9-406d-bfea-61a687a94d1f/apply) | Institute of Foundation Models | Sunnyvale, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
