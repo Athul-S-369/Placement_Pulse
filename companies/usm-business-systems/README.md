@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Dublin, OH, Bloomington, MN, California City, CA, Bluemont, VA, Chantilly, VA
+- **Locations:** California City, CA, Rochester, MI, Dublin, OH, Bloomington, MN, El Segundo, CA
 
 ## Current Opportunities
 

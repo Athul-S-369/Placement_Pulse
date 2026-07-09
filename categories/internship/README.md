@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**725 active** | **0 expired** | **725 total**
+**726 active** | **0 expired** | **726 total**
 
 *Last updated: 2026-07-09*
 
@@ -11,6 +11,7 @@
 | [Associate/Undergraduate Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote/XMLNAME--Associate-Undergraduate--Intern---Carbon-Management-and-Large-Energy-Systems_R14405) | National Laboratory of the Rockies | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Data Engineering Intern](https://job-boards.greenhouse.io/honehealth/jobs/5308958008) | Hone Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Data Migration Analyst Intern](https://jobs.ashbyhq.com/Ontic/20af94c6-329e-45f5-b02b-4be582b5dee3/application) | Ontic | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Firmware Engineer Intern - Bachelor's Degree](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern---Bachelor-s-Degree_2503452-1) | Marvell | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/ada18/jobs/5180710007) | Ada | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Chiplet Security Research Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4955926007) | Tenstorrent | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [China Subject Matter Expert Intern](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004) | Two Six Technologies | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [Data Science Intern](https://jobs.ashbyhq.com/mercor/11516609-e54b-4087-87c2-e84a8bafbb5a) | Mercor | San Francisco, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002) | Point72 | NYC | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern - BCI Applications](https://boards.greenhouse.io/neuralink/jobs/6594422003) | Neuralink | Fremont, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Markets Quantitative Analyst Summer Internship 2027 New York](https://barclays.wd3.myworkdayjobs.com/en-US/external_career_site_barclays/job/745-7th-Avenue-New-York/Markets-Quantitative-Analyst-Summer-Internship-2027-New-York_JR-0000083408) | Barclays | New York, NY | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Alpharetta, GA, Dallas, TX, Thousand Oaks, CA, Chicago, IL, Broomfield, CO
+- **Locations:** Broomfield, CO, Alpharetta, GA, Jacksonville, FL, St. Louis, MO, Dallas, TX
 
 ## Current Opportunities
 
