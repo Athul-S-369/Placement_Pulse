@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** United States, Jackson Township, NJ, Vancouver, BC, Canada, California, Allentown, PA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Naperville, IL, United States, Canada, Jackson Township, NJ, Ottawa, ON, Canada
 
 ## Current Opportunities
 

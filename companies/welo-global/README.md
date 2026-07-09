@@ -1,16 +1,17 @@
 # 🏢 Welo Global
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-09*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-09*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA
+- **Locations:** Remote in Canada, Remote in USA
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Maps Personalization Relevance Rater](https://jobs.lever.co/weloglobal/93094a81-c521-4e5a-a4e0-31a95c2c2ed1/apply) | Welo Global | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Maps Personalization Relevance Rater - English](https://jobs.lever.co/weloglobal/0157c8d2-ccef-4760-89c2-cd874506955f/apply) | Welo Global | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 
 ## 📖 Interview Preparation

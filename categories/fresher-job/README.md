@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1159 active** | **0 expired** | **1159 total**
+**1161 active** | **0 expired** | **1161 total**
 
 *Last updated: 2026-07-09*
 
@@ -11,6 +11,8 @@
 | [AI Enablement Specialist](https://jobs.ashbyhq.com/kong/c0a091c1-46ba-4a87-93d9-45a1449ec234/application) | Kong | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Analyst - Software Engineering Track](https://job-boards.greenhouse.io/acuitymd/jobs/6111981004) | AcuityMD | Boston, MA, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Machine Learning Engineer New Grad](https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4/application) | Quora | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Analyst 1 - Mission Control](https://jobs.ashbyhq.com/dailypay/17a78eb3-d50c-4c6c-8b80-6f45affd8ffa/application) | DailyPay | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Maps Personalization Relevance Rater](https://jobs.lever.co/weloglobal/93094a81-c521-4e5a-a4e0-31a95c2c2ed1/apply) | Welo Global | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Application Developer 1 - Osf](https://bankatfirst.wd1.myworkdayjobs.com/ffb/job/IN---Indianapolis---Keystone-Crossing/Application-Developer-I--OSF_R9139) | First Financial Bank | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Software Engineer 1](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Indianapolis---Lakeview-Parkway---Multiple-OpCo/Software-Engineer-I_R1312947) | Danaher Corporation | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Mathematician - Foundation Team](https://jobs.ashbyhq.com/hilberts/adbe0102-fa3e-484f-98c8-bf02dd478945/application) | Hilbert | SF, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -106,5 +108,3 @@
 | [Associate Full Stack Engineer](https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Merrimack-NH/Associate-Full-Stack-Engineer_2120832-1) | Fidelity Investments | Merrimack, NH, Smithfield, RI, Westlake, TX | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://jobs.lever.co/commercearchitects/ec4bd3b5-3219-4524-805a-d9dff354c5ec/apply) | Commerce Architects | Spokane, WA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Human Performance Data Scientist 1](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Hurlburt-Field---Hurlburt-Fld-FLC017/Human-Performance-Data-Scientist-I_RQ210954) | General Dynamics Information Technology | Florida | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Data Scientist 1](https://jobs.lever.co/leverdemo/874a045c-6ecd-4e62-b682-67d095d4723f/apply) | Lever | Belfast, UK | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [UK Business Intelligence Analyst-Travel & Expense](https://jobs.lever.co/pibenchmark/67c5bdb8-d019-43ff-a6de-cca1917058d8/apply) | PredictX | London, UK | 🏢 Onsite | — | — | SimplifyJobs New Grad |

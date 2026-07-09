@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Columbus, OH, California City, CA, Chantilly, VA, Dublin, OH, Alexandria, VA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Dublin, OH, Bloomington, MN, California City, CA, Bluemont, VA, Chantilly, VA
 
 ## Current Opportunities
 

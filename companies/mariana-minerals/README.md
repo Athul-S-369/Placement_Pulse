@@ -4,7 +4,7 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
+- **Categories:** Internship, Fresher Job
 - **Locations:** Moab, UT, Houston, TX, SF, Ann Arbor, MI
 
 ## Current Opportunities
