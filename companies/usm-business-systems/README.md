@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Augusta, ME, Washington, DC, Westminster, CO, Traverse City, MI, Manassas, VA
+- **Locations:** Traverse City, MI, Southfield, MI, Dublin, OH, St. Louis, MO, Chantilly, VA
 
 ## Current Opportunities
 
