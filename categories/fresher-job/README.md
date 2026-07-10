@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1164 active** | **0 expired** | **1164 total**
+**1165 active** | **0 expired** | **1165 total**
 
 *Last updated: 2026-07-10*
 
@@ -11,6 +11,7 @@
 | [Pavement Data Analyst](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309566) | Michael Baker International | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Feed Integrations Associate](https://job-boards.greenhouse.io/garnerhealth/jobs/6112552004) | Garner Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Product Manager](https://job-boards.greenhouse.io/soci/jobs/6105407004) | SOCi | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [French Canadian Audio Rating Task](https://jobs.lever.co/appen/c955501f-01d4-4363-8b36-1c381e421db4/apply) | CrowdGen by Appen | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Enablement Specialist](https://jobs.ashbyhq.com/kong/c0a091c1-46ba-4a87-93d9-45a1449ec234/application) | Kong | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Analyst - Software Engineering Track](https://job-boards.greenhouse.io/acuitymd/jobs/6111981004) | AcuityMD | Boston, MA, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Machine Learning Engineer New Grad](https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4/application) | Quora | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Graduate Trader - 2026](https://job-boards.eu.greenhouse.io/imc/jobs/4564495101) | IMC Trading | London, UK | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Electrical Hardware Engineer](https://ats.rippling.com/turntide-careers/jobs/afaa3bd8-f5f1-4f4a-a53e-13f00b7ca8fa) | Turntide | Newcastle upon Tyne, UK | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Software Developer - Rotational Program - Netsuite](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/314506) | Oracle | Kitchener, ON, Canada | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Software Engineer, Early Career](https://job-boards.greenhouse.io/affirm/jobs/7485068003) | Affirm | San Francisco, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |

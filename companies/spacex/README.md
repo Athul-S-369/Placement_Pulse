@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** West Athens, CA, Redmond, WA, Brownsville, TX, Texas, Palo Alto, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Sunnyvale, CA, Redmond, WA, Texas, Palo Alto, CA, Brownsville, TX
 
 ## Current Opportunities
 

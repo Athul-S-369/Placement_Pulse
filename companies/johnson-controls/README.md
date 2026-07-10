@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Appleton, WI, Milwaukee, WI
+- **Locations:** Milwaukee, WI, Appleton, WI
 
 ## Current Opportunities
 

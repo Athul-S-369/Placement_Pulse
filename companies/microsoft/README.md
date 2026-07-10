@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship, Student Ambassador
-- **Locations:** Redmond, WA, Kitsap County, WA, Redmond, WA, Annapolis Junction, MD, Reston, VA, India (Campus), Cambridge, MA, Redmond, WA
+- **Categories:** Student Ambassador, Internship, Fresher Job
+- **Locations:** Cambridge, MA, NYC, Redmond, WA, NYC, Kitsap County, WA, Redmond, WA, Remote in USA, Redmond, WA
 
 ## Current Opportunities
 

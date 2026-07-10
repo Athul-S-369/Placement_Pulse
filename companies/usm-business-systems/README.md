@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Augusta, ME, Alexandria, VA, St. Louis, MO, Chantilly, VA, Rochester, MI
+- **Categories:** Internship, Fresher Job
+- **Locations:** Augusta, ME, Washington, DC, Westminster, CO, Traverse City, MI, Manassas, VA
 
 ## Current Opportunities
 
