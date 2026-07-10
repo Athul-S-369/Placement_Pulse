@@ -1,11 +1,11 @@
 # 🏢 USM Business Systems
 
-**21 active opportunities** | **21 total tracked** | *Last updated: 2026-07-09*
+**21 active opportunities** | **21 total tracked** | *Last updated: 2026-07-10*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** California City, CA, Rochester, MI, Dublin, OH, Bloomington, MN, El Segundo, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Augusta, ME, Alexandria, VA, St. Louis, MO, Chantilly, VA, Rochester, MI
 
 ## Current Opportunities
 

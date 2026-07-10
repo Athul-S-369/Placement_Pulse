@@ -1,11 +1,11 @@
 # 🏢 Faire
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-09*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-10*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote / Various, Toronto, ON, Canada, Kitchener, ON, Canada, SF
+- **Locations:** Toronto, ON, Canada, Kitchener, ON, Canada, SF, Remote / Various
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏢 IEEE WIE Affinity Group, Bharati Vidyapeeth (Deemed to be University) College of Engineering, Pune
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-09*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-10*
 
 ## Overview
 

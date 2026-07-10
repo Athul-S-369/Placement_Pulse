@@ -1,6 +1,6 @@
 # 🏢 Veer Surendra Sai University of Technology (VSSUT), Odisha
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-09*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-10*
 
 ## Overview
 

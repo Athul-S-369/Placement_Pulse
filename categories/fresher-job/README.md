@@ -1,13 +1,16 @@
 # 💼 Fresher Job
 
-**1161 active** | **0 expired** | **1161 total**
+**1164 active** | **0 expired** | **1164 total**
 
-*Last updated: 2026-07-09*
+*Last updated: 2026-07-10*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Pavement Data Analyst](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309566) | Michael Baker International | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Feed Integrations Associate](https://job-boards.greenhouse.io/garnerhealth/jobs/6112552004) | Garner Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Associate Product Manager](https://job-boards.greenhouse.io/soci/jobs/6105407004) | SOCi | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Enablement Specialist](https://jobs.ashbyhq.com/kong/c0a091c1-46ba-4a87-93d9-45a1449ec234/application) | Kong | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Analyst - Software Engineering Track](https://job-boards.greenhouse.io/acuitymd/jobs/6111981004) | AcuityMD | Boston, MA, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Machine Learning Engineer New Grad](https://jobs.ashbyhq.com/quora/3eb7e80e-6a0d-41b6-8ee4-f62421c486e4/application) | Quora | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -105,6 +108,3 @@
 | [Electrical Hardware Engineer](https://ats.rippling.com/turntide-careers/jobs/afaa3bd8-f5f1-4f4a-a53e-13f00b7ca8fa) | Turntide | Newcastle upon Tyne, UK | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Software Developer - Rotational Program - Netsuite](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/314506) | Oracle | Kitchener, ON, Canada | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Software Engineer, Early Career](https://job-boards.greenhouse.io/affirm/jobs/7485068003) | Affirm | San Francisco, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Associate Full Stack Engineer](https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Merrimack-NH/Associate-Full-Stack-Engineer_2120832-1) | Fidelity Investments | Merrimack, NH, Smithfield, RI, Westlake, TX | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Software Engineer](https://jobs.lever.co/commercearchitects/ec4bd3b5-3219-4524-805a-d9dff354c5ec/apply) | Commerce Architects | Spokane, WA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Human Performance Data Scientist 1](https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-Hurlburt-Field---Hurlburt-Fld-FLC017/Human-Performance-Data-Scientist-I_RQ210954) | General Dynamics Information Technology | Florida | 🏢 Onsite | — | — | SimplifyJobs New Grad |

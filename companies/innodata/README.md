@@ -1,11 +1,11 @@
 # 🏢 Innodata
 
-**11 active opportunities** | **11 total tracked** | *Last updated: 2026-07-09*
+**11 active opportunities** | **11 total tracked** | *Last updated: 2026-07-10*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Mississippi, Ohio, New Mexico, Wyoming, Idaho
+- **Locations:** Wisconsin, South Carolina, Mississippi, Ohio, New Mexico
 
 ## Current Opportunities
 

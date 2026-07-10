@@ -1,6 +1,6 @@
 # 🏢 Scripthonix Solutions
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-09*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-10*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [How is AI disrupting Engineering Roles and where do students go for advice?](https://unstop.com/workshops-webinars/how-is-ai-disrupting-engineering-roles-and-where-do-students-go-for-advice-scripthonix-solutions-1704925) | Scripthonix Solutions | India | 🏢 Onsite | — | 2026-07-09 | Unstop |
 
 ## 📖 Interview Preparation
 

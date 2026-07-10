@@ -1,13 +1,17 @@
 # 🏆 Hackathon
 
-**106 active** | **28 expired** | **134 total**
+**108 active** | **30 expired** | **138 total**
 
-*Last updated: 2026-07-09*
+*Last updated: 2026-07-10*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Research Paper Writing Masterclass](https://unstop.com/workshops-webinars/research-paper-writing-masterclass-markhub24-1715703) | MarkHub24 | India | 🏢 Onsite | — | 2026-07-11 | Unstop |
+| [Career Growth Workshop & Leadership Accelerator](https://unstop.com/workshops-webinars/career-growth-workshop-leadership-accelerator-dyndox-1715458) | Dyndox | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
+| [Fulcrum 2026 - Strategic Transformation](https://unstop.com/competitions/fulcrum-2026-strategic-transformation-xavier-school-of-management-xlri-jamshedpur-1715659) | Xavier School of Management (XLRI), Jamshedpur | India | 🏢 Onsite | — | 2026-07-21 | Unstop |
+| [test](https://unstop.com/hackathons/hacknova-2026-kvg-college-of-engineering-kvgce-sullia-karnataka-1715653) | KVG College of Engineering (KVGCE), Sullia, Karnataka | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
 | [Chapters Nagpur — E-Cell IIT Bombay x E-Cell VNIT Nagpur](https://unstop.com/competitions/chapters-nagpur-e-cell-iit-bombay-x-e-cell-vnit-nagpur-vnit-nagpur-1714895) | Visvesvaraya National Institute of Technology (VNIT), Nagpur | India | 🏢 Onsite | — | 2026-07-24 | Unstop |
 | [Parsewave Game Jam 2026](https://unstop.com/hackathons/parsewave-game-jam-2026-parsewave-ai-1713521) | Parsewave AI | India | 🏢 Onsite | — | 2026-07-11 | Unstop |
 | [Freshers Party Planning Night](https://unstop.com/competitions/freshers-party-planning-night-sant-longowal-institute-of-engineering-and-technology-longowal-punjab-1715304) | Sant Longowal Institute of Engineering and Technology, Longowal, Punjab | India | 🏢 Onsite | — | 2026-07-24 | Unstop |
@@ -40,7 +44,6 @@
 | [Gemini Prompt Wars](https://unstop.com/competitions/gemini-prompt-wars-bn-college-of-engineering-and-technology-lucknow-uttar-pradesh-1711583) | B.N. College Of Engineering And Technology, Lucknow, Uttar Pradesh | India | 🏢 Onsite | — | 2026-08-05 | Unstop |
 | [Varithon 2026](https://unstop.com/hackathons/varithon-2026-marathwada-mitra-mandals-college-of-engineering-mmcoe-pune-1711499) | Marathwada Mitra Mandal's College of Engineering (MMCOE), Pune | India | 🏢 Onsite | — | 2026-08-29 | Unstop |
 | [MerchVerse 2026](https://unstop.com/quiz/merchverse-2026-h-p-projects-1711835) | H & P Projects | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
-| [ProdXPulse 2026: AI Product Festival - Workshop](https://unstop.com/competitions/prodxpulse-2026-ai-product-festival-workshop-cmr-university-cmru-bangalore-karnataka-1709887) | CMR University (CMRU), Bangalore, Karnataka | India | 🏢 Onsite | — | 2026-07-09 | Unstop |
 | [Your Time to Shine : Wribate July 2026 Challenge](https://unstop.com/competitions/your-time-to-shine-wribate-july-2026-challenge-your-time-to-shine-writers-debaters-wribate-july-2026-challe-1699409) | Wribate | India | 🏢 Onsite | — | 2026-07-20 | Unstop |
 | [CodeArena Genesis 1.0 – National Tech Quiz 2026](https://unstop.com/quiz/codearena-genesis-10-national-tech-quiz-2026-codearena-1709501) | CodeArena | India | 🏢 Onsite | — | 2026-07-16 | Unstop |
 | [ExploitX: Into the Void 2.0 CTF](https://unstop.com/hackathons/exploitx-into-the-void-20-ctf-chennai-institute-of-technology-1708797) | Chennai Institute of Technology | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
@@ -105,14 +108,13 @@
 | [Young Investors' Fellowship Programme 7.0](https://unstop.com/workshops-webinars/young-investors-fellowship-programme-70-hansraj-collegeuniversity-of-delhi-1705220) | Hansraj College,University of Delhi | India | 🏢 Onsite | — | 2026-07-30 | Unstop |
 | [CyberStrike 26- National Level Capture The Flag (CTF) Competition](https://unstop.com/competitions/cyberstrike-26-national-level-capture-the-flag-ctf-competition-sreenidhi-institute-of-science-and-technolog-1707627) | Sreenidhi Institute Of Science And Technology (SNIST), Hyderabad | India | 🏢 Onsite | — | 2026-07-13 | Unstop |
 | [Quiz Masters Challenge 2026](https://unstop.com/quiz/quiz-masters-challenge-2026-iit-roorkee-1706666) | Indian Institute of Technology (IIT), Roorkee | India | 🏢 Onsite | — | 2026-07-30 | Unstop |
-| [The Beautiful Game || A Football Quiz](https://unstop.com/quiz/the-beautiful-game-a-football-quiz-quizarc-1704677) | Quizarc | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
-| [Hack to Survive](https://unstop.com/hackathons/hack-to-survive-kiras-logic-1705001) | Kiras Logic | India | 🏢 Onsite | — | 2026-08-08 | Unstop |
-| [Crack the Internship: Lead Challenge-2](https://unstop.com/competitions/crack-the-internship-lead-challenge-2-internselite-edutech-private-limited-1704808) | Internselite Edutech Private Limited | India | 🏢 Onsite | — | 2026-07-16 | Unstop |
 
 ## Recently Expired
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [How is AI disrupting Engineering Roles and where do students go for advice?](https://unstop.com/workshops-webinars/how-is-ai-disrupting-engineering-roles-and-where-do-students-go-for-advice-scripthonix-solutions-1704925) | Scripthonix Solutions | India | 🏢 Onsite | — | 2026-07-09 | Unstop |
+| [ProdXPulse 2026: AI Product Festival - Workshop](https://unstop.com/competitions/prodxpulse-2026-ai-product-festival-workshop-cmr-university-cmru-bangalore-karnataka-1709887) | CMR University (CMRU), Bangalore, Karnataka | India | 🏢 Onsite | — | 2026-07-09 | Unstop |
 | [AI for Beginners: Understanding Artificial Intelligence, Machine Learning, Generative AI & AI Agents](https://unstop.com/workshops-webinars/ai-for-beginners-understanding-artificial-intelligence-machine-learning-generative-ai-ai-agents-sa-en-1704656) | S.A. Engineering College (SAEC), Chennai | India | 🏢 Onsite | — | 2026-07-08 | Unstop |
 | [Ai Filmmaking Hackathon - Bangalore Edition](https://unstop.com/hackathons/ai-filmmaking-hackathon-bangalore-edition-ai-film-hackathon-bangalore-edition-11-fps-1703147) | 11 FPS | India | 🏢 Onsite | — | 2026-07-08 | Unstop |
 | [Agents of Change – National Agentic AI Bootcamp & Buildathon 2026](https://unstop.com/hackathons/agents-of-change-national-agentic-ai-bootcamp-buildathon-2026-agents-of-change-2026-oriental-group-of-institu-1710516) | Oriental Group of Institutes, Bhopal, Madhya Pradesh | India | 🏢 Onsite | — | 2026-07-08 | Unstop |
@@ -131,5 +133,3 @@
 | [Cascade - A Cryptic Hunt](https://unstop.com/hackathons/cascade-a-cryptic-hunt-manipal-university-mu-jaipur-1704689) | Manipal University (MU), Jaipur | India | 🏢 Onsite | — | 2026-07-05 | Unstop |
 | [Roboauto-2026](https://unstop.com/hackathons/roboauto-2026-vidya-jyothi-institute-of-technology-1671501) | Vidya Jyothi Institute of Technology | India | 🏢 Onsite | — | 2026-07-05 | Unstop |
 | [Tech Verse Workshop Series Shortlistment Test](https://unstop.com/quiz/tech-verse-workshop-series-shortlistment-test-oriental-institute-of-science-and-technology-oist-bhopal-1711270) | Oriental Institute of Science and Technology (OIST), Bhopal | India | 🏢 Onsite | — | 2026-07-05 | Unstop |
-| [AI, Startups & You- The New Rules of Career Growth](https://unstop.com/workshops-webinars/ai-startups-you-the-new-rules-of-career-growth-ai-startups-you-the-new-rules-of-career-growth-cloud-c-1704629) | Cloud Counselage | India | 🏢 Onsite | — | 2026-07-04 | Unstop |
-| [AI Career Hackathon](https://unstop.com/hackathons/shebuilds-ai-career-hackathon-shebuilds-1709515) | SheBuilds | India | 🏢 Onsite | — | 2026-07-04 | Unstop |
