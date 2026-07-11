@@ -1,6 +1,6 @@
 # 🏢 Primetals Technologies
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-10*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-11*
 
 ## Overview
 

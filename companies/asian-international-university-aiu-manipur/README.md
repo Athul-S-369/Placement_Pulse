@@ -1,6 +1,6 @@
 # 🏢 Asian International University (AIU), Manipur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-10*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-11*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [National Chess Quiz Challenge 2026](https://unstop.com/quiz/aiu-national-chess-quiz-challenge-2026-asian-international-university-aiu-manipur-1710962) | Asian International University (AIU), Manipur | India | 🏢 Onsite | — | 2026-07-10 | Unstop |
 
 ## 📖 Interview Preparation
 

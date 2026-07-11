@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-07-10T18:10:37.320063Z",
-  "date": "2026-07-10",
-  "total": 2044,
+  "generated_at": "2026-07-11T03:54:30.820773Z",
+  "date": "2026-07-11",
+  "total": 2051,
   "active": 2013,
-  "new_today": 131,
-  "companies": 1423,
+  "new_today": 136,
+  "companies": 1428,
   "categories": {
-    "fresher-job": 1165,
-    "internship": 727,
+    "fresher-job": 1171,
+    "internship": 728,
     "hackathon": 146,
     "open-source-program": 2,
     "fellowship": 2,
@@ -91,14 +91,14 @@
       "count": 7
     },
     {
-      "name": "The Boeing Company",
+      "name": "Intel",
       "count": 7
     }
   ],
   "domain_tags": {
     "ai-ml": 248,
     "data-science": 161,
-    "software-engineering": 386,
+    "software-engineering": 388,
     "backend": 15,
     "embedded": 44,
     "cybersecurity": 16,
@@ -109,7 +109,7 @@
     "cloud": 18
   },
   "work_modes": {
-    "remote": 179,
-    "onsite": 1865
+    "remote": 185,
+    "onsite": 1866
   }
 }

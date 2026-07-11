@@ -1,11 +1,11 @@
 # 🏢 Hunt Oil Company
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-10*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-11*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Dallas, TX, Houston, TX
+- **Categories:** Fresher Job, Internship
+- **Locations:** Houston, TX, Dallas, TX
 
 ## Current Opportunities
 

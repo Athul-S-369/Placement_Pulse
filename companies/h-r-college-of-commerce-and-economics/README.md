@@ -1,6 +1,6 @@
 # 🏢 H.R. College of Commerce and Economics
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-10*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-11*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Boardroom to Boundary](https://unstop.com/competitions/boardroom-to-boundary-hr-college-of-commerce-and-economics-1709208) | H.R. College of Commerce and Economics | India | 🏢 Onsite | — | 2026-07-10 | Unstop |
 
 ## 📖 Interview Preparation
 

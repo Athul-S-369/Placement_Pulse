@@ -1,6 +1,6 @@
 # 🏢 American Institutes for Research
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-10*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-11*
 
 ## Overview
 

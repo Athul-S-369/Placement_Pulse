@@ -1,11 +1,11 @@
 # 🏢 Thermo Fisher Scientific
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-10*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-11*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Remote / Various, Rhode Island
+- **Categories:** Fresher Job, Internship
+- **Locations:** Rhode Island, Remote / Various
 
 ## Current Opportunities
 

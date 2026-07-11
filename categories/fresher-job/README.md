@@ -1,13 +1,19 @@
 # 💼 Fresher Job
 
-**1165 active** | **0 expired** | **1165 total**
+**1171 active** | **0 expired** | **1171 total**
 
-*Last updated: 2026-07-10*
+*Last updated: 2026-07-11*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Mobile Application Developer - Service Technician](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAGAO-Carrier-Home-Georgia-Remote-Location-Remote-City-GA-30303-USA/Mobile-Application-Developer---Service-Technician_30205642) | Carrier Global | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Pre-Silicon Verification Engineer](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Pre-Silicon-Verification-Engineer_JR0285519) | Intel | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Engineer Associate](https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Huntsville-USA/Associate-Software-Engineer_REQ-12218-1) | Ultra | Austin, TX, Remote in USA, Remote in UK, Huntsville, AL | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Business Systems Analyst - IT Planning & Engagement](https://jobs.lever.co/protective/3c40e93e-66e3-4aeb-9a8a-ed65f826ed41/apply) | Protective Life | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Associate Data Solutions Analyst](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Associate-Data-Solutions-Analyst_J284073) | Highmark Health | New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Texas, Montana, Jackson Township, NJ, Florida, Waterbury, CT, Nevada, South Carolina, South Dakota, Georgia, Arizona, Concord, NH, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho | 🏢 Onsite | — | — | SimplifyJobs New Grad |
+| [Software Engineer Associate](https://ultra.wd3.myworkdayjobs.com/uiccareers/job/Huntsville-USA/Associate-Software-Engineer_REQ-12218) | Ultra Intelligence and Communications | Austin, TX, Remote in USA, Huntsville, AL | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Pavement Data Analyst](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309566) | Michael Baker International | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Feed Integrations Associate](https://job-boards.greenhouse.io/garnerhealth/jobs/6112552004) | Garner Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Product Manager](https://job-boards.greenhouse.io/soci/jobs/6105407004) | SOCi | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -102,9 +108,3 @@
 | [Sustaining Product Engineer](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/38504) | NOV | Tulsa, OK | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Young Investigator - Flexolmo](https://job-boards.greenhouse.io/thealleninstitute/jobs/7417128) | The Allen Institute for AI | Berkeley, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Associate – Index Fixed Income Algo Engineer](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/Associate--Index-Fixed-Income-Algo-Engineer_R258025-1) | BlackRock | SF | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Founding Engineer](https://job-boards.greenhouse.io/applytotruebuilt/jobs/4588866004) | TrueBuilt | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Software Engineer – Early Career](https://job-boards.greenhouse.io/uareai/jobs/4036519009) | Uare.ai | Mountain View, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Analysis Engineer 1](https://astemo.wd102.myworkdayjobs.com/Global_Career_Site/job/Greenfield-Indiana-United-States-of-America/Analysis-Engineer-I_J0048944) | Astemo | Greenfield, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Graduate Trader - 2026](https://job-boards.eu.greenhouse.io/imc/jobs/4564495101) | IMC Trading | London, UK | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Electrical Hardware Engineer](https://ats.rippling.com/turntide-careers/jobs/afaa3bd8-f5f1-4f4a-a53e-13f00b7ca8fa) | Turntide | Newcastle upon Tyne, UK | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Software Developer - Rotational Program - Netsuite](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/314506) | Oracle | Kitchener, ON, Canada | 🏢 Onsite | — | — | SimplifyJobs New Grad |

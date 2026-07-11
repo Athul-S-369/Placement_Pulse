@@ -1,6 +1,6 @@
 # 🏢 The University of Texas at Dallas (TUTAD)
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-10*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-11*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Cash Me If You Can](https://unstop.com/quiz/cash-me-if-you-can-the-university-of-texas-at-dallas-tutad-1710207) | The University of Texas at Dallas (TUTAD) | India | 🏢 Onsite | — | 2026-07-10 | Unstop |
 
 ## 📖 Interview Preparation
 

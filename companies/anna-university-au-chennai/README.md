@@ -1,6 +1,6 @@
 # 🏢 Anna University (AU), Chennai
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-10*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-11*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [IEEE Returning Mothers Conference 2026 – Ideathon & Pitchfest](https://unstop.com/conferences/ieee-returning-mothers-conference-2026-ideathon-pitchfest-anna-university-au-chennai-1709710) | Anna University (AU), Chennai | India | 🏢 Onsite | — | 2026-07-10 | Unstop |
 
 ## 📖 Interview Preparation
 

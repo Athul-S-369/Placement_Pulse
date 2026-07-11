@@ -1,11 +1,11 @@
 # 🏢 ServiceNow
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-10*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-11*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** West Palm Beach, FL, Mountain View, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Mountain View, CA, West Palm Beach, FL
 
 ## Current Opportunities
 

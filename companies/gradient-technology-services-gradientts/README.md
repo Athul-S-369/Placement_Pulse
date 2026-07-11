@@ -1,6 +1,6 @@
 # 🏢 Gradient Technology Services (Gradientts)
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-10*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-11*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Build Your First AI Agent](https://unstop.com/workshops-webinars/build-your-first-ai-agent-gradient-technology-services-gradientts-1709143) | Gradient Technology Services (Gradientts) | India | 🏢 Onsite | — | 2026-07-10 | Unstop |
 
 ## 📖 Interview Preparation
 

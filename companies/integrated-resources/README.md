@@ -1,11 +1,11 @@
 # 🏢 Integrated Resources
 
-**12 active opportunities** | **12 total tracked** | *Last updated: 2026-07-10*
+**12 active opportunities** | **12 total tracked** | *Last updated: 2026-07-11*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Hickory, NC, Santa Clara, CA, Boston, MA, Cherry Hills Village, CO, Milwaukee, WI
+- **Categories:** Fresher Job, Internship
+- **Locations:** Birmingham, AL, Westborough, MA, Boston, MA, Santa Clara, CA, Exton, PA
 
 ## Current Opportunities
 
