@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Andover, MA, Cedar Rapids, IA, Arlington, VA, Huntsville, AL, Goleta, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** McKinney, TX, Andover, MA, Fort Wayne, IN, Goleta, CA, Barrie, ON, Canada
 
 ## Current Opportunities
 

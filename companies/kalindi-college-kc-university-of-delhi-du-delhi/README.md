@@ -1,0 +1,22 @@
+# 🏢 Kalindi College (KC), University of Delhi (DU), Delhi
+
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-11*
+
+## Overview
+
+- **Categories:** Hackathon
+- **Locations:** India
+
+## Current Opportunities
+
+| Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
+|------|---------|----------|------|----------------|----------|--------|
+| [AI Fun Night : Party Planning Challenge](https://unstop.com/hackathons/ai-fun-night-party-planning-challenge-kalindi-college-kc-university-of-delhi-du-delhi-1716108) | Kalindi College (KC), University of Delhi (DU), Delhi | India | 🏢 Onsite | — | 2026-07-13 | Unstop |
+
+## 📖 Interview Preparation
+
+| Resource | Link |
+|----------|------|
+| GeeksForGeeks – Kalindi College (KC), University of Delhi (DU), Delhi | [Search](https://www.geeksforgeeks.org/search/?q=Kalindi+College+(KC),+University+of+Delhi+(DU),+Delhi) |
+| LeetCode – Kalindi College (KC), University of Delhi (DU), Delhi | [Problems](https://leetcode.com/company/kalindi-college-kc-university-of-delhi-du-delhi/) |
+| Glassdoor – Kalindi College (KC), University of Delhi (DU), Delhi | [Reviews](https://www.glassdoor.com/Reviews/Kalindi-College-(KC),-University-of-Delhi-(DU),-Delhi-Reviews-E.htm) |

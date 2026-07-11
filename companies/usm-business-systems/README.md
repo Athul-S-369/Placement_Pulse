@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** NYC, El Segundo, CA, Westminster, CO, Columbus, OH, Alexandria, VA
+- **Categories:** Fresher Job, Internship
+- **Locations:** St. Louis, MO, Chicago, IL, Dublin, OH, NYC, Manassas, VA
 
 ## Current Opportunities
 
