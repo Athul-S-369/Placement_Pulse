@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Radcliff, KY, Madison, WI, Calgary, AB, Canada, Alameda, CA, Princeton, NJ
+- **Locations:** Madison, WI, Alameda, CA, Salt Lake City, UT, Princeton, NJ, Calgary, AB, Canada
 
 ## Current Opportunities
 

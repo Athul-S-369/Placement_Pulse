@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** NYC, California City, CA, St. Louis, MO, Bluemont, VA, Rochester, MI
+- **Categories:** Internship, Fresher Job
+- **Locations:** NYC, El Segundo, CA, Westminster, CO, Columbus, OH, Alexandria, VA
 
 ## Current Opportunities
 
