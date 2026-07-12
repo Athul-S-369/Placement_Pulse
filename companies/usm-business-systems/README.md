@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Columbus, OH, Washington, DC, California City, CA, El Segundo, CA, NYC
+- **Categories:** Fresher Job, Internship
+- **Locations:** Alexandria, VA, Traverse City, MI, Westminster, CO, Bloomington, MN, El Segundo, CA
 
 ## Current Opportunities
 

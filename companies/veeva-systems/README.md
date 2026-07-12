@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Pleasanton, CA, London, UK, Raleigh, NC, Kansas City, MO, Toronto, ON, Canada
+- **Categories:** Fresher Job, Internship
+- **Locations:** London, UK, Toronto, ON, Canada, Pleasanton, CA, Raleigh, NC, Kansas City, MO
 
 ## Current Opportunities
 

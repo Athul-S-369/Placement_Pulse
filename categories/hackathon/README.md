@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**118 active** | **40 expired** | **158 total**
+**122 active** | **40 expired** | **162 total**
 
 *Last updated: 2026-07-12*
 
@@ -13,6 +13,10 @@
 | [Bteup Study Group Hub Campus Leader Challenge 2026](https://unstop.com/competitions/bteup-study-group-hub-campus-leader-challenge-2026-university-of-lucknow-lucknow-uttar-pradesh-1716524) | University of Lucknow, Lucknow, Uttar Pradesh | India | 🏢 Onsite | — | 2026-08-10 | Unstop |
 | [CampusOrbit National Chess Championship 2026](https://unstop.com/competitions/campusorbit-national-chess-championship-2026-campusorbit-1716743) | CampusOrbit | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
 | [FINnovate](https://unstop.com/competitions/finnovate-la-conquista-2026-sda-bocconi-asia-center-mumbai-1716603) | SDA Bocconi Asia Center, Mumbai | India | 🏢 Onsite | — | 2026-08-06 | Unstop |
+| [Off To Abroad](https://unstop.com/conferences/off-to-abroad-off-to-abroaad-uniadvise-1716742) | Uniadvise | India | 🏢 Onsite | — | 2026-07-18 | Unstop |
+| [Designing Your Future – Building a Successful Career in the Design Industry](https://unstop.com/workshops-webinars/designing-your-future-building-a-successful-career-in-the-design-industry-mycaptain-by-imarticus-lear-1717088) | MyCaptain by Imarticus learning | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
+| [Building Your Career in Architecture – From Design Studio to Professional Practice](https://unstop.com/workshops-webinars/building-your-career-in-architecture-from-design-studio-to-professional-practice-mycaptain-1717082) | MyCaptain | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
+| [Global AI Hackathon 2026](https://unstop.com/hackathons/global-ai-hackathon-2026-innovation-hacks-1716925) | Innovation Hacks | India | 🏢 Onsite | — | 2026-07-27 | Unstop |
 | [All India Hackathon](https://unstop.com/hackathons/all-india-hackathon-axcentra-1703933) | Axcentra | India | 🏢 Onsite | — | 2026-08-29 | Unstop |
 | [Blackcoffer Insights 34: Global Issues](https://unstop.com/competitions/blackcoffer-insights-34-global-issues-blackcoffer-1716347) | Blackcoffer | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
 | [Flow Engineering Workshop](https://unstop.com/workshops-webinars/flow-engineering-workshop-gradus-1716343) | Gradus | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
@@ -104,10 +108,6 @@
 | [Google Gemini QuizOff 2026](https://unstop.com/quiz/google-gemini-quizoff-2026-campuscrew-1685313) | CampusCrew | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
 | [Monthly Quiz Mania-29](https://unstop.com/quiz/monthly-quiz-mania-29-netclan-inc-1709487) | Netclan Inc | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
 | [Campus Ambassador - Asian Paints Alchemy 2026](https://unstop.com/competitions/crp-campus-ambassador-asian-paints-alchemy-2026-asian-paints-1708823) | Asian Paints | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
-| [Technostrophe '26](https://unstop.com/quiz/technostrophe-26-e-summit-26-indian-institute-of-technology-iit-dharwad-1709090) | Indian Institute of Technology (IIT), Dharwad | India | 🏢 Onsite | — | 2026-07-20 | Unstop |
-| [AI for Bharat Hackathon 2026 – Build AI Solutions for India's Real Problems](https://unstop.com/hackathons/ai-for-bharat-hackathon-2026-build-ai-solutions-for-indias-real-problems-indraprastha-institute-of-informatio-1709437) | Indraprastha Institute of Information Technology Delhi | India | 🏢 Onsite | — | 2026-07-15 | Unstop |
-| [IEEE Summer of Code 2026](https://unstop.com/competitions/ieee-summer-of-code-2026-ieee-student-branch-graphic-era-hill-university-1704994) | IEEE Student Branch, Graphic Era Hill University | India | 🏢 Onsite | — | 2026-07-20 | Unstop |
-| [Naukri vs Startup: What's Actually Best for You? (Not Another 'Quit Your Job' Reel)](https://unstop.com/workshops-webinars/naukri-vs-startup-whats-actually-best-for-you-not-another-quit-your-job-reel-nerida-group-1709133) | Nerida Group | India | 🏢 Onsite | — | 2026-07-18 | Unstop |
 
 ## Recently Expired
 

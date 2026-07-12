@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Santa Clara, CA, Boston, MA, Exton, PA, Birmingham, AL, Elmira, NY
+- **Categories:** Fresher Job, Internship
+- **Locations:** Elmira, NY, Ambler, PA, Cambridge, MA, Westborough, MA, Cherry Hills Village, CO
 
 ## Current Opportunities
 
