@@ -1,6 +1,6 @@
 # 🏢 MarkHub24
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-11*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-12*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Research Paper Writing Masterclass](https://unstop.com/workshops-webinars/research-paper-writing-masterclass-markhub24-1715703) | MarkHub24 | India | 🏢 Onsite | — | 2026-07-11 | Unstop |
 
 ## 📖 Interview Preparation
 

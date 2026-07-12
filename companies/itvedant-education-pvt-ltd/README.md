@@ -1,6 +1,6 @@
 # 🏢 Itvedant Education Pvt. Ltd.
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-11*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-12*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Data Analytics Live Workshop](https://unstop.com/workshops-webinars/data-analytics-live-workshop-itvedant-education-pvt-ltd-1710844) | Itvedant Education Pvt. Ltd. | India | 🏢 Onsite | — | 2026-07-11 | Unstop |
 
 ## 📖 Interview Preparation
 

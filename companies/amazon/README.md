@@ -1,11 +1,11 @@
 # 🏢 Amazon
 
-**13 active opportunities** | **13 total tracked** | *Last updated: 2026-07-11*
+**13 active opportunities** | **13 total tracked** | *Last updated: 2026-07-12*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Sunnyvale, CA, NYC, Culver City, CA, Santa Clara, CA, Boston, MA, Seattle, WA, Denver, CO, SF, Arlington, VA, Sunnyvale, CA, Brooklyn, NY, Williston Park, NY, Seattle, WA, London, UK, Edinburgh, UK, Cambridge, UK, London, UK
+- **Locations:** London, UK, Edinburgh, UK, Cambridge, UK, NYC, Culver City, CA, Santa Clara, CA, Boston, MA, Seattle, WA, Denver, CO, SF, Arlington, VA, Sunnyvale, CA, Brooklyn, NY, Williston Park, NY, Sunnyvale, CA, Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington, VA, NYC, Bellevue, WA, San Diego, CA, Seattle, WA
 
 ## Current Opportunities
 

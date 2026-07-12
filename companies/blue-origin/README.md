@@ -1,11 +1,11 @@
 # 🏢 Blue Origin
 
-**5 active opportunities** | **5 total tracked** | *Last updated: 2026-07-11*
+**5 active opportunities** | **5 total tracked** | *Last updated: 2026-07-12*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** LA, Kent, WA, Huntsville, AL, Kent, WA, Seattle, WA, LA, Denver, CO, Washington
+- **Locations:** Washington, Huntsville, AL, LA, Kent, WA, Seattle, WA, LA, Denver, CO, Kent, WA
 
 ## Current Opportunities
 
