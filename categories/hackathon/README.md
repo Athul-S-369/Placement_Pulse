@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**116 active** | **40 expired** | **156 total**
+**118 active** | **40 expired** | **158 total**
 
 *Last updated: 2026-07-12*
 
@@ -11,6 +11,8 @@
 | [The Start up Conclave](https://unstop.com/competitions/the-start-up-conclave-maharana-pratap-group-of-institutions-1716485) | Maharana Pratap Group of institutions | India | 🏢 Onsite | — | 2026-09-05 | Unstop |
 | [EcoVision Poster Challenge 2026](https://unstop.com/events/ecovision-poster-challenge-2026-community-innovatex-1716198) | Community InnovateX | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
 | [Bteup Study Group Hub Campus Leader Challenge 2026](https://unstop.com/competitions/bteup-study-group-hub-campus-leader-challenge-2026-university-of-lucknow-lucknow-uttar-pradesh-1716524) | University of Lucknow, Lucknow, Uttar Pradesh | India | 🏢 Onsite | — | 2026-08-10 | Unstop |
+| [CampusOrbit National Chess Championship 2026](https://unstop.com/competitions/campusorbit-national-chess-championship-2026-campusorbit-1716743) | CampusOrbit | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
+| [FINnovate](https://unstop.com/competitions/finnovate-la-conquista-2026-sda-bocconi-asia-center-mumbai-1716603) | SDA Bocconi Asia Center, Mumbai | India | 🏢 Onsite | — | 2026-08-06 | Unstop |
 | [All India Hackathon](https://unstop.com/hackathons/all-india-hackathon-axcentra-1703933) | Axcentra | India | 🏢 Onsite | — | 2026-08-29 | Unstop |
 | [Blackcoffer Insights 34: Global Issues](https://unstop.com/competitions/blackcoffer-insights-34-global-issues-blackcoffer-1716347) | Blackcoffer | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
 | [Flow Engineering Workshop](https://unstop.com/workshops-webinars/flow-engineering-workshop-gradus-1716343) | Gradus | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
@@ -106,8 +108,6 @@
 | [AI for Bharat Hackathon 2026 – Build AI Solutions for India's Real Problems](https://unstop.com/hackathons/ai-for-bharat-hackathon-2026-build-ai-solutions-for-indias-real-problems-indraprastha-institute-of-informatio-1709437) | Indraprastha Institute of Information Technology Delhi | India | 🏢 Onsite | — | 2026-07-15 | Unstop |
 | [IEEE Summer of Code 2026](https://unstop.com/competitions/ieee-summer-of-code-2026-ieee-student-branch-graphic-era-hill-university-1704994) | IEEE Student Branch, Graphic Era Hill University | India | 🏢 Onsite | — | 2026-07-20 | Unstop |
 | [Naukri vs Startup: What's Actually Best for You? (Not Another 'Quit Your Job' Reel)](https://unstop.com/workshops-webinars/naukri-vs-startup-whats-actually-best-for-you-not-another-quit-your-job-reel-nerida-group-1709133) | Nerida Group | India | 🏢 Onsite | — | 2026-07-18 | Unstop |
-| [Call for Articles - TJEF Volume 11, Issue 2](https://unstop.com/competitions/call-for-articles-tjef-volume-11-issue-2-t-a-pai-management-institute-tapmi-manipal-1709341) | T. A. Pai Management Institute (TAPMI), Manipal | India | 🏢 Onsite | — | 2026-08-05 | Unstop |
-| [Catalysis'T](https://unstop.com/competitions/catalysist-iit-guwahati-1709276) | Indian Institute of Technology (IIT), Guwahati | India | 🏢 Onsite | — | 2026-07-20 | Unstop |
 
 ## Recently Expired
 

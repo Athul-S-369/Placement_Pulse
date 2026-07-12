@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** St. Louis, MO, Alpharetta, GA, Hartford, CT, Dallas, TX, Thousand Oaks, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Dallas, TX, Plainview, NY, Thousand Oaks, CA, Sunnyvale, CA, Broomfield, CO
 
 ## Current Opportunities
 

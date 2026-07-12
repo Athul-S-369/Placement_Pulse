@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Chesapeake, VA, Columbia, MD, Huntsville, AL, Reston, VA, Annapolis Junction, MD
+- **Locations:** Huntsville, AL, Annapolis Junction, MD, Columbia, MD, Reston, VA, Chesapeake, VA
 
 ## Current Opportunities
 

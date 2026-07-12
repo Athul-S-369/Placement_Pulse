@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** London, UK, Dorking, UK, London, UK, Dorking, UK, Toronto, ON, Canada
+- **Categories:** Internship, Fresher Job
+- **Locations:** London, UK, Toronto, ON, Canada, Dorking, UK, London, UK, Dorking, UK
 
 ## Current Opportunities
 
