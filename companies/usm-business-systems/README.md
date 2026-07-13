@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Columbus, OH, St. Louis, MO, Southfield, MI, Dublin, OH, Augusta, ME
+- **Categories:** Fresher Job, Internship
+- **Locations:** NYC, Southfield, MI, San Antonio, TX, Jefferson City, MO, California City, CA
 
 ## Current Opportunities
 
