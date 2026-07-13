@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** NYC, Southfield, MI, San Antonio, TX, Jefferson City, MO, California City, CA
+- **Locations:** El Segundo, CA, Manassas, VA, Baltimore, MD, St. Louis, MO, California City, CA
 
 ## Current Opportunities
 

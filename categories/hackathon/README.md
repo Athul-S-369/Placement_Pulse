@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**127 active** | **41 expired** | **168 total**
+**130 active** | **41 expired** | **171 total**
 
 *Last updated: 2026-07-13*
 
@@ -14,6 +14,9 @@
 | [Build Sprint](https://unstop.com/competitions/build-sprint-makerworks-llp-1717448) | Makerworks LLP | India | 🏢 Onsite | — | 2026-07-17 | Unstop |
 | [Gemini AI Freshers Party Challenge: Design the Ultimate Fresher's Night](https://unstop.com/workshops-webinars/gemini-ai-freshers-party-challenge-design-the-ultimate-freshers-night-amrita-vishwa-vidyapeetham-amar-1714552) | Amrita Vishwa Vidyapeetham, Amaravati, Andhra Pradesh | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
 | [TVS Credit E.P.I.C 8.0 — IT Challenge](https://unstop.com/competitions/crp-tvs-credit-epic-80-it-challenge-epic-season-8-tvs-credit-1701115) | TVS Credit | India | 🏢 Onsite | — | 2026-12-20 | Unstop |
+| [NextHorizon Hackathon](https://unstop.com/hackathons/nexthorizon-hackathon-indian-institute-of-information-technology-iiit-bhagalpur-1717748) | Indian Institute of Information Technology (IIIT), Bhagalpur | India | 🏢 Onsite | — | 2026-07-21 | Unstop |
+| [PVM Confy Challenge 4.0](https://unstop.com/competitions/crp-pvm-confy-challenge-40-perfetti-van-melle-1712269) | Perfetti Van Melle | India | 🏢 Onsite | — | 2026-08-09 | Unstop |
+| [Fusion 360 & 3D Printing Workshop 2026](https://unstop.com/workshops-webinars/fusion-360-3d-printing-workshop-2026-vasantdada-patil-pratishthans-college-of-engineering-and-visual--1715441) | Vasantdada Patil Pratishthan's College of Engineering and Visual Arts, Mumbai, Maharashtra | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
 | [The Start up Conclave](https://unstop.com/competitions/the-start-up-conclave-maharana-pratap-group-of-institutions-1716485) | Maharana Pratap Group of institutions | India | 🏢 Onsite | — | 2026-09-05 | Unstop |
 | [EcoVision Poster Challenge 2026](https://unstop.com/events/ecovision-poster-challenge-2026-community-innovatex-1716198) | Community InnovateX | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
 | [Bteup Study Group Hub Campus Leader Challenge 2026](https://unstop.com/competitions/bteup-study-group-hub-campus-leader-challenge-2026-university-of-lucknow-lucknow-uttar-pradesh-1716524) | University of Lucknow, Lucknow, Uttar Pradesh | India | 🏢 Onsite | — | 2026-08-10 | Unstop |
@@ -105,9 +108,6 @@
 | [Shri Ram Centenary Olympiad](https://unstop.com/quiz/shri-ram-centenary-olympiad-srcc-du-1704691) | Shri Ram College of Commerce, University of Delhi | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
 | [Skillumni Scholarship Aptitude](https://unstop.com/quiz/skillumni-scholarship-aptitude-skillumni-1708448) | Skillumni | India | 🏢 Onsite | — | 2026-07-17 | Unstop |
 | [Frontend Wars 2026: Build the Future](https://unstop.com/hackathons/frontend-wars-2026-build-the-future-frontend-arena-1709357) | Frontend Arena | India | 🏢 Onsite | — | 2026-08-01 | Unstop |
-| [Students' Research Conclave 4.0](https://unstop.com/competitions/students-research-conclave-40-symbiosis-centre-for-management-studies-scms-pune-1709716) | Symbiosis Centre for Management Studies (SCMS), Pune | India | 🏢 Onsite | — | 2026-11-15 | Unstop |
-| [NISM Series XV: Starter Session – Research Analyst Essentials](https://unstop.com/workshops-webinars/nism-series-xv-starter-session-research-analyst-essentials-institute-of-management-studies-ims-mgkvp--1709697) | Institute of Management Studies (IMS) MGKVP, Varanasi | India | 🏢 Onsite | — | 2026-07-16 | Unstop |
-| [Aerothon 2026 - HAL x IITI](https://unstop.com/hackathons/aerothon-2026-hal-x-iiti-iit-indore-1709519) | Indian Institute of Technology (IIT), Indore | India | 🏢 Onsite | — | 2026-08-08 | Unstop |
 
 ## Recently Expired
 

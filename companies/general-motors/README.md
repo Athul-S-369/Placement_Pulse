@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Mountain View, CA, Sunnyvale, CA, San Francisco, CA, Mountain View, CA, Warren, MI, Mountain View, CA, Sunnyvale, CA, Sunnyvale, CA, Markham, ON, Canada
+- **Locations:** Markham, ON, Canada, Mountain View, CA, Sunnyvale, CA, San Francisco, CA, Mountain View, CA, Sunnyvale, CA, Sunnyvale, CA, Mountain View, CA, Warren, MI
 
 ## Current Opportunities
 

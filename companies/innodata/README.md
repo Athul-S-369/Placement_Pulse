@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Minnesota, Idaho, Wyoming, Utah, Ohio
+- **Locations:** New Mexico, Ohio, Wyoming, South Carolina, Idaho
 
 ## Current Opportunities
 

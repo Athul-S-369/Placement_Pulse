@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1171 active** | **0 expired** | **1171 total**
+**1172 active** | **0 expired** | **1172 total**
 
 *Last updated: 2026-07-13*
 
@@ -8,6 +8,7 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Data Engineer Associate](https://job-boards.greenhouse.io/beyondtrust/jobs/6602214) | BeyondTrust | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Mobile Application Developer - Service Technician](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAGAO-Carrier-Home-Georgia-Remote-Location-Remote-City-GA-30303-USA/Mobile-Application-Developer---Service-Technician_30205642) | Carrier Global | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Pre-Silicon Verification Engineer](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Pre-Silicon-Verification-Engineer_JR0285519) | Intel | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer Associate](https://ultra.wd3.myworkdayjobs.com/ultra-careers/job/Huntsville-USA/Associate-Software-Engineer_REQ-12218-1) | Ultra | Austin, TX, Remote in USA, Remote in UK, Huntsville, AL | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [AI Data Specialist](https://jobs.lever.co/rws/dd563b7b-74d5-4124-bb0b-89a8d44348ae/apply) | RWS | Illinois | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Sustaining Product Engineer](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/38504) | NOV | Tulsa, OK | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Young Investigator - Flexolmo](https://job-boards.greenhouse.io/thealleninstitute/jobs/7417128) | The Allen Institute for AI | Berkeley, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Associate – Index Fixed Income Algo Engineer](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/Associate--Index-Fixed-Income-Algo-Engineer_R258025-1) | BlackRock | SF | 🏢 Onsite | — | — | SimplifyJobs New Grad |
