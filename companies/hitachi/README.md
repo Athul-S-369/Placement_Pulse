@@ -1,11 +1,11 @@
 # 🏢 Hitachi
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-12*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-13*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Scarborough, ON, Canada, Toronto, ON, Canada
+- **Locations:** Toronto, ON, Canada, Scarborough, ON, Canada
 
 ## Current Opportunities
 
