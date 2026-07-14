@@ -1,11 +1,11 @@
 # 🏢 Stantec
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-13*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-14*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Ottawa, ON, Canada, Sylvan Lake, AB, Canada
+- **Locations:** Sylvan Lake, AB, Canada, Ottawa, ON, Canada
 
 ## Current Opportunities
 

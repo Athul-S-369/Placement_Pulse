@@ -1,6 +1,6 @@
 # 🏢 SheKunj
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-13*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-14*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [2-Day No-Code Bootcamp : From Idea to Execution](https://unstop.com/workshops-webinars/2-day-no-code-bootcamp-from-idea-to-execution-shekunj-1712331) | SheKunj | India | 🏢 Onsite | — | 2026-07-13 | Unstop |
 
 ## 📖 Interview Preparation
 

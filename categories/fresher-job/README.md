@@ -1,13 +1,18 @@
 # 💼 Fresher Job
 
-**1172 active** | **0 expired** | **1172 total**
+**1177 active** | **0 expired** | **1177 total**
 
-*Last updated: 2026-07-13*
+*Last updated: 2026-07-14*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Analyst AI Opportunity & Value Creation](https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Remote-USA/Analyst--AI-Opportunity---Value-Creation_R250000006069) | R1 RCM | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Product Manager - Fordpay](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66700) | Ford Motor Company | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [AI Product Engineer - Copilot & Power Platform](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/AI-Product-Engineer--Copilot---Power-Platform---Remote---US-_R30742-1) | Allstate Insurance Company | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Engineer 1](https://careers.varsitybrands.com/global/en/job/JR114172) | Varsity Brands | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [AI Tutor Punjabi](https://job-boards.greenhouse.io/xai/jobs/5090246007) | xAI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Engineer Associate](https://job-boards.greenhouse.io/beyondtrust/jobs/6602214) | BeyondTrust | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Mobile Application Developer - Service Technician](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAGAO-Carrier-Home-Georgia-Remote-Location-Remote-City-GA-30303-USA/Mobile-Application-Developer---Service-Technician_30205642) | Carrier Global | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Pre-Silicon Verification Engineer](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/Pre-Silicon-Verification-Engineer_JR0285519) | Intel | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -103,8 +108,3 @@
 | [Early Career Software Engineer](https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363) | Citizen Health | San Francisco | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Entry-Level Software Engineer](https://spacedynamicslaboratory.applytojob.com/apply/9YHX63vuSs/EntryLevel-Software-Engineer) | Space Dynamics Laboratory | North Logan, UT | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Graduate Software Engineer](https://spectris.wd3.myworkdayjobs.com/en-US/Malvern_Panalytical_Careers/job/Northampton-MA/Graduate-Software-Engineer_16693) | Malvern Panalytical | Northampton, MA, Malvern, GB | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Associate Software Development Engineer](https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/TX---Richardson/Associate-Software-Development-Engineer_R0745817-1) | CVS Health | Richardson, TX | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [AI Data Specialist - Texas - US](https://jobs.lever.co/rws/edfded6a-6a93-49cd-9b50-d0f74c3a41ac/apply) | RWS | Texas | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [AI Data Specialist](https://jobs.lever.co/rws/dd563b7b-74d5-4124-bb0b-89a8d44348ae/apply) | RWS | Illinois | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Sustaining Product Engineer](https://egay.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_4001/job/38504) | NOV | Tulsa, OK | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Young Investigator - Flexolmo](https://job-boards.greenhouse.io/thealleninstitute/jobs/7417128) | The Allen Institute for AI | Berkeley, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |

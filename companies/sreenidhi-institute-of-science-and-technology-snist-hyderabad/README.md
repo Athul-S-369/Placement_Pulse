@@ -1,6 +1,6 @@
 # 🏢 Sreenidhi Institute Of Science And Technology (SNIST), Hyderabad
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-13*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-14*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [CyberStrike 26- National Level Capture The Flag (CTF) Competition](https://unstop.com/competitions/cyberstrike-26-national-level-capture-the-flag-ctf-competition-sreenidhi-institute-of-science-and-technolog-1707627) | Sreenidhi Institute Of Science And Technology (SNIST), Hyderabad | India | 🏢 Onsite | — | 2026-07-13 | Unstop |
 
 ## 📖 Interview Preparation
 

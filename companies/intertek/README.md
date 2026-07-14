@@ -1,11 +1,11 @@
 # 🏢 Intertek
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-13*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-14*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Lake Forest, CA, York, PA
+- **Locations:** York, PA, Lake Forest, CA
 
 ## Current Opportunities
 

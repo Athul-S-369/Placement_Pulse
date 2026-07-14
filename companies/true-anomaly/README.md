@@ -1,11 +1,11 @@
 # 🏢 True Anomaly
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-13*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-14*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Long Beach, CA, Denver, CO, Denver, CO
+- **Categories:** Internship, Fresher Job
+- **Locations:** Denver, CO, Long Beach, CA, Denver, CO
 
 ## Current Opportunities
 
