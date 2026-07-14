@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Aurora, CO, Annapolis Junction, MD, Alexandria, VA, San Diego, CA, Annapolis Junction, MD, Chesapeake, VA, Reston, VA, Huntsville, AL
+- **Locations:** Reston, VA, Aurora, CO, Annapolis Junction, MD, Alexandria, VA, San Diego, CA, Huntsville, AL, Annapolis Junction, MD, Chesapeake, VA
 
 ## Current Opportunities
 

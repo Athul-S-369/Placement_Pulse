@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Southfield, MI, Washington, DC, Bloomington, MN, Bluemont, VA, Dublin, OH
+- **Categories:** Internship, Fresher Job
+- **Locations:** El Segundo, CA, Traverse City, MI, Augusta, ME, St. Louis, MO, Manassas, VA
 
 ## Current Opportunities
 

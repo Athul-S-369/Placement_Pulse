@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** NYC, Sunnyvale, CA, NYC, Culver City, CA, Santa Clara, CA, Boston, MA, Seattle, WA, Denver, CO, SF, Arlington, VA, Sunnyvale, CA, Brooklyn, NY, Williston Park, NY, Seattle, WA, Wakefield, MA, Westborough, MA, Fredericksburg, VA, Ashburn, VA, Manassas, VA, Reston, VA, Dulles, VA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Seattle, WA, Wakefield, MA, Westborough, MA, London, UK, Seattle, WA, SF, London, UK, Edinburgh, UK, Cambridge, UK, NYC
 
 ## Current Opportunities
 

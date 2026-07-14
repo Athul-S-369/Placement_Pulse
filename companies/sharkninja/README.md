@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Miami, FL, Needham, MA
+- **Locations:** Needham, MA, Miami, FL
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**129 active** | **45 expired** | **174 total**
+**136 active** | **45 expired** | **181 total**
 
 *Last updated: 2026-07-14*
 
@@ -11,6 +11,13 @@
 | [Startup Showdown 2026 – National Startup Pitching Competition](https://unstop.com/competitions/startup-showdown-2026-national-startup-pitching-competition-avantika-university-1717983) | Avantika University | India | 🏢 Onsite | — | 2026-07-22 | Unstop |
 | [THE COMCLAVE – Commodity Masterclass 2026](https://unstop.com/conferences/the-comclave-commodity-masterclass-2026-mcqube-1717524) | MCQube | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
 | [DEMUX 3.0](https://unstop.com/hackathons/demux-30-demux-30-bv-raju-institute-of-technology-narsapur-bvrit-n-1715858) | BV Raju Institute of Technology, Narsapur (BVRIT-N) | India | 🏢 Onsite | — | 2026-08-14 | Unstop |
+| [Free Live: Build a Resume That Opens Doors With AI](https://unstop.com/workshops-webinars/free-live-build-a-resume-that-opens-doors-with-ai-unite-wings-educational-confederation-1718255) | Unite Wings Educational Confederation | India | 🏢 Onsite | — | 2026-07-24 | Unstop |
+| [AI-POWERD](https://unstop.com/quiz/ai-powerd-ai-quiz-jntua-college-of-engineering-kalikiri-1717831) | JNTUA College Of Engineering Kalikiri | India | 🏢 Onsite | — | 2026-07-29 | Unstop |
+| [NERDS 1.0 - India's First AI Hackathon For Schools](https://unstop.com/hackathons/nerds-10-indias-first-ai-hackathon-for-schools-kokos-ai-pvt-ltd-1718104) | Kokos AI Pvt Ltd. | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
+| [AI Design Sprint: Fresher Party Planning Night](https://unstop.com/hackathons/ai-design-sprint-fresher-party-planning-night-madhav-institute-of-technology-and-science-1717086) | MADHAV INSTITUTE OF TECHNOLOGY AND SCIENCE | India | 🏢 Onsite | — | 2026-07-17 | Unstop |
+| [AI Fun Night: The Ultimate Freshers' Party Planning Challenge](https://unstop.com/competitions/ai-fun-night-the-ultimate-freshers-party-planning-challenge-indian-institute-of-management-iim-ranchi-1717827) | Indian Institute of Management (IIM), Ranchi | India | 🏢 Onsite | — | 2026-07-15 | Unstop |
+| [Breaking Code](https://unstop.com/workshops-webinars/breaking-code-breaking-code-ysquare-technology-1718190) | Ysquare Technology | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
+| [Segue 3.0 : Global Design Thinking Challenge (Online + Offline)](https://unstop.com/hackathons/segue-30-global-design-thinking-challenge-online-offline-schooloffutureskillscomsegue-3-0-noida-institute-of--1712134) | Noida Institute of Engineering And Technology (NIET), Greater Noida | India | 🏢 Onsite | — | 2026-09-26 | Unstop |
 | [HackMatriX 2026 - 24 Hour National Hackathon](https://unstop.com/hackathons/hackmatrix-2026-24-hour-national-hackathon-ieee-computer-society-mits-gwalior-1701757) | IEEE Computer Society MITS, Gwalior | India | 🏢 Onsite | — | 2026-07-27 | Unstop |
 | [Freshers Party 2026](https://unstop.com/competitions/freshers-party-2026-prof-ram-meghe-college-of-engineering-management-badnera-amravati-1716449) | Prof Ram Meghe College of Engineering & Management, Badnera - Amravati | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
 | [Cloud Computing Fundamentals with Salesforce](https://unstop.com/workshops-webinars/cloud-computing-fundamentals-with-salesforce-bodha-software-technologies-pvt-ltd-1717563) | Bodha Software Technologies Pvt Ltd | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
@@ -101,13 +108,6 @@
 | [International Conference on AI for Humanity: Leveraging indian knowledge systems to accelerate sustainable development goals](https://unstop.com/conferences/international-conference-on-ai-for-humanity-leveraging-indian-knowledge-systems-to-accelerate-sustainable-de-1699546) | Kalinga University, Raipur | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
 | [Summer of Projects'26](https://unstop.com/competitions/summer-of-projects26-bms-institute-of-technology-and-management-bmsitm-bangalore-1702115) | BMS Institute of Technology and Management (BMSITM), Bangalore | India | 🏢 Onsite | — | 2026-08-15 | Unstop |
 | [NeuraMorphix HackForge 2026](https://unstop.com/hackathons/neuramorphix-hackforge-2026-srm-institute-of-science-and-technology-kattankulathur-chennai-1708229) | SRM Institute of Science and Technology (SRMIST), Kattankulathur, Chennai | India | 🏢 Onsite | — | 2026-09-13 | Unstop |
-| [SquidHack 2026](https://unstop.com/hackathons/squidhack-sage-university-sageu-indore-madhya-pradesh-1703351) | SAGE University (SAGEU), Indore, Madhya Pradesh | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
-| [AVANZARE V19.0 – National Level Tech Fest](https://unstop.com/competitions/avanzare-v190-national-level-tech-fest-kongu-engineering-college-kec-erode-1695426) | Kongu Engineering College (KEC), Erode | India | 🏢 Onsite | — | 2026-07-15 | Unstop |
-| [HackOcean — A National Level Frontend Hackathon](https://unstop.com/hackathons/hackocean-a-national-level-frontend-hackathon-madhav-institute-of-technology-and-science-mits-gwalior-1707618) | Madhav Institute of Technology and Science (MITS), Gwalior | India | 🏢 Onsite | — | 2026-07-22 | Unstop |
-| [Careers Connect on August 18](https://unstop.com/workshops-webinars/crp-careers-connect-on-august-18-accenture-1696701) | Accenture | India | 🏢 Onsite | — | 2026-08-18 | Unstop |
-| [Shri Ram Centenary Olympiad](https://unstop.com/quiz/shri-ram-centenary-olympiad-srcc-du-1704691) | Shri Ram College of Commerce, University of Delhi | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
-| [Skillumni Scholarship Aptitude](https://unstop.com/quiz/skillumni-scholarship-aptitude-skillumni-1708448) | Skillumni | India | 🏢 Onsite | — | 2026-07-17 | Unstop |
-| [Frontend Wars 2026: Build the Future](https://unstop.com/hackathons/frontend-wars-2026-build-the-future-frontend-arena-1709357) | Frontend Arena | India | 🏢 Onsite | — | 2026-08-01 | Unstop |
 
 ## Recently Expired
 
