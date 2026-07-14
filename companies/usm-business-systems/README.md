@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** El Segundo, CA, Alexandria, VA, Westminster, CO, San Antonio, TX, California City, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Southfield, MI, Washington, DC, Bloomington, MN, Bluemont, VA, Dublin, OH
 
 ## Current Opportunities
 
