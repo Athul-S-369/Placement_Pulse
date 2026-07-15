@@ -1,13 +1,15 @@
 # 💼 Fresher Job
 
-**1177 active** | **0 expired** | **1177 total**
+**1179 active** | **0 expired** | **1179 total**
 
-*Last updated: 2026-07-14*
+*Last updated: 2026-07-15*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Data Analyst](https://job-boards.greenhouse.io/impiricus/jobs/5349829008) | Impiricus | Remote in USA, NYC, Atlanta, GA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Technical Product Associate - Lifecycle](https://job-boards.greenhouse.io/sleepdoctor/jobs/7805274003) | Sleep Doctor | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Analyst AI Opportunity & Value Creation](https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Remote-USA/Analyst--AI-Opportunity---Value-Creation_R250000006069) | R1 RCM | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Product Manager - Fordpay](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66700) | Ford Motor Company | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Product Engineer - Copilot & Power Platform](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/AI-Product-Engineer--Copilot---Power-Platform---Remote---US-_R30742-1) | Allstate Insurance Company | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -106,5 +108,3 @@
 | [Backend Engineer, New Grad](https://job-boards.greenhouse.io/applovin/jobs/4451556006) | AppLovin | Palo Alto, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Software Development Engineer I](https://www.alticeusacareers.com/job/Bethpage-Software-Development-Engineer-I-NY-11714/1327484300/) | Optimum | Bethpage, NY, Plano TX | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Early Career Software Engineer](https://jobs.ashbyhq.com/Citizen%20Health/ccd73294-568c-4348-a963-71c5362a5363) | Citizen Health | San Francisco | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Entry-Level Software Engineer](https://spacedynamicslaboratory.applytojob.com/apply/9YHX63vuSs/EntryLevel-Software-Engineer) | Space Dynamics Laboratory | North Logan, UT | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Graduate Software Engineer](https://spectris.wd3.myworkdayjobs.com/en-US/Malvern_Panalytical_Careers/job/Northampton-MA/Graduate-Software-Engineer_16693) | Malvern Panalytical | Northampton, MA, Malvern, GB | 🏢 Onsite | — | — | SimplifyJobs New Grad |

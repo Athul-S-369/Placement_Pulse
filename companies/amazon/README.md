@@ -1,11 +1,11 @@
 # 🏢 Amazon
 
-**13 active opportunities** | **13 total tracked** | *Last updated: 2026-07-14*
+**13 active opportunities** | **13 total tracked** | *Last updated: 2026-07-15*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Seattle, WA, Wakefield, MA, Westborough, MA, London, UK, Seattle, WA, SF, London, UK, Edinburgh, UK, Cambridge, UK, NYC
+- **Categories:** Fresher Job, Internship
+- **Locations:** NYC, Seattle, WA, SF, NYC, Culver City, CA, Santa Clara, CA, Boston, MA, Seattle, WA, Denver, CO, SF, Arlington, VA, Sunnyvale, CA, Brooklyn, NY, Williston Park, NY, Seattle, WA, London, UK
 
 ## Current Opportunities
 

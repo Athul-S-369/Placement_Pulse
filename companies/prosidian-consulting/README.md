@@ -1,11 +1,11 @@
 # 🏢 Prosidian Consulting
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-14*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-15*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Raleigh, NC, Arlington, VA
+- **Locations:** Arlington, VA, Raleigh, NC
 
 ## Current Opportunities
 

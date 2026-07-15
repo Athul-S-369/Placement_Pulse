@@ -1,6 +1,6 @@
 # 🏢 CMR College of Engineering and Technology (CMRCET), Hyderabad
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-14*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-15*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [CMR Thinkfest 3.0](https://unstop.com/hackathons/cmr-thinkfest-30-cmr-college-of-engineering-and-technology-cmrcet-hyderabad-1708928) | CMR College of Engineering and Technology (CMRCET), Hyderabad | India | 🏢 Onsite | — | 2026-07-14 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,11 +1,11 @@
 # 🏢 LinkedIn
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-14*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-15*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** SF, Chicago, IL, NYC, Mountain View, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Mountain View, CA, SF, Chicago, IL, NYC
 
 ## Current Opportunities
 
