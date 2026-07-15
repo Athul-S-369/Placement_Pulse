@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-15T10:23:29.124671Z",
+  "generated_at": "2026-07-15T17:50:49.568115Z",
   "date": "2026-07-15",
-  "total": 2101,
-  "active": 2053,
-  "new_today": 125,
-  "companies": 1477,
+  "total": 2109,
+  "active": 2061,
+  "new_today": 124,
+  "companies": 1484,
   "categories": {
-    "fresher-job": 1179,
+    "fresher-job": 1181,
     "internship": 731,
-    "hackathon": 185,
+    "hackathon": 191,
     "open-source-program": 2,
     "fellowship": 2,
     "student-ambassador": 2
@@ -28,7 +28,7 @@
     },
     {
       "name": "Amazon",
-      "count": 13
+      "count": 14
     },
     {
       "name": "Nokia",
@@ -96,7 +96,7 @@
     }
   ],
   "domain_tags": {
-    "ai-ml": 260,
+    "ai-ml": 261,
     "data-science": 163,
     "software-engineering": 390,
     "backend": 15,
@@ -105,11 +105,11 @@
     "frontend": 16,
     "mobile": 10,
     "design": 2,
-    "devops": 12,
-    "cloud": 19
+    "devops": 13,
+    "cloud": 20
   },
   "work_modes": {
-    "remote": 196,
-    "onsite": 1905
+    "remote": 197,
+    "onsite": 1912
   }
 }

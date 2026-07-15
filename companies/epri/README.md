@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Knoxville, TN, Palo Alto, CA, Washington, DC, Remote in USA
+- **Locations:** Palo Alto, CA, Washington, DC, Remote in USA, Knoxville, TN
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Cambridge, MA, North Haven, CT, Milwaukee, WI, Ambler, PA, Birmingham, AL
+- **Locations:** Milwaukee, WI, Ambler, PA, Boston, MA, Cherry Hills Village, CO, Westborough, MA
 
 ## Current Opportunities
 

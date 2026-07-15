@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Student Ambassador, Internship, Fresher Job
-- **Locations:** Cambridge, MA, Redmond, WA, Kitsap County, WA, Redmond, WA, Redmond, WA, Mountain View, CA, Vancouver, BC, Canada, Cambridge, MA, Kitsap County, WA, Redmond, WA
+- **Categories:** Internship, Student Ambassador, Fresher Job
+- **Locations:** Cambridge, MA, Kitsap County, WA, Redmond, WA, Berkeley, CA, Burlington, MA, Cambridge, MA, NYC, Redmond, WA, Redmond, WA, Mountain View, CA
 
 ## Current Opportunities
 

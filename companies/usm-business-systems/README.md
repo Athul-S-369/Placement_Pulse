@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Baltimore, MD, Chantilly, VA, Alexandria, VA, Westminster, CO, Jefferson City, MO
+- **Locations:** Southfield, MI, Baltimore, MD, Bluemont, VA, Dublin, OH, St. Louis, MO
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Sunnyvale, CA, Naperville, IL, Dallas, TX, Vancouver, BC, Canada, NYC, Sunnyvale, CA, Jackson Township, NJ
+- **Locations:** NYC, Sunnyvale, CA, Naperville, IL, United States, Allentown, PA, Canada
 
 ## Current Opportunities
 
