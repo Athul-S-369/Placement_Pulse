@@ -1,0 +1,22 @@
+# 🏢 ABES Institute of Technology
+
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-15*
+
+## Overview
+
+- **Categories:** Hackathon
+- **Locations:** India
+
+## Current Opportunities
+
+| Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
+|------|---------|----------|------|----------------|----------|--------|
+| [Freshers Party Planning Competition - GSA India](https://unstop.com/competitions/freshers-party-planning-competition-gsa-abes-institute-of-technology-1718334) | ABES Institute of Technology | India | 🏢 Onsite | — | 2026-07-18 | Unstop |
+
+## 📖 Interview Preparation
+
+| Resource | Link |
+|----------|------|
+| GeeksForGeeks – ABES Institute of Technology | [Search](https://www.geeksforgeeks.org/search/?q=ABES+Institute+of+Technology) |
+| LeetCode – ABES Institute of Technology | [Problems](https://leetcode.com/company/abes-institute-of-technology/) |
+| Glassdoor – ABES Institute of Technology | [Reviews](https://www.glassdoor.com/Reviews/ABES-Institute-of-Technology-Reviews-E.htm) |

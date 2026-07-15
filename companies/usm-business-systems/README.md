@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** NYC, Jefferson City, MO, Rochester, MI, Westminster, CO, Chantilly, VA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Baltimore, MD, Chantilly, VA, Alexandria, VA, Westminster, CO, Jefferson City, MO
 
 ## Current Opportunities
 

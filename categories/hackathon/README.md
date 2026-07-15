@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**134 active** | **47 expired** | **181 total**
+**138 active** | **47 expired** | **185 total**
 
 *Last updated: 2026-07-15*
 
@@ -8,6 +8,10 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Invitation for Articles: Ekagra 12.0](https://unstop.com/competitions/invitation-for-articles-ekagra-120-iim-amritsar-1718250) | Indian Institute of Management (IIM), Amritsar | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
+| [OptimizeIT](https://unstop.com/competitions/optimizeit-fugacity-2026-iit-kharagpur-1716678) | Indian Institute of Technology (IIT), Kharagpur | India | 🏢 Onsite | — | 2026-08-16 | Unstop |
+| [Case Study Analysis Competition - Drishitikon2k26](https://unstop.com/competitions/case-study-analysis-competition-drishitikon2k26-international-institute-of-management-studies-iims-pune-1718091) | International Institute of Management Studies (IIMS), Pune | India | 🏢 Onsite | — | 2026-07-29 | Unstop |
+| [Freshers Party Planning Competition - GSA India](https://unstop.com/competitions/freshers-party-planning-competition-gsa-abes-institute-of-technology-1718334) | ABES Institute of Technology | India | 🏢 Onsite | — | 2026-07-18 | Unstop |
 | [Startup Showdown 2026 – National Startup Pitching Competition](https://unstop.com/competitions/startup-showdown-2026-national-startup-pitching-competition-avantika-university-1717983) | Avantika University | India | 🏢 Onsite | — | 2026-07-22 | Unstop |
 | [THE COMCLAVE – Commodity Masterclass 2026](https://unstop.com/conferences/the-comclave-commodity-masterclass-2026-mcqube-1717524) | MCQube | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
 | [DEMUX 3.0](https://unstop.com/hackathons/demux-30-demux-30-bv-raju-institute-of-technology-narsapur-bvrit-n-1715858) | BV Raju Institute of Technology, Narsapur (BVRIT-N) | India | 🏢 Onsite | — | 2026-08-14 | Unstop |
@@ -104,10 +108,6 @@
 | [Bodhisotto 1.0 U26 General Quiz](https://unstop.com/quiz/bodhisotto-10-u26-general-quiz-university-of-calcutta-1710346) | University of Calcutta | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
 | [GenAI VS Agentic AI with Bleep in collabroation with Ecell IIT Hyderabad](https://unstop.com/workshops-webinars/genai-vs-agentic-ai-with-bleep-in-collabroation-with-ecell-iit-hyderabad-bleep-education-1710340) | Bleep Education | India | 🏢 Onsite | — | 2026-07-17 | Unstop |
 | [International Conference on AI for Humanity: Leveraging indian knowledge systems to accelerate sustainable development goals](https://unstop.com/conferences/international-conference-on-ai-for-humanity-leveraging-indian-knowledge-systems-to-accelerate-sustainable-de-1699546) | Kalinga University, Raipur | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
-| [Summer of Projects'26](https://unstop.com/competitions/summer-of-projects26-bms-institute-of-technology-and-management-bmsitm-bangalore-1702115) | BMS Institute of Technology and Management (BMSITM), Bangalore | India | 🏢 Onsite | — | 2026-08-15 | Unstop |
-| [NeuraMorphix HackForge 2026](https://unstop.com/hackathons/neuramorphix-hackforge-2026-srm-institute-of-science-and-technology-kattankulathur-chennai-1708229) | SRM Institute of Science and Technology (SRMIST), Kattankulathur, Chennai | India | 🏢 Onsite | — | 2026-09-13 | Unstop |
-| [SquidHack 2026](https://unstop.com/hackathons/squidhack-sage-university-sageu-indore-madhya-pradesh-1703351) | SAGE University (SAGEU), Indore, Madhya Pradesh | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
-| [AVANZARE V19.0 – National Level Tech Fest](https://unstop.com/competitions/avanzare-v190-national-level-tech-fest-kongu-engineering-college-kec-erode-1695426) | Kongu Engineering College (KEC), Erode | India | 🏢 Onsite | — | 2026-07-15 | Unstop |
 
 ## Recently Expired
 
