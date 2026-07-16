@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Ottawa, ON, Canada, Long Island City, Queens, NY, Jackson Township, NJ, Naperville, IL, Dallas, TX, Canada
+- **Categories:** Internship, Fresher Job
+- **Locations:** Naperville, IL, Dallas, TX, California, Long Island City, Queens, NY, United States, Canada
 
 ## Current Opportunities
 

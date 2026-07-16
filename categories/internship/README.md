@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**735 active** | **0 expired** | **735 total**
+**736 active** | **0 expired** | **736 total**
 
 *Last updated: 2026-07-16*
 
@@ -12,6 +12,7 @@
 | [Monitoring & Evaluation for Accountability and Learning](https://compassion.wd5.myworkdayjobs.com/CompassionCareersPrivateLink/job/Remote---USA/Monitoring---Evaluation-for-Accountability-and-Learning--MEAL--Fellow_R8260-1) | Compassion International | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Agentic AI Intern](https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Agentic-AI-Intern_R-102729) | DataRobot | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [AI Research Resident - Open Source AGI](https://jobs.ashbyhq.com/PrimeIntellect/afa6079a-5a35-4f90-ba88-780e4d36112f/application?embed=true) | Prime Intellect | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Hardware Engineer 2](https://careers.cisco.com/global/en/job/2000128) | Cisco | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Software Engineer Intern](https://jobs.lever.co/nextgenfed/54d1576e-c3d9-454a-b1a2-dac0b2fe5920/apply) | NextGen Federal Systems | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Student Online Data Analytics Eco Rep](https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/Remote/Student---Online-Data-Analytics-Eco-Rep_R0014463) | Southern New Hampshire University | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Student Reporting - Ams](https://avaap.wd501.myworkdayjobs.com/AvaapCareers/job/United-States-of-America/Student-Reporting---AMS_JR1132) | Avaap | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [AI Automation Intern](https://apply.workable.com/advantmed/j/45F5E3C394/) | Advantmed | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Quantitative Research Analyst Intern](https://job-boards.greenhouse.io/ftandinternships/jobs/1304473) | Stevens Capital Management | Villanova, PA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Full Stack Developer Intern](https://jobs.ashbyhq.com/walrusfi/99c93c0e-ed9a-4e41-862a-0cdbe71d7d54) | Walrus | New York, NY | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Software Engineer Intern](https://jobs.ashbyhq.com/tenex/fbfefd5c-ae95-4a71-8a75-e2b61facb304) | TENEX.AI | San Jose, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

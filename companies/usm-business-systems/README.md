@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Traverse City, MI, Columbus, OH, NYC, Chantilly, VA, Chicago, IL
+- **Categories:** Internship, Fresher Job
+- **Locations:** St. Louis, MO, Rochester, MI, Bluemont, VA, Columbus, OH, Dublin, OH
 
 ## Current Opportunities
 

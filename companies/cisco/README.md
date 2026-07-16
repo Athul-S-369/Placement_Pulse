@@ -1,16 +1,17 @@
 # 🏢 Cisco
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-16*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-07-16*
 
 ## Overview
 
-- **Categories:** Fresher Job
-- **Locations:** Holmdel, NJ, Austin, TX, San Jose, CA, Alpharetta, GA, Atlanta, GA, Boston, MA, Dallas, TX, Fulton, MD, Hillsboro, OR, Knoxville, TN, Maynard, MA, Milpitas, CA, New York, NY, Research Triangle Park, NC
+- **Categories:** Internship, Fresher Job
+- **Locations:** Austin, TX, San Jose, CA, Alpharetta, GA, Atlanta, GA, Boston, MA, Dallas, TX, Fulton, MD, Hillsboro, OR, Knoxville, TN, Maynard, MA, Milpitas, CA, New York, NY, Research Triangle Park, NC, Holmdel, NJ, Remote / Various
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Hardware Engineer 2](https://careers.cisco.com/global/en/job/2000128) | Cisco | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Software Engineer Data/AI/Intelligent Systems I (Full Time)](https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-%E2%80%93-United-States) | Cisco | Austin, TX, San Jose, CA, Alpharetta, GA, Atlanta, GA, Boston, MA, Dallas, TX, Fulton, MD, Hillsboro, OR, Knoxville, TN, Maynard, MA, Milpitas, CA, New York, NY, Research Triangle Park, NC | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Design Verification Engineer - Acacia Networks](https://careers.cisco.com/global/en/job/2014236) | Cisco | Holmdel, NJ | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 

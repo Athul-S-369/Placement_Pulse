@@ -4,7 +4,7 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
+- **Categories:** Internship, Fresher Job
 - **Locations:** Dallas, TX, Plano, TX, Plano, TX
 
 ## Current Opportunities
