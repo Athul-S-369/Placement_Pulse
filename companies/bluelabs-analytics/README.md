@@ -1,11 +1,11 @@
 # 🏢 BlueLabs Analytics
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-15*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-16*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Washington, DC, Remote in USA, Washington, DC
+- **Locations:** Washington, DC, Washington, DC, Remote in USA
 
 ## Current Opportunities
 

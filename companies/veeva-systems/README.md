@@ -1,11 +1,11 @@
 # 🏢 Veeva Systems
 
-**5 active opportunities** | **5 total tracked** | *Last updated: 2026-07-15*
+**5 active opportunities** | **5 total tracked** | *Last updated: 2026-07-16*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Toronto, ON, Canada, Raleigh, NC, Pleasanton, CA, Kansas City, MO, London, UK
+- **Categories:** Fresher Job, Internship
+- **Locations:** Raleigh, NC, London, UK, Toronto, ON, Canada, Pleasanton, CA, Kansas City, MO
 
 ## Current Opportunities
 

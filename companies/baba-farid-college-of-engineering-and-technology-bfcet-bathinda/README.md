@@ -1,6 +1,6 @@
 # 🏢 Baba Farid College of Engineering and Technology (BFCET), Bathinda
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-15*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-16*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [NetSprint 2026 – A 2-Day Networking Demo Session](https://unstop.com/workshops-webinars/netsprint-2026-a-2-day-networking-demo-session-baba-farid-college-of-engineering-and-technology-bfcet-1710097) | Baba Farid College of Engineering and Technology (BFCET), Bathinda | India | 🏢 Onsite | — | 2026-07-15 | Unstop |
 
 ## 📖 Interview Preparation
 

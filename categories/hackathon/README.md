@@ -1,8 +1,8 @@
 # 🏆 Hackathon
 
-**144 active** | **47 expired** | **191 total**
+**139 active** | **52 expired** | **191 total**
 
-*Last updated: 2026-07-15*
+*Last updated: 2026-07-16*
 
 ## Active Opportunities
 
@@ -25,7 +25,6 @@
 | [AI-POWERD](https://unstop.com/quiz/ai-powerd-ai-quiz-jntua-college-of-engineering-kalikiri-1717831) | JNTUA College Of Engineering Kalikiri | India | 🏢 Onsite | — | 2026-07-29 | Unstop |
 | [NERDS 1.0 - India's First AI Hackathon For Schools](https://unstop.com/hackathons/nerds-10-indias-first-ai-hackathon-for-schools-kokos-ai-pvt-ltd-1718104) | Kokos AI Pvt Ltd. | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
 | [AI Design Sprint: Fresher Party Planning Night](https://unstop.com/hackathons/ai-design-sprint-fresher-party-planning-night-madhav-institute-of-technology-and-science-1717086) | MADHAV INSTITUTE OF TECHNOLOGY AND SCIENCE | India | 🏢 Onsite | — | 2026-07-17 | Unstop |
-| [AI Fun Night: The Ultimate Freshers' Party Planning Challenge](https://unstop.com/competitions/ai-fun-night-the-ultimate-freshers-party-planning-challenge-indian-institute-of-management-iim-ranchi-1717827) | Indian Institute of Management (IIM), Ranchi | India | 🏢 Onsite | — | 2026-07-15 | Unstop |
 | [Breaking Code](https://unstop.com/workshops-webinars/breaking-code-breaking-code-ysquare-technology-1718190) | Ysquare Technology | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
 | [Segue 3.0 : Global Design Thinking Challenge (Online + Offline)](https://unstop.com/hackathons/segue-30-global-design-thinking-challenge-online-offline-schooloffutureskillscomsegue-3-0-noida-institute-of--1712134) | Noida Institute of Engineering And Technology (NIET), Greater Noida | India | 🏢 Onsite | — | 2026-09-26 | Unstop |
 | [HackMatriX 2026 - 24 Hour National Hackathon](https://unstop.com/hackathons/hackmatrix-2026-24-hour-national-hackathon-ieee-computer-society-mits-gwalior-1701757) | IEEE Computer Society MITS, Gwalior | India | 🏢 Onsite | — | 2026-07-27 | Unstop |
@@ -107,12 +106,18 @@
 | [Pro](https://unstop.com/quiz/pro-shri-mathura-high-school-sitamarhi-bihar-1710965) | Shri Mathura High School, Sitamarhi, Bihar | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
 | [Aptitude & Reasoning Challenge](https://unstop.com/quiz/aptitude-reasoning-challenge-gayatri-vidya-parishad-college-of-engineering-gvpce-visakhapatnam-1711049) | Gayatri Vidya Parishad College of Engineering (GVPCE), Visakhapatnam | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
 | [ICONSTARS 2026 – InterConnect 2026-Conference](https://unstop.com/conferences/iconstars-2026-interconnect-2026-conference-global-research-hub-1710724) | Global Research Hub | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
-| [Programming Quiz 2](https://unstop.com/quiz/programming-quiz-2-the-technological-institute-of-textile-and-sciences-bhiwani-1710988) | The Technological Institute of Textile and Sciences, Bhiwani | India | 🏢 Onsite | — | 2026-07-15 | Unstop |
+| [Study Abroad Expo – September 2026 Intake](https://unstop.com/conferences/study-abroad-expo-september-2026-intake-ahz-associates-limited-1710733) | AHZ Associates Limited | India | 🏢 Onsite | — | 2026-08-03 | Unstop |
+| [Hacklabify V1.0](https://unstop.com/hackathons/hacklabify-v10-hacklabify-1699949) | Hacklabify | India | 🏢 Onsite | — | 2026-09-02 | Unstop |
 
 ## Recently Expired
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [AI for Bharat Hackathon 2026 – Build AI Solutions for India's Real Problems](https://unstop.com/hackathons/ai-for-bharat-hackathon-2026-build-ai-solutions-for-indias-real-problems-indraprastha-institute-of-informatio-1709437) | Indraprastha Institute of Information Technology Delhi | India | 🏢 Onsite | — | 2026-07-15 | Unstop |
+| [NetSprint 2026 – A 2-Day Networking Demo Session](https://unstop.com/workshops-webinars/netsprint-2026-a-2-day-networking-demo-session-baba-farid-college-of-engineering-and-technology-bfcet-1710097) | Baba Farid College of Engineering and Technology (BFCET), Bathinda | India | 🏢 Onsite | — | 2026-07-15 | Unstop |
+| [AVANZARE V19.0 – National Level Tech Fest](https://unstop.com/competitions/avanzare-v190-national-level-tech-fest-kongu-engineering-college-kec-erode-1695426) | Kongu Engineering College (KEC), Erode | India | 🏢 Onsite | — | 2026-07-15 | Unstop |
+| [Programming Quiz 2](https://unstop.com/quiz/programming-quiz-2-the-technological-institute-of-textile-and-sciences-bhiwani-1710988) | The Technological Institute of Textile and Sciences, Bhiwani | India | 🏢 Onsite | — | 2026-07-15 | Unstop |
+| [AI Fun Night: The Ultimate Freshers' Party Planning Challenge](https://unstop.com/competitions/ai-fun-night-the-ultimate-freshers-party-planning-challenge-indian-institute-of-management-iim-ranchi-1717827) | Indian Institute of Management (IIM), Ranchi | India | 🏢 Onsite | — | 2026-07-15 | Unstop |
 | [CMR Thinkfest 3.0](https://unstop.com/hackathons/cmr-thinkfest-30-cmr-college-of-engineering-and-technology-cmrcet-hyderabad-1708928) | CMR College of Engineering and Technology (CMRCET), Hyderabad | India | 🏢 Onsite | — | 2026-07-14 | Unstop |
 | [Free AI Testing Workshop](https://unstop.com/workshops-webinars/free-ai-testing-workshop-quality-thought-info-systems-1712302) | Quality Thought Info Systems | India | 🏢 Onsite | — | 2026-07-14 | Unstop |
 | [CyberStrike 26- National Level Capture The Flag (CTF) Competition](https://unstop.com/competitions/cyberstrike-26-national-level-capture-the-flag-ctf-competition-sreenidhi-institute-of-science-and-technolog-1707627) | Sreenidhi Institute Of Science And Technology (SNIST), Hyderabad | India | 🏢 Onsite | — | 2026-07-13 | Unstop |
@@ -128,8 +133,3 @@
 | [Career Options After B.com](https://unstop.com/workshops-webinars/career-options-after-bcom-cfereadycom-1708857) | Cfeready.com | India | 🏢 Onsite | — | 2026-07-10 | Unstop |
 | [IEEE Returning Mothers Conference 2026 – Ideathon & Pitchfest](https://unstop.com/conferences/ieee-returning-mothers-conference-2026-ideathon-pitchfest-anna-university-au-chennai-1709710) | Anna University (AU), Chennai | India | 🏢 Onsite | — | 2026-07-10 | Unstop |
 | [Cash Me If You Can](https://unstop.com/quiz/cash-me-if-you-can-the-university-of-texas-at-dallas-tutad-1710207) | The University of Texas at Dallas (TUTAD) | India | 🏢 Onsite | — | 2026-07-10 | Unstop |
-| [Build Your First AI Agent](https://unstop.com/workshops-webinars/build-your-first-ai-agent-gradient-technology-services-gradientts-1709143) | Gradient Technology Services (Gradientts) | India | 🏢 Onsite | — | 2026-07-10 | Unstop |
-| [National Chess Quiz Challenge 2026](https://unstop.com/quiz/aiu-national-chess-quiz-challenge-2026-asian-international-university-aiu-manipur-1710962) | Asian International University (AIU), Manipur | India | 🏢 Onsite | — | 2026-07-10 | Unstop |
-| [How is AI disrupting Engineering Roles and where do students go for advice?](https://unstop.com/workshops-webinars/how-is-ai-disrupting-engineering-roles-and-where-do-students-go-for-advice-scripthonix-solutions-1704925) | Scripthonix Solutions | India | 🏢 Onsite | — | 2026-07-09 | Unstop |
-| [ProdXPulse 2026: AI Product Festival - Workshop](https://unstop.com/competitions/prodxpulse-2026-ai-product-festival-workshop-cmr-university-cmru-bangalore-karnataka-1709887) | CMR University (CMRU), Bangalore, Karnataka | India | 🏢 Onsite | — | 2026-07-09 | Unstop |
-| [AI for Beginners: Understanding Artificial Intelligence, Machine Learning, Generative AI & AI Agents](https://unstop.com/workshops-webinars/ai-for-beginners-understanding-artificial-intelligence-machine-learning-generative-ai-ai-agents-sa-en-1704656) | S.A. Engineering College (SAEC), Chennai | India | 🏢 Onsite | — | 2026-07-08 | Unstop |

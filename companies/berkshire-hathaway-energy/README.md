@@ -1,11 +1,11 @@
 # 🏢 Berkshire Hathaway Energy
 
-**6 active opportunities** | **6 total tracked** | *Last updated: 2026-07-15*
+**6 active opportunities** | **6 total tracked** | *Last updated: 2026-07-16*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Salt Lake City, UT, Las Vegas, NV, Des Moines, IA, Richmond, VA, Reno, NV, Portland, OR, Las Vegas, NV, Des Moines, IA, Sioux City, IA, Portland, OR, Des Moines, IA, Richmond, VA, Reno, NV, Sioux City, IA, Davenport, IA, Davenport, IA, Reno, NV
+- **Categories:** Fresher Job, Internship
+- **Locations:** Las Vegas, NV, Des Moines, IA, Sioux City, IA, Portland, OR, Salt Lake City, UT, Las Vegas, NV, Des Moines, IA, Richmond, VA, Reno, NV, Portland, OR, Reno, NV, Des Moines, IA, Richmond, VA, Reno, NV, Sioux City, IA, Davenport, IA, Davenport, IA
 
 ## Current Opportunities
 

@@ -1,16 +1,17 @@
 # 🏢 Amazon
 
-**14 active opportunities** | **14 total tracked** | *Last updated: 2026-07-15*
+**15 active opportunities** | **15 total tracked** | *Last updated: 2026-07-16*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job, Hackathon
-- **Locations:** India, Fredericksburg, VA, Ashburn, VA, Manassas, VA, Reston, VA, Dulles, VA, Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington, VA, NYC, Bellevue, WA, San Diego, CA, Winnipeg, MB, Canada, Toronto, ON, Canada, Victoria, BC, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, London, UK, Edinburgh, UK, Cambridge, UK
+- **Categories:** Fresher Job, Internship, Hackathon
+- **Locations:** Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington, VA, NYC, Bellevue, WA, San Diego, CA, Seattle, WA, Bellevue, WA, Seattle, WA, Wakefield, MA, Westborough, MA, London, UK
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Digital Associate - Multiple Teams](https://amazon.jobs/en/jobs/10475775/digital-associate-ring-data-engineering-services-operations-it-support-engineering) | Amazon | Tennessee, Chennai, Tamil Nadu, India, Indiana | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Amazon Customer Excellence (ACE) Challenge 2026: Launch Event](https://unstop.com/workshops-webinars/crp-amazon-customer-excellence-ace-challenge-2026-launch-event-amazon-1709457) | Amazon | India | 🏢 Onsite | — | 2026-07-21 | Unstop |
 | [Amazon Robotics – Applied Scientist 2 Intern / Co-op - 2026](https://amazon.jobs/en/jobs/3104589/amazon-robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) | Amazon | Seattle, WA, Wakefield, MA, Westborough, MA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Software Development Engineer Internship - Summer 2026 - US](https://amazon.jobs/en/jobs/3116030/software-development-engineer-internship-summer-2026-us) | Amazon | Seattle, WA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

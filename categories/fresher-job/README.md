@@ -1,13 +1,19 @@
 # 💼 Fresher Job
 
-**1181 active** | **0 expired** | **1181 total**
+**1187 active** | **0 expired** | **1187 total**
 
-*Last updated: 2026-07-15*
+*Last updated: 2026-07-16*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer](https://jobs.lever.co/voltus/f13d367c-97c1-4af3-8e8b-06827017fee2/apply) | Voltus | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Digital Associate - Multiple Teams](https://amazon.jobs/en/jobs/10475775/digital-associate-ring-data-engineering-services-operations-it-support-engineering) | Amazon | Tennessee, Chennai, Tamil Nadu, India, Indiana | 🏢 Onsite | — | — | SimplifyJobs New Grad |
+| [Associate ServiceNow Technical Consultant](https://job-boards.greenhouse.io/tenon/jobs/8067766) | Tenon | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
+| [Integration Specialist](https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Integration-Specialist_JR101961) | NorthAB | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Associate Data Engineer](https://jobs.ashbyhq.com/Vytalize%20Health/3576b087-709e-4bf0-a016-6cc1c24b802c/application?embed=true) | Vytalize Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Associate Machine Learning AI Engineer](https://ensono.com/company/careers/jobs-board/?gh_jid=4711789005) | Ensono | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Analyst](https://job-boards.greenhouse.io/impiricus/jobs/5349829008) | Impiricus | Remote in USA, NYC, Atlanta, GA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Technical Product Associate - Lifecycle](https://job-boards.greenhouse.io/sleepdoctor/jobs/7805274003) | Sleep Doctor | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Applications Development Associate](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Applications-Devt-Associate_R26005648) | United Parcel Service (UPS) | Indiana | 🏢 Onsite | — | — | SimplifyJobs New Grad |
@@ -102,9 +108,3 @@
 | [Quantitative Developer](https://www.verition.com/open-positions?gh_jid=4011276007) | Verition Fund Management | London, UK, Waterbury, CT, Dubai - United Arab Emirates, NYC | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Data Collection Operator 1](https://job-boards.greenhouse.io/altentechnologyusa/jobs/4981897007) | ALTEN Technology | SF | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Junior Software Engineer](https://mthree.com/careers/job/?gh_jid=4374344006) | mthree | United States | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Data Scientist Graduate Programme - Insurance Consulting](https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202508011) | WTW | London, UK, Dorking, UK | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Software Development](https://zoom.wd5.myworkdayjobs.com/Zoom/job/Remote--WA/Software-Development_R17786-1) | Zoom | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Junior RT Software Engineer 5G Stack](https://jobs.lever.co/parallelwireless/0608a395-7c6d-4e01-acfe-ade970b991dd/) | Parallel Wireless | Nashua, NH | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [SWE – Early Career - User Land Security Researcher - Sear](https://jobs.apple.com/en-us/details/200622968) | Apple | Gloucester, UK | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Software Engineer Data/AI/Intelligent Systems I (Full Time)](https://careers.cisco.com/global/en/job/2000073/Software-Engineer-Data-AI-Intelligent-Systems-I-Full-Time-%E2%80%93-United-States) | Cisco | Austin, TX, San Jose, CA, Alpharetta, GA, Atlanta, GA, Boston, MA, Dallas, TX, Fulton, MD, Hillsboro, OR, Knoxville, TN, Maynard, MA, Milpitas, CA, New York, NY, Research Triangle Park, NC | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Backend Engineer, New Grad](https://job-boards.greenhouse.io/applovin/jobs/4451556006) | AppLovin | Palo Alto, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |

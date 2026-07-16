@@ -1,11 +1,11 @@
 # 🏢 TMX Group
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-07-15*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-07-16*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** London, UK, Remote in USA, Montreal, QC, Canada, Toronto, ON, Canada
+- **Locations:** Montreal, QC, Canada, Toronto, ON, Canada, London, UK, Remote in USA
 
 ## Current Opportunities
 

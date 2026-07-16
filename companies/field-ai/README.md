@@ -1,11 +1,11 @@
 # 🏢 Field AI
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-15*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-16*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Cardiff, UK, Irvine, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Irvine, CA, Cardiff, UK
 
 ## Current Opportunities
 

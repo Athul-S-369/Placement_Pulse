@@ -1,6 +1,6 @@
 # 🏢 The Technological Institute of Textile and Sciences, Bhiwani
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-15*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-16*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Programming Quiz 2](https://unstop.com/quiz/programming-quiz-2-the-technological-institute-of-textile-and-sciences-bhiwani-1710988) | The Technological Institute of Textile and Sciences, Bhiwani | India | 🏢 Onsite | — | 2026-07-15 | Unstop |
 
 ## 📖 Interview Preparation
 

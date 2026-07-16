@@ -1,6 +1,6 @@
 # 🏢 Kongu Engineering College (KEC), Erode
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-15*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-16*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AVANZARE V19.0 – National Level Tech Fest](https://unstop.com/competitions/avanzare-v190-national-level-tech-fest-kongu-engineering-college-kec-erode-1695426) | Kongu Engineering College (KEC), Erode | India | 🏢 Onsite | — | 2026-07-15 | Unstop |
 
 ## 📖 Interview Preparation
 

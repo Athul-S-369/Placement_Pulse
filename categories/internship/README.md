@@ -1,13 +1,16 @@
 # 🎓 Internship
 
-**731 active** | **0 expired** | **731 total**
+**734 active** | **0 expired** | **734 total**
 
-*Last updated: 2026-07-15*
+*Last updated: 2026-07-16*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Full-Stack AI Developer Intern](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044912) | Revvity | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Monitoring & Evaluation for Accountability and Learning](https://compassion.wd5.myworkdayjobs.com/CompassionCareersPrivateLink/job/Remote---USA/Monitoring---Evaluation-for-Accountability-and-Learning--MEAL--Fellow_R8260-1) | Compassion International | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Agentic AI Intern](https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Agentic-AI-Intern_R-102729) | DataRobot | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern](https://jobs.lever.co/nextgenfed/54d1576e-c3d9-454a-b1a2-dac0b2fe5920/apply) | NextGen Federal Systems | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Student Online Data Analytics Eco Rep](https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/Remote/Student---Online-Data-Analytics-Eco-Rep_R0014463) | Southern New Hampshire University | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Student Reporting - Ams](https://avaap.wd501.myworkdayjobs.com/AvaapCareers/job/United-States-of-America/Student-Reporting---AMS_JR1132) | Avaap | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -105,6 +108,3 @@
 | [Full Stack Developer Intern](https://jobs.ashbyhq.com/walrusfi/99c93c0e-ed9a-4e41-862a-0cdbe71d7d54) | Walrus | New York, NY | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/tenex/fbfefd5c-ae95-4a71-8a75-e2b61facb304) | TENEX.AI | San Jose, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Software Intern, Summer 2026](https://jobs.baesystems.com/global/en/job/BAE1US118688BREXTERNAL/Software-Intern-Summer-2026) | BAE Systems | Totowa, NJ | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Engineering High-Potential Launch Program Intern to Full-Time Program](https://job-boards.greenhouse.io/newsbreak/jobs/4621307006) | NewsBreak | Mountain View, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [2026 Summer Intern - Software Engineer, Machine Learning Validation (PhD)](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2026-Summer-Intern---Software-Engineer--Machine-Learning-Validation--PhD-_JR-202523181) | General Motors | Mountain View, CA, Sunnyvale, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Software Engineer, Intern](https://jobs.ashbyhq.com/dandy/d8491a88-fa90-4299-afb0-af3a2121663f) | Dandy | New York, NY | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

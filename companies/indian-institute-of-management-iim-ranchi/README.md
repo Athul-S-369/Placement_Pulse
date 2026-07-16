@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Management (IIM), Ranchi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-15*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-16*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AI Fun Night: The Ultimate Freshers' Party Planning Challenge](https://unstop.com/competitions/ai-fun-night-the-ultimate-freshers-party-planning-challenge-indian-institute-of-management-iim-ranchi-1717827) | Indian Institute of Management (IIM), Ranchi | India | 🏢 Onsite | — | 2026-07-15 | Unstop |
 
 ## 📖 Interview Preparation
 
