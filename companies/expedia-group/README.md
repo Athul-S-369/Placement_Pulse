@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Seattle, WA, Austin, TX, San Jose, CA, Montreal, QC, Canada, London, UK
+- **Locations:** Seattle, WA, Austin, TX, San Jose, CA, London, UK, Montreal, QC, Canada
 
 ## Current Opportunities
 

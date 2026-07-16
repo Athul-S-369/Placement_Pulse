@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**139 active** | **52 expired** | **191 total**
+**143 active** | **52 expired** | **195 total**
 
 *Last updated: 2026-07-16*
 
@@ -8,6 +8,10 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [SynTech 2026- Data Science contest](https://unstop.com/competitions/syntech-2026-data-science-contest-manipal-institute-of-technology-manipal-1718519) | Manipal Institute of Technology (MIT), Manipal | India | 🏢 Onsite | — | 2026-08-15 | Unstop |
+| [Code O'Clock 2K26](https://unstop.com/hackathons/code-oclock-2k26-coimbatore-institute-of-technology-cit-coimbatore-1719235) | Coimbatore Institute of Technology (CIT), Coimbatore | India | 🏢 Onsite | — | 2026-08-18 | Unstop |
+| [Build With Bharat 2.0](https://unstop.com/hackathons/build-with-bharat-40-national-institute-of-technology-nit-delhi-1719203) | National Institute of Technology (NIT), Delhi | India | 🏢 Onsite | — | 2026-09-13 | Unstop |
+| [Evil Corp CTF 6 Hour Intense Hacking](https://unstop.com/hackathons/evil-corp-ctf-6-hour-intense-hacking-nexploit-1719174) | Nexploit | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
 | [Invitation for Articles: Ekagra 12.0](https://unstop.com/competitions/invitation-for-articles-ekagra-120-iim-amritsar-1718250) | Indian Institute of Management (IIM), Amritsar | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
 | [OptimizeIT](https://unstop.com/competitions/optimizeit-fugacity-2026-iit-kharagpur-1716678) | Indian Institute of Technology (IIT), Kharagpur | India | 🏢 Onsite | — | 2026-08-16 | Unstop |
 | [Case Study Analysis Competition - Drishitikon2k26](https://unstop.com/competitions/case-study-analysis-competition-drishitikon2k26-international-institute-of-management-studies-iims-pune-1718091) | International Institute of Management Studies (IIMS), Pune | India | 🏢 Onsite | — | 2026-07-29 | Unstop |
@@ -104,10 +108,6 @@
 | [Hack Synthesis 3.0 - 2026](https://unstop.com/hackathons/hack-synthesis-30-2026-university-of-engineering-and-management-kolkata-1710631) | University of Engineering and Management Kolkata | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 | [ThunderCipher Case Files #001: The Crypto Heist](https://unstop.com/hackathons/thundercipher-case-files-001-the-crypto-heist-thundercipher-1710309) | ThunderCipher | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
 | [Pro](https://unstop.com/quiz/pro-shri-mathura-high-school-sitamarhi-bihar-1710965) | Shri Mathura High School, Sitamarhi, Bihar | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
-| [Aptitude & Reasoning Challenge](https://unstop.com/quiz/aptitude-reasoning-challenge-gayatri-vidya-parishad-college-of-engineering-gvpce-visakhapatnam-1711049) | Gayatri Vidya Parishad College of Engineering (GVPCE), Visakhapatnam | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
-| [ICONSTARS 2026 – InterConnect 2026-Conference](https://unstop.com/conferences/iconstars-2026-interconnect-2026-conference-global-research-hub-1710724) | Global Research Hub | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
-| [Study Abroad Expo – September 2026 Intake](https://unstop.com/conferences/study-abroad-expo-september-2026-intake-ahz-associates-limited-1710733) | AHZ Associates Limited | India | 🏢 Onsite | — | 2026-08-03 | Unstop |
-| [Hacklabify V1.0](https://unstop.com/hackathons/hacklabify-v10-hacklabify-1699949) | Hacklabify | India | 🏢 Onsite | — | 2026-09-02 | Unstop |
 
 ## Recently Expired
 

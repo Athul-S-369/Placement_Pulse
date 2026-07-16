@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Westborough, MA, Elmira, NY, North Haven, CT, Milwaukee, WI, Santa Clara, CA
+- **Locations:** Birmingham, AL, Westborough, MA, Cherry Hills Village, CO, Ambler, PA, Santa Clara, CA
 
 ## Current Opportunities
 
