@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**144 active** | **57 expired** | **201 total**
+**146 active** | **57 expired** | **203 total**
 
 *Last updated: 2026-07-17*
 
@@ -8,6 +8,8 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Google Gemini AI Product Trial – Freshers Party Planning Challenge](https://unstop.com/hackathons/google-gemini-ai-product-trial-freshers-party-planning-challenge-keshav-memorial-institute-of-technology-1719562) | Keshav Memorial Institute of Technology | India | 🏢 Onsite | — | 2026-07-18 | Unstop |
+| [Smackathon 2k26](https://unstop.com/hackathons/smackathon-2k26-yeshwantrao-chavan-college-of-engineering-ycce-nagpur-1718448) | Yeshwantrao Chavan College of Engineering (YCCE), Nagpur | India | 🏢 Onsite | — | 2026-10-06 | Unstop |
 | [SynTech 2026- Data Science contest](https://unstop.com/competitions/syntech-2026-data-science-contest-manipal-institute-of-technology-manipal-1718519) | Manipal Institute of Technology (MIT), Manipal | India | 🏢 Onsite | — | 2026-08-15 | Unstop |
 | [Code O'Clock 2K26](https://unstop.com/hackathons/code-oclock-2k26-coimbatore-institute-of-technology-cit-coimbatore-1719235) | Coimbatore Institute of Technology (CIT), Coimbatore | India | 🏢 Onsite | — | 2026-08-18 | Unstop |
 | [Build With Bharat 2.0](https://unstop.com/hackathons/build-with-bharat-40-national-institute-of-technology-nit-delhi-1719203) | National Institute of Technology (NIT), Delhi | India | 🏢 Onsite | — | 2026-09-13 | Unstop |
@@ -106,8 +108,6 @@
 | [Tech Trivia](https://unstop.com/quiz/tech-trivia-pranveer-singh-institute-of-technology-psit-kanpur-1711927) | Pranveer Singh Institute of Technology (PSIT), Kanpur | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
 | [Full Stack Developer Webinar and Workshops](https://unstop.com/workshops-webinars/full-stack-developer-webinar-and-workshops-soft-webtech-solutions-1711321) | Soft Webtech Solutions | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
 | [SELL IT 2026: A Battle of Wits | Revive. Rebuild. Reimagine.](https://unstop.com/competitions/sell-it-2026-a-battle-of-wits-revive-rebuild-reimagine-startup-grind-bhubaneswar-1710208) | Startup Grind Bhubaneswar | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
-| [Can you solve what 4100+ professionals were struggling with?](https://unstop.com/competitions/can-you-solve-what-4100-professionals-were-struggling-with-generally-critical-1710246) | Generally Critical | India | 🏢 Onsite | — | 2026-12-31 | Unstop |
-| [Tech-A-Thon 5.0](https://unstop.com/hackathons/tech-a-thon-50-bit-mesra-ranchi-1699177) | Birla Institute of Technology (BIT), Mesra, Ranchi | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
 
 ## Recently Expired
 

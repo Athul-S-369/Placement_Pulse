@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** California City, CA, Baltimore, MD, Jefferson City, MO, Alexandria, VA, Augusta, ME
+- **Categories:** Internship, Fresher Job
+- **Locations:** Baltimore, MD, Augusta, ME, Chantilly, VA, Southfield, MI, California City, CA
 
 ## Current Opportunities
 
