@@ -1,6 +1,6 @@
 # 🏢 CodeArena
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-16*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-17*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [CodeArena Genesis 1.0 – National Tech Quiz 2026](https://unstop.com/quiz/codearena-genesis-10-national-tech-quiz-2026-codearena-1709501) | CodeArena | India | 🏢 Onsite | — | 2026-07-16 | Unstop |
 
 ## 📖 Interview Preparation
 

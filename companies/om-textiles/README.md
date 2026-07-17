@@ -1,6 +1,6 @@
 # 🏢 Om Textiles
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-16*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-17*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Ganesh Griha Decor](https://unstop.com/competitions/ganesh-griha-decor-om-textiles-1712365) | Om Textiles | India | 🏢 Onsite | — | 2026-07-16 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,6 +1,6 @@
 # 🏢 Tencent
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-07-16*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-07-17*
 
 ## Overview
 

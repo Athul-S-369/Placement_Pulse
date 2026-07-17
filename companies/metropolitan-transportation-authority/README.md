@@ -1,11 +1,11 @@
 # 🏢 Metropolitan Transportation Authority
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-16*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-17*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Queens, NY, NYC
+- **Locations:** NYC, Queens, NY
 
 ## Current Opportunities
 

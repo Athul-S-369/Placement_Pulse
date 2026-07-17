@@ -1,6 +1,6 @@
 # 🏢 Oriental Institute of Science and Technology (OIST), Bhopal
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-16*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-17*
 
 ## Overview
 

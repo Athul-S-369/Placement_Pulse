@@ -1,11 +1,11 @@
 # 🏢 Marsh & McLennan
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-16*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-17*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Malvern, PA, Newcastle upon Tyne, UK
+- **Locations:** Newcastle upon Tyne, UK, Malvern, PA
 
 ## Current Opportunities
 

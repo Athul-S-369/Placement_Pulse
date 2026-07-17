@@ -1,6 +1,6 @@
 # 🏢 Institute of Management Studies (IMS) MGKVP, Varanasi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-16*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-17*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [NISM Series XV: Starter Session – Research Analyst Essentials](https://unstop.com/workshops-webinars/nism-series-xv-starter-session-research-analyst-essentials-institute-of-management-studies-ims-mgkvp--1709697) | Institute of Management Studies (IMS) MGKVP, Varanasi | India | 🏢 Onsite | — | 2026-07-16 | Unstop |
 
 ## 📖 Interview Preparation
 

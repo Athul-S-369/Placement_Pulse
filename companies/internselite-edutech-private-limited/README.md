@@ -1,6 +1,6 @@
 # 🏢 Internselite Edutech Private Limited
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-16*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-17*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Crack the Internship: Lead Challenge-2](https://unstop.com/competitions/crack-the-internship-lead-challenge-2-internselite-edutech-private-limited-1704808) | Internselite Edutech Private Limited | India | 🏢 Onsite | — | 2026-07-16 | Unstop |
 
 ## 📖 Interview Preparation
 

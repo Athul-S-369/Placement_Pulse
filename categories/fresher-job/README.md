@@ -1,13 +1,16 @@
 # 💼 Fresher Job
 
-**1187 active** | **0 expired** | **1187 total**
+**1190 active** | **0 expired** | **1190 total**
 
-*Last updated: 2026-07-16*
+*Last updated: 2026-07-17*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Field Service Engineer 1 - Sdb/Sem](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Field-Service-Engineer-I--SDB-SEM--RTP_R-01360776) | Thermo Fisher Scientific | Remote in USA, Raleigh, NC | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Associate Data Scientist](https://jobs.ashbyhq.com/amplify/28105564-4ac4-4a33-90c3-d1d479b99ec0/application?embed=true) | Amplify | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Data Analyst](https://jobs.ashbyhq.com/chambercardio/eb5a8d6e-def9-4ea6-a76f-b64995ad5711/application?embed=true) | Chamber Cardio | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://jobs.lever.co/voltus/f13d367c-97c1-4af3-8e8b-06827017fee2/apply) | Voltus | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Digital Associate - Multiple Teams](https://amazon.jobs/en/jobs/10475775/digital-associate-ring-data-engineering-services-operations-it-support-engineering) | Amazon | Tennessee, Chennai, Tamil Nadu, India, Indiana | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Associate ServiceNow Technical Consultant](https://job-boards.greenhouse.io/tenon/jobs/8067766) | Tenon | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
@@ -105,6 +108,3 @@
 | [Associate Data Science Product Manager](https://www.redventures.com/careers/positions/open?gh_jid=7279145) | Red Ventures | Charlotte, NC | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [BNY Analyst Program](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/69723) | BNY | Manchester, UK | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Engineering Technician - Engineering Technician - 03428 WRD RFFE - NE](https://qualcomm.eightfold.ai/careers/job/446707211359) | Qualcomm | Boxborough, MA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Quantitative Developer](https://www.verition.com/open-positions?gh_jid=4011276007) | Verition Fund Management | London, UK, Waterbury, CT, Dubai - United Arab Emirates, NYC | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Data Collection Operator 1](https://job-boards.greenhouse.io/altentechnologyusa/jobs/4981897007) | ALTEN Technology | SF | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Junior Software Engineer](https://mthree.com/careers/job/?gh_jid=4374344006) | mthree | United States | 🏢 Onsite | — | — | SimplifyJobs New Grad |
