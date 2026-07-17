@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** London, UK, Gloucester, UK, San Diego, CA, Waltham, MA, San Jose, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** San Diego, CA, Lafayette, KS, United States, Morrisville, NC, California
 
 ## Current Opportunities
 

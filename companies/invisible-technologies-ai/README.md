@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in UK, Remote in Canada, Remote in USA
+- **Locations:** Remote in Canada, Remote in USA, Remote in UK
 
 ## Current Opportunities
 

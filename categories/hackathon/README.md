@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**146 active** | **57 expired** | **203 total**
+**151 active** | **57 expired** | **208 total**
 
 *Last updated: 2026-07-17*
 
@@ -10,6 +10,11 @@
 |------|---------|----------|------|----------------|----------|--------|
 | [Google Gemini AI Product Trial – Freshers Party Planning Challenge](https://unstop.com/hackathons/google-gemini-ai-product-trial-freshers-party-planning-challenge-keshav-memorial-institute-of-technology-1719562) | Keshav Memorial Institute of Technology | India | 🏢 Onsite | — | 2026-07-18 | Unstop |
 | [Smackathon 2k26](https://unstop.com/hackathons/smackathon-2k26-yeshwantrao-chavan-college-of-engineering-ycce-nagpur-1718448) | Yeshwantrao Chavan College of Engineering (YCCE), Nagpur | India | 🏢 Onsite | — | 2026-10-06 | Unstop |
+| [Archestra MCP Apps Hackathon](https://unstop.com/hackathons/archestra-mcp-apps-hackathon-archestraai-1720070) | archestra.ai | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
+| [Software Innovation Challenge](https://unstop.com/competitions/software-innovation-challenge-panimalar-engineering-college-pec-chennai-1720004) | Panimalar Engineering College (PEC), Chennai | India | 🏢 Onsite | — | 2026-08-01 | Unstop |
+| [MemoryVerse AI '26](https://unstop.com/hackathons/memoryverse-ai-26-wooble-1720010) | Wooble | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
+| [Capital Odyssey](https://unstop.com/competitions/capital-odyssey-svnit-surat-1719871) | Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
+| [🌍 Global Hospitality Career Challenge 2026](https://unstop.com/quiz/global-hospitality-career-challenge-2026-anascense-1719900) | Anascense | India | 🏢 Onsite | — | 2026-08-01 | Unstop |
 | [SynTech 2026- Data Science contest](https://unstop.com/competitions/syntech-2026-data-science-contest-manipal-institute-of-technology-manipal-1718519) | Manipal Institute of Technology (MIT), Manipal | India | 🏢 Onsite | — | 2026-08-15 | Unstop |
 | [Code O'Clock 2K26](https://unstop.com/hackathons/code-oclock-2k26-coimbatore-institute-of-technology-cit-coimbatore-1719235) | Coimbatore Institute of Technology (CIT), Coimbatore | India | 🏢 Onsite | — | 2026-08-18 | Unstop |
 | [Build With Bharat 2.0](https://unstop.com/hackathons/build-with-bharat-40-national-institute-of-technology-nit-delhi-1719203) | National Institute of Technology (NIT), Delhi | India | 🏢 Onsite | — | 2026-09-13 | Unstop |
@@ -103,11 +108,6 @@
 | [MerchVerse 2026](https://unstop.com/quiz/merchverse-2026-h-p-projects-1711835) | H & P Projects | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
 | [Your Time to Shine : Wribate July 2026 Challenge](https://unstop.com/competitions/your-time-to-shine-wribate-july-2026-challenge-your-time-to-shine-writers-debaters-wribate-july-2026-challe-1699409) | Wribate | India | 🏢 Onsite | — | 2026-07-20 | Unstop |
 | [ExploitX: Into the Void 2.0 CTF](https://unstop.com/hackathons/exploitx-into-the-void-20-ctf-chennai-institute-of-technology-1708797) | Chennai Institute of Technology | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
-| [Innovate 4 Impact](https://unstop.com/hackathons/innovate-4-impact-ieee-wie-affinity-group-bharati-vidyapeeth-deemed-to-be-university-college-of-engineering-p-1711745) | IEEE WIE Affinity Group, Bharati Vidyapeeth (Deemed to be University) College of Engineering, Pune | India | 🏢 Onsite | — | 2026-08-07 | Unstop |
-| [National Level Technical Hackathon](https://unstop.com/hackathons/national-level-technical-hackathon-dhanalakshmi-srinivasan-engineering-college-perambalur-1711964) | Dhanalakshmi Srinivasan Engineering College, Perambalur | India | 🏢 Onsite | — | 2026-08-11 | Unstop |
-| [Tech Trivia](https://unstop.com/quiz/tech-trivia-pranveer-singh-institute-of-technology-psit-kanpur-1711927) | Pranveer Singh Institute of Technology (PSIT), Kanpur | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
-| [Full Stack Developer Webinar and Workshops](https://unstop.com/workshops-webinars/full-stack-developer-webinar-and-workshops-soft-webtech-solutions-1711321) | Soft Webtech Solutions | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
-| [SELL IT 2026: A Battle of Wits | Revive. Rebuild. Reimagine.](https://unstop.com/competitions/sell-it-2026-a-battle-of-wits-revive-rebuild-reimagine-startup-grind-bhubaneswar-1710208) | Startup Grind Bhubaneswar | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
 
 ## Recently Expired
 

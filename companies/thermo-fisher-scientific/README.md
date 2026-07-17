@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Rhode Island, Remote in USA, Raleigh, NC, Remote / Various
+- **Categories:** Fresher Job, Internship
+- **Locations:** Remote in USA, Raleigh, NC, Remote / Various, Rhode Island
 
 ## Current Opportunities
 

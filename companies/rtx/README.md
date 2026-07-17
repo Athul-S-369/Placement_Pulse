@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Barrie, ON, Canada, McKinney, TX, Longueuil, QC, Canada, Andover, MA, Goleta, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Fort Wayne, IN, Longueuil, QC, Canada, Cedar Rapids, IA, Goleta, CA, Barrie, ON, Canada
 
 ## Current Opportunities
 

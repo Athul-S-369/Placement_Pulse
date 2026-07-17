@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Baltimore, MD, Augusta, ME, Chantilly, VA, Southfield, MI, California City, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** San Antonio, TX, California City, CA, Bloomington, MN, El Segundo, CA, Columbus, OH
 
 ## Current Opportunities
 

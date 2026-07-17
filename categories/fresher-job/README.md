@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1191 active** | **0 expired** | **1191 total**
+**1192 active** | **0 expired** | **1192 total**
 
 *Last updated: 2026-07-17*
 
@@ -12,6 +12,7 @@
 | [Associate Data Scientist](https://jobs.ashbyhq.com/amplify/28105564-4ac4-4a33-90c3-d1d479b99ec0/application?embed=true) | Amplify | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Analyst](https://jobs.ashbyhq.com/chambercardio/eb5a8d6e-def9-4ea6-a76f-b64995ad5711/application?embed=true) | Chamber Cardio | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer - AI/ML Infrastructure](https://jobs.ashbyhq.com/thumbtack/fc9f96bc-bd4e-4883-95a8-91d25833fa35/application?embed=true) | Thumbtack | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Engineer](https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Software-Engineer_JR-000768) | Alkami Technology | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://jobs.lever.co/voltus/f13d367c-97c1-4af3-8e8b-06827017fee2/apply) | Voltus | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Digital Associate - Multiple Teams](https://amazon.jobs/en/jobs/10475775/digital-associate-ring-data-engineering-services-operations-it-support-engineering) | Amazon | Tennessee, Chennai, Tamil Nadu, India, Indiana | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Associate ServiceNow Technical Consultant](https://job-boards.greenhouse.io/tenon/jobs/8067766) | Tenon | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Therapist-IOP/PHP Outpatient](https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Skokie-Clinic-Skokie-IL/Therapist--IOP-PHP-Outpatient_R5142) | Rogers Behavioral Health | Morton Grove, IL | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Associate Software Engineer in Test](https://jobs.lever.co/veeva/452d7860-6d5f-45e0-bc00-6a2e8852698d/apply) | Veeva Systems | Pleasanton, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Associate Data Science Product Manager](https://www.redventures.com/careers/positions/open?gh_jid=7279145) | Red Ventures | Charlotte, NC | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [BNY Analyst Program](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/69723) | BNY | Manchester, UK | 🏢 Onsite | — | — | SimplifyJobs New Grad |
