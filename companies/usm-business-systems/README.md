@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** NYC, Columbus, OH, Chicago, IL, Jefferson City, MO, San Antonio, TX
+- **Locations:** Columbus, OH, Rochester, MI, Chicago, IL, Augusta, ME, California City, CA
 
 ## Current Opportunities
 

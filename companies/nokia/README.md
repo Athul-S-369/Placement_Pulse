@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** California, Naperville, IL, Long Island City, Queens, NY, Jackson Township, NJ, Allentown, PA
+- **Locations:** Naperville, IL, Allentown, PA, Naperville, IL, Dallas, TX, Vancouver, BC, Canada, United States
 
 ## Current Opportunities
 

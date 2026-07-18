@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Cupertino, CA, San Diego, CA, California, Beaverton, OR, Gloucester, UK
+- **Locations:** London, UK, Cambridge, MA, Santa Clara, CA, Seattle, WA, Lafayette, KS
 
 ## Current Opportunities
 
