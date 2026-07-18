@@ -1,6 +1,6 @@
 # 🏢 Makerworks LLP
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-17*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-18*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Build Sprint](https://unstop.com/competitions/build-sprint-makerworks-llp-1717448) | Makerworks LLP | India | 🏢 Onsite | — | 2026-07-17 | Unstop |
 
 ## 📖 Interview Preparation
 

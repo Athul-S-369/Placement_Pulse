@@ -1,11 +1,11 @@
 # 🏢 Mercedes-Benz
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-17*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-18*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** San Jose, CA, Ann Arbor, MI
+- **Locations:** Ann Arbor, MI, San Jose, CA
 
 ## Current Opportunities
 

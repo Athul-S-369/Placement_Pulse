@@ -1,13 +1,15 @@
 # 🎓 Internship
 
-**736 active** | **0 expired** | **736 total**
+**738 active** | **0 expired** | **738 total**
 
-*Last updated: 2026-07-17*
+*Last updated: 2026-07-18*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer Intern](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application?embed=true) | Deepgram | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Software Development Data Analytics Intern](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Home-Office-USA/SW-Development-Intern-Data-Analytics_260004919-1) | Viavi Solutions | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Full-Stack AI Developer Intern](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044912) | Revvity | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Monitoring & Evaluation for Accountability and Learning](https://compassion.wd5.myworkdayjobs.com/CompassionCareersPrivateLink/job/Remote---USA/Monitoring---Evaluation-for-Accountability-and-Learning--MEAL--Fellow_R8260-1) | Compassion International | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Agentic AI Intern](https://datarobot.wd1.myworkdayjobs.com/en-US/DataRobot_External_Careers/job/Boston-Massachusetts-US/Agentic-AI-Intern_R-102729) | DataRobot | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -106,5 +108,3 @@
 | [Software Application Developer Intern for GOES-R Series Satellites](https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Silver-Spring-Maryland/Software-Application-Developer-Intern-for-GOES-R-Series-Satellites_R2115543) | KBR | Silver Spring, MD | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Rtk Internship - Junior Software Engineer](https://job-boards.greenhouse.io/aechelontechnology/jobs/4904960008) | Aechelon Technology | Farmers Branch, TX | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [AI Automation Intern](https://apply.workable.com/advantmed/j/45F5E3C394/) | Advantmed | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Quantitative Research Analyst Intern](https://job-boards.greenhouse.io/ftandinternships/jobs/1304473) | Stevens Capital Management | Villanova, PA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Full Stack Developer Intern](https://jobs.ashbyhq.com/walrusfi/99c93c0e-ed9a-4e41-862a-0cdbe71d7d54) | Walrus | New York, NY | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

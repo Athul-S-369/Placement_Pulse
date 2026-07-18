@@ -1,13 +1,18 @@
 # 💼 Fresher Job
 
-**1192 active** | **0 expired** | **1192 total**
+**1197 active** | **0 expired** | **1197 total**
 
-*Last updated: 2026-07-17*
+*Last updated: 2026-07-18*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer](https://jobs.lever.co/thinkahead/b044c4f0-4509-425f-8581-58070ded2379/apply) | AHEAD | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Fraud Analyst](https://job-boards.greenhouse.io/ddome/jobs/8636643002) | DataDome | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Labeler / Annotator - AI Response Evaluation - French](https://job-boards.greenhouse.io/bpcs/jobs/8072559) | Blueprint Technologies | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Data Science Fellow](https://job-boards.greenhouse.io/axle/jobs/5158529007) | Axle | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Associate Developer](https://magnatech.io/technology-careers/?gh_jid=4716011005) | Magnatech | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Field Service Engineer 1 - Sdb/Sem](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-North-Carolina-USA/Field-Service-Engineer-I--SDB-SEM--RTP_R-01360776) | Thermo Fisher Scientific | Remote in USA, Raleigh, NC | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Data Scientist](https://jobs.ashbyhq.com/amplify/28105564-4ac4-4a33-90c3-d1d479b99ec0/application?embed=true) | Amplify | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Analyst](https://jobs.ashbyhq.com/chambercardio/eb5a8d6e-def9-4ea6-a76f-b64995ad5711/application?embed=true) | Chamber Cardio | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -103,8 +108,3 @@
 | [PCBA Soldering Technician](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Aoldering-Technician_R-00170309) | Leidos | Huntsville, AL | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Manufacturing Engineering Technician](https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20262349) | Vertiv | Ashland, KY | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Digital Verification Engineer – New Grad](https://ciena.wd5.myworkdayjobs.com/Careers/job/US--NY--Pittsford--1250-Pittsford-Victor-Road-Rochester/Digital-Verification-Engineer_R029443) | Ciena | Rochester, NY | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Data Analyst](https://job-boards.greenhouse.io/gotion/jobs/8282912002) | Gotion | Fremont, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Software Engineer - Inference AI/ML](https://coreweave.com/careers/job?4609928006&board=coreweave&gh_jid=4609928006) | CoreWeave | Bellevue, WA, Sunnyvale, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Therapist-IOP/PHP Outpatient](https://rogersbh.wd1.myworkdayjobs.com/rbhcareer/job/Skokie-Clinic-Skokie-IL/Therapist--IOP-PHP-Outpatient_R5142) | Rogers Behavioral Health | Morton Grove, IL | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Associate Software Engineer in Test](https://jobs.lever.co/veeva/452d7860-6d5f-45e0-bc00-6a2e8852698d/apply) | Veeva Systems | Pleasanton, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Associate Data Science Product Manager](https://www.redventures.com/careers/positions/open?gh_jid=7279145) | Red Ventures | Charlotte, NC | 🏢 Onsite | — | — | SimplifyJobs New Grad |

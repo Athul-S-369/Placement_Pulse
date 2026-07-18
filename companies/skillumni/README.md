@@ -1,6 +1,6 @@
 # 🏢 Skillumni
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-17*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-18*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Skillumni Scholarship Aptitude](https://unstop.com/quiz/skillumni-scholarship-aptitude-skillumni-1708448) | Skillumni | India | 🏢 Onsite | — | 2026-07-17 | Unstop |
 
 ## 📖 Interview Preparation
 

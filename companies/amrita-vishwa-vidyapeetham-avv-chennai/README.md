@@ -1,6 +1,6 @@
 # 🏢 Amrita Vishwa Vidyapeetham (AVV), Chennai
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-17*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-18*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [System Seige](https://unstop.com/hackathons/system-seige-amrita-vishwa-vidyapeetham-avv-chennai-1714505) | Amrita Vishwa Vidyapeetham (AVV), Chennai | India | 🏢 Onsite | — | 2026-07-17 | Unstop |
 
 ## 📖 Interview Preparation
 

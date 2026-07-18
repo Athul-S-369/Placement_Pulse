@@ -1,6 +1,6 @@
 # 🏢 Mumbai University (MU), Mumbai
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-17*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-18*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Gemini AI-Powered Challenge](https://unstop.com/competitions/gemini-ai-powered-challenge-mumbai-university-mu-mumbai-1714305) | Mumbai University (MU), Mumbai | India | 🏢 Onsite | — | 2026-07-17 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,6 +1,6 @@
 # 🏢 Bleep Education
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-17*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-18*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [GenAI VS Agentic AI with Bleep in collabroation with Ecell IIT Hyderabad](https://unstop.com/workshops-webinars/genai-vs-agentic-ai-with-bleep-in-collabroation-with-ecell-iit-hyderabad-bleep-education-1710340) | Bleep Education | India | 🏢 Onsite | — | 2026-07-17 | Unstop |
 
 ## 📖 Interview Preparation
 
