@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Columbus, OH, Rochester, MI, Chicago, IL, Augusta, ME, California City, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Augusta, ME, St. Louis, MO, Traverse City, MI, Rochester, MI, California City, CA
 
 ## Current Opportunities
 

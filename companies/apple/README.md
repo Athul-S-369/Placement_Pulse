@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** London, UK, Cambridge, MA, Santa Clara, CA, Seattle, WA, Lafayette, KS
+- **Categories:** Fresher Job, Internship
+- **Locations:** Seattle, WA, San Jose, CA, Cupertino, CA, London, UK, Morrisville, NC
 
 ## Current Opportunities
 
