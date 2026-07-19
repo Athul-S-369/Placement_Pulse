@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** San Antonio, TX, California City, CA, Alexandria, VA, Bluemont, VA, Dublin, OH
+- **Locations:** St. Louis, MO, Augusta, ME, NYC, El Segundo, CA, Columbus, OH
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**146 active** | **71 expired** | **217 total**
+**149 active** | **71 expired** | **220 total**
 
 *Last updated: 2026-07-19*
 
@@ -10,6 +10,9 @@
 |------|---------|----------|------|----------------|----------|--------|
 | [Basics of PCB Design](https://unstop.com/workshops-webinars/basics-of-pcb-design-together-we-solve-1712240) | Together We Solve | India | 🏢 Onsite | — | 2026-08-15 | Unstop |
 | [AI-Powered Fresher's Night Challenge](https://unstop.com/competitions/ai-powered-freshers-night-challenge-amrita-vishwa-vidyapeetham-1720497) | Amrita Vishwa Vidyapeetham | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
+| [AI powered prompt freshers party](https://unstop.com/quiz/ai-powered-prompt-freshers-party-maharshi-dayanand-university-mdu-rohtak-1720715) | Maharshi Dayanand University (MDU), Rohtak | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
+| [AI-Powered Fresher's Night Challenge](https://unstop.com/quiz/ai-powered-freshers-night-challenge-iimt-college-of-engineering-iimt-coe-greater-noida-1720702) | IIMT College Of Engineering (IIMT COE), Greater Noida | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
+| [Build Your First RAG Agent](https://unstop.com/workshops-webinars/build-your-first-rag-agent-peerlo-1720659) | Peerlo | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
 | [AUS IV Year Coding Challenge-01](https://unstop.com/hackathons/aus-iv-year-coding-challenge-01-aditya-university-1720009) | Aditya University | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
 | [Placement Readiness Challenge – Quantitative Aptitude & Logical Reasoning](https://unstop.com/hackathons/placement-readiness-challenge-quantitative-aptitude-logical-reasoning-unsaidtalks-education-1718550) | UnsaidTalks Education | India | 🏢 Onsite | — | 2026-07-27 | Unstop |
 | [TechMate: Industry Edition](https://unstop.com/workshops-webinars/techmate-industry-edition-bits-1720224) | Birla Institute of Technology & Science, Pilani Campus | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
@@ -105,9 +108,6 @@
 | [Gemini Prompt Wars](https://unstop.com/competitions/gemini-prompt-wars-bn-college-of-engineering-and-technology-lucknow-uttar-pradesh-1711583) | B.N. College Of Engineering And Technology, Lucknow, Uttar Pradesh | India | 🏢 Onsite | — | 2026-08-05 | Unstop |
 | [Varithon 2026](https://unstop.com/hackathons/varithon-2026-marathwada-mitra-mandals-college-of-engineering-mmcoe-pune-1711499) | Marathwada Mitra Mandal's College of Engineering (MMCOE), Pune | India | 🏢 Onsite | — | 2026-08-29 | Unstop |
 | [MerchVerse 2026](https://unstop.com/quiz/merchverse-2026-h-p-projects-1711835) | H & P Projects | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
-| [Your Time to Shine : Wribate July 2026 Challenge](https://unstop.com/competitions/your-time-to-shine-wribate-july-2026-challenge-your-time-to-shine-writers-debaters-wribate-july-2026-challe-1699409) | Wribate | India | 🏢 Onsite | — | 2026-07-20 | Unstop |
-| [ExploitX: Into the Void 2.0 CTF](https://unstop.com/hackathons/exploitx-into-the-void-20-ctf-chennai-institute-of-technology-1708797) | Chennai Institute of Technology | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
-| [Innovate 4 Impact](https://unstop.com/hackathons/innovate-4-impact-ieee-wie-affinity-group-bharati-vidyapeeth-deemed-to-be-university-college-of-engineering-p-1711745) | IEEE WIE Affinity Group, Bharati Vidyapeeth (Deemed to be University) College of Engineering, Pune | India | 🏢 Onsite | — | 2026-08-07 | Unstop |
 
 ## Recently Expired
 
