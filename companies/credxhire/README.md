@@ -1,6 +1,6 @@
 # 🏢 CredXHire
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-18*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-19*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Credx Hiring Challenge 2.0](https://unstop.com/hackathons/credx-hiring-challenge-20-credxhire-1718353) | CredXHire | India | 🏢 Onsite | — | 2026-07-18 | Unstop |
 
 ## 📖 Interview Preparation
 

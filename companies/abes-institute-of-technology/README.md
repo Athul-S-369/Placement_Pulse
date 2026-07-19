@@ -1,6 +1,6 @@
 # 🏢 ABES Institute of Technology
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-18*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-19*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Freshers Party Planning Competition - GSA India](https://unstop.com/competitions/freshers-party-planning-competition-gsa-abes-institute-of-technology-1718334) | ABES Institute of Technology | India | 🏢 Onsite | — | 2026-07-18 | Unstop |
 
 ## 📖 Interview Preparation
 

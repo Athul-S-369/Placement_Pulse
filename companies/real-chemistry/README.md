@@ -1,11 +1,11 @@
 # 🏢 Real Chemistry
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-18*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-19*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, United States
+- **Locations:** United States, Remote in USA
 
 ## Current Opportunities
 

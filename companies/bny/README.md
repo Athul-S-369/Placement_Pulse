@@ -1,6 +1,6 @@
 # 🏢 BNY
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-07-18*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-07-19*
 
 ## Overview
 

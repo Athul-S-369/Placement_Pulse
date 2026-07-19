@@ -1,11 +1,11 @@
 # 🏢 Formlabs
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-18*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-19*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Cambridge, MA, Boston, MA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Boston, MA, Cambridge, MA
 
 ## Current Opportunities
 

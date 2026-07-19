@@ -1,6 +1,6 @@
 # 🏢 Keshav Memorial Institute of Technology
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-18*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-19*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Google Gemini AI Product Trial – Freshers Party Planning Challenge](https://unstop.com/hackathons/google-gemini-ai-product-trial-freshers-party-planning-challenge-keshav-memorial-institute-of-technology-1719562) | Keshav Memorial Institute of Technology | India | 🏢 Onsite | — | 2026-07-18 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,6 +1,6 @@
 # 🏢 Uniadvise
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-18*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-19*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Off To Abroad](https://unstop.com/conferences/off-to-abroad-off-to-abroaad-uniadvise-1716742) | Uniadvise | India | 🏢 Onsite | — | 2026-07-18 | Unstop |
 
 ## 📖 Interview Preparation
 

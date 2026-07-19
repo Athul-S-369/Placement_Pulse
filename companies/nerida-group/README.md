@@ -1,6 +1,6 @@
 # 🏢 Nerida Group
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-18*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-19*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Naukri vs Startup: What's Actually Best for You? (Not Another 'Quit Your Job' Reel)](https://unstop.com/workshops-webinars/naukri-vs-startup-whats-actually-best-for-you-not-another-quit-your-job-reel-nerida-group-1709133) | Nerida Group | India | 🏢 Onsite | — | 2026-07-18 | Unstop |
 
 ## 📖 Interview Preparation
 
