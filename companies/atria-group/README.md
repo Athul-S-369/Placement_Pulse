@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Plainview, NY, Thousand Oaks, CA, San Jose, CA, NYC, Jacksonville, FL
+- **Categories:** Fresher Job, Internship
+- **Locations:** Hartford, CT, San Jose, CA, Broomfield, CO, St. Louis, MO, Jacksonville, FL
 
 ## Current Opportunities
 

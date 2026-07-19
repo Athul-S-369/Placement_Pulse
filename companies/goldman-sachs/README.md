@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Dallas, TX, NYC, London, UK
+- **Categories:** Fresher Job, Internship
+- **Locations:** London, UK, Dallas, TX, NYC
 
 ## Current Opportunities
 

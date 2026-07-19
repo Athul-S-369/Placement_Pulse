@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Westminster, CO, Columbus, OH, Bluemont, VA, Augusta, ME, Traverse City, MI
+- **Categories:** Fresher Job, Internship
+- **Locations:** San Antonio, TX, California City, CA, Alexandria, VA, Bluemont, VA, Dublin, OH
 
 ## Current Opportunities
 

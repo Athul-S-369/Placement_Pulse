@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** San Jose, CA, Waltham, MA, Santa Clara, CA, Cambridge, MA, Beaverton, OR
+- **Categories:** Fresher Job, Internship
+- **Locations:** San Jose, CA, United States, Gloucester, UK, Santa Clara, CA, Lafayette, KS
 
 ## Current Opportunities
 
