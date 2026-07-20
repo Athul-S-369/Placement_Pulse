@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** SF, Gloucester, UK, California, London, UK, Morrisville, NC
+- **Locations:** San Jose, CA, San Diego, CA, Gloucester, UK, Austin, TX, Cupertino, CA
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Dublin, OH, Bloomington, MN, El Segundo, CA, Westminster, CO, Columbus, OH
+- **Locations:** Manassas, VA, Bluemont, VA, Augusta, ME, Southfield, MI, Washington, DC
 
 ## Current Opportunities
 
