@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**145 active** | **83 expired** | **228 total**
+**152 active** | **83 expired** | **235 total**
 
 *Last updated: 2026-07-20*
 
@@ -16,6 +16,13 @@
 | [AWS Student Builder Event – Unlock Free AWS Certification Exam Opportunities](https://unstop.com/workshops-webinars/aws-student-builder-event-unlock-free-aws-certification-exam-opportunities-ies-university-bhopal-1720954) | IES University, Bhopal | India | 🏢 Onsite | — | 2026-09-01 | Unstop |
 | [AI Won’t Replace You—But Someone Using AI Will](https://unstop.com/workshops-webinars/ai-wont-replace-you-but-someone-using-ai-will-noobsync-innovations-1721327) | NoobSync Innovations | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
 | [AI Arena 2026: Online MCQ Quiz Competition](https://unstop.com/quiz/ai-arena-2026-online-mcq-quiz-competition-angels-secondary-boarding-school-1721694) | Angels Secondary Boarding School | India | 🏢 Onsite | — | 2026-08-07 | Unstop |
+| [GROUND ZERO | India's First Live Startup Investment Simulation](https://unstop.com/competitions/ground-zero-indias-first-live-startup-investment-simulation-inglu-1722426) | Inglu | India | 🏢 Onsite | — | 2026-07-27 | Unstop |
+| [Design a Fresher's Party Poster with AI](https://unstop.com/competitions/design-a-freshers-party-poster-with-ai-christ-college-of-engineering-irinjalakuda-1722220) | Christ College of Engineering, Irinjalakuda | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
+| [AstroHack 2026: Build the Next Universe](https://unstop.com/competitions/astrohack-2026-build-the-next-universe-astrolive-1719172) | Astrolive | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
+| [Freshers Party Planning Night](https://unstop.com/competitions/freshers-party-planning-night-bhai-parmanand-dseu-shakarpur-campus-2-shakarpur-new-delhi-1722131) | Bhai Parmanand DSEU Shakarpur Campus 2, Shakarpur, New Delhi | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
+| [Operation Black Vault](https://unstop.com/competitions/operation-black-vault-igdtuw-delhi-1722554) | Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi | India | 🏢 Onsite | — | 2026-08-10 | Unstop |
+| [HR Quiz Competition](https://unstop.com/quiz/hr-quiz-competition-university-college-of-commerce-and-business-management-osmania-university-hyderabad-telangana-1710604) | University College of Commerce and Business management, Osmania University, Hyderabad, Telangana | India | 🏢 Onsite | — | 2026-08-18 | Unstop |
+| [Prompt Challenge: July Edition](https://unstop.com/competitions/prompt-challenge-july-edition-thinknest-1720866) | thinknest | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
 | [Basics of PCB Design](https://unstop.com/workshops-webinars/basics-of-pcb-design-together-we-solve-1712240) | Together We Solve | India | 🏢 Onsite | — | 2026-08-15 | Unstop |
 | [AI-Powered Fresher's Night Challenge](https://unstop.com/competitions/ai-powered-freshers-night-challenge-amrita-vishwa-vidyapeetham-1720497) | Amrita Vishwa Vidyapeetham | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
 | [AI powered prompt freshers party](https://unstop.com/quiz/ai-powered-prompt-freshers-party-maharshi-dayanand-university-mdu-rohtak-1720715) | Maharshi Dayanand University (MDU), Rohtak | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
@@ -101,13 +108,6 @@
 | [ThinkForBharat 1.0 – National Open Innovation Ideathon](https://unstop.com/competitions/thinkforbharat-10-national-open-innovation-ideathon-code-capital-coffee-1714352) | Code Capital & Coffee | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
 | [Aryabhata Mathematics Quiz 2026](https://unstop.com/quiz/aryabhata-mathematics-quiz-2026-army-institute-of-technology-ait-pune-1714401) | Army Institute of Technology (AIT), Pune | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
 | [Hackside Down](https://unstop.com/hackathons/hackside-down-falcon-sphere-1712468) | Falcon Sphere | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
-| [DevFusion 4.O- The Developers Hackathon](https://unstop.com/hackathons/devfusion-4o-the-developers-hackathon-iit-bombay-1714389) | Indian Institute of Technology (IIT), Bombay | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
-| [Datasphere](https://unstop.com/hackathons/datathon-sathyabama-university-of-science-and-technology-1714310) | Sathyabama University of Science and Technology | India | 🏢 Onsite | — | 2026-08-01 | Unstop |
-| [TechZen QuizVerse 2026](https://unstop.com/quiz/techzen-quizverse-2026-techzen-innovation-1713272) | TechZen innovation | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
-| [TECHSPHERE 2026 – National Level Science & Technology Student Conclave](https://unstop.com/competitions/techsphere-2026-national-level-science-technology-student-conclave-woxsen-university-hyderabad-1711435) | Woxsen University, Hyderabad | India | 🏢 Onsite | — | 2026-07-30 | Unstop |
-| [The Sports Quiz](https://unstop.com/quiz/the-sports-quiz-govt-degree-college-padder-1712158) | Govt. Degree College, Padder | India | 🏢 Onsite | — | 2026-07-22 | Unstop |
-| [PeakAI LinkedIn Challenge](https://unstop.com/competitions/peakai-linkedin-challenge-peakai-1712536) | PeakAi | India | 🏢 Onsite | — | 2026-08-07 | Unstop |
-| [Brainwave](https://unstop.com/hackathons/brainwave-2026-guru-gobind-singh-indraprastha-university-ggsipu-delhi-1711474) | Guru Gobind Singh Indraprastha University (GGSIPU), Delhi | India | 🏢 Onsite | — | 2026-08-21 | Unstop |
 
 ## Recently Expired
 

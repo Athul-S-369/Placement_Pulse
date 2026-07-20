@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Brattleboro, VT, Sharonville, OH
+- **Categories:** Fresher Job, Internship
+- **Locations:** Sharonville, OH, Brattleboro, VT
 
 ## Current Opportunities
 

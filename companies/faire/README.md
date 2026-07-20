@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote / Various, Toronto, ON, Canada, Kitchener, ON, Canada, SF
+- **Locations:** Toronto, ON, Canada, Kitchener, ON, Canada, SF, Remote / Various
 
 ## Current Opportunities
 

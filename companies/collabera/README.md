@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Waukegan, IL, Princeton, NJ, Radcliff, KY, Calgary, AB, Canada, Eagan, MN
+- **Locations:** Calgary, AB, Canada, Eagan, MN, Princeton, NJ, Alameda, CA, Waukegan, IL
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1199 active** | **0 expired** | **1199 total**
+**1200 active** | **0 expired** | **1200 total**
 
 *Last updated: 2026-07-20*
 
@@ -8,6 +8,7 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Associate Product Manager](https://careers.footlocker.com/jobs/71035?icims=1) | Foot Locker | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://jobs.lever.co/thinkahead/b044c4f0-4509-425f-8581-58070ded2379/apply) | AHEAD | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Fraud Analyst](https://job-boards.greenhouse.io/ddome/jobs/8636643002) | DataDome | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Labeler / Annotator - AI Response Evaluation - French](https://job-boards.greenhouse.io/bpcs/jobs/8072559) | Blueprint Technologies | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Junior Software Engineer - DST](https://metecs.applytojob.com/apply/csAVnq7Ij4/Junior-Software-Engineer-DST) | METECS | Houston, TX | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Junior Software Engineer](https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Huntsville-Alabama/Junior-Software-Engineer_R2115179) | KBR | Huntsville, AL | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Graduate Software Developer](https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Cambridge-United-Kingdom/Software-Developer-Graduate_R011705) | AVEVA | Cambridge, UK | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [PCBA Soldering Technician](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Aoldering-Technician_R-00170309) | Leidos | Huntsville, AL | 🏢 Onsite | — | — | SimplifyJobs New Grad |
