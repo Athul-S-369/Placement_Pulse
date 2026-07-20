@@ -1,6 +1,6 @@
 # 🏢 Shri Mathura High School, Sitamarhi, Bihar
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-19*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-20*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Pro](https://unstop.com/quiz/pro-shri-mathura-high-school-sitamarhi-bihar-1710965) | Shri Mathura High School, Sitamarhi, Bihar | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
 
 ## 📖 Interview Preparation
 

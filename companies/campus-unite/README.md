@@ -1,6 +1,6 @@
 # 🏢 Campus Unite
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-19*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-20*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AI & Technology Quiz 2026](https://unstop.com/quiz/ai-technology-quiz-2026-campus-unite-1720300) | Campus Unite | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
 
 ## 📖 Interview Preparation
 

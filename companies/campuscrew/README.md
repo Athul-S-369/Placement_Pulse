@@ -1,6 +1,6 @@
 # 🏢 CampusCrew
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-19*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-20*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Google Gemini QuizOff 2026](https://unstop.com/quiz/google-gemini-quizoff-2026-campuscrew-1685313) | CampusCrew | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
 
 ## 📖 Interview Preparation
 

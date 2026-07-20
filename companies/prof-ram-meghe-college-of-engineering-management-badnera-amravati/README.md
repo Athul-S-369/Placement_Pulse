@@ -1,6 +1,6 @@
 # 🏢 Prof Ram Meghe College of Engineering & Management, Badnera - Amravati
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-19*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-20*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Freshers Party 2026](https://unstop.com/competitions/freshers-party-2026-prof-ram-meghe-college-of-engineering-management-badnera-amravati-1716449) | Prof Ram Meghe College of Engineering & Management, Badnera - Amravati | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
 
 ## 📖 Interview Preparation
 

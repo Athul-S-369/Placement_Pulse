@@ -1,6 +1,6 @@
 # 🏢 Startup Grind Bhubaneswar
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-19*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-20*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [SELL IT 2026: A Battle of Wits | Revive. Rebuild. Reimagine.](https://unstop.com/competitions/sell-it-2026-a-battle-of-wits-revive-rebuild-reimagine-startup-grind-bhubaneswar-1710208) | Startup Grind Bhubaneswar | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
 
 ## 📖 Interview Preparation
 

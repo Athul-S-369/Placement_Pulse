@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Management (IIM), Bangalore
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-19*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-20*
 
 ## Overview
 

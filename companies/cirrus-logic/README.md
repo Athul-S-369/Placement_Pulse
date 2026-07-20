@@ -1,11 +1,11 @@
 # 🏢 Cirrus Logic
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-19*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-20*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Austin, TX, Edinburgh, UK
+- **Categories:** Internship, Fresher Job
+- **Locations:** Edinburgh, UK, Austin, TX
 
 ## Current Opportunities
 
