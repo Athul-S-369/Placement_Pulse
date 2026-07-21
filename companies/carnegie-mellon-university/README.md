@@ -1,16 +1,17 @@
 # 🏢 Carnegie Mellon University
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-21*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-21*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Pittsburgh, PA
+- **Locations:** Pittsburgh, PA, Remote in USA
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Research Assistant - College of Engineering - Department of Chemical Engineering](https://cmu.wd5.myworkdayjobs.com/cmu/job/Remote/Research-Assistant---College-of-Engineering---Department-of-Chemical-Engineering_2024265) | Carnegie Mellon University | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Research Intern - College of Engineering - Electrical and Computer Engineering](https://cmu.wd5.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Summer-Research-Intern---College-of-Engineering---Electrical-and-Computer-Engineering_2024690) | Carnegie Mellon University | Pittsburgh, PA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 
 ## 📖 Interview Preparation

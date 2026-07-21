@@ -35,6 +35,7 @@ onsemi,5,2026-07-21
 Eurofins,5,2026-07-21
 Veeva Systems,5,2026-07-21
 Anduril,5,2026-07-21
+NVIDIA,5,2026-07-21
 Blue Origin,5,2026-07-21
 Rogers Behavioral Health,5,2026-07-21
 General Dynamics Information Technology,5,2026-07-21
@@ -52,7 +53,6 @@ Fanatics,4,2026-07-21
 Microchip Technology,4,2026-07-21
 Global Channel Management,4,2026-07-21
 Ask IT Consulting,4,2026-07-21
-NVIDIA,4,2026-07-21
 Cohere,4,2026-07-21
 Adobe,4,2026-07-21
 PNC Financial Services,4,2026-07-21
@@ -192,6 +192,7 @@ Generac,2,2026-07-21
 Baker Hughes,2,2026-07-21
 General Dynamics UK,2,2026-07-21
 AG Technologies,2,2026-07-21
+Carnegie Mellon University,2,2026-07-21
 Astera Labs,2,2026-07-21
 N1,2,2026-07-21
 Graphcore,2,2026-07-21
@@ -237,6 +238,7 @@ Handshake,2,2026-07-21
 Hyundai Motor Company,2,2026-07-21
 Altamira Technologies,2,2026-07-21
 Brink,2,2026-07-21
+Cisive,2,2026-07-21
 xAI,2,2026-07-21
 PAR Tech,2,2026-07-21
 DAT Freight & Analytics,2,2026-07-21
@@ -271,6 +273,7 @@ Louisiana State University (LSU),2,2026-07-21
 Teamworks,2,2026-07-21
 Prosidian Consulting,2,2026-07-21
 WellSky,2,2026-07-21
+Argonne National Laboratory,2,2026-07-21
 HumanSignal,2,2026-07-21
 Welo Global,2,2026-07-21
 National Laboratory of the Rockies,2,2026-07-21
@@ -644,7 +647,6 @@ Interac,1,2026-07-21
 Simple Technology Solutions,1,2026-07-21
 Vanasse Hangen Brustlin (VHB),1,2026-07-21
 AirCapture,1,2026-07-21
-Carnegie Mellon University,1,2026-07-21
 Niural,1,2026-07-21
 Muru,1,2026-07-21
 SimonComputing,1,2026-07-21
@@ -863,7 +865,6 @@ Liquid,1,2026-07-21
 Celonis,1,2026-07-21
 Rokt,1,2026-07-21
 WPP,1,2026-07-21
-Cisive,1,2026-07-21
 GCI,1,2026-07-21
 Genmo,1,2026-07-21
 Two Dots,1,2026-07-21
@@ -1205,7 +1206,6 @@ The Aerospace Corporation,1,2026-07-21
 Eataly,1,2026-07-21
 Merck,1,2026-07-21
 Pearl Health,1,2026-07-21
-Argonne National Laboratory,1,2026-07-21
 Best Buy,1,2026-07-21
 Beacon AI,1,2026-07-21
 Conagra Brands,1,2026-07-21
@@ -1562,3 +1562,11 @@ Runpod,1,2026-07-21
 QuizCred,1,2026-07-21
 D'Code NSUT,1,2026-07-21
 "School of Excellence, Sector 17, Rohini, Delhi",1,2026-07-21
+ASM Global,1,2026-07-21
+GE Vernova,1,2026-07-21
+Trimble,1,2026-07-21
+TD Synnex,1,2026-07-21
+Human Intelligence Labs Private Limited,1,2026-07-21
+"Manipal Academy of Higher Education (MAHE), Karnataka",1,2026-07-21
+Bidaya,1,2026-07-21
+"Technocrats Institute of Technology (Excellence), Bhopal",1,2026-07-21

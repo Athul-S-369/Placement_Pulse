@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Binghamton, NY, Topeka, KS
+- **Locations:** Topeka, KS, Binghamton, NY
 
 ## Current Opportunities
 

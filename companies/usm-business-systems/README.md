@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Alexandria, VA, NYC, Bloomington, MN, California City, CA, Washington, DC
+- **Categories:** Internship, Fresher Job
+- **Locations:** Chantilly, VA, Dublin, OH, Washington, DC, Traverse City, MI, Manassas, VA
 
 ## Current Opportunities
 

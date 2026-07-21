@@ -1,16 +1,17 @@
 # 🏢 Argonne National Laboratory
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-21*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-21*
 
 ## Overview
 
-- **Categories:** Fresher Job
-- **Locations:** Woodridge, IL
+- **Categories:** Internship, Fresher Job
+- **Locations:** Woodridge, IL, Remote in USA, Woodridge, IL
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Business Systems Administration Internship](https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Business-Systems-Administration-Internship_413528) | Argonne National Laboratory | Remote in USA, Woodridge, IL | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Postdoctoral Appointee - Materials Informatics and Autonomous Synthesis](https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Postdoctoral-Appointee---Materials-Informatics-and-Autonomous-Synthesis_422966) | Argonne National Laboratory | Woodridge, IL | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 
 ## 📖 Interview Preparation

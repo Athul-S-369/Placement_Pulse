@@ -1,16 +1,17 @@
 # 🏢 NVIDIA
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-07-21*
+**5 active opportunities** | **5 total tracked** | *Last updated: 2026-07-21*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Remote in USA, Santa Clara, CA, Austin, TX, Santa Clara, CA, California, Santa Clara, CA, United States
+- **Categories:** Internship, Fresher Job
+- **Locations:** Toronto, ON, Canada, Remote in Canada, California, Santa Clara, CA, United States, Austin, TX, Remote in USA, Santa Clara, CA, Santa Clara, CA
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Machine Learning Applications and Compiler Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2016937) | NVIDIA | Toronto, ON, Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745) | NVIDIA | Santa Clara, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [PhD Research Intern - Generative AI](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generative-AI---2026_JR2016035) | NVIDIA | California, Santa Clara, CA, United States | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [ASIC Hardware Design Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Hardware-Design-Engineer---New-College-Grad-2026_JR2011787) | NVIDIA | Austin, TX | 🏢 Onsite | — | — | SimplifyJobs New Grad |

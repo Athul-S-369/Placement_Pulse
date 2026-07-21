@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1205 active** | **0 expired** | **1205 total**
+**1208 active** | **0 expired** | **1208 total**
 
 *Last updated: 2026-07-21*
 
@@ -13,6 +13,9 @@
 | [Media Analyst](https://ats.rippling.com/agilitypr/jobs/a5d209bc-f6a2-4278-aab9-e470119a61c7) | Agility PR Solutions | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Product Owner](https://ats.rippling.com/bloomgrowth/jobs/34e67ce0-7c83-452f-8cf6-336c60defdfa) | Bloom Growth | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Full-Stack Software Engineer - Full-Stack](https://jobs.ashbyhq.com/runpod/87e39052-6819-4332-86ba-81e5ba9785dd/application?embed=true) | Runpod | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Machine Learning Applications and Compiler Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2016937) | NVIDIA | Toronto, ON, Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Engineer](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/UK---Remote/Software-Engineer_R56506) | Trimble | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [IT Business Systems Engineer - IT Specialist in Business Systems - API Web](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mississauga-Ontario-Canada/Business-Systems-Engineer---Spcialiste-en-systmes-d-affaires_R46579-1) | TD Synnex | Washington, Oregon, Texas, Florida, South Carolina, Mississauga, ON, Canada, Greenville, SC, Colorado, North Carolina, Remote in Canada, Clearwater, FL | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Product Manager](https://careers.footlocker.com/jobs/71035?icims=1) | Foot Locker | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://jobs.lever.co/thinkahead/b044c4f0-4509-425f-8581-58070ded2379/apply) | AHEAD | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Fraud Analyst](https://job-boards.greenhouse.io/ddome/jobs/8636643002) | DataDome | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -105,6 +108,3 @@
 | [Software Engineer – New grad](https://jobs.ashbyhq.com/continue/219fce3e-7af9-4b00-8fa7-87bf53db72f7/application) | Continue | SF | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [New Grad Software Engineer - Full Stack](https://jobs.ashbyhq.com/n1/73724fe2-9a93-4a60-b349-4fd3d2efa94a/application) | N1 | NYC | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Software Engineer I C#](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-C-IL-60607/1340292800/?ats=successfactors) | McDonald's | Chicago, IL | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Cloud Platform Engineer I](https://careers-ebscoind.icims.com/jobs/1873/cloud-platform-engineer-i/job) | EBSCO | Ipswich, MA, Remote | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Software Engineer](https://job-boards.greenhouse.io/warp/jobs/4324888004) | Warp | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [2026 Graduate Software Engineer - Drivers](https://job-boards.greenhouse.io/graphcore/jobs/8245742002) | Graphcore | Cambridge, UK | 🏢 Onsite | — | — | SimplifyJobs New Grad |

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Hackathon, Fresher Job, Internship
-- **Locations:** Seattle, WA, SF, Bellevue, WA, Seattle, WA, Wakefield, MA, Westborough, MA, London, UK, NYC
+- **Categories:** Internship, Fresher Job, Hackathon
+- **Locations:** Sunnyvale, CA, London, UK, Edinburgh, UK, Cambridge, UK, Seattle, WA, SF, Tempe, AZ, Seattle, WA
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**151 active** | **89 expired** | **240 total**
+**155 active** | **89 expired** | **244 total**
 
 *Last updated: 2026-07-21*
 
@@ -13,6 +13,10 @@
 | [Campus to Career 2026](https://unstop.com/workshops-webinars/campus-to-career-2026-quizcred-1722573) | QuizCred | India | 🏢 Onsite | — | 2026-08-03 | Unstop |
 | [Vibewright](https://unstop.com/hackathons/vibewright-oblivion26-dcode-nsut-1722532) | D'Code NSUT | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
 | [The Innovation Quiz](https://unstop.com/quiz/the-innovation-quiz-school-of-excellence-sector-17-rohini-delhi-1722464) | School of Excellence, Sector 17, Rohini, Delhi | India | 🏢 Onsite | — | 2026-08-07 | Unstop |
+| [Live AI Webinar For Developers](https://unstop.com/workshops-webinars/live-ai-webinar-for-developers-human-intelligence-labs-private-limited-1722486) | Human Intelligence Labs Private Limited | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
+| [13th Interdisciplinary Conference on Health, Humanities, Technology and Management Research (ICHTMR 2026)](https://unstop.com/conferences/13th-interdisciplinary-conference-on-health-humanities-technology-and-management-research-ichtmr-2026-manipa-1722662) | Manipal Academy of Higher Education (MAHE), Karnataka | India | 🏢 Onsite | — | 2026-10-15 | Unstop |
+| [Under The Surface Hackathon](https://unstop.com/hackathons/under-the-surface-hackathon-bidaya-1722539) | Bidaya | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
+| [P.A.C.E - Where Logic Meets Expression.](https://unstop.com/hackathons/pace-where-logic-meets-expression-technocrats-institute-of-technology-excellence-bhopal-1719528) | Technocrats Institute of Technology (Excellence), Bhopal | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
 | [iCEO : The Gamified Business Development Competition (July Edition - MBA)](https://unstop.com/competitions/iceo-the-gamified-business-development-competition-july-edition-mba-gogo-pogo-1720769) | Gogo Pogo | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
 | [Google Gemini AI Challenge (Hybrid)](https://unstop.com/competitions/google-gemini-ai-challenge-hybrid-google-student-ambassador-program-in-collaboration-with-abit-rgit-iic-rgi-1720718) | Google Student Ambassador Program in collaboration with ABIT RGIT & IIC RGIT | India | 🏢 Onsite | — | 2026-07-24 | Unstop |
 | [Logo Making Competition & Workshop](https://unstop.com/competitions/logo-making-competition-workshop-fore-school-of-communication-design-new-delhi-1719612) | FORE School of Communication Design, New Delhi | India | 🏢 Onsite | — | 2026-08-05 | Unstop |
@@ -104,10 +108,6 @@
 | [Colgate Transcend 2026 - Sales and Marketing Track](https://unstop.com/competitions/crp-colgate-transcend-2026-sales-and-marketing-track-colgate-transcend-2026-colgate-palmolive-india-limited-1709953) | Colgate-Palmolive (India) Limited | India | 🏢 Onsite | — | 2026-08-11 | Unstop |
 | [Unstop Quizverse 2026](https://unstop.com/quiz/unstop-quizverse-2026-unstop-1710459) | Unstop | India | 🏢 Onsite | — | 2026-11-28 | Unstop |
 | [Prompt2Poster - AI Design Contest](https://unstop.com/events/prompt2poster-ai-design-contest-hackerx-community-1715396) | HackerX Community | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
-| [NextGen Manufacturing Quiz 2026](https://unstop.com/quiz/nextgen-manufacturing-quiz-2026-hazra-paul-projects-1715363) | Hazra & Paul PROJECTS | India | 🏢 Onsite | — | 2026-08-05 | Unstop |
-| [Market Makers : A Strategic Case Competition](https://unstop.com/competitions/market-makers-a-strategic-case-competition-mochatrade-yc-p26-1712823) | Mochatrade (YC P26) | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
-| [Founders Playbook Webinar series - 10](https://unstop.com/workshops-webinars/founders-playbook-webinar-series-10-iit-madras-1712349) | Indian Institute of Technology (IIT), Madras | India | 🏢 Onsite | — | 2026-07-24 | Unstop |
-| [HR Through The Lens – National Online HR Video Challenge 2026](https://unstop.com/competitions/hr-through-the-lens-national-online-hr-video-challenge-2026-kiit-school-of-management-ksom-bhubaneswar-1714312) | KIIT School of Management (KSOM), Bhubaneswar | India | 🏢 Onsite | — | 2026-07-21 | Unstop |
 
 ## Recently Expired
 
