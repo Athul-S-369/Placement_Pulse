@@ -1,6 +1,6 @@
 # 🏢 Jaya Engineering College
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-20*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-21*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Maxim Code AI Software innovation](https://unstop.com/competitions/maxim-code-ai-software-innovation-jaya-engineering-college-1718885) | Jaya Engineering College | India | 🏢 Onsite | — | 2026-07-20 | Unstop |
 
 ## 📖 Interview Preparation
 

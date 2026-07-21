@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Technology (IIT), Guwahati
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-20*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-21*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Catalysis'T](https://unstop.com/competitions/catalysist-iit-guwahati-1709276) | Indian Institute of Technology (IIT), Guwahati | India | 🏢 Onsite | — | 2026-07-20 | Unstop |
 
 ## 📖 Interview Preparation
 

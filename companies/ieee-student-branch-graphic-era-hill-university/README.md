@@ -1,6 +1,6 @@
 # 🏢 IEEE Student Branch, Graphic Era Hill University
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-20*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-21*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [IEEE Summer of Code 2026](https://unstop.com/competitions/ieee-summer-of-code-2026-ieee-student-branch-graphic-era-hill-university-1704994) | IEEE Student Branch, Graphic Era Hill University | India | 🏢 Onsite | — | 2026-07-20 | Unstop |
 
 ## 📖 Interview Preparation
 

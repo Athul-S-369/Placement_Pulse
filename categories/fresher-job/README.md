@@ -1,13 +1,18 @@
 # 💼 Fresher Job
 
-**1200 active** | **0 expired** | **1200 total**
+**1205 active** | **0 expired** | **1205 total**
 
-*Last updated: 2026-07-20*
+*Last updated: 2026-07-21*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Data Engineer](https://jobs.lever.co/nextech/5f2f3398-12f2-45c2-921e-f22f915e1c15/apply) | Nextech Systems | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Full Stack Developer](https://jobs.ashbyhq.com/envision-horizons/ec0c6149-02d0-48ce-8612-61fea67918af/application?embed=true) | Envision Horizons LLC | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Media Analyst](https://ats.rippling.com/agilitypr/jobs/a5d209bc-f6a2-4278-aab9-e470119a61c7) | Agility PR Solutions | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Product Owner](https://ats.rippling.com/bloomgrowth/jobs/34e67ce0-7c83-452f-8cf6-336c60defdfa) | Bloom Growth | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Full-Stack Software Engineer - Full-Stack](https://jobs.ashbyhq.com/runpod/87e39052-6819-4332-86ba-81e5ba9785dd/application?embed=true) | Runpod | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Product Manager](https://careers.footlocker.com/jobs/71035?icims=1) | Foot Locker | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://jobs.lever.co/thinkahead/b044c4f0-4509-425f-8581-58070ded2379/apply) | AHEAD | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Fraud Analyst](https://job-boards.greenhouse.io/ddome/jobs/8636643002) | DataDome | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -103,8 +108,3 @@
 | [Cloud Platform Engineer I](https://careers-ebscoind.icims.com/jobs/1873/cloud-platform-engineer-i/job) | EBSCO | Ipswich, MA, Remote | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://job-boards.greenhouse.io/warp/jobs/4324888004) | Warp | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [2026 Graduate Software Engineer - Drivers](https://job-boards.greenhouse.io/graphcore/jobs/8245742002) | Graphcore | Cambridge, UK | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Junior Exercise Software IT Specialist](https://jobs.smartrecruiters.com/BryceTech/f40e9665-32d7-47d8-90fd-ac1f18dc05be?dcr_ci=BryceTech) | BryceTech | Suffolk, VA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Junior Front-End Web Developer](https://jobs.lever.co/webfx/e424e486-c772-443b-98cf-9088fef288d1/apply) | WebFX | Ann Arbor, MI | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Junior Software Engineer - DST](https://metecs.applytojob.com/apply/csAVnq7Ij4/Junior-Software-Engineer-DST) | METECS | Houston, TX | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Junior Software Engineer](https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Huntsville-Alabama/Junior-Software-Engineer_R2115179) | KBR | Huntsville, AL | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Graduate Software Developer](https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Cambridge-United-Kingdom/Software-Developer-Graduate_R011705) | AVEVA | Cambridge, UK | 🏢 Onsite | — | — | SimplifyJobs New Grad |

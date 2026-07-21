@@ -1,11 +1,11 @@
 # 🏢 Xometry
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-20*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-21*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** LA, Waltham, MA
+- **Locations:** Waltham, MA, LA
 
 ## Current Opportunities
 

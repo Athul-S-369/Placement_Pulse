@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Technology (IIT), Dharwad
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-20*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-21*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Technostrophe '26](https://unstop.com/quiz/technostrophe-26-e-summit-26-indian-institute-of-technology-iit-dharwad-1709090) | Indian Institute of Technology (IIT), Dharwad | India | 🏢 Onsite | — | 2026-07-20 | Unstop |
 
 ## 📖 Interview Preparation
 

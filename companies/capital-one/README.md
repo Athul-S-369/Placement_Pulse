@@ -1,11 +1,11 @@
 # 🏢 Capital One
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-20*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-21*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Cambridge, MA, SF, San Jose, CA, McLean, VA, NYC, Toronto, ON, Canada
+- **Locations:** Toronto, ON, Canada, Cambridge, MA, SF, San Jose, CA, McLean, VA, NYC
 
 ## Current Opportunities
 
