@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Mason, OH, Columbia, SC, Cincinnati, OH, Grove City, OH
+- **Categories:** Fresher Job, Internship
+- **Locations:** Cincinnati, OH, Columbia, SC, Grove City, OH, Mason, OH
 
 ## Current Opportunities
 

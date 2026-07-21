@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Coppell, TX, NYC, Wayzata, MN
+- **Categories:** Fresher Job, Internship
+- **Locations:** NYC, Wayzata, MN, Coppell, TX
 
 ## Current Opportunities
 

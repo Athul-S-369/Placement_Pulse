@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Wright-Patterson AFB, OH, Aurora, CO, Morrisville, NC, Annapolis Junction, MD, San Antonio, TX, Warner Robins, GA, Escondido, CA, Palmdale, CA, Melbourne, FL
+- **Categories:** Fresher Job, Internship
+- **Locations:** Wright-Patterson AFB, OH, Melbourne, FL, Escondido, CA, Palmdale, CA, Northridge, LA, Aurora, CO, Morrisville, NC, Annapolis Junction, MD, San Antonio, TX
 
 ## Current Opportunities
 

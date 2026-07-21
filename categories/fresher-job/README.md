@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1208 active** | **0 expired** | **1208 total**
+**1211 active** | **0 expired** | **1211 total**
 
 *Last updated: 2026-07-21*
 
@@ -16,6 +16,9 @@
 | [Machine Learning Applications and Compiler Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2016937) | NVIDIA | Toronto, ON, Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/UK---Remote/Software-Engineer_R56506) | Trimble | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [IT Business Systems Engineer - IT Specialist in Business Systems - API Web](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mississauga-Ontario-Canada/Business-Systems-Engineer---Spcialiste-en-systmes-d-affaires_R46579-1) | TD Synnex | Washington, Oregon, Texas, Florida, South Carolina, Mississauga, ON, Canada, Greenville, SC, Colorado, North Carolina, Remote in Canada, Clearwater, FL | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Data Labeling Associate](https://welocalize.wd1.myworkdayjobs.com/welocalize/job/CA-Client-Field-Office-San-Fran-Bay-Area/Data-Labeling-Associate_R0007638) | Welocalize | SF, Remote in USA, NYC | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Development Engineer 2](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/SDE2-2_JR107318-1) | Centific | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Applications Scientist 3](https://onto.wd1.myworkdayjobs.com/onto_careers/job/Hillsboro-OR/Applications-Scientist-3_R-6006) | Onto Innovation | Remote in USA, Hillsboro, OR | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Product Manager](https://careers.footlocker.com/jobs/71035?icims=1) | Foot Locker | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://jobs.lever.co/thinkahead/b044c4f0-4509-425f-8581-58070ded2379/apply) | AHEAD | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Fraud Analyst](https://job-boards.greenhouse.io/ddome/jobs/8636643002) | DataDome | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -105,6 +108,3 @@
 | [Backend Engineer – New Grad](https://d3.com/careers?gh_jid=4915295008) | D3 | LA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Android Engineer 1 - Growth](https://jobs.lever.co/whoop/c1ee90e7-697b-49c2-b805-fa2c1ee20e4f/apply) | Whoop | Boston, MA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Software Engineer 1 - Software Engineering](https://steelpoint-llc.com/government-it-consultant-careers/?gh_jid=7453484003) | Steel Point Solutions | Odenton, MD | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Software Engineer – New grad](https://jobs.ashbyhq.com/continue/219fce3e-7af9-4b00-8fa7-87bf53db72f7/application) | Continue | SF | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [New Grad Software Engineer - Full Stack](https://jobs.ashbyhq.com/n1/73724fe2-9a93-4a60-b349-4fd3d2efa94a/application) | N1 | NYC | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Software Engineer I C#](https://jobs.mcdonalds.com/job/Chicago-Software-Engineer-I-C-IL-60607/1340292800/?ats=successfactors) | McDonald's | Chicago, IL | 🏢 Onsite | — | — | SimplifyJobs New Grad |

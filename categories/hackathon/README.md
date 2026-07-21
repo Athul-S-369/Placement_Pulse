@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**155 active** | **89 expired** | **244 total**
+**160 active** | **89 expired** | **249 total**
 
 *Last updated: 2026-07-21*
 
@@ -17,6 +17,11 @@
 | [13th Interdisciplinary Conference on Health, Humanities, Technology and Management Research (ICHTMR 2026)](https://unstop.com/conferences/13th-interdisciplinary-conference-on-health-humanities-technology-and-management-research-ichtmr-2026-manipa-1722662) | Manipal Academy of Higher Education (MAHE), Karnataka | India | 🏢 Onsite | — | 2026-10-15 | Unstop |
 | [Under The Surface Hackathon](https://unstop.com/hackathons/under-the-surface-hackathon-bidaya-1722539) | Bidaya | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
 | [P.A.C.E - Where Logic Meets Expression.](https://unstop.com/hackathons/pace-where-logic-meets-expression-technocrats-institute-of-technology-excellence-bhopal-1719528) | Technocrats Institute of Technology (Excellence), Bhopal | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
+| [Recent Research Trends in Computational Engineering & Sustainable Environment Technologies Workshop](https://unstop.com/workshops-webinars/recent-research-trends-in-computational-engineering-sustainable-environment-technologies-workshop-kpr-1723026) | KPR Institute of Engineering and Technology (KPRET), Uthupalayam, Tamil Nadu | India | 🏢 Onsite | — | 2026-07-30 | Unstop |
+| [Brain Battle 2026](https://unstop.com/quiz/brain-battle-2026-college-of-commerce-arts-and-science-ccas-patna-bihar-1723106) | College of Commerce, Arts and Science (CCAS), Patna, Bihar | India | 🏢 Onsite | — | 2026-08-04 | Unstop |
+| [PixxelHack 2.0 – A Web Development Hackathon](https://unstop.com/hackathons/pixxelhack-20-a-web-development-hackathon-thakur-college-of-engineering-and-technology-tcet-mumbai-1719044) | Thakur College of Engineering and Technology (TCET), Mumbai | India | 🏢 Onsite | — | 2026-08-08 | Unstop |
+| [AceCubing Essay Competition](https://unstop.com/competitions/acecubing-essay-competition-acecubing-mind-creativity-challenge-series-acecubing-1722999) | AceCubing | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
+| [Ideathon 2026](https://unstop.com/competitions/ideathon-2026-indian-institute-of-technology-bhubaneswar-1722709) | Indian Institute of Technology Bhubaneswar | India | 🏢 Onsite | — | 2026-08-01 | Unstop |
 | [iCEO : The Gamified Business Development Competition (July Edition - MBA)](https://unstop.com/competitions/iceo-the-gamified-business-development-competition-july-edition-mba-gogo-pogo-1720769) | Gogo Pogo | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
 | [Google Gemini AI Challenge (Hybrid)](https://unstop.com/competitions/google-gemini-ai-challenge-hybrid-google-student-ambassador-program-in-collaboration-with-abit-rgit-iic-rgi-1720718) | Google Student Ambassador Program in collaboration with ABIT RGIT & IIC RGIT | India | 🏢 Onsite | — | 2026-07-24 | Unstop |
 | [Logo Making Competition & Workshop](https://unstop.com/competitions/logo-making-competition-workshop-fore-school-of-communication-design-new-delhi-1719612) | FORE School of Communication Design, New Delhi | India | 🏢 Onsite | — | 2026-08-05 | Unstop |
@@ -103,11 +108,6 @@
 | [α The Alpha Challenge 2026 | National Investment Intelligence & Financial Strategy Competition](https://unstop.com/quiz/a-the-alpha-challenge-2026-national-investment-intelligence-financial-strategy-competition-arihant-capital-ltd-1715874) | Arihant Capital Ltd | India | 🏢 Onsite | — | 2026-07-30 | Unstop |
 | [Call for Articles: “The Rise of Invisible Marketing”](https://unstop.com/competitions/call-for-articles-the-rise-of-invisible-marketing-iim-rohtak-1716011) | Indian Institute of Management (IIM), Rohtak | India | 🏢 Onsite | — | 2026-07-29 | Unstop |
 | [NGO Strategy Case: The Continuity Trap in Senior Citizen Care](https://unstop.com/competitions/ngo-strategy-case-the-continuity-trap-in-senior-citizen-care-devadiya-foundation-1715773) | Devadiya Foundation | India | 🏢 Onsite | — | 2026-08-15 | Unstop |
-| [Chapters Nagpur — E-Cell IIT Bombay x E-Cell VNIT Nagpur](https://unstop.com/competitions/chapters-nagpur-e-cell-iit-bombay-x-e-cell-vnit-nagpur-vnit-nagpur-1714895) | Visvesvaraya National Institute of Technology (VNIT), Nagpur | India | 🏢 Onsite | — | 2026-07-24 | Unstop |
-| [Freshers Party Planning Night](https://unstop.com/competitions/freshers-party-planning-night-sant-longowal-institute-of-engineering-and-technology-longowal-punjab-1715304) | Sant Longowal Institute of Engineering and Technology, Longowal, Punjab | India | 🏢 Onsite | — | 2026-07-24 | Unstop |
-| [Colgate Transcend 2026 - Sales and Marketing Track](https://unstop.com/competitions/crp-colgate-transcend-2026-sales-and-marketing-track-colgate-transcend-2026-colgate-palmolive-india-limited-1709953) | Colgate-Palmolive (India) Limited | India | 🏢 Onsite | — | 2026-08-11 | Unstop |
-| [Unstop Quizverse 2026](https://unstop.com/quiz/unstop-quizverse-2026-unstop-1710459) | Unstop | India | 🏢 Onsite | — | 2026-11-28 | Unstop |
-| [Prompt2Poster - AI Design Contest](https://unstop.com/events/prompt2poster-ai-design-contest-hackerx-community-1715396) | HackerX Community | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
 
 ## Recently Expired
 

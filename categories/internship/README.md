@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**746 active** | **0 expired** | **746 total**
+**747 active** | **0 expired** | **747 total**
 
 *Last updated: 2026-07-21*
 
@@ -16,6 +16,7 @@
 | [Grid Automation & Software Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Grid-Automation---Software-Intern_R5041706) | GE Vernova | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Business Systems Administration Internship](https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Business-Systems-Administration-Internship_413528) | Argonne National Laboratory | Remote in USA, Woodridge, IL | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Research Assistant - College of Engineering - Department of Chemical Engineering](https://cmu.wd5.myworkdayjobs.com/cmu/job/Remote/Research-Assistant---College-of-Engineering---Department-of-Chemical-Engineering_2024265) | Carnegie Mellon University | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Cloud Developer Intern](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2) | Autodesk | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application?embed=true) | Deepgram | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Development Data Analytics Intern](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Home-Office-USA/SW-Development-Intern-Data-Analytics_260004919-1) | Viavi Solutions | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Full-Stack AI Developer Intern](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044912) | Revvity | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [2026 Summer Intern, MS/PhD, Software Engineer, Planner Reasoning ML/DL](https://careers.withwaymo.com/jobs/2026-summer-intern-ms-phd-software-engineer-planner-reasoning-ml-dl-mountain-view-california-united-states?gh_jid=7393132) | Waymo | Mountain View, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Drexel University Co-op: Embedded Software Engineering](https://careers-sri.icims.com/jobs/6262/drexel-university-co-op%3a-embedded-software-engineering/job) | SRI | Princeton, NJ | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [IC Development (Software)](https://careers.skyworksinc.com/job/Austin-IC-Development-(Software)-Summer-Intern-(May-'26-Aug-'26)-TX-73301/75987-en_US/) | Skyworks | Austin, TX | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [AI Engineer](https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/839) | Hunt Oil Company | Dallas, TX | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

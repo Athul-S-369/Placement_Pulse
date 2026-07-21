@@ -1,16 +1,17 @@
 # 🏢 Centific
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-21*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-21*
 
 ## Overview
 
-- **Categories:** Internship
-- **Locations:** Remote in USA, Redmond, WA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Remote in USA, Redmond, WA, Remote in USA
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Development Engineer 2](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/SDE2-2_JR107318-1) | Centific | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Technical Intern](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR105488-1) | Centific | Remote in USA, Redmond, WA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 
 ## 📖 Interview Preparation

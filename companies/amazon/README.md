@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job, Hackathon
-- **Locations:** Sunnyvale, CA, London, UK, Edinburgh, UK, Cambridge, UK, Seattle, WA, SF, Tempe, AZ, Seattle, WA
+- **Categories:** Fresher Job, Internship, Hackathon
+- **Locations:** Tempe, AZ, Tennessee, Chennai, Tamil Nadu, India, Indiana, London, UK, Edinburgh, UK, Cambridge, UK, Seattle, WA, SF, India
 
 ## Current Opportunities
 
