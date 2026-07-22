@@ -1,11 +1,11 @@
 # 🏢 Jabil
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-21*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-22*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Memphis, TN, Florence, KY
+- **Locations:** Florence, KY, Memphis, TN
 
 ## Current Opportunities
 

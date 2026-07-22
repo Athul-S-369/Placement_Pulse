@@ -1,16 +1,17 @@
 # 🏢 GlobalFoundries
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-07-21*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-07-22*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Richardson, TX, Malta, NY, Burlington, VT
+- **Locations:** Burlington, VT, Malta, NY, Richardson, TX, Malta, NY, Bengaluru, Karnataka, India
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [AI Enablement Strategist](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-Enablement-Strategist--New-College-Graduate-_JR-2600365) | GlobalFoundries | Malta, NY, Bengaluru, Karnataka, India | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Senior Device Engineer](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Sr-Eng-Device-Engineering---New-College-Graduate_JR-2602522) | GlobalFoundries | Malta, NY | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Device Modeling & Characterization Engineer New Grad](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Senior-Device-Engineer--Protection-Circuits--ESD-and-Latch-up_JR-2501765) | GlobalFoundries | Burlington, VT | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [AI/ML Systems Engineer – New College Graduate](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-ML-Systems-Engineer---2026-New-College-Graduate-_JR-2602829) | GlobalFoundries | Richardson, TX | 🏢 Onsite | — | — | SimplifyJobs New Grad |

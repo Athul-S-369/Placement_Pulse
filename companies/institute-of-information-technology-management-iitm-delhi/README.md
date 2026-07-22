@@ -1,6 +1,6 @@
 # 🏢 Institute of Information Technology & Management (IITM), Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-21*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-22*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Freshers Party Planning Night with Gemini](https://unstop.com/workshops-webinars/freshers-party-planning-night-with-gemini-institute-of-information-technology-management-iitm-delhi-1715627) | Institute of Information Technology & Management (IITM), Delhi | India | 🏢 Onsite | — | 2026-07-21 | Unstop |
 
 ## 📖 Interview Preparation
 

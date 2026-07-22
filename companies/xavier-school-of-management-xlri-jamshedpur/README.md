@@ -1,6 +1,6 @@
 # 🏢 Xavier School of Management (XLRI), Jamshedpur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-21*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-22*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Fulcrum 2026 - Strategic Transformation](https://unstop.com/competitions/fulcrum-2026-strategic-transformation-xavier-school-of-management-xlri-jamshedpur-1715659) | Xavier School of Management (XLRI), Jamshedpur | India | 🏢 Onsite | — | 2026-07-21 | Unstop |
 
 ## 📖 Interview Preparation
 

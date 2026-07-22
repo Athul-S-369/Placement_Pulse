@@ -1,13 +1,18 @@
 # 💼 Fresher Job
 
-**1211 active** | **0 expired** | **1211 total**
+**1216 active** | **0 expired** | **1216 total**
 
-*Last updated: 2026-07-21*
+*Last updated: 2026-07-22*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [AI Enablement Strategist](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-Enablement-Strategist--New-College-Graduate-_JR-2600365) | GlobalFoundries | Malta, NY, Bengaluru, Karnataka, India | 🏢 Onsite | — | — | SimplifyJobs New Grad |
+| [Product Information Management Specialist](https://ats.rippling.com/orderco/jobs/6e06a4b6-c727-4007-bdae-e3735aad6e61) | Order.co | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Compiler Engineer New Grad - Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Infrastructure----New-College-Grad-2026_JR2021228) | NVIDIA | Austin, TX, Remote in USA, Redmond, WA, Santa Clara, CA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Assistant Registrar - Data Analyst](https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Indianapolis-IN/Assistant-Registrar---Data-Analyst_JR0000108989) | Ivy Tech Community College | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
+| [Forward Deployed Engineer - AI Solutions](https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1337) | Duracell | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Engineer](https://jobs.lever.co/nextech/5f2f3398-12f2-45c2-921e-f22f915e1c15/apply) | Nextech Systems | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Full Stack Developer](https://jobs.ashbyhq.com/envision-horizons/ec0c6149-02d0-48ce-8612-61fea67918af/application?embed=true) | Envision Horizons LLC | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Media Analyst](https://ats.rippling.com/agilitypr/jobs/a5d209bc-f6a2-4278-aab9-e470119a61c7) | Agility PR Solutions | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -103,8 +108,3 @@
 | [Project Engineer Associate](https://uscareers-fujifilm.icims.com/jobs/36847/job?mobile=true&needsRedirect=false) | Fujifilm | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer 1](https://jobs.lever.co/sophos/797834ca-58be-4a7c-a220-b2eefd449d97/apply) | Sophos | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand](https://www.flexport.com/company/careers/) | Various | India | 🏢 Onsite | — | — | Hacker News |
-| [Liva AI (YC S25) Is Hiring](https://www.ycombinator.com/companies/liva-ai/jobs/gvtc3Ep-founding-operations-lead) | Various | Remote | 🌐 Remote | — | — | Hacker News |
-| [Associate Software Engineer – Seeking 2025 & 2026 Grads - Engineering Development Program](https://jobs.lever.co/veeva/e31a2a3c-a508-459c-9f77-a2692a95f233/apply) | Veeva Systems | Raleigh, NC | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Backend Engineer – New Grad](https://d3.com/careers?gh_jid=4915295008) | D3 | LA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Android Engineer 1 - Growth](https://jobs.lever.co/whoop/c1ee90e7-697b-49c2-b805-fa2c1ee20e4f/apply) | Whoop | Boston, MA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Software Engineer 1 - Software Engineering](https://steelpoint-llc.com/government-it-consultant-careers/?gh_jid=7453484003) | Steel Point Solutions | Odenton, MD | 🏢 Onsite | — | — | SimplifyJobs New Grad |

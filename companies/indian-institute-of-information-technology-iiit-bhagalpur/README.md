@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Information Technology (IIIT), Bhagalpur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-21*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-22*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [NextHorizon Hackathon](https://unstop.com/hackathons/nexthorizon-hackathon-indian-institute-of-information-technology-iiit-bhagalpur-1717748) | Indian Institute of Information Technology (IIIT), Bhagalpur | India | 🏢 Onsite | — | 2026-07-21 | Unstop |
 
 ## 📖 Interview Preparation
 
