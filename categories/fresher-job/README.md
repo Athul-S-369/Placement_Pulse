@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1216 active** | **0 expired** | **1216 total**
+**1219 active** | **0 expired** | **1219 total**
 
 *Last updated: 2026-07-22*
 
@@ -13,6 +13,9 @@
 | [Compiler Engineer New Grad - Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Infrastructure----New-College-Grad-2026_JR2021228) | NVIDIA | Austin, TX, Remote in USA, Redmond, WA, Santa Clara, CA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Assistant Registrar - Data Analyst](https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Indianapolis-IN/Assistant-Registrar---Data-Analyst_JR0000108989) | Ivy Tech Community College | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Forward Deployed Engineer - AI Solutions](https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1337) | Duracell | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Technical Product Analyst 1](https://deluxe.wd5.myworkdayjobs.com/en-US/USA_CAN/job/Remote--USA/Technical-Product-Analyst-I_260794WD) | Deluxe | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Programmer Analyst 1](https://amazon.jobs/en/jobs/10480255/programmer-analyst-i-ftc) | Amazon | Indianapolis, IN, Hyderabad, Telangana, India | 🏢 Onsite | — | — | SimplifyJobs New Grad |
+| [Video Research Associate](https://ats.rippling.com/democratic-national-committee/jobs/71fac2e0-8025-4d14-b6e1-a153e36ec01f) | Democratic National Committee | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Engineer](https://jobs.lever.co/nextech/5f2f3398-12f2-45c2-921e-f22f915e1c15/apply) | Nextech Systems | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Full Stack Developer](https://jobs.ashbyhq.com/envision-horizons/ec0c6149-02d0-48ce-8612-61fea67918af/application?embed=true) | Envision Horizons LLC | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Media Analyst](https://ats.rippling.com/agilitypr/jobs/a5d209bc-f6a2-4278-aab9-e470119a61c7) | Agility PR Solutions | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -105,6 +108,3 @@
 | [Data Warehouse Software Engineer 1](https://job-boards.greenhouse.io/babelstreet/jobs/8030833) | Babel Street | Cambridge, MA, Remote in USA, Reston, VA, Solon, OH | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer - Backend - Core Services](https://job-boards.greenhouse.io/censys/jobs/8500307002) | Censys | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [IGS Calibration Engineer](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/IGS-Calibration-Engineer_R4041210-2) | GE Healthcare | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Project Engineer Associate](https://uscareers-fujifilm.icims.com/jobs/36847/job?mobile=true&needsRedirect=false) | Fujifilm | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Software Engineer 1](https://jobs.lever.co/sophos/797834ca-58be-4a7c-a220-b2eefd449d97/apply) | Sophos | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand](https://www.flexport.com/company/careers/) | Various | India | 🏢 Onsite | — | — | Hacker News |

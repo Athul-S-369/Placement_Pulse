@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Exton, PA, Hickory, NC, Birmingham, AL, Westborough, MA, Santa Clara, CA
+- **Locations:** Exton, PA, Santa Clara, CA, Ambler, PA, Elmira, NY, Boston, MA
 
 ## Current Opportunities
 

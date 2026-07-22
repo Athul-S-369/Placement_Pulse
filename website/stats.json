@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-22T03:59:59.722633Z",
+  "generated_at": "2026-07-22T10:40:35.212482Z",
   "date": "2026-07-22",
-  "total": 2219,
-  "active": 2124,
-  "new_today": 160,
-  "companies": 1582,
+  "total": 2226,
+  "active": 2131,
+  "new_today": 157,
+  "companies": 1588,
   "categories": {
-    "fresher-job": 1216,
+    "fresher-job": 1219,
     "internship": 748,
-    "hackathon": 249,
+    "hackathon": 253,
     "open-source-program": 2,
     "fellowship": 2,
     "student-ambassador": 2
@@ -24,7 +24,7 @@
     },
     {
       "name": "Amazon",
-      "count": 15
+      "count": 16
     },
     {
       "name": "Microsoft",
@@ -109,7 +109,7 @@
     "cloud": 24
   },
   "work_modes": {
-    "remote": 244,
-    "onsite": 1975
+    "remote": 246,
+    "onsite": 1980
   }
 }

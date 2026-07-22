@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Broomfield, CO, Sunnyvale, CA, NYC, Alpharetta, GA, St. Louis, MO
+- **Locations:** Jacksonville, FL, Hartford, CT, San Jose, CA, Novato, CA, Sunnyvale, CA
 
 ## Current Opportunities
 

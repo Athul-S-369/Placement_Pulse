@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**155 active** | **94 expired** | **249 total**
+**159 active** | **94 expired** | **253 total**
 
 *Last updated: 2026-07-22*
 
@@ -8,6 +8,10 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [PromptX](https://unstop.com/competitions/promptx-s2s-1721995) | S2S | India | 🏢 Onsite | — | 2026-12-10 | Unstop |
+| [Statutory Audit Masterclass For Free](https://unstop.com/workshops-webinars/statutory-audit-masterclass-for-free-thinking-bridge-1723396) | Thinking Bridge | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
+| [Hacker's Gambit 2026](https://unstop.com/hackathons/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293) | Jaihind college of Engineering Kuran | India | 🏢 Onsite | — | 2026-10-04 | Unstop |
+| [SimuCode Robotics Challenge Week 2026](https://unstop.com/hackathons/simucode-robotics-challenge-week-2026-simucode-1720382) | SimuCode | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
 | [Build With Bharat 3.0](https://unstop.com/hackathons/build-with-bharat-30-chitkara-university-cu-himachal-pradesh-1722484) | Chitkara University (CU), Himachal Pradesh | India | 🏢 Onsite | — | 2026-09-22 | Unstop |
 | [5-Day National-Level FDP on Quantum Computing & Agentic AI](https://unstop.com/workshops-webinars/5-day-national-level-fdp-on-quantum-computing-agentic-ai-maharaja-institute-of-technology-mit-mysore-1722545) | Maharaja Institute of Technology (MIT), Mysore | India | 🏢 Onsite | — | 2026-08-03 | Unstop |
 | [Campus to Career 2026](https://unstop.com/workshops-webinars/campus-to-career-2026-quizcred-1722573) | QuizCred | India | 🏢 Onsite | — | 2026-08-03 | Unstop |
@@ -104,10 +108,6 @@
 | [α The Alpha Challenge 2026 | National Investment Intelligence & Financial Strategy Competition](https://unstop.com/quiz/a-the-alpha-challenge-2026-national-investment-intelligence-financial-strategy-competition-arihant-capital-ltd-1715874) | Arihant Capital Ltd | India | 🏢 Onsite | — | 2026-07-30 | Unstop |
 | [Call for Articles: “The Rise of Invisible Marketing”](https://unstop.com/competitions/call-for-articles-the-rise-of-invisible-marketing-iim-rohtak-1716011) | Indian Institute of Management (IIM), Rohtak | India | 🏢 Onsite | — | 2026-07-29 | Unstop |
 | [NGO Strategy Case: The Continuity Trap in Senior Citizen Care](https://unstop.com/competitions/ngo-strategy-case-the-continuity-trap-in-senior-citizen-care-devadiya-foundation-1715773) | Devadiya Foundation | India | 🏢 Onsite | — | 2026-08-15 | Unstop |
-| [Chapters Nagpur — E-Cell IIT Bombay x E-Cell VNIT Nagpur](https://unstop.com/competitions/chapters-nagpur-e-cell-iit-bombay-x-e-cell-vnit-nagpur-vnit-nagpur-1714895) | Visvesvaraya National Institute of Technology (VNIT), Nagpur | India | 🏢 Onsite | — | 2026-07-24 | Unstop |
-| [Freshers Party Planning Night](https://unstop.com/competitions/freshers-party-planning-night-sant-longowal-institute-of-engineering-and-technology-longowal-punjab-1715304) | Sant Longowal Institute of Engineering and Technology, Longowal, Punjab | India | 🏢 Onsite | — | 2026-07-24 | Unstop |
-| [Colgate Transcend 2026 - Sales and Marketing Track](https://unstop.com/competitions/crp-colgate-transcend-2026-sales-and-marketing-track-colgate-transcend-2026-colgate-palmolive-india-limited-1709953) | Colgate-Palmolive (India) Limited | India | 🏢 Onsite | — | 2026-08-11 | Unstop |
-| [Unstop Quizverse 2026](https://unstop.com/quiz/unstop-quizverse-2026-unstop-1710459) | Unstop | India | 🏢 Onsite | — | 2026-11-28 | Unstop |
 
 ## Recently Expired
 

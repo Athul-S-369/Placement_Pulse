@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** SF, Seattle, WA, SF, Irvine, CA
+- **Locations:** Seattle, WA, SF, SF, Irvine, CA
 
 ## Current Opportunities
 

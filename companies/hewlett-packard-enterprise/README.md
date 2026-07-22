@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Spring, TX, San Jose, CA, Remote / Various
+- **Locations:** San Jose, CA, Spring, TX, Remote / Various
 
 ## Current Opportunities
 

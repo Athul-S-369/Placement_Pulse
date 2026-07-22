@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** San Antonio, TX, NYC, New Orleans, LA
+- **Locations:** New Orleans, LA, San Antonio, TX, NYC
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Austin, TX, California, Santa Clara, CA, United States, Santa Clara, CA, Remote in USA, Santa Clara, CA, Toronto, ON, Canada, Remote in Canada
+- **Locations:** Santa Clara, CA, Austin, TX, Remote in USA, Redmond, WA, Santa Clara, CA, California, Santa Clara, CA, United States, Toronto, ON, Canada, Remote in Canada, Austin, TX
 
 ## Current Opportunities
 
