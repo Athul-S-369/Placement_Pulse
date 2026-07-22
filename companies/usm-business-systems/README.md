@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Traverse City, MI, Southfield, MI, Washington, DC, St. Louis, MO, California City, CA
+- **Locations:** Rochester, MI, Manassas, VA, Alexandria, VA, NYC, San Antonio, TX
 
 ## Current Opportunities
 
