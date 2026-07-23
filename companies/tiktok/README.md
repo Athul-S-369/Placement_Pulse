@@ -1,16 +1,17 @@
 # 🏢 TikTok
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-07-22*
+**5 active opportunities** | **5 total tracked** | *Last updated: 2026-07-23*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** London, UK, NYC, San Jose, CA, Seattle, WA
+- **Locations:** San Jose, CA, NYC, London, UK, Remote / Various, Seattle, WA
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Research Scientist Intern - Monetization GenAI - 2026 Start](https://lifeattiktok.com/search/7535623435700766984) | TikTok | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Machine Learning Engineer Intern - Monetization Technology](https://lifeattiktok.com/search/7562342433721862405) | TikTok | San Jose, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern - Commerce Ads - 2026 Summer](https://lifeattiktok.com/search/7595346355196954933) | TikTok | Seattle, WA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Product Strategist Project Intern - Global Monetization Product and Technology - 2026 Start](https://lifeattiktok.com/search/7603516766509713717) | TikTok | NYC | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

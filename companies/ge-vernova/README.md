@@ -1,16 +1,17 @@
 # 🏢 GE Vernova
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-22*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-23*
 
 ## Overview
 
-- **Categories:** Internship
-- **Locations:** Remote in USA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Remote in USA, Greenville, SC, Bengaluru, Karnataka, India
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Engineer – Product Structuring Configuration Specialist](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/Engineer---Product-Structuring-Configuration-Specialist_R5047411) | GE Vernova | Greenville, SC, Bengaluru, Karnataka, India | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Grid Automation & Software Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Grid-Automation---Software-Intern_R5041706) | GE Vernova | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 
 ## 📖 Interview Preparation

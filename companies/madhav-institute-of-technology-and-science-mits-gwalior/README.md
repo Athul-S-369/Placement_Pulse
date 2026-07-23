@@ -1,6 +1,6 @@
 # 🏢 Madhav Institute of Technology and Science (MITS), Gwalior
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-22*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-23*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [HackOcean — A National Level Frontend Hackathon](https://unstop.com/hackathons/hackocean-a-national-level-frontend-hackathon-madhav-institute-of-technology-and-science-mits-gwalior-1707618) | Madhav Institute of Technology and Science (MITS), Gwalior | India | 🏢 Onsite | — | 2026-07-22 | Unstop |
 
 ## 📖 Interview Preparation
 

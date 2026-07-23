@@ -1,6 +1,6 @@
 # 🏢 Govt. Degree College, Padder
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-22*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-23*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [The Sports Quiz](https://unstop.com/quiz/the-sports-quiz-govt-degree-college-padder-1712158) | Govt. Degree College, Padder | India | 🏢 Onsite | — | 2026-07-22 | Unstop |
 
 ## 📖 Interview Preparation
 

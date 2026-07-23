@@ -1,6 +1,6 @@
 # 🏢 Avantika University
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-22*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-23*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Startup Showdown 2026 – National Startup Pitching Competition](https://unstop.com/competitions/startup-showdown-2026-national-startup-pitching-competition-avantika-university-1717983) | Avantika University | India | 🏢 Onsite | — | 2026-07-22 | Unstop |
 
 ## 📖 Interview Preparation
 

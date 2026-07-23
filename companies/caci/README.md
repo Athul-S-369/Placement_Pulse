@@ -1,11 +1,11 @@
 # 🏢 CACI
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-07-22*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-07-23*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Fayetteville, NC, Riverside, CA, Bethesda, MD, Hanover, MD
+- **Locations:** Hanover, MD, Bethesda, MD, Fayetteville, NC, Riverside, CA
 
 ## Current Opportunities
 
