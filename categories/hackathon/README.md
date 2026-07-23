@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**160 active** | **98 expired** | **258 total**
+**163 active** | **98 expired** | **261 total**
 
 *Last updated: 2026-07-23*
 
@@ -10,6 +10,9 @@
 |------|---------|----------|------|----------------|----------|--------|
 | [Marketing Minds Challenge 2026](https://unstop.com/quiz/marketing-minds-challenge-2026-vipnan-the-marketing-club-of-usms-1723683) | VIPNAN- THE MARKETING CLUB OF USMS | India | 🏢 Onsite | — | 2026-08-01 | Unstop |
 | [The "Rigged" Quiz](https://unstop.com/quiz/the-rigged-quiz-kiet-group-of-institutions-1723771) | KIET Group of Institutions | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
+| [2nd NextGen Hackathon 2026](https://unstop.com/hackathons/2nd-nextgen-hackathon-2026-soft-computing-research-society-new-delhi-delhi-1722019) | Soft Computing Research Society, New Delhi, Delhi | India | 🏢 Onsite | — | 2026-08-12 | Unstop |
+| [TA Hackathon](https://unstop.com/competitions/ta-hackathon-people-matters-1723444) | People Matters | India | 🏢 Onsite | — | 2026-08-06 | Unstop |
+| [CodeXtreme - 2K26](https://unstop.com/hackathons/codextreme-2k26-velagapudi-ramakrishna-siddhartha-engineering-college-vrsec-vijayawada-1723884) | Velagapudi Ramakrishna Siddhartha Engineering College (VRSEC), Vijayawada | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
 | [PromptX](https://unstop.com/competitions/promptx-s2s-1721995) | S2S | India | 🏢 Onsite | — | 2026-12-10 | Unstop |
 | [Statutory Audit Masterclass For Free](https://unstop.com/workshops-webinars/statutory-audit-masterclass-for-free-thinking-bridge-1723396) | Thinking Bridge | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
 | [Hacker's Gambit 2026](https://unstop.com/hackathons/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293) | Jaihind college of Engineering Kuran | India | 🏢 Onsite | — | 2026-10-04 | Unstop |
@@ -105,9 +108,6 @@
 | [Hacksynergy 2026](https://unstop.com/hackathons/hacksynergy-2026-inderprastha-engineering-college-ipec-ghaziabad-1716413) | Inderprastha Engineering College (IPEC), Ghaziabad | India | 🏢 Onsite | — | 2026-08-24 | Unstop |
 | [Career Growth Workshop & Leadership Accelerator](https://unstop.com/workshops-webinars/career-growth-workshop-leadership-accelerator-dyndox-1715458) | Dyndox | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
 | [test](https://unstop.com/hackathons/hacknova-2026-kvg-college-of-engineering-kvgce-sullia-karnataka-1715653) | KVG College of Engineering (KVGCE), Sullia, Karnataka | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
-| [The Ultimate Pharma Quiz Challenge 2026](https://unstop.com/quiz/the-ultimate-pharma-quiz-challenge-2026-pharmaorbit-1710080) | PharmaOrbit | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
-| [Code Build 1.0](https://unstop.com/hackathons/code-build-10-cobuild-1703709) | Cobuild | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
-| [2026 Hack4Health Labs Research Challenge](https://unstop.com/competitions/2026-hack4health-labs-research-challenge-hack4health-labs-hack4health-1715636) | Hack4Health | India | 🏢 Onsite | — | 2026-09-01 | Unstop |
 
 ## Recently Expired
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Beaverton, OR, San Jose, CA, Austin, TX, United States, San Diego, CA
+- **Locations:** United States, London, UK, Seattle, WA, San Jose, CA, Cambridge, MA
 
 ## Current Opportunities
 

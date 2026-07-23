@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1221 active** | **0 expired** | **1221 total**
+**1223 active** | **0 expired** | **1223 total**
 
 *Last updated: 2026-07-23*
 
@@ -9,6 +9,8 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [Engineer – Product Structuring Configuration Specialist](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/Engineer---Product-Structuring-Configuration-Specialist_R5047411) | GE Vernova | Greenville, SC, Bengaluru, Karnataka, India | 🏢 Onsite | — | — | SimplifyJobs New Grad |
+| [Field Service Representative](https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/Canada-Remote-Location-Greater-Vancouver-Area/Field-Service-Representative_4038671) | Agilent Technologies | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Data Scientist](https://ats.rippling.com/genlogs-corporation/jobs/127f98d1-b702-4395-a25c-0f7ebc98881b) | GenLogs | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Enablement Strategist](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-Enablement-Strategist--New-College-Graduate-_JR-2600365) | GlobalFoundries | Malta, NY, Bengaluru, Karnataka, India | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Product Information Management Specialist](https://ats.rippling.com/orderco/jobs/6e06a4b6-c727-4007-bdae-e3735aad6e61) | Order.co | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Compiler Engineer New Grad - Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Infrastructure----New-College-Grad-2026_JR2021228) | NVIDIA | Austin, TX, Remote in USA, Redmond, WA, Santa Clara, CA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -106,5 +108,3 @@
 | [Associate Data Analyst - People Analytics & Automation](https://jdgroupnam.wd1.myworkdayjobs.com/JDFL_Corporate_Careers/job/FL-Customer-Central---Indianapolis-Indiana/Associate-Data-Analyst--People-Analytics---Automation_JR133993) | JD Finish line | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Data Research Analyst](https://tmx.wd3.myworkdayjobs.com/TMX_Careers/job/US-Other/Data-Analyst_R-6161) | TMX Group | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [BI Engineer 1](https://jobs.lever.co/Trend-Health-Partners/5f478cad-abe8-40a2-aba0-76abef8b330f/apply) | Trend Health Partners | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Software Engineer 1](https://jobs.lever.co/aledade/1f5c4e2f-d8f7-4c55-aefb-d4bf300b1e6f/apply) | Aledade | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Data Warehouse Software Engineer 1](https://job-boards.greenhouse.io/babelstreet/jobs/8030833) | Babel Street | Cambridge, MA, Remote in USA, Reston, VA, Solon, OH | 🌐 Remote | — | — | SimplifyJobs New Grad |

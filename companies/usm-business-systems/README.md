@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Traverse City, MI, San Antonio, TX, Bluemont, VA, Chicago, IL, Bloomington, MN
+- **Locations:** NYC, Baltimore, MD, Rochester, MI, Manassas, VA, Augusta, ME
 
 ## Current Opportunities
 
