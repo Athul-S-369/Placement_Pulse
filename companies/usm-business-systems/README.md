@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** NYC, Baltimore, MD, Rochester, MI, Manassas, VA, Augusta, ME
+- **Categories:** Internship, Fresher Job
+- **Locations:** Westminster, CO, Rochester, MI, California City, CA, El Segundo, CA, Traverse City, MI
 
 ## Current Opportunities
 
