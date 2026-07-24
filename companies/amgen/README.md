@@ -1,16 +1,17 @@
 # 🏢 Amgen
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-24*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-24*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Tampa, FL, Thousand Oaks, CA
+- **Locations:** Remote in USA, Tampa, FL, Thousand Oaks, CA
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [SAP Principal Architect - Transportation Management](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/SAP-Principal-Architect--Transportation-Management_R-244752) | Amgen | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Principal Software Engineer](https://amgen.wd1.myworkdayjobs.com/careers/job/US---Florida---Tampa/Principal-Software-Engineer_R-240843) | Amgen | Tampa, FL, Thousand Oaks, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 
 ## 📖 Interview Preparation

@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1230 active** | **0 expired** | **1230 total**
+**1232 active** | **0 expired** | **1232 total**
 
 *Last updated: 2026-07-24*
 
@@ -12,6 +12,8 @@
 | [Associate AI Automation Engineer/AI Automation Engineer](https://careers-appliedsystems.icims.com/jobs/7719/job?mobile=true&needsRedirect=false) | Applied Systems, Inc. | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Securities Finance Trader](https://job-boards.greenhouse.io/alpaca/jobs/6123649004) | Alpaca | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Survey Programmer - Contractor](https://ats.rippling.com/kielo/jobs/a9da7211-44de-456a-9587-6f4b31110155) | Kielo Research | Remote in India, Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [SAP Principal Architect - Transportation Management](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/SAP-Principal-Architect--Transportation-Management_R-244752) | Amgen | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Product Owner](https://careers-libertymutual.icims.com/jobs/76912/job?mobile=true&needsRedirect=false) | Liberty Mutual | Boston, MA, Indianapolis, IN, Remote in USA, Portsmouth, NH | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Engineer – Product Structuring Configuration Specialist](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/Engineer---Product-Structuring-Configuration-Specialist_R5047411) | GE Vernova | Greenville, SC, Bengaluru, Karnataka, India | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Field Service Representative](https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/Canada-Remote-Location-Greater-Vancouver-Area/Field-Service-Representative_4038671) | Agilent Technologies | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Scientist](https://ats.rippling.com/genlogs-corporation/jobs/127f98d1-b702-4395-a25c-0f7ebc98881b) | GenLogs | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -106,5 +108,3 @@
 | [Insights and Advisory Services Analyst](https://jobs.lever.co/aviahealth/e31be4d2-06de-4cc0-832d-8c02000ae174/apply) | Avia Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Vietnamese Voice Recording Specialist - Voice Recording](https://jobs.lever.co/appen/bea969fc-4198-4680-b527-dae3bf67527e/apply) | CrowdGen by Appen | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Machine Learning Engineer - Relevance and Personalization](https://careers.airbnb.com/positions/7708224?gh_jid=7708224) | Airbnb | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Software Engineering MTS - Salesforce Engineer](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Salesforce-Developer_JR318246) | Salesforce | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Field Geophysicist / Field Geologist](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Field-Geophysicist---Field-Geologist_R182544) | Parsons | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Alpharetta, GA, Jacksonville, FL, St. Louis, MO, Novato, CA, Broomfield, CO
+- **Locations:** Dallas, TX, Plainview, NY, Broomfield, CO, St. Louis, MO, Sunnyvale, CA
 
 ## Current Opportunities
 

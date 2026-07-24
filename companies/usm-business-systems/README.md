@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Washington, DC, Traverse City, MI, Columbus, OH, Manassas, VA, Dublin, OH
+- **Locations:** Baltimore, MD, Washington, DC, California City, CA, St. Louis, MO, Traverse City, MI
 
 ## Current Opportunities
 
