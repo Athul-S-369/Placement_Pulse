@@ -1,6 +1,6 @@
 # 🏢 H & P Projects
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-23*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-24*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [MerchVerse 2026](https://unstop.com/quiz/merchverse-2026-h-p-projects-1711835) | H & P Projects | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
 
 ## 📖 Interview Preparation
 

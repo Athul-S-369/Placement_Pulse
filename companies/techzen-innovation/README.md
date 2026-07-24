@@ -1,6 +1,6 @@
 # 🏢 TechZen innovation
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-23*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-24*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [TechZen QuizVerse 2026](https://unstop.com/quiz/techzen-quizverse-2026-techzen-innovation-1713272) | TechZen innovation | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
 
 ## 📖 Interview Preparation
 

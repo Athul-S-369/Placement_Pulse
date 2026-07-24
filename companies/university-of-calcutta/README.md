@@ -1,6 +1,6 @@
 # 🏢 University of Calcutta
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-23*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-24*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Bodhisotto 1.0 U26 General Quiz](https://unstop.com/quiz/bodhisotto-10-u26-general-quiz-university-of-calcutta-1710346) | University of Calcutta | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
 
 ## 📖 Interview Preparation
 

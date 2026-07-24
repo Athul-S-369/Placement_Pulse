@@ -1,6 +1,6 @@
 # 🏢 Thakur College of Engineering and Technology (TCET), Mumbai
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-23*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-24*
 
 ## Overview
 

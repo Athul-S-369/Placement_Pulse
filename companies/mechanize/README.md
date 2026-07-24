@@ -1,10 +1,10 @@
 # 🏢 Mechanize
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-23*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-24*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
+- **Categories:** Fresher Job, Internship
 - **Locations:** San Francisco, CA, Remote in USA, San Francisco, CA
 
 ## Current Opportunities

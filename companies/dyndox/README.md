@@ -1,6 +1,6 @@
 # 🏢 Dyndox
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-23*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-24*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Career Growth Workshop & Leadership Accelerator](https://unstop.com/workshops-webinars/career-growth-workshop-leadership-accelerator-dyndox-1715458) | Dyndox | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,11 +1,11 @@
 # 🏢 Definity Financial
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-23*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-24*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Toronto, ON, Canada, Mississauga, ON, Canada, Kitchener, ON, Canada
+- **Locations:** Mississauga, ON, Canada, Kitchener, ON, Canada, Toronto, ON, Canada
 
 ## Current Opportunities
 

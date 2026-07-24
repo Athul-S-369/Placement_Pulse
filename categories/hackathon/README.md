@@ -1,13 +1,18 @@
 # 🏆 Hackathon
 
-**171 active** | **98 expired** | **269 total**
+**169 active** | **105 expired** | **274 total**
 
-*Last updated: 2026-07-23*
+*Last updated: 2026-07-24*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Placement Masterclass with AI: The Tools That Will Get You HIRED!](https://unstop.com/workshops-webinars/placement-masterclass-with-ai-the-tools-that-will-get-you-hired-dcornerr-1724258) | DCornerr | India | 🏢 Onsite | — | 2026-08-01 | Unstop |
+| [UNWRITTEN: AI & Its Impact – Prompt Engineering Webinar & AI Image Recreation Competition](https://unstop.com/workshops-webinars/unwritten-ai-its-impact-prompt-engineering-webinar-ai-image-recreation-competition-kangeyam-institute-1724191) | Kangeyam Institute of Technology | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
+| [The Great Agent Hackathon](https://unstop.com/hackathons/the-great-agent-hackathon-women-in-product-india-1724089) | Women In Product India | India | 🏢 Onsite | — | 2026-08-06 | Unstop |
+| [AlgoVerse'26](https://unstop.com/hackathons/algoverse26-bharati-vidyapeeth-college-of-engineering-pune-1724255) | Bharati Vidyapeeth College of Engineering Pune | India | 🏢 Onsite | — | 2026-08-12 | Unstop |
+| [International Hackathon Competition 2026](https://unstop.com/hackathons/international-hackathon-competition-2026-sofzenix-it-solution-llp-1724168) | Sofzenix IT Solution LLP | India | 🏢 Onsite | — | 2026-08-06 | Unstop |
 | [Marketing Minds Challenge 2026](https://unstop.com/quiz/marketing-minds-challenge-2026-vipnan-the-marketing-club-of-usms-1723683) | VIPNAN- THE MARKETING CLUB OF USMS | India | 🏢 Onsite | — | 2026-08-01 | Unstop |
 | [The "Rigged" Quiz](https://unstop.com/quiz/the-rigged-quiz-kiet-group-of-institutions-1723771) | KIET Group of Institutions | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
 | [2nd NextGen Hackathon 2026](https://unstop.com/hackathons/2nd-nextgen-hackathon-2026-soft-computing-research-society-new-delhi-delhi-1722019) | Soft Computing Research Society, New Delhi, Delhi | India | 🏢 Onsite | — | 2026-08-12 | Unstop |
@@ -63,7 +68,6 @@
 | [AI-Powered Fresher's Night Challenge](https://unstop.com/quiz/ai-powered-freshers-night-challenge-iimt-college-of-engineering-iimt-coe-greater-noida-1720702) | IIMT College Of Engineering (IIMT COE), Greater Noida | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
 | [Build Your First RAG Agent](https://unstop.com/workshops-webinars/build-your-first-rag-agent-peerlo-1720659) | Peerlo | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
 | [Placement Readiness Challenge – Quantitative Aptitude & Logical Reasoning](https://unstop.com/hackathons/placement-readiness-challenge-quantitative-aptitude-logical-reasoning-unsaidtalks-education-1718550) | UnsaidTalks Education | India | 🏢 Onsite | — | 2026-07-27 | Unstop |
-| [TechMate: Industry Edition](https://unstop.com/workshops-webinars/techmate-industry-edition-bits-1720224) | Birla Institute of Technology & Science, Pilani Campus | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
 | [Pune Chapters](https://unstop.com/conferences/pune-chapters-e-cell-iit-bombay-1720170) | E-Cell, IIT Bombay | India | 🏢 Onsite | — | 2026-08-08 | Unstop |
 | [Brand Canvas 2026](https://unstop.com/competitions/brand-canvas-2026-omnia-creative-1717779) | Omnia Creative | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
 | [Unlock Your Growth Mindset](https://unstop.com/workshops-webinars/unlock-your-growth-mindset-marwadi-university-rajkot-gujarat-1720353) | Marwadi University, Rajkot - Gujarat | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
@@ -83,7 +87,6 @@
 | [Quizbotics Season 4](https://unstop.com/quiz/quizbotics-season-4-lnm-institute-of-information-technology-lnmiit-jaipur-1719343) | LNM Institute of Information Technology (LNMIIT), Jaipur | India | 🏢 Onsite | — | 2026-09-13 | Unstop |
 | [BLACKBOX](https://unstop.com/hackathons/blackbox-vellore-institute-of-technology-vit-chennai-1719341) | Vellore Institute of Technology (VIT), Chennai | India | 🏢 Onsite | — | 2026-07-29 | Unstop |
 | [Code & Logic Quiz](https://unstop.com/quiz/code-logic-quiz-brcm-college-of-engineering-technology-1719342) | BRCM College Of Engineering & Technology | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
-| [Invitation for Articles: Ekagra 12.0](https://unstop.com/competitions/invitation-for-articles-ekagra-120-iim-amritsar-1718250) | Indian Institute of Management (IIM), Amritsar | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
 | [OptimizeIT](https://unstop.com/competitions/optimizeit-fugacity-2026-iit-kharagpur-1716678) | Indian Institute of Technology (IIT), Kharagpur | India | 🏢 Onsite | — | 2026-08-16 | Unstop |
 | [Case Study Analysis Competition - Drishitikon2k26](https://unstop.com/competitions/case-study-analysis-competition-drishitikon2k26-international-institute-of-management-studies-iims-pune-1718091) | International Institute of Management Studies (IIMS), Pune | India | 🏢 Onsite | — | 2026-07-29 | Unstop |
 | [CoLab Nation Prompt Engineering Challenge 2026](https://unstop.com/hackathons/colab-nation-prompt-engineering-challenge-2026-colab-nation-1718349) | CoLab Nation | India | 🏢 Onsite | — | 2026-07-30 | Unstop |
@@ -105,14 +108,18 @@
 | [EcoVision Poster Challenge 2026](https://unstop.com/events/ecovision-poster-challenge-2026-community-innovatex-1716198) | Community InnovateX | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
 | [Bteup Study Group Hub Campus Leader Challenge 2026](https://unstop.com/competitions/bteup-study-group-hub-campus-leader-challenge-2026-university-of-lucknow-lucknow-uttar-pradesh-1716524) | University of Lucknow, Lucknow, Uttar Pradesh | India | 🏢 Onsite | — | 2026-08-10 | Unstop |
 | [CampusOrbit National Chess Championship 2026](https://unstop.com/competitions/campusorbit-national-chess-championship-2026-campusorbit-1716743) | CampusOrbit | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
-| [FINnovate](https://unstop.com/competitions/finnovate-la-conquista-2026-sda-bocconi-asia-center-mumbai-1716603) | SDA Bocconi Asia Center, Mumbai | India | 🏢 Onsite | — | 2026-08-06 | Unstop |
-| [Designing Your Future – Building a Successful Career in the Design Industry](https://unstop.com/workshops-webinars/designing-your-future-building-a-successful-career-in-the-design-industry-mycaptain-by-imarticus-lear-1717088) | MyCaptain by Imarticus learning | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
-| [Building Your Career in Architecture – From Design Studio to Professional Practice](https://unstop.com/workshops-webinars/building-your-career-in-architecture-from-design-studio-to-professional-practice-mycaptain-1717082) | MyCaptain | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
 
 ## Recently Expired
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Bodhisotto 1.0 U26 General Quiz](https://unstop.com/quiz/bodhisotto-10-u26-general-quiz-university-of-calcutta-1710346) | University of Calcutta | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
+| [MerchVerse 2026](https://unstop.com/quiz/merchverse-2026-h-p-projects-1711835) | H & P Projects | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
+| [ThinkForBharat 1.0 – National Open Innovation Ideathon](https://unstop.com/competitions/thinkforbharat-10-national-open-innovation-ideathon-code-capital-coffee-1714352) | Code Capital & Coffee | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
+| [TechZen QuizVerse 2026](https://unstop.com/quiz/techzen-quizverse-2026-techzen-innovation-1713272) | TechZen innovation | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
+| [Career Growth Workshop & Leadership Accelerator](https://unstop.com/workshops-webinars/career-growth-workshop-leadership-accelerator-dyndox-1715458) | Dyndox | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
+| [Invitation for Articles: Ekagra 12.0](https://unstop.com/competitions/invitation-for-articles-ekagra-120-iim-amritsar-1718250) | Indian Institute of Management (IIM), Amritsar | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
+| [TechMate: Industry Edition](https://unstop.com/workshops-webinars/techmate-industry-edition-bits-1720224) | Birla Institute of Technology & Science, Pilani Campus | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
 | [MicroThink 360: Decode ,Diagnose ,Discover](https://unstop.com/quiz/microthink-360-decode-diagnose-discover-sns-college-of-nursing-coimbatore-tamil-nadu-1709662) | SNS College of Nursing, Coimbatore, Tamil Nadu | India | 🏢 Onsite | — | 2026-07-22 | Unstop |
 | [HackOcean — A National Level Frontend Hackathon](https://unstop.com/hackathons/hackocean-a-national-level-frontend-hackathon-madhav-institute-of-technology-and-science-mits-gwalior-1707618) | Madhav Institute of Technology and Science (MITS), Gwalior | India | 🏢 Onsite | — | 2026-07-22 | Unstop |
 | [The Sports Quiz](https://unstop.com/quiz/the-sports-quiz-govt-degree-college-padder-1712158) | Govt. Degree College, Padder | India | 🏢 Onsite | — | 2026-07-22 | Unstop |
@@ -126,10 +133,3 @@
 | [Technostrophe '26](https://unstop.com/quiz/technostrophe-26-e-summit-26-indian-institute-of-technology-iit-dharwad-1709090) | Indian Institute of Technology (IIT), Dharwad | India | 🏢 Onsite | — | 2026-07-20 | Unstop |
 | [IEEE Summer of Code 2026](https://unstop.com/competitions/ieee-summer-of-code-2026-ieee-student-branch-graphic-era-hill-university-1704994) | IEEE Student Branch, Graphic Era Hill University | India | 🏢 Onsite | — | 2026-07-20 | Unstop |
 | [Catalysis'T](https://unstop.com/competitions/catalysist-iit-guwahati-1709276) | Indian Institute of Technology (IIT), Guwahati | India | 🏢 Onsite | — | 2026-07-20 | Unstop |
-| [Your Time to Shine : Wribate July 2026 Challenge](https://unstop.com/competitions/your-time-to-shine-wribate-july-2026-challenge-your-time-to-shine-writers-debaters-wribate-july-2026-challe-1699409) | Wribate | India | 🏢 Onsite | — | 2026-07-20 | Unstop |
-| [Maxim Code AI Software innovation](https://unstop.com/competitions/maxim-code-ai-software-innovation-jaya-engineering-college-1718885) | Jaya Engineering College | India | 🏢 Onsite | — | 2026-07-20 | Unstop |
-| [Google Gemini QuizOff 2026](https://unstop.com/quiz/google-gemini-quizoff-2026-campuscrew-1685313) | CampusCrew | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
-| [Shri Ram Centenary Olympiad](https://unstop.com/quiz/shri-ram-centenary-olympiad-srcc-du-1704691) | Shri Ram College of Commerce, University of Delhi | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
-| [ThunderCipher Case Files #001: The Crypto Heist](https://unstop.com/hackathons/thundercipher-case-files-001-the-crypto-heist-thundercipher-1710309) | ThunderCipher | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
-| [Pro](https://unstop.com/quiz/pro-shri-mathura-high-school-sitamarhi-bihar-1710965) | Shri Mathura High School, Sitamarhi, Bihar | India | 🏢 Onsite | — | 2026-07-19 | Unstop |
-| [Aptitude & Reasoning Challenge](https://unstop.com/quiz/aptitude-reasoning-challenge-gayatri-vidya-parishad-college-of-engineering-gvpce-visakhapatnam-1711049) | Gayatri Vidya Parishad College of Engineering (GVPCE), Visakhapatnam | India | 🏢 Onsite | — | 2026-07-19 | Unstop |

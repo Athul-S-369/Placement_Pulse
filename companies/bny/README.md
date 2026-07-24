@@ -1,11 +1,11 @@
 # 🏢 BNY
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-07-23*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-07-24*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Lake Mary, FL, Houston, TX, Pittsburgh, PA, Manchester, UK
+- **Locations:** Manchester, UK, Houston, TX, Pittsburgh, PA, Lake Mary, FL
 
 ## Current Opportunities
 

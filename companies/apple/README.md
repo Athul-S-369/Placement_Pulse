@@ -1,11 +1,11 @@
 # 🏢 Apple
 
-**17 active opportunities** | **17 total tracked** | *Last updated: 2026-07-23*
+**17 active opportunities** | **17 total tracked** | *Last updated: 2026-07-24*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** San Diego, CA, United States, Beaverton, OR, Morrisville, NC, SF
+- **Categories:** Fresher Job, Internship
+- **Locations:** Cambridge, MA, Beaverton, OR, Gloucester, UK, London, UK, Seattle, WA
 
 ## Current Opportunities
 

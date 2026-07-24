@@ -1,13 +1,16 @@
 # 💼 Fresher Job
 
-**1226 active** | **0 expired** | **1226 total**
+**1229 active** | **0 expired** | **1229 total**
 
-*Last updated: 2026-07-23*
+*Last updated: 2026-07-24*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Associate Product Manager - Software and Databases - New Techniques](https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Remote-Ontario-CAN/Associate-Product-Manager---Software-and-Databases---New-Techniques_R2601031) | John Wiley & Sons | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Associate AI Automation Engineer/AI Automation Engineer](https://careers-appliedsystems.icims.com/jobs/7719/job?mobile=true&needsRedirect=false) | Applied Systems, Inc. | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Securities Finance Trader](https://job-boards.greenhouse.io/alpaca/jobs/6123649004) | Alpaca | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Engineer – Product Structuring Configuration Specialist](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/Engineer---Product-Structuring-Configuration-Specialist_R5047411) | GE Vernova | Greenville, SC, Bengaluru, Karnataka, India | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Field Service Representative](https://agilent.wd5.myworkdayjobs.com/Agilent_Careers/job/Canada-Remote-Location-Greater-Vancouver-Area/Field-Service-Representative_4038671) | Agilent Technologies | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Scientist](https://ats.rippling.com/genlogs-corporation/jobs/127f98d1-b702-4395-a25c-0f7ebc98881b) | GenLogs | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -105,6 +108,3 @@
 | [Software Engineering MTS - Salesforce Engineer](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Salesforce-Developer_JR318246) | Salesforce | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Field Geophysicist / Field Geologist](https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---Remote-Any-Location/Field-Geophysicist---Field-Geologist_R182544) | Parsons | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Senior Data Scientist](https://apply.careers.microsoft.com/careers/job/1970393556833959) | Microsoft | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Senior Software Engineer](https://jobs.ashbyhq.com/sardine/69604df3-fb78-4621-a250-4b2bd6af0531/application) | Sardine | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [System Specialist](https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/System-Specialist_R22024) | Wex | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Associate Certification Program Systems Analyst](https://wd5.myworkdaysite.com/en-US/recruiting/guidewire/external/job/United-States---Remote/Associate-Certification-Program-Systems-Analyst_JR_14946) | Guidewire | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

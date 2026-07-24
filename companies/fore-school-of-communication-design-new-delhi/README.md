@@ -1,6 +1,6 @@
 # 🏢 FORE School of Communication Design, New Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-23*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-24*
 
 ## Overview
 

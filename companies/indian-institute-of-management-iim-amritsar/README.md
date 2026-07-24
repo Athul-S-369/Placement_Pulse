@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Management (IIM), Amritsar
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-23*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-24*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Invitation for Articles: Ekagra 12.0](https://unstop.com/competitions/invitation-for-articles-ekagra-120-iim-amritsar-1718250) | Indian Institute of Management (IIM), Amritsar | India | 🏢 Onsite | — | 2026-07-23 | Unstop |
 
 ## 📖 Interview Preparation
 
