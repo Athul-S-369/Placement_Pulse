@@ -1,11 +1,11 @@
 # 🏢 Susquehanna International Group (SIG)
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-24*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-25*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Ardmore, PA, London, UK
+- **Categories:** Fresher Job, Internship
+- **Locations:** London, UK, Ardmore, PA
 
 ## Current Opportunities
 

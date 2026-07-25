@@ -1,6 +1,6 @@
 # 🏢 NXTGENSEC
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-24*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-25*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Vibeathon 6.0 (Vibecoding Hackathon)](https://unstop.com/hackathons/vibeathon-60-vibecoding-hackathon-nxtgensec-1710440) | NXTGENSEC | India | 🏢 Onsite | — | 2026-07-24 | Unstop |
 
 ## 📖 Interview Preparation
 

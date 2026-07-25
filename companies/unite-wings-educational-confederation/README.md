@@ -1,6 +1,6 @@
 # 🏢 Unite Wings Educational Confederation
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-24*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-25*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Free Live: Build a Resume That Opens Doors With AI](https://unstop.com/workshops-webinars/free-live-build-a-resume-that-opens-doors-with-ai-unite-wings-educational-confederation-1718255) | Unite Wings Educational Confederation | India | 🏢 Onsite | — | 2026-07-24 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,6 +1,6 @@
 # 🏢 Visvesvaraya National Institute of Technology (VNIT), Nagpur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-24*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-25*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Chapters Nagpur — E-Cell IIT Bombay x E-Cell VNIT Nagpur](https://unstop.com/competitions/chapters-nagpur-e-cell-iit-bombay-x-e-cell-vnit-nagpur-vnit-nagpur-1714895) | Visvesvaraya National Institute of Technology (VNIT), Nagpur | India | 🏢 Onsite | — | 2026-07-24 | Unstop |
 
 ## 📖 Interview Preparation
 

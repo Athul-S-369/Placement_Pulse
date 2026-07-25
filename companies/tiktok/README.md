@@ -1,11 +1,11 @@
 # 🏢 TikTok
 
-**5 active opportunities** | **5 total tracked** | *Last updated: 2026-07-24*
+**5 active opportunities** | **5 total tracked** | *Last updated: 2026-07-25*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Seattle, WA, Remote / Various, London, UK, NYC, San Jose, CA
+- **Locations:** Seattle, WA, San Jose, CA, NYC, London, UK, Remote / Various
 
 ## Current Opportunities
 

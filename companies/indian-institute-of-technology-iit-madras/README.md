@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Technology (IIT), Madras
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-24*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-25*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Founders Playbook Webinar series - 10](https://unstop.com/workshops-webinars/founders-playbook-webinar-series-10-iit-madras-1712349) | Indian Institute of Technology (IIT), Madras | India | 🏢 Onsite | — | 2026-07-24 | Unstop |
 
 ## 📖 Interview Preparation
 
