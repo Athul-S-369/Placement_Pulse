@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** El Segundo, CA, Augusta, ME, NYC, Dublin, OH, Westminster, CO
+- **Categories:** Internship, Fresher Job
+- **Locations:** Alexandria, VA, Chicago, IL, Washington, DC, Baltimore, MD, Bluemont, VA
 
 ## Current Opportunities
 

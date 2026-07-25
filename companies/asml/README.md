@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** San Jose, CA, Wilton, CT
+- **Categories:** Internship, Fresher Job
+- **Locations:** Wilton, CT, San Jose, CA
 
 ## Current Opportunities
 

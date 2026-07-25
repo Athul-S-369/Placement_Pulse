@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**July 25, 2026** &nbsp;—&nbsp; **85** Fresher Job &nbsp;·&nbsp; **48** Internship &nbsp;·&nbsp; **7** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**July 25, 2026** &nbsp;—&nbsp; **85** Fresher Job &nbsp;·&nbsp; **46** Internship &nbsp;·&nbsp; **7** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**146 opportunities** added or updated in the latest run (July 25, 2026).
+**144 opportunities** added or updated in the latest run (July 25, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -72,10 +72,10 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Application Developer 1 - Osf](https://bankatfirst.wd1.myworkdayjobs.com/ffb/job/IN---Indianapolis---Keystone-Crossing/Application-Developer-I--OSF_R9139) | First Financial Bank | Indianapolis, IN | Fresher Job | Onsite | — |
 | [Data Engineer 1](https://jobs.ashbyhq.com/flashpoint.io/84e64d83-f0b2-43db-8151-94dc75f2c705/application) | Flashpoint | Remote in USA | Fresher Job | Remote | — |
 | [Graduate Software Engineer](https://job-boards.eu.greenhouse.io/fuzehealth/jobs/4833389101) | Fuze Health | Remote in USA | Fresher Job | Remote | — |
-| [Imaging Field Service Engineer X-ray - CT - SC](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Imaging-Field-Service-Engineer-X-ray--CT---SC_R4043595-1) | GE Healthcare | Remote in USA | Fresher Job | Remote | — |
 | [Engineer – Product Structuring Configuration Specialist](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Greenville/Engineer---Product-Structuring-Configuration-Specialist_R5047411) | GE Vernova | Greenville, SC, Bengaluru | Fresher Job | Onsite | — |
 | [Software Development Engineer 1](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260271) | GM financial | Remote in USA | Fresher Job | Remote | — |
 | [Feed Integrations Associate](https://job-boards.greenhouse.io/garnerhealth/jobs/6112552004) | Garner Health | Remote in USA | Fresher Job | Remote | — |
+| [Data Scientist](https://ats.rippling.com/genlogs-corporation/jobs/127f98d1-b702-4395-a25c-0f7ebc98881b) | GenLogs | Remote in USA | Fresher Job | Remote | — |
 | [Media and Marketing Data Scientist](https://ats.rippling.com/gofishdigital/jobs/78b97903-efc2-4c55-9c55-8e414006200b) | Go Fish Digital | Remote in USA | Fresher Job | Remote | — |
 | [Hardware Engineer - AI Trainer](https://jobs.ashbyhq.com/handshake/a2005298-96da-46f6-8809-231008720bd9/application) | Handshake | Remote in USA | Fresher Job | Remote | — |
 | [Corporate Legal Technology Consultant - Discovery and Data M...](https://job-boards.greenhouse.io/harborglobal/jobs/5091441007) | Harbor | Remote in USA | Fresher Job | Remote | — |
@@ -168,7 +168,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Research Intern](https://job-boards.eu.greenhouse.io/gensyn/jobs/4579609101) | Gensyn | Remote in UK | Internship | Remote | — |
 | [Data Engineering Intern](https://job-boards.greenhouse.io/honehealth/jobs/5308958008) | Hone Health | Remote in USA | Internship | Remote | — |
 | [Product Intern](https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true) | Hubs.is | Remote in USA | Internship | Remote | — |
-| [Senior Data Governance Professional](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Data-Governance-Sr-Professional_R-423585) | Humana | Remote in USA | Internship | Remote | — |
 | [Data Science Intern](https://jobs.ashbyhq.com/mercor/11516609-e54b-4087-87c2-e84a8bafbb5a) | Mercor | Remote / Various | Internship | Remote | — |
 | [Data Engineering Co-op](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Data-Engineering-Co-Op_R65916) | Motorola | Remote in Canada | Internship | Remote | — |
 | [AI Product Engineer Intern](https://jobs.gusto.com/postings/myemployment-llc-ai-product-engineer-intern-c08d7fd3-115e-46ad-a46f-6c4be1f77263) | MyEmployment | Remote in US | Internship | Remote | — |
@@ -177,7 +176,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002) | Point72 | Remote / Various | Internship | Remote | — |
 | [AI Research Resident - Open Source AGI](https://jobs.ashbyhq.com/PrimeIntellect/afa6079a-5a35-4f90-ba88-780e4d36112f/application?embed=true) | Prime Intellect | Remote in USA | Internship | Remote | — |
 | [Full-Stack AI Developer Intern](https://revvity.wd103.myworkdayjobs.com/External/job/CAD-Remote--ON/Full-Stack-AI-Developer-Intern_JR-044905) | Revvity | Remote in Canada | Internship | Remote | — |
-| [Skillbridge Intern - Product Manager](https://job-boards.greenhouse.io/rise8/jobs/4359627007) | Rise8 | Remote in USA | Internship | Remote | — |
 | [R&D Engineer Intern](https://job-boards.greenhouse.io/technergetics/jobs/4681908006) | Technergetics | Remote in USA | Internship | Remote | — |
 | [Agentic AI Engineer Co-op](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015) | The Campbell's Company | Remote in USA | Internship | Remote | — |
 | [China Subject Matter Expert Intern](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004) | Two Six Technologies | Remote in USA | Internship | Remote | — |
@@ -308,6 +306,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-07-25 03:50 UTC</sub>
+<sub>Last generated: 2026-07-25 10:10 UTC</sub>
 
 </div>

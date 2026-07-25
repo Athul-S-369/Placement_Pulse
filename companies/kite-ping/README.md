@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** NYC, Berkeley, CA
+- **Locations:** Berkeley, CA, NYC
 
 ## Current Opportunities
 
