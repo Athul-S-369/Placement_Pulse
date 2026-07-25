@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Alexandria, VA, Chicago, IL, Washington, DC, Baltimore, MD, Bluemont, VA
+- **Locations:** Columbus, OH, Rochester, MI, Westminster, CO, Bluemont, VA, Manassas, VA
 
 ## Current Opportunities
 

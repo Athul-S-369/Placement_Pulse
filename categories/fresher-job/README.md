@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1233 active** | **0 expired** | **1233 total**
+**1234 active** | **0 expired** | **1234 total**
 
 *Last updated: 2026-07-25*
 
@@ -9,6 +9,7 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [Analytics Engineer](https://job-boards.greenhouse.io/postscript/jobs/8649676002) | Postscript | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Field Service Engineer - Electron Microscopy](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Kansas-USA/Field-Service-Engineer--Electron-Microscopy-_R-01334329) | Thermo Fisher Scientific | Kansas, LA, Remote in USA, Minnesota, Wisconsin, North Carolina, San Diego, CA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Product Manager - Software and Databases - New Techniques](https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Remote-Ontario-CAN/Associate-Product-Manager---Software-and-Databases---New-Techniques_R2601031) | John Wiley & Sons | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate AI Automation Engineer/AI Automation Engineer](https://careers-appliedsystems.icims.com/jobs/7719/job?mobile=true&needsRedirect=false) | Applied Systems, Inc. | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Securities Finance Trader](https://job-boards.greenhouse.io/alpaca/jobs/6123649004) | Alpaca | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Computer Voice Rating Task for Scottish English](https://jobs.lever.co/appen/b5ff2202-1209-44eb-85a5-d7959c579989/apply) | CrowdGen by Appen | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://boards.greenhouse.io/opensesame/jobs/7927745) | OpenSesame | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Insights and Advisory Services Analyst](https://jobs.lever.co/aviahealth/e31be4d2-06de-4cc0-832d-8c02000ae174/apply) | Avia Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Vietnamese Voice Recording Specialist - Voice Recording](https://jobs.lever.co/appen/bea969fc-4198-4680-b527-dae3bf67527e/apply) | CrowdGen by Appen | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

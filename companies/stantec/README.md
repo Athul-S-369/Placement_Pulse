@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Ottawa, ON, Canada, Sylvan Lake, AB, Canada
+- **Locations:** Sylvan Lake, AB, Canada, Ottawa, ON, Canada
 
 ## Current Opportunities
 
