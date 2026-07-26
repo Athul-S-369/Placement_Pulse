@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**161 active** | **124 expired** | **285 total**
+**165 active** | **124 expired** | **289 total**
 
 *Last updated: 2026-07-26*
 
@@ -8,6 +8,10 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Capital NEXUS](https://unstop.com/competitions/capital-nexus-mit-academy-of-engineering-mitaoe-pune-maharashtra-1726068) | MIT Academy of Engineering (MITAOE), Pune, Maharashtra | India | 🏢 Onsite | — | 2026-08-10 | Unstop |
+| [Neetiyudh: A Case Study](https://unstop.com/competitions/neetiyudh-a-case-study-krishi-chanakya-2026-national-institute-of-agricultural-extension-management-manage--1724872) | National Institute of Agricultural Extension Management (MANAGE), Hyderabad | India | 🏢 Onsite | — | 2026-08-14 | Unstop |
+| [AI Video Strategist](https://unstop.com/competitions/ai-video-strategist-indian-school-of-innovation-and-curiosity-1725471) | Indian School of Innovation and Curiosity | India | 🏢 Onsite | — | 2026-08-03 | Unstop |
+| [AI Career Masterclass: How to Land a ₹15–18 LPA Job as a Fresher](https://unstop.com/workshops-webinars/ai-career-masterclass-how-to-land-a-rs15-18-lpa-job-as-a-fresher-institute-of-product-leadership-1725042) | Institute of Product Leadership | India | 🏢 Onsite | — | 2026-08-08 | Unstop |
 | [Hackosquad CTF 2026 : Multiverse](https://unstop.com/hackathons/hackosquad-ctf-2026-multiverse-hackosquad-ctf-2026-multiverse-hackosquadctf-1724658) | hackosquadCTF | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
 | [Introduction to Agentic AI: Building Intelligent Applications with Forge](https://unstop.com/workshops-webinars/introduction-to-agentic-ai-building-intelligent-applications-with-forge-initializai-1724632) | Initializ.ai | India | 🏢 Onsite | — | 2026-08-07 | Unstop |
 | [Omnikon National Hackathon 2026](https://unstop.com/hackathons/omnikon-national-hackathon-2026-omnikon-1715716) | Omnikon | India | 🏢 Onsite | — | 2026-09-01 | Unstop |
@@ -104,10 +108,6 @@
 | [Fusion 360 & 3D Printing Workshop 2026](https://unstop.com/workshops-webinars/fusion-360-3d-printing-workshop-2026-vasantdada-patil-pratishthans-college-of-engineering-and-visual--1715441) | Vasantdada Patil Pratishthan's College of Engineering and Visual Arts, Mumbai, Maharashtra | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
 | [The Start up Conclave](https://unstop.com/competitions/the-start-up-conclave-maharana-pratap-group-of-institutions-1716485) | Maharana Pratap Group of institutions | India | 🏢 Onsite | — | 2026-09-05 | Unstop |
 | [Bteup Study Group Hub Campus Leader Challenge 2026](https://unstop.com/competitions/bteup-study-group-hub-campus-leader-challenge-2026-university-of-lucknow-lucknow-uttar-pradesh-1716524) | University of Lucknow, Lucknow, Uttar Pradesh | India | 🏢 Onsite | — | 2026-08-10 | Unstop |
-| [CampusOrbit National Chess Championship 2026](https://unstop.com/competitions/campusorbit-national-chess-championship-2026-campusorbit-1716743) | CampusOrbit | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
-| [FINnovate](https://unstop.com/competitions/finnovate-la-conquista-2026-sda-bocconi-asia-center-mumbai-1716603) | SDA Bocconi Asia Center, Mumbai | India | 🏢 Onsite | — | 2026-08-06 | Unstop |
-| [Designing Your Future – Building a Successful Career in the Design Industry](https://unstop.com/workshops-webinars/designing-your-future-building-a-successful-career-in-the-design-industry-mycaptain-by-imarticus-lear-1717088) | MyCaptain by Imarticus learning | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
-| [Building Your Career in Architecture – From Design Studio to Professional Practice](https://unstop.com/workshops-webinars/building-your-career-in-architecture-from-design-studio-to-professional-practice-mycaptain-1717082) | MyCaptain | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
 
 ## Recently Expired
 

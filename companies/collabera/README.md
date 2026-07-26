@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Alameda, CA, Calgary, AB, Canada, Radcliff, KY, Madison, WI, Salt Lake City, UT
+- **Locations:** Eagan, MN, Salt Lake City, UT, Oakland, CA, Calgary, AB, Canada, Princeton, NJ
 
 ## Current Opportunities
 

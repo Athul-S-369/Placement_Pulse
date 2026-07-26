@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship, Student Ambassador
-- **Locations:** Redmond, WA, Mountain View, CA, NYC, Vancouver, BC, Canada, Berkeley, CA, Burlington, MA
+- **Locations:** Berkeley, CA, Burlington, MA, Cambridge, MA, NYC, Annapolis Junction, MD, Reston, VA, Vancouver, BC, Canada, Cambridge, MA, Redmond, WA
 
 ## Current Opportunities
 

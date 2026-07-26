@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Westminster, CO, NYC, El Segundo, CA, Manassas, VA, Southfield, MI
+- **Locations:** Rochester, MI, Westminster, CO, Chantilly, VA, Bloomington, MN, Southfield, MI
 
 ## Current Opportunities
 
