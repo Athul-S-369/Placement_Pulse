@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Rochester, MI, Westminster, CO, Chantilly, VA, Bloomington, MN, Southfield, MI
+- **Categories:** Internship, Fresher Job
+- **Locations:** Columbus, OH, Bluemont, VA, St. Louis, MO, San Antonio, TX, Westminster, CO
 
 ## Current Opportunities
 
