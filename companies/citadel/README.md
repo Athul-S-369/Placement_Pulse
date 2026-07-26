@@ -1,11 +1,11 @@
 # 🏢 Citadel
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-07-25*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-07-26*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Paris, France, London, UK, London, UK, Miami, FL, Greenwich, CT, NYC, NYC
+- **Locations:** Paris, France, London, UK, Miami, FL, Greenwich, CT, NYC, NYC, London, UK
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏢 Amrita Vishwa Vidyapeetham
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-25*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-26*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AI-Powered Fresher's Night Challenge](https://unstop.com/competitions/ai-powered-freshers-night-challenge-amrita-vishwa-vidyapeetham-1720497) | Amrita Vishwa Vidyapeetham | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
 
 ## 📖 Interview Preparation
 

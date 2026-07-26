@@ -1,6 +1,6 @@
 # 🏢 Community InnovateX
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-25*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-26*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [EcoVision Poster Challenge 2026](https://unstop.com/events/ecovision-poster-challenge-2026-community-innovatex-1716198) | Community InnovateX | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
 
 ## 📖 Interview Preparation
 

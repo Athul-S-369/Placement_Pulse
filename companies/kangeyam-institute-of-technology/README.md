@@ -1,6 +1,6 @@
 # 🏢 Kangeyam Institute of Technology
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-25*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-26*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [UNWRITTEN: AI & Its Impact – Prompt Engineering Webinar & AI Image Recreation Competition](https://unstop.com/workshops-webinars/unwritten-ai-its-impact-prompt-engineering-webinar-ai-image-recreation-competition-kangeyam-institute-1724191) | Kangeyam Institute of Technology | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
 
 ## 📖 Interview Preparation
 

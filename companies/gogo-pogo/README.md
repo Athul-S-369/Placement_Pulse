@@ -1,6 +1,6 @@
 # 🏢 Gogo Pogo
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-25*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-26*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [iCEO : The Gamified Business Development Competition (July Edition - MBA)](https://unstop.com/competitions/iceo-the-gamified-business-development-competition-july-edition-mba-gogo-pogo-1720769) | Gogo Pogo | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,11 +1,11 @@
 # 🏢 Anduril
 
-**5 active opportunities** | **5 total tracked** | *Last updated: 2026-07-25*
+**5 active opportunities** | **5 total tracked** | *Last updated: 2026-07-26*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Bellevue, WA, Newport Beach, CA, Boston, MA, Seattle, WA, Newport Beach, CA, Irvine, CA, Reston, VA, Atlanta, GA, Irvine, CA, Rhode Island
+- **Categories:** Fresher Job, Internship
+- **Locations:** Newport Beach, CA, Boston, MA, Seattle, WA, Newport Beach, CA, Irvine, CA, Reston, VA, Atlanta, GA, Irvine, CA, Rhode Island, Bellevue, WA
 
 ## Current Opportunities
 

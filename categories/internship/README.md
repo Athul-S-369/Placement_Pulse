@@ -1,13 +1,14 @@
 # 🎓 Internship
 
-**750 active** | **0 expired** | **750 total**
+**751 active** | **0 expired** | **751 total**
 
-*Last updated: 2026-07-25*
+*Last updated: 2026-07-26*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100107) | Ambarella | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Data Analytics Intern](https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005) | Golden Pet Brands | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Research Scientist Intern - Monetization GenAI - 2026 Start](https://lifeattiktok.com/search/7535623435700766984) | TikTok | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Senior Data Governance Professional](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Data-Governance-Sr-Professional_R-423585) | Humana | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [Intern/New Grad Software Engineer](https://jobs.ashbyhq.com/anima/86ddfd6e-6aee-4ded-b9d0-440608763fb0) | Anima | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Human Interactive Driving Intern - World Models](https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149/apply) | Toyota Research Institute | Mountain View, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Intern Software Engineer](https://job-boards.greenhouse.io/octaura/jobs/4662934007) | Octaura | NYC | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Hardware Reliability Intern - Winter 2026](https://job-boards.greenhouse.io/figureai/jobs/4613067006) | Figure | San Jose, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

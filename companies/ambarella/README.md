@@ -1,16 +1,17 @@
 # 🏢 Ambarella
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-25*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-26*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** United States
+- **Locations:** Remote / Various, United States
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100107) | Ambarella | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Verification Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Verification-Engineer-Intern_JR100109) | Ambarella | United States | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 
 ## 📖 Interview Preparation
