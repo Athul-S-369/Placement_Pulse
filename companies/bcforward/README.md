@@ -1,11 +1,11 @@
 # 🏢 BCforward
 
-**6 active opportunities** | **6 total tracked** | *Last updated: 2026-07-26*
+**6 active opportunities** | **6 total tracked** | *Last updated: 2026-07-27*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** San Antonio, TX, Bellevue, WA, Chicago, IL, SF, Jackson Township, NJ, San Ramon, CA, Roanoke, VA
+- **Locations:** SF, Jackson Township, NJ, San Ramon, CA, Boston, MA, Roanoke, VA, Chicago, IL, San Antonio, TX
 
 ## Current Opportunities
 

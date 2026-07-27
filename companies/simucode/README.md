@@ -1,6 +1,6 @@
 # 🏢 SimuCode
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-26*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-27*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [SimuCode Robotics Challenge Week 2026](https://unstop.com/hackathons/simucode-robotics-challenge-week-2026-simucode-1720382) | SimuCode | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
 
 ## 📖 Interview Preparation
 

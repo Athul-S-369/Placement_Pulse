@@ -1,11 +1,11 @@
 # 🏢 Block
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-26*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-27*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Oakland, CA, Toronto, ON, Canada
+- **Locations:** Toronto, ON, Canada, Oakland, CA
 
 ## Current Opportunities
 

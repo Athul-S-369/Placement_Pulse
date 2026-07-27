@@ -1,6 +1,6 @@
 # 🏢 hackosquadCTF
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-26*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-27*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Hackosquad CTF 2026 : Multiverse](https://unstop.com/hackathons/hackosquad-ctf-2026-multiverse-hackosquad-ctf-2026-multiverse-hackosquadctf-1724658) | hackosquadCTF | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
 
 ## 📖 Interview Preparation
 

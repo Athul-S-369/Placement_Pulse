@@ -1,11 +1,11 @@
 # 🏢 Integrated Resources
 
-**12 active opportunities** | **12 total tracked** | *Last updated: 2026-07-26*
+**12 active opportunities** | **12 total tracked** | *Last updated: 2026-07-27*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Exton, PA, Santa Clara, CA, Hickory, NC, Cambridge, MA, Elmira, NY
+- **Categories:** Fresher Job, Internship
+- **Locations:** Elmira, NY, Boston, MA, Hickory, NC, North Haven, CT, Westborough, MA
 
 ## Current Opportunities
 

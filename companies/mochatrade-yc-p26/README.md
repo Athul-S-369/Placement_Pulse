@@ -1,6 +1,6 @@
 # 🏢 Mochatrade (YC P26)
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-26*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-27*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Market Makers : A Strategic Case Competition](https://unstop.com/competitions/market-makers-a-strategic-case-competition-mochatrade-yc-p26-1712823) | Mochatrade (YC P26) | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,6 +1,6 @@
 # 🏢 Bhai Parmanand DSEU Shakarpur Campus 2, Shakarpur, New Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-26*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-27*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Freshers Party Planning Night](https://unstop.com/competitions/freshers-party-planning-night-bhai-parmanand-dseu-shakarpur-campus-2-shakarpur-new-delhi-1722131) | Bhai Parmanand DSEU Shakarpur Campus 2, Shakarpur, New Delhi | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
 
 ## 📖 Interview Preparation
 
