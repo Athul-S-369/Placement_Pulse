@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1235 active** | **0 expired** | **1235 total**
+**1239 active** | **0 expired** | **1239 total**
 
 *Last updated: 2026-07-27*
 
@@ -8,6 +8,10 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Technical Service Representative - Level 1](https://ats.rippling.com/linenmaster/jobs/fe142242-d7d7-42d7-8958-927badbba414) | LinenMaster | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Systems Software Engineer - Kubernetes Scale - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Remote/Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020236) | NVIDIA | Remote in Germany, Remote in UK, Remote in Spain, Remote in France | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Product Manager - Customer Engagement & Education](https://ats.rippling.com/routeware-careers/jobs/90022d85-760c-4641-b53b-cef108f79b58) | Routeware | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Implementation Specialist 1](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote---USA/Implementation-Specialist-I_R51653) | Jonas Software | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Migration Specialist](https://ats.rippling.com/gaiias-open-positions/jobs/4b2a9591-cabc-4196-b879-99ff06278144) | Gaiia | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Analytics Engineer](https://job-boards.greenhouse.io/postscript/jobs/8649676002) | Postscript | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Field Service Engineer - Electron Microscopy](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Kansas-USA/Field-Service-Engineer--Electron-Microscopy-_R-01334329) | Thermo Fisher Scientific | Kansas, LA, Remote in USA, Minnesota, Wisconsin, North Carolina, San Diego, CA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -104,7 +108,3 @@
 | [Software Engineer](https://job-boards.greenhouse.io/transcendinc/jobs/4202502009) | Transcend | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Systems Analyst](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Remote/Associate-Systems-Analyst---MyChart-Digital-Experience_JR26-37123-1) | WVUMedicine | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Staffing and Resource Forecasting Analyst](https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Remote/Staffing-and-Resource-Forecasting-Analyst_JR4810) | WellSky | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Software Developer 1 - Software Engineering](https://job-boards.eu.greenhouse.io/cision/jobs/4899574101) | Cision | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Quality Process Analyst](https://job-boards.greenhouse.io/natera/jobs/6105091004) | Natera | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Computer Voice Rating Task for Scottish English](https://jobs.lever.co/appen/b5ff2202-1209-44eb-85a5-d7959c579989/apply) | CrowdGen by Appen | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Software Engineer](https://boards.greenhouse.io/opensesame/jobs/7927745) | OpenSesame | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

@@ -1,16 +1,17 @@
 # 🏢 NVIDIA
 
-**6 active opportunities** | **6 total tracked** | *Last updated: 2026-07-27*
+**7 active opportunities** | **7 total tracked** | *Last updated: 2026-07-27*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Toronto, ON, Canada, Remote in Canada, Remote in USA, Santa Clara, CA, Austin, TX, Remote in USA, Redmond, WA, Santa Clara, CA, Santa Clara, CA, California, Santa Clara, CA, United States
+- **Locations:** California, Santa Clara, CA, United States, Toronto, ON, Canada, Remote in Canada, Austin, TX, Remote in Germany, Remote in UK, Remote in Spain, Remote in France, Remote in USA, Santa Clara, CA
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Systems Software Engineer - Kubernetes Scale - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Remote/Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020236) | NVIDIA | Remote in Germany, Remote in UK, Remote in Spain, Remote in France | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Compiler Engineer New Grad - Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Infrastructure----New-College-Grad-2026_JR2021228) | NVIDIA | Austin, TX, Remote in USA, Redmond, WA, Santa Clara, CA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Machine Learning Applications and Compiler Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2016937) | NVIDIA | Toronto, ON, Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745) | NVIDIA | Santa Clara, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

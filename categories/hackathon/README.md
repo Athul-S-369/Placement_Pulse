@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**164 active** | **135 expired** | **299 total**
+**167 active** | **135 expired** | **302 total**
 
 *Last updated: 2026-07-27*
 
@@ -14,6 +14,9 @@
 | [Strategia](https://unstop.com/competitions/strategia-tezpur-university-tezu-tezpur-1726272) | Tezpur University (TEZU), Tezpur | India | 🏢 Onsite | — | 2026-08-28 | Unstop |
 | [AI based Trading & Training Live Project and Workshop](https://unstop.com/workshops-webinars/ai-based-trading-training-live-project-and-workshop-orivis-alpha-research-pvt-ltd-1726314) | Orivis Alpha Research Pvt. Ltd. | India | 🏢 Onsite | — | 2026-08-09 | Unstop |
 | [Tech Fusion Workshop](https://unstop.com/workshops-webinars/tech-fusion-workshop-techfusion-workshop-malla-reddy-mr-deemed-university-1726177) | Malla Reddy (MR) Deemed University | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
+| [Open Innovation Hackathon](https://unstop.com/hackathons/open-innovation-hackathon-hakitxmrdu-malla-reddy-deemed-to-be-university-1725253) | Malla Reddy Deemed to Be University | India | 🏢 Onsite | — | 2026-08-21 | Unstop |
+| [Varchasva 2026](https://unstop.com/competitions/varchasva-2026-bitsnbytes-noida-1726189) | BITSNBYTES NOIDA | India | 🏢 Onsite | — | 2026-08-09 | Unstop |
+| [Product & Design Challenge](https://unstop.com/competitions/product-design-challenge-product-and-design-challenge-algozenith-technologies-1718305) | AlgoZenith Technologies | India | 🏢 Onsite | — | 2026-08-25 | Unstop |
 | [Capital NEXUS](https://unstop.com/competitions/capital-nexus-mit-academy-of-engineering-mitaoe-pune-maharashtra-1726068) | MIT Academy of Engineering (MITAOE), Pune, Maharashtra | India | 🏢 Onsite | — | 2026-08-10 | Unstop |
 | [Neetiyudh: A Case Study](https://unstop.com/competitions/neetiyudh-a-case-study-krishi-chanakya-2026-national-institute-of-agricultural-extension-management-manage--1724872) | National Institute of Agricultural Extension Management (MANAGE), Hyderabad | India | 🏢 Onsite | — | 2026-08-14 | Unstop |
 | [AI Video Strategist](https://unstop.com/competitions/ai-video-strategist-indian-school-of-innovation-and-curiosity-1725471) | Indian School of Innovation and Curiosity | India | 🏢 Onsite | — | 2026-08-03 | Unstop |
@@ -105,9 +108,6 @@
 | [NERDS 1.0 - India's First AI Hackathon For Schools](https://unstop.com/hackathons/nerds-10-indias-first-ai-hackathon-for-schools-kokos-ai-pvt-ltd-1718104) | Kokos AI Pvt Ltd. | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
 | [Segue 3.0 : Global Design Thinking Challenge (Online + Offline)](https://unstop.com/hackathons/segue-30-global-design-thinking-challenge-online-offline-schooloffutureskillscomsegue-3-0-noida-institute-of--1712134) | Noida Institute of Engineering And Technology (NIET), Greater Noida | India | 🏢 Onsite | — | 2026-09-26 | Unstop |
 | [HackMatriX 2026 - 24 Hour National Hackathon](https://unstop.com/hackathons/hackmatrix-2026-24-hour-national-hackathon-ieee-computer-society-mits-gwalior-1701757) | IEEE Computer Society MITS, Gwalior | India | 🏢 Onsite | — | 2026-07-27 | Unstop |
-| [Cloud Computing Fundamentals with Salesforce](https://unstop.com/workshops-webinars/cloud-computing-fundamentals-with-salesforce-bodha-software-technologies-pvt-ltd-1717563) | Bodha Software Technologies Pvt Ltd | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
-| [TVS Credit E.P.I.C 8.0 — IT Challenge](https://unstop.com/competitions/crp-tvs-credit-epic-80-it-challenge-epic-season-8-tvs-credit-1701115) | TVS Credit | India | 🏢 Onsite | — | 2026-12-20 | Unstop |
-| [PVM Confy Challenge 4.0](https://unstop.com/competitions/crp-pvm-confy-challenge-40-perfetti-van-melle-1712269) | Perfetti Van Melle | India | 🏢 Onsite | — | 2026-08-09 | Unstop |
 
 ## Recently Expired
 

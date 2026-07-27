@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Riverside, CA, Hanover, MD, Bethesda, MD, Fayetteville, NC
+- **Locations:** Hanover, MD, Bethesda, MD, Riverside, CA, Fayetteville, NC
 
 ## Current Opportunities
 

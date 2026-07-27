@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** St. Louis, MO, Baltimore, MD, Traverse City, MI, El Segundo, CA, Dublin, OH
+- **Locations:** NYC, Baltimore, MD, Augusta, ME, Southfield, MI, Chicago, IL
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Fairview, OR, Colorado Springs, CO, Houston, TX, Carlisle, PA
+- **Locations:** Houston, TX, Colorado Springs, CO, Fairview, OR, Carlisle, PA
 
 ## Current Opportunities
 

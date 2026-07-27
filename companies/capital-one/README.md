@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Toronto, ON, Canada, Cambridge, MA, SF, San Jose, CA, McLean, VA, NYC
+- **Locations:** Cambridge, MA, SF, San Jose, CA, McLean, VA, NYC, Toronto, ON, Canada
 
 ## Current Opportunities
 
