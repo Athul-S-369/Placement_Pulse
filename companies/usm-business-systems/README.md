@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** NYC, Baltimore, MD, Augusta, ME, Southfield, MI, Chicago, IL
+- **Locations:** Chicago, IL, Bluemont, VA, Dublin, OH, Jefferson City, MO, St. Louis, MO
 
 ## Current Opportunities
 

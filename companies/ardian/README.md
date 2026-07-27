@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** London, UK, NYC
+- **Locations:** NYC, London, UK
 
 ## Current Opportunities
 

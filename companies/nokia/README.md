@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Vancouver, BC, Canada, Ottawa, ON, Canada, United States, Canada, Naperville, IL, Dallas, TX
+- **Locations:** Vancouver, BC, Canada, Naperville, IL, Dallas, TX, California, San Jose, CA, Ottawa, ON, Canada
 
 ## Current Opportunities
 
