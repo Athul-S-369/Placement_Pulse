@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Jefferson City, MO, Dublin, OH, Westminster, CO, Rochester, MI, San Antonio, TX
+- **Categories:** Fresher Job, Internship
+- **Locations:** Dublin, OH, Bluemont, VA, San Antonio, TX, Jefferson City, MO, Washington, DC
 
 ## Current Opportunities
 
