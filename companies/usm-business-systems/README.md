@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** San Antonio, TX, Traverse City, MI, Washington, DC, Alexandria, VA, Columbus, OH
+- **Locations:** Jefferson City, MO, Dublin, OH, Westminster, CO, Rochester, MI, San Antonio, TX
 
 ## Current Opportunities
 

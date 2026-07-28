@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**168 active** | **140 expired** | **308 total**
+**170 active** | **140 expired** | **310 total**
 
 *Last updated: 2026-07-28*
 
@@ -10,6 +10,8 @@
 |------|---------|----------|------|----------------|----------|--------|
 | [CodeFury 9.0](https://unstop.com/hackathons/codefury-90-university-visvesvaraya-college-of-engineering-uvce-bangalore-1726707) | University Visvesvaraya College Of Engineering (UVCE), Bangalore | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
 | [Paper Buddy EduVerse Hackathon 2026](https://unstop.com/hackathons/paper-buddy-eduverse-hackathon-2026-deenbandhu-chhotu-ram-university-of-science-and-technology-dcrust-murthal-1726534) | Deenbandhu Chhotu Ram University Of Science And Technology (DCRUST), Murthal, Haryana | India | 🏢 Onsite | — | 2026-09-01 | Unstop |
+| [Code Forge 2026](https://unstop.com/hackathons/code-forge-2026-g-h-raisoni-college-of-engineering-and-management-ghrcem-nagpur-1726255) | G. H. Raisoni College of Engineering and Management (GHRCEM), Nagpur | India | 🏢 Onsite | — | 2026-08-21 | Unstop |
+| [HUL TechTonic Season 8](https://unstop.com/competitions/crp-hul-techtonic-season-8-hindustan-unilever-limited-hul-1719683) | Hindustan Unilever Limited (HUL) | India | 🏢 Onsite | — | 2026-09-07 | Unstop |
 | [Ops Elevate- The Internship Showcase 2026](https://unstop.com/competitions/ops-elevate-the-internship-showcase-2026-symbiosis-institute-of-management-studies-sims-pune-1726095) | Symbiosis Institute of Management Studies (SIMS), Pune | India | 🏢 Onsite | — | 2026-08-12 | Unstop |
 | [Catalyst 1.0](https://unstop.com/hackathons/catalyst-10-integral-university-iu-lucknow-1726311) | Integral University (IU), Lucknow | India | 🏢 Onsite | — | 2026-08-11 | Unstop |
 | [STAMPERS National Hackathon 2026](https://unstop.com/hackathons/stampers-national-hackathon-2026-stampers-1726290) | STAMPERS | India | 🏢 Onsite | — | 2026-08-15 | Unstop |
@@ -106,8 +108,6 @@
 | [CoLab Nation Prompt Engineering Challenge 2026](https://unstop.com/hackathons/colab-nation-prompt-engineering-challenge-2026-colab-nation-1718349) | CoLab Nation | India | 🏢 Onsite | — | 2026-07-30 | Unstop |
 | [The Closer- FlytBase Hiring Hackathon](https://unstop.com/hackathons/the-closer-flytbase-hiring-hackathon-httpslifeatflytbasecomhiring-hackathon-flytbase-labs-pvt-ltd-1718144) | FlytBase Labs Pvt. Ltd. | India | 🏢 Onsite | — | 2026-07-28 | Unstop |
 | [AWS Student Builder Event – Get Free AWS Certification Exam Vouchers](https://unstop.com/workshops-webinars/aws-student-builder-event-get-free-aws-certification-exam-vouchers-ssm-institute-of-engineering-and-t-1718528) | SSM Institute of Engineering and Technology | India | 🏢 Onsite | — | 2026-08-31 | Unstop |
-| [DEMUX 3.0](https://unstop.com/hackathons/demux-30-demux-30-bv-raju-institute-of-technology-narsapur-bvrit-n-1715858) | BV Raju Institute of Technology, Narsapur (BVRIT-N) | India | 🏢 Onsite | — | 2026-08-14 | Unstop |
-| [AI-POWERD](https://unstop.com/quiz/ai-powerd-ai-quiz-jntua-college-of-engineering-kalikiri-1717831) | JNTUA College Of Engineering Kalikiri | India | 🏢 Onsite | — | 2026-07-29 | Unstop |
 
 ## Recently Expired
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Kent, WA, Huntsville, AL, Washington, Seattle, WA, LA, Denver, CO, LA, Kent, WA
+- **Locations:** Seattle, WA, LA, Denver, CO, Kent, WA, Huntsville, AL, Washington, LA, Kent, WA
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Ashland, KY, Austin, TX, San Antonio, TX, Kansas City, MO, Elyria, OH
+- **Locations:** Austin, TX, San Antonio, TX, Elyria, OH, Kansas City, MO, Ashland, KY
 
 ## Current Opportunities
 
