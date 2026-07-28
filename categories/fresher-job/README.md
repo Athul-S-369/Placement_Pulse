@@ -1,13 +1,21 @@
 # 💼 Fresher Job
 
-**1239 active** | **0 expired** | **1239 total**
+**1247 active** | **0 expired** | **1247 total**
 
-*Last updated: 2026-07-27*
+*Last updated: 2026-07-28*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Analytics Application Developer](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---Georgia/Analytics-Application-Developer_R01132512) | Solventum | Remote in USA, Georgia | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [System Engineer](https://careers-empowerai.icims.com/jobs/9155/job?mobile=true&needsRedirect=false) | Empower AI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Engineer - Supporthub](https://job-boards.greenhouse.io/energyhub/jobs/8385899002) | EnergyHub | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Geo Tech 2](https://job-boards.greenhouse.io/woolpert/jobs/4108104009) | Woolpert | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Analyst – Underwriting Analytics](https://ats.rippling.com/topdoglaw/jobs/cb0b45f5-937e-41ca-9fd7-c4099a73a036) | TopDog Law | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Engineer 1](https://jobs.ashbyhq.com/chainlink-labs/8485e325-111f-4370-b3c6-0ed95872144f/application?embed=true) | Chainlink Labs | Las Vegas, NV, Tampa, FL, Remote in UK, Remote in Ireland, Charlotte, NC, Phoenix, AZ, Remote in Spain, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Data Scientist 1](https://jobs.ashbyhq.com/miovision/97548bf9-09a0-49b0-a6eb-9a43499a1369/application?embed=true) | Miovision | Remote in Canada, Kitchener, ON, Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Engineer 1 - Assurehire - Go](https://job-boards.greenhouse.io/mitratech/jobs/8060928) | Mitratech | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Technical Service Representative - Level 1](https://ats.rippling.com/linenmaster/jobs/fe142242-d7d7-42d7-8958-927badbba414) | LinenMaster | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Systems Software Engineer - Kubernetes Scale - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Remote/Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020236) | NVIDIA | Remote in Germany, Remote in UK, Remote in Spain, Remote in France | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Product Manager - Customer Engagement & Education](https://ats.rippling.com/routeware-careers/jobs/90022d85-760c-4641-b53b-cef108f79b58) | Routeware | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -100,11 +108,3 @@
 | [Senior Social Media Analyst - Integrated Intelligence](https://job-boards.greenhouse.io/realchemistry/jobs/5262316008) | Real Chemistry | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Engineer](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Data-Engineer_REQ228) | DuCharme, McMillen & Associates | Indianapolis, IN, Fort Wayne, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Product Manager](https://theaccessgroup.wd103.myworkdayjobs.com/Access_Group_External_Careers/job/United-Kingdom-Remote/Product-Manager_JR004229-2) | The Access Group | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Data Operations Associate](https://jobs.lever.co/thetrevorproject/90a30d32-6048-4ec1-b323-bacdc78aacd9/apply) | The Trevor Project | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Data Imports Analyst](https://job-boards.greenhouse.io/srsacquiom/jobs/5143375007) | SRS Acquiom | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [AI & Analytics Engineer](https://pmpediatrics.wd5.myworkdayjobs.com/PMPeds/job/Remote---United-States/AI---Analytics-Engineer_2026-R0988-3) | PM Pediatric Care | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Associate Data Scientist](https://ats.rippling.com/adelaide/jobs/60b7ea31-eb5b-42d9-863e-4ae0c602ea1d) | Adelaide Metrics | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Maps Personalization Relevance Rater - English](https://jobs.lever.co/weloglobal/0157c8d2-ccef-4760-89c2-cd874506955f/apply) | Welo Global | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Software Engineer](https://job-boards.greenhouse.io/transcendinc/jobs/4202502009) | Transcend | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Associate Systems Analyst](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Remote/Associate-Systems-Analyst---MyChart-Digital-Experience_JR26-37123-1) | WVUMedicine | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Staffing and Resource Forecasting Analyst](https://wellsky.wd1.myworkdayjobs.com/WellSkyCareers/job/Remote/Staffing-and-Resource-Forecasting-Analyst_JR4810) | WellSky | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

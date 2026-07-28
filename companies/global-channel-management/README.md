@@ -1,11 +1,11 @@
 # 🏢 Global Channel Management
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-07-27*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-07-28*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Mason, OH, Columbia, SC, Grove City, OH, Cincinnati, OH
+- **Categories:** Internship, Fresher Job
+- **Locations:** Columbia, SC, Mason, OH, Cincinnati, OH, Grove City, OH
 
 ## Current Opportunities
 

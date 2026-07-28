@@ -1,6 +1,6 @@
 # 🏢 UnsaidTalks Education
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-27*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-28*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Placement Readiness Challenge – Quantitative Aptitude & Logical Reasoning](https://unstop.com/hackathons/placement-readiness-challenge-quantitative-aptitude-logical-reasoning-unsaidtalks-education-1718550) | UnsaidTalks Education | India | 🏢 Onsite | — | 2026-07-27 | Unstop |
 
 ## 📖 Interview Preparation
 

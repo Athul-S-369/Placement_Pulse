@@ -1,11 +1,11 @@
 # 🏢 Amgen
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-27*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-28*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Tampa, FL, Thousand Oaks, CA, Remote in USA
+- **Locations:** Remote in USA, Tampa, FL, Thousand Oaks, CA
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏢 Droidecks
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-27*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-28*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [HackNexus'26](https://unstop.com/hackathons/hacknexus26-droidecks-1695049) | Droidecks | India | 🏢 Onsite | — | 2026-07-27 | Unstop |
 
 ## 📖 Interview Preparation
 

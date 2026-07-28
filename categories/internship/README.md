@@ -1,13 +1,15 @@
 # 🎓 Internship
 
-**751 active** | **0 expired** | **751 total**
+**753 active** | **0 expired** | **753 total**
 
-*Last updated: 2026-07-27*
+*Last updated: 2026-07-28*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Marketing Analytics Intern](https://careers.kodak.com/job/USA-Marketing-Analytics-Intern-CA/1412894200/?ats=successfactors) | Kodak | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [ServiceNow Developer Associate](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/Cyber-ServiceNow-Developer-Associate---Summer-2027_JR117288) | RSM | Indianapolis, IN, Chicago, IL | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100107) | Ambarella | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Data Analytics Intern](https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005) | Golden Pet Brands | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Research Scientist Intern - Monetization GenAI - 2026 Start](https://lifeattiktok.com/search/7535623435700766984) | TikTok | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
@@ -106,5 +108,3 @@
 | [Software Engineering Intern, Frontend](https://jobs.ashbyhq.com/tessera-labs/c0350717-8b4d-4a1a-af00-4c62204192fd) | Tessera Labs | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Embedded Software Engineering Intern](https://jobs.ashbyhq.com/regent/ef64cbcf-5184-43a1-a048-842f89f6cd0b) | REGENT | North Kingstown, RI | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Intern/New Grad Software Engineer](https://jobs.ashbyhq.com/anima/86ddfd6e-6aee-4ded-b9d0-440608763fb0) | Anima | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Human Interactive Driving Intern - World Models](https://jobs.lever.co/tri/63d61db3-ac43-4c0d-8b9b-5006e3b92149/apply) | Toyota Research Institute | Mountain View, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Intern Software Engineer](https://job-boards.greenhouse.io/octaura/jobs/4662934007) | Octaura | NYC | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
