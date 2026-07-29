@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1251 active** | **0 expired** | **1251 total**
+**1255 active** | **0 expired** | **1255 total**
 
 *Last updated: 2026-07-29*
 
@@ -12,6 +12,10 @@
 | [Associate Forward Deployed Engineer](https://jobs.ashbyhq.com/eliza/3190c7b1-a01f-42e0-9a16-2c6dfc40eb8d/application?embed=true) | Eliza | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Customer Engineer Associate](https://job-boards.greenhouse.io/reltio/jobs/5576245004) | Reltio | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Senior AI Engineer](https://jobs.lever.co/employ/65d6239e-f9fc-41ee-bed2-55a427c191de/apply) | Employ | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Salesforce Engineer 1](https://vibrant.wd5.myworkdayjobs.com/VEH_EXTERNAL_CAREER_SITE/job/Remote-USA/Salesforce-Engineer-I_JR100169-1) | Vibrant Emotional Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Product Owner](https://ats.rippling.com/nesto/jobs/d670dd4f-5fdf-46d1-ac10-a479eeb87ef3) | nesto | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Engineer](https://ats.rippling.com/logicbroker-inc/jobs/3d23113d-d689-407d-af4b-57907b4e2a61) | Logicbroker, Inc. | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Senior Software Engineer - Mobile Connectivity](https://ats.rippling.com/door/jobs/1513e8f7-1f57-4b6a-a5de-8709655bb66a) | DOOR | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Analytics Application Developer](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---Georgia/Analytics-Application-Developer_R01132512) | Solventum | Remote in USA, Georgia | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [System Engineer](https://careers-empowerai.icims.com/jobs/9155/job?mobile=true&needsRedirect=false) | Empower AI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer - Supporthub](https://job-boards.greenhouse.io/energyhub/jobs/8385899002) | EnergyHub | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -104,7 +108,3 @@
 | [Analyst 1 - Mission Control](https://jobs.ashbyhq.com/dailypay/17a78eb3-d50c-4c6c-8b80-6f45affd8ffa/application) | DailyPay | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Maps Personalization Relevance Rater](https://jobs.lever.co/weloglobal/93094a81-c521-4e5a-a4e0-31a95c2c2ed1/apply) | Welo Global | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Application Developer 1 - Osf](https://bankatfirst.wd1.myworkdayjobs.com/ffb/job/IN---Indianapolis---Keystone-Crossing/Application-Developer-I--OSF_R9139) | First Financial Bank | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Software Engineer 1](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Indianapolis---Lakeview-Parkway---Multiple-OpCo/Software-Engineer-I_R1312947) | Danaher Corporation | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Mathematician - Foundation Team](https://jobs.ashbyhq.com/hilberts/adbe0102-fa3e-484f-98c8-bf02dd478945/application) | Hilbert | SF, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Field Service Engineer](https://careers-kemin.icims.com/jobs/12130/job?mobile=true&needsRedirect=false) | Kemin | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Junior Software Engineer - AI Agent Platform](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Junior-Software-Engineer--AI-Agent-Platform_R66146) | Motorola | Alberta, Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |

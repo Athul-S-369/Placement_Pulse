@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Birmingham, AL, Dallas, TX, Pittsburgh, PA, Strongsville, OH, NYC, Pittsburgh, PA, Downers Grove, IL, Pittsburgh, PA
+- **Categories:** Fresher Job, Internship
+- **Locations:** NYC, Birmingham, AL, Dallas, TX, Pittsburgh, PA, Strongsville, OH, Pittsburgh, PA, Downers Grove, IL, Pittsburgh, PA
 
 ## Current Opportunities
 

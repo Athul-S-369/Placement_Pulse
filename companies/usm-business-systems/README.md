@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** NYC, Bloomington, MN, Columbus, OH, Manassas, VA, Dublin, OH
+- **Categories:** Fresher Job, Internship
+- **Locations:** NYC, San Antonio, TX, Columbus, OH, California City, CA, Southfield, MI
 
 ## Current Opportunities
 
