@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Westminster, CO, Rochester, MI, Augusta, ME, Bloomington, MN, San Antonio, TX
+- **Categories:** Internship, Fresher Job
+- **Locations:** NYC, Bloomington, MN, Columbus, OH, Manassas, VA, Dublin, OH
 
 ## Current Opportunities
 
