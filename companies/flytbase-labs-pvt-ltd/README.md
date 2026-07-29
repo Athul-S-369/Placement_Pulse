@@ -1,6 +1,6 @@
 # 🏢 FlytBase Labs Pvt. Ltd.
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-28*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-29*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [The Closer- FlytBase Hiring Hackathon](https://unstop.com/hackathons/the-closer-flytbase-hiring-hackathon-httpslifeatflytbasecomhiring-hackathon-flytbase-labs-pvt-ltd-1718144) | FlytBase Labs Pvt. Ltd. | India | 🏢 Onsite | — | 2026-07-28 | Unstop |
 
 ## 📖 Interview Preparation
 

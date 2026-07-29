@@ -1,8 +1,8 @@
 # 🏆 Hackathon
 
-**176 active** | **140 expired** | **316 total**
+**173 active** | **143 expired** | **316 total**
 
-*Last updated: 2026-07-28*
+*Last updated: 2026-07-29*
 
 ## Active Opportunities
 
@@ -56,9 +56,7 @@
 | [2nd NextGen Hackathon 2026](https://unstop.com/hackathons/2nd-nextgen-hackathon-2026-soft-computing-research-society-new-delhi-delhi-1722019) | Soft Computing Research Society, New Delhi, Delhi | India | 🏢 Onsite | — | 2026-08-12 | Unstop |
 | [TA Hackathon](https://unstop.com/competitions/ta-hackathon-people-matters-1723444) | People Matters | India | 🏢 Onsite | — | 2026-08-06 | Unstop |
 | [CodeXtreme - 2K26](https://unstop.com/hackathons/codextreme-2k26-velagapudi-ramakrishna-siddhartha-engineering-college-vrsec-vijayawada-1723884) | Velagapudi Ramakrishna Siddhartha Engineering College (VRSEC), Vijayawada | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
-| [MM Digital Coding Challenge](https://unstop.com/quiz/mm-digital-coding-challenge-mm-digital-technology-institute-of-technology-gorakhpur-1724112) | MM Digital Technology Institute of Technology, Gorakhpur | India | 🏢 Onsite | — | 2026-07-28 | Unstop |
 | [Full Stack Web Development Challenge 2026](https://unstop.com/quiz/full-stack-web-development-challenge-2026-code-a-nova-1724088) | CODE-A-NOVA | India | 🏢 Onsite | — | 2026-08-05 | Unstop |
-| [CodeStrike 5.0 – Coding & Logic Challenge](https://unstop.com/competitions/codestrike-50-coding-logic-challenge-brcm-college-of-engineering-and-technology-brcm-cet-bhivani-1724102) | BRCM College of Engineering and Technology (BRCM CET), Bhivani | India | 🏢 Onsite | — | 2026-07-28 | Unstop |
 | [InstaRinn Creative Marketing Challenge 2026](https://unstop.com/competitions/instarinn-creative-marketing-challenge-2026-instarinn-1724053) | InstaRinn | India | 🏢 Onsite | — | 2026-08-22 | Unstop |
 | [The Great Prompt AI Quiz 2026](https://unstop.com/quiz/the-great-prompt-ai-quiz-2026-promptbite-1720114) | PromptBite | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
 | [CraftVerse 2.0](https://unstop.com/hackathons/craftverse-20-pimpri-chinchwad-college-of-engineering-research-pccoer-ravet-pimpri-chinchwad-pune-1719658) | Pimpri Chinchwad College Of Engineering & Research (PCCOE&R), Ravet, Pimpri-Chinchwad, Pune | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
@@ -108,11 +106,16 @@
 | [GBT BuildStorm 2026](https://unstop.com/hackathons/gbt-buildstorm-2026-go-beyond-tickets-1719425) | Go Beyond Tickets | India | 🏢 Onsite | — | 2026-08-18 | Unstop |
 | [ENIGMA 2.0: Master Edge AI & IoT - A Hands-On Workshop](https://unstop.com/workshops-webinars/enigma-20-master-edge-ai-iot-a-hands-on-workshop-dr-bc-roy-engineering-college-bcrec-durgapur-1719413) | Dr. B.C. Roy Engineering College (BCREC), Durgapur | India | 🏢 Onsite | — | 2026-07-29 | Unstop |
 | [Quizbotics Season 4](https://unstop.com/quiz/quizbotics-season-4-lnm-institute-of-information-technology-lnmiit-jaipur-1719343) | LNM Institute of Information Technology (LNMIIT), Jaipur | India | 🏢 Onsite | — | 2026-09-13 | Unstop |
+| [BLACKBOX](https://unstop.com/hackathons/blackbox-vellore-institute-of-technology-vit-chennai-1719341) | Vellore Institute of Technology (VIT), Chennai | India | 🏢 Onsite | — | 2026-07-29 | Unstop |
+| [OptimizeIT](https://unstop.com/competitions/optimizeit-fugacity-2026-iit-kharagpur-1716678) | Indian Institute of Technology (IIT), Kharagpur | India | 🏢 Onsite | — | 2026-08-16 | Unstop |
 
 ## Recently Expired
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [The Closer- FlytBase Hiring Hackathon](https://unstop.com/hackathons/the-closer-flytbase-hiring-hackathon-httpslifeatflytbasecomhiring-hackathon-flytbase-labs-pvt-ltd-1718144) | FlytBase Labs Pvt. Ltd. | India | 🏢 Onsite | — | 2026-07-28 | Unstop |
+| [MM Digital Coding Challenge](https://unstop.com/quiz/mm-digital-coding-challenge-mm-digital-technology-institute-of-technology-gorakhpur-1724112) | MM Digital Technology Institute of Technology, Gorakhpur | India | 🏢 Onsite | — | 2026-07-28 | Unstop |
+| [CodeStrike 5.0 – Coding & Logic Challenge](https://unstop.com/competitions/codestrike-50-coding-logic-challenge-brcm-college-of-engineering-and-technology-brcm-cet-bhivani-1724102) | BRCM College of Engineering and Technology (BRCM CET), Bhivani | India | 🏢 Onsite | — | 2026-07-28 | Unstop |
 | [Global AI Hackathon 2026](https://unstop.com/hackathons/global-ai-hackathon-2026-innovation-hacks-1716925) | Innovation Hacks | India | 🏢 Onsite | — | 2026-07-27 | Unstop |
 | [HackMatriX 2026 - 24 Hour National Hackathon](https://unstop.com/hackathons/hackmatrix-2026-24-hour-national-hackathon-ieee-computer-society-mits-gwalior-1701757) | IEEE Computer Society MITS, Gwalior | India | 🏢 Onsite | — | 2026-07-27 | Unstop |
 | [Placement Readiness Challenge – Quantitative Aptitude & Logical Reasoning](https://unstop.com/hackathons/placement-readiness-challenge-quantitative-aptitude-logical-reasoning-unsaidtalks-education-1718550) | UnsaidTalks Education | India | 🏢 Onsite | — | 2026-07-27 | Unstop |
@@ -130,6 +133,3 @@
 | [The "Rigged" Quiz](https://unstop.com/quiz/the-rigged-quiz-kiet-group-of-institutions-1723771) | KIET Group of Institutions | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
 | [Hackosquad CTF 2026 : Multiverse](https://unstop.com/hackathons/hackosquad-ctf-2026-multiverse-hackosquad-ctf-2026-multiverse-hackosquadctf-1724658) | hackosquadCTF | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
 | [Flow Engineering Workshop](https://unstop.com/workshops-webinars/flow-engineering-workshop-gradus-1716343) | Gradus | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
-| [EcoVision Poster Challenge 2026](https://unstop.com/events/ecovision-poster-challenge-2026-community-innovatex-1716198) | Community InnovateX | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
-| [THE COMCLAVE – Commodity Masterclass 2026](https://unstop.com/conferences/the-comclave-commodity-masterclass-2026-mcqube-1717524) | MCQube | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
-| [Breaking Code](https://unstop.com/workshops-webinars/breaking-code-breaking-code-ysquare-technology-1718190) | Ysquare Technology | India | 🏢 Onsite | — | 2026-07-25 | Unstop |

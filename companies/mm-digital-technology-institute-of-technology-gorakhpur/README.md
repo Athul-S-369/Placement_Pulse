@@ -1,6 +1,6 @@
 # 🏢 MM Digital Technology Institute of Technology, Gorakhpur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-28*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-29*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [MM Digital Coding Challenge](https://unstop.com/quiz/mm-digital-coding-challenge-mm-digital-technology-institute-of-technology-gorakhpur-1724112) | MM Digital Technology Institute of Technology, Gorakhpur | India | 🏢 Onsite | — | 2026-07-28 | Unstop |
 
 ## 📖 Interview Preparation
 

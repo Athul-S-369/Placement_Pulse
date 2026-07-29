@@ -2,7 +2,7 @@
 
 **753 active** | **0 expired** | **753 total**
 
-*Last updated: 2026-07-28*
+*Last updated: 2026-07-29*
 
 ## Active Opportunities
 

@@ -1,13 +1,16 @@
 # 💼 Fresher Job
 
-**1247 active** | **0 expired** | **1247 total**
+**1250 active** | **0 expired** | **1250 total**
 
-*Last updated: 2026-07-28*
+*Last updated: 2026-07-29*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Data Engineer Associate](https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5372829008) | AffirmedRx | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Associate Forward Deployed Engineer](https://jobs.ashbyhq.com/eliza/3190c7b1-a01f-42e0-9a16-2c6dfc40eb8d/application?embed=true) | Eliza | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Customer Engineer Associate](https://job-boards.greenhouse.io/reltio/jobs/5576245004) | Reltio | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Analytics Application Developer](https://healthcare.wd1.myworkdayjobs.com/search/job/Remote---Georgia/Analytics-Application-Developer_R01132512) | Solventum | Remote in USA, Georgia | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [System Engineer](https://careers-empowerai.icims.com/jobs/9155/job?mobile=true&needsRedirect=false) | Empower AI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer - Supporthub](https://job-boards.greenhouse.io/energyhub/jobs/8385899002) | EnergyHub | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -105,6 +108,3 @@
 | [Field Service Engineer](https://careers-kemin.icims.com/jobs/12130/job?mobile=true&needsRedirect=false) | Kemin | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Junior Software Engineer - AI Agent Platform](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Junior-Software-Engineer--AI-Agent-Platform_R66146) | Motorola | Alberta, Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer 1 - Full-Stack](https://job-boards.greenhouse.io/roadrunner/jobs/4307451009) | RoadRunner Recycling | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Senior Social Media Analyst - Integrated Intelligence](https://job-boards.greenhouse.io/realchemistry/jobs/5262316008) | Real Chemistry | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Data Engineer](https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Data-Engineer_REQ228) | DuCharme, McMillen & Associates | Indianapolis, IN, Fort Wayne, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Product Manager](https://theaccessgroup.wd103.myworkdayjobs.com/Access_Group_External_Careers/job/United-Kingdom-Remote/Product-Manager_JR004229-2) | The Access Group | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |

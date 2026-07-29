@@ -1,6 +1,6 @@
 # 🏢 BRCM College of Engineering and Technology (BRCM CET), Bhivani
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-28*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-29*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [CodeStrike 5.0 – Coding & Logic Challenge](https://unstop.com/competitions/codestrike-50-coding-logic-challenge-brcm-college-of-engineering-and-technology-brcm-cet-bhivani-1724102) | BRCM College of Engineering and Technology (BRCM CET), Bhivani | India | 🏢 Onsite | — | 2026-07-28 | Unstop |
 
 ## 📖 Interview Preparation
 

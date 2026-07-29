@@ -1,11 +1,11 @@
 # 🏢 Fanatics
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-07-28*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-07-29*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** NYC, United Kingdom, NYC, LA, Coppell, TX, Denver, CO
+- **Locations:** NYC, Denver, CO, United Kingdom, NYC, LA, Coppell, TX
 
 ## Current Opportunities
 

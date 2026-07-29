@@ -1,11 +1,11 @@
 # 🏢 Apple
 
-**17 active opportunities** | **17 total tracked** | *Last updated: 2026-07-28*
+**17 active opportunities** | **17 total tracked** | *Last updated: 2026-07-29*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** California, San Diego, CA, United States, Gloucester, UK, Santa Clara, CA
+- **Locations:** Gloucester, UK, San Diego, CA, Cambridge, MA, San Jose, CA, Cupertino, CA
 
 ## Current Opportunities
 
