@@ -1,11 +1,11 @@
 # 🏢 USM Business Systems
 
-**21 active opportunities** | **21 total tracked** | *Last updated: 2026-07-29*
+**21 active opportunities** | **21 total tracked** | *Last updated: 2026-07-30*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** NYC, San Antonio, TX, Columbus, OH, California City, CA, Southfield, MI
+- **Locations:** Columbus, OH, Bluemont, VA, St. Louis, MO, El Segundo, CA, Southfield, MI
 
 ## Current Opportunities
 

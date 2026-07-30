@@ -1,6 +1,6 @@
 # 🏢 International Institute of Management Studies (IIMS), Pune
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-29*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-30*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Case Study Analysis Competition - Drishitikon2k26](https://unstop.com/competitions/case-study-analysis-competition-drishitikon2k26-international-institute-of-management-studies-iims-pune-1718091) | International Institute of Management Studies (IIMS), Pune | India | 🏢 Onsite | — | 2026-07-29 | Unstop |
 
 ## 📖 Interview Preparation
 

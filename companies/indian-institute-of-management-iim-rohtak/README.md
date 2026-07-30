@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Management (IIM), Rohtak
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-29*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-30*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Call for Articles: “The Rise of Invisible Marketing”](https://unstop.com/competitions/call-for-articles-the-rise-of-invisible-marketing-iim-rohtak-1716011) | Indian Institute of Management (IIM), Rohtak | India | 🏢 Onsite | — | 2026-07-29 | Unstop |
 
 ## 📖 Interview Preparation
 

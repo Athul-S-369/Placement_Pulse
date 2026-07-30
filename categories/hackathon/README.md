@@ -1,13 +1,14 @@
 # 🏆 Hackathon
 
-**175 active** | **143 expired** | **318 total**
+**171 active** | **148 expired** | **319 total**
 
-*Last updated: 2026-07-29*
+*Last updated: 2026-07-30*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Inkspire | Graphic Design Challenge | ORBIT 1.0](https://unstop.com/competitions/inkspire-graphic-design-challenge-orbit-10-institute-of-information-technology-and-management-janakpuri-1726992) | Institute of Information Technology and Management, Janakpuri | India | 🏢 Onsite | — | 2026-08-28 | Unstop |
 | [Creative Fusion 2026 – Art & Culture Challenge](https://unstop.com/events/creative-fusion-2026-art-culture-challenge-sjc-institute-of-technology-1727599) | SJC Institute of Technology | India | 🏢 Onsite | — | 2026-08-13 | Unstop |
 | [Trivium 2.0](https://unstop.com/hackathons/trivium-20-detox-1727396) | DETOX | India | 🏢 Onsite | — | 2026-08-13 | Unstop |
 | [CodeFury 9.0](https://unstop.com/hackathons/codefury-90-university-visvesvaraya-college-of-engineering-uvce-bangalore-1726707) | University Visvesvaraya College Of Engineering (UVCE), Bangalore | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
@@ -106,13 +107,17 @@
 | [Build With Bharat 2.0](https://unstop.com/hackathons/build-with-bharat-40-national-institute-of-technology-nit-delhi-1719203) | National Institute of Technology (NIT), Delhi | India | 🏢 Onsite | — | 2026-09-13 | Unstop |
 | [Evil Corp CTF 6 Hour Intense Hacking](https://unstop.com/hackathons/evil-corp-ctf-6-hour-intense-hacking-nexploit-1719174) | Nexploit | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
 | [GBT BuildStorm 2026](https://unstop.com/hackathons/gbt-buildstorm-2026-go-beyond-tickets-1719425) | Go Beyond Tickets | India | 🏢 Onsite | — | 2026-08-18 | Unstop |
-| [ENIGMA 2.0: Master Edge AI & IoT - A Hands-On Workshop](https://unstop.com/workshops-webinars/enigma-20-master-edge-ai-iot-a-hands-on-workshop-dr-bc-roy-engineering-college-bcrec-durgapur-1719413) | Dr. B.C. Roy Engineering College (BCREC), Durgapur | India | 🏢 Onsite | — | 2026-07-29 | Unstop |
 | [Quizbotics Season 4](https://unstop.com/quiz/quizbotics-season-4-lnm-institute-of-information-technology-lnmiit-jaipur-1719343) | LNM Institute of Information Technology (LNMIIT), Jaipur | India | 🏢 Onsite | — | 2026-09-13 | Unstop |
 
 ## Recently Expired
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Call for Articles: “The Rise of Invisible Marketing”](https://unstop.com/competitions/call-for-articles-the-rise-of-invisible-marketing-iim-rohtak-1716011) | Indian Institute of Management (IIM), Rohtak | India | 🏢 Onsite | — | 2026-07-29 | Unstop |
+| [AI-POWERD](https://unstop.com/quiz/ai-powerd-ai-quiz-jntua-college-of-engineering-kalikiri-1717831) | JNTUA College Of Engineering Kalikiri | India | 🏢 Onsite | — | 2026-07-29 | Unstop |
+| [Case Study Analysis Competition - Drishitikon2k26](https://unstop.com/competitions/case-study-analysis-competition-drishitikon2k26-international-institute-of-management-studies-iims-pune-1718091) | International Institute of Management Studies (IIMS), Pune | India | 🏢 Onsite | — | 2026-07-29 | Unstop |
+| [ENIGMA 2.0: Master Edge AI & IoT - A Hands-On Workshop](https://unstop.com/workshops-webinars/enigma-20-master-edge-ai-iot-a-hands-on-workshop-dr-bc-roy-engineering-college-bcrec-durgapur-1719413) | Dr. B.C. Roy Engineering College (BCREC), Durgapur | India | 🏢 Onsite | — | 2026-07-29 | Unstop |
+| [BLACKBOX](https://unstop.com/hackathons/blackbox-vellore-institute-of-technology-vit-chennai-1719341) | Vellore Institute of Technology (VIT), Chennai | India | 🏢 Onsite | — | 2026-07-29 | Unstop |
 | [The Closer- FlytBase Hiring Hackathon](https://unstop.com/hackathons/the-closer-flytbase-hiring-hackathon-httpslifeatflytbasecomhiring-hackathon-flytbase-labs-pvt-ltd-1718144) | FlytBase Labs Pvt. Ltd. | India | 🏢 Onsite | — | 2026-07-28 | Unstop |
 | [MM Digital Coding Challenge](https://unstop.com/quiz/mm-digital-coding-challenge-mm-digital-technology-institute-of-technology-gorakhpur-1724112) | MM Digital Technology Institute of Technology, Gorakhpur | India | 🏢 Onsite | — | 2026-07-28 | Unstop |
 | [CodeStrike 5.0 – Coding & Logic Challenge](https://unstop.com/competitions/codestrike-50-coding-logic-challenge-brcm-college-of-engineering-and-technology-brcm-cet-bhivani-1724102) | BRCM College of Engineering and Technology (BRCM CET), Bhivani | India | 🏢 Onsite | — | 2026-07-28 | Unstop |
@@ -128,8 +133,3 @@
 | [Industriathon 2026](https://unstop.com/competitions/industriathon-2026-refnic-1719297) | Refnic | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
 | [AI-Powered Fresher's Night Challenge](https://unstop.com/quiz/ai-powered-freshers-night-challenge-iimt-college-of-engineering-iimt-coe-greater-noida-1720702) | IIMT College Of Engineering (IIMT COE), Greater Noida | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
 | [Build Your First RAG Agent](https://unstop.com/workshops-webinars/build-your-first-rag-agent-peerlo-1720659) | Peerlo | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
-| [Freshers Party Planning Night](https://unstop.com/competitions/freshers-party-planning-night-bhai-parmanand-dseu-shakarpur-campus-2-shakarpur-new-delhi-1722131) | Bhai Parmanand DSEU Shakarpur Campus 2, Shakarpur, New Delhi | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
-| [SimuCode Robotics Challenge Week 2026](https://unstop.com/hackathons/simucode-robotics-challenge-week-2026-simucode-1720382) | SimuCode | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
-| [The "Rigged" Quiz](https://unstop.com/quiz/the-rigged-quiz-kiet-group-of-institutions-1723771) | KIET Group of Institutions | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
-| [Hackosquad CTF 2026 : Multiverse](https://unstop.com/hackathons/hackosquad-ctf-2026-multiverse-hackosquad-ctf-2026-multiverse-hackosquadctf-1724658) | hackosquadCTF | India | 🏢 Onsite | — | 2026-07-26 | Unstop |
-| [Flow Engineering Workshop](https://unstop.com/workshops-webinars/flow-engineering-workshop-gradus-1716343) | Gradus | India | 🏢 Onsite | — | 2026-07-25 | Unstop |
