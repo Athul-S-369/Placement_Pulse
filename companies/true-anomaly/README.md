@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Long Beach, CA, Denver, CO, Denver, CO
+- **Locations:** Denver, CO, Long Beach, CA, Denver, CO
 
 ## Current Opportunities
 

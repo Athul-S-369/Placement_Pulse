@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Canada, Jackson Township, NJ, Long Island City, Queens, NY, Naperville, IL, Vancouver, BC, Canada
+- **Locations:** Vancouver, BC, Canada, NYC, Sunnyvale, CA, San Jose, CA, Allentown, PA, Long Island City, Queens, NY
 
 ## Current Opportunities
 

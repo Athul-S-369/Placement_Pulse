@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Arlington, VA, Alexandria, VA
+- **Locations:** Alexandria, VA, Arlington, VA
 
 ## Current Opportunities
 
