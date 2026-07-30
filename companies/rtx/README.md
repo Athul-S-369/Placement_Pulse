@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Arlington, VA, Cedar Rapids, IA, Fort Wayne, IN, McKinney, TX, Goleta, CA
+- **Locations:** Cedar Rapids, IA, Arlington, VA, Longueuil, QC, Canada, Huntsville, AL, Andover, MA
 
 ## Current Opportunities
 

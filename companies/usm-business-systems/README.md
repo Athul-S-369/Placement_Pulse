@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Columbus, OH, Bluemont, VA, St. Louis, MO, El Segundo, CA, Southfield, MI
+- **Locations:** Bloomington, MN, Bluemont, VA, Dublin, OH, El Segundo, CA, Jefferson City, MO
 
 ## Current Opportunities
 
