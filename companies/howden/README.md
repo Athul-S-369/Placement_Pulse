@@ -1,16 +1,17 @@
 # 🏢 Howden
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-31*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-07-31*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** London, UK
+- **Locations:** London, UK, Remote in UK
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [AI Operations Engineer](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Home---UK--England/AI-Operations-Engineer_R0018646-1) | Howden | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Product Coordinator](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London/Product-Coordinator_R0016962-1) | Howden | London, UK | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 
 ## 📖 Interview Preparation

@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**755 active** | **0 expired** | **755 total**
+**757 active** | **0 expired** | **757 total**
 
 *Last updated: 2026-07-31*
 
@@ -9,6 +9,8 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [Data Analysis Intern](https://jobs.lever.co/calstart/39565f0d-d10f-458b-b72d-d807420059b8/apply) | CALSTART | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Product Developer Intern](https://jobs.ashbyhq.com/colonist/b9285b46-6972-4443-b34f-8d74631a0dbd/application?embed=true) | Colonist | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Engineering Co-op](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---ON/Engineering-Co-op_R0017831) | CLEAResult | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Application Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1) | Leidos | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Marketing Analytics Intern](https://careers.kodak.com/job/USA-Marketing-Analytics-Intern-CA/1412894200/?ats=successfactors) | Kodak | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [ServiceNow Developer Associate](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/Cyber-ServiceNow-Developer-Associate---Summer-2027_JR117288) | RSM | Indianapolis, IN, Chicago, IL | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
@@ -106,5 +108,3 @@
 | [University 2026 Intern: Product Manager](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7388902003) | ID.me | McLean, VA, Mountain View, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Software Engineering Intern – Internal Tools 2026 (hybrid)](https://jobs.baesystems.com/global/en/job/BAE1US118298BREXTERNAL/Software-Engineering-Intern-Internal-Tools-2026-hybrid) | BAE Systems | Cedar Rapids, IA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [3D Graphics Engineer](https://jobs.bytedance.com/en/position/7564516412456306997/detail) | ByteDance | San Jose, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Intern – Engineer Operations & Analytics](https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10003877) | Berkshire Hathaway Energy | Omaha, NE | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Software Engineering Intern, Frontend](https://jobs.ashbyhq.com/tessera-labs/c0350717-8b4d-4a1a-af00-4c62204192fd) | Tessera Labs | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

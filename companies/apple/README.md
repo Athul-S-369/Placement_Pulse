@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Gloucester, UK, San Diego, CA, San Jose, CA, Cupertino, CA, Cambridge, MA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Austin, TX, London, UK, Cambridge, UK, Welwyn Garden City, UK, Santa Clara, CA, San Jose, CA, Waltham, MA
 
 ## Current Opportunities
 

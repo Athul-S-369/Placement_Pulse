@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1260 active** | **0 expired** | **1260 total**
+**1262 active** | **0 expired** | **1262 total**
 
 *Last updated: 2026-07-31*
 
@@ -11,6 +11,8 @@
 | [Product Specialist](https://jobs.lever.co/istaridigital.ai/6ec40df7-e9b8-40bd-9fe3-446ed0f29c15/apply) | Istari Digital | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Copilot Developer/AI Engineer](https://pyrovio.breezy.hr/p/a0653fb2684d/apply) | Pyrovio | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Specialist - BT Prep](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-WI-Remote/Temporary-Data-Specialist---BT-Prep_JR107323) | Baker Tilly | Remote in USA, Wisconsin | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Senior Product Manager - Costing and Rebates](https://ferguson.wd1.myworkdayjobs.com/en-US/Ferguson_Experienced/job/Remote/Senior-Product-Owner---Costing-and-Rebates_R-134820) | Ferguson | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [AI Operations Engineer](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Home---UK--England/AI-Operations-Engineer_R0018646-1) | Howden | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Business Intelligence Engineer 2](https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Remote-Nationwide/Business-Intelligence-Engineer-2_R-421290) | CenterWell | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Wireless Software Engineer Associate](https://jobs.ashbyhq.com/Flock%20Safety/44ae4912-89d9-4e83-840d-e22250d6a473/application?embed=true) | Flock Safety | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Engineer Associate](https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5372829008) | AffirmedRx | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -106,5 +108,3 @@
 | [Pavement Data Analyst](https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309566) | Michael Baker International | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Feed Integrations Associate](https://job-boards.greenhouse.io/garnerhealth/jobs/6112552004) | Garner Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Product Manager](https://job-boards.greenhouse.io/soci/jobs/6105407004) | SOCi | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [French Canadian Audio Rating Task](https://jobs.lever.co/appen/c955501f-01d4-4363-8b36-1c381e421db4/apply) | CrowdGen by Appen | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [AI Enablement Specialist](https://jobs.ashbyhq.com/kong/c0a091c1-46ba-4a87-93d9-45a1449ec234/application) | Kong | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
