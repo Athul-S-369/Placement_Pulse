@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Westminster, CO, Bluemont, VA, Chantilly, VA, Augusta, ME, St. Louis, MO
+- **Locations:** San Antonio, TX, Traverse City, MI, Augusta, ME, St. Louis, MO, Westminster, CO
 
 ## Current Opportunities
 

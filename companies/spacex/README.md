@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** West Athens, CA, Brownsville, TX, Palo Alto, CA, Sunnyvale, CA, Texas
+- **Locations:** Sunnyvale, CA, Brownsville, TX, Redmond, WA, Texas, Bastrop, TX, Irvine, CA, Cape Canaveral, FL, Brownsville, TX, Redmond, WA, McGregor, TX, West Athens, CA, Sunnyvale, CA
 
 ## Current Opportunities
 
