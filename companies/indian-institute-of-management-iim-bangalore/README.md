@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Management (IIM), Bangalore
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-30*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-31*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Student Innovation & Product Summit (SIPS) 2026](https://unstop.com/hackathons/student-innovation-product-summit-sips-2026-iim-bangalore-1704216) | Indian Institute of Management (IIM), Bangalore | India | 🏢 Onsite | — | 2026-07-30 | Unstop |
 
 ## 📖 Interview Preparation
 

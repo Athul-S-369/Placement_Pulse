@@ -1,6 +1,6 @@
 # 🏢 Woxsen University, Hyderabad
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-30*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-31*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [TECHSPHERE 2026 – National Level Science & Technology Student Conclave](https://unstop.com/competitions/techsphere-2026-national-level-science-technology-student-conclave-woxsen-university-hyderabad-1711435) | Woxsen University, Hyderabad | India | 🏢 Onsite | — | 2026-07-30 | Unstop |
 
 ## 📖 Interview Preparation
 

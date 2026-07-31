@@ -1,6 +1,6 @@
 # 🏢 Marwadi University Rajkot
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-30*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-31*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [VAARTALAAP: A virtual podcast of an Entrepreneur on Google Meet](https://unstop.com/workshops-webinars/vaartalaap-a-virtual-podcast-of-an-entrepreneur-on-google-meet-marwadi-university-rajkot-1726567) | Marwadi University Rajkot | India | 🏢 Onsite | — | 2026-07-30 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,6 +1,6 @@
 # 🏢 Arihant Capital Ltd
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-30*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-31*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [α The Alpha Challenge 2026 | National Investment Intelligence & Financial Strategy Competition](https://unstop.com/quiz/a-the-alpha-challenge-2026-national-investment-intelligence-financial-strategy-competition-arihant-capital-ltd-1715874) | Arihant Capital Ltd | India | 🏢 Onsite | — | 2026-07-30 | Unstop |
 
 ## 📖 Interview Preparation
 

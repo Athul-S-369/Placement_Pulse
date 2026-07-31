@@ -1,6 +1,6 @@
 # 🏢 Gurunanak institution technical campus
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-30*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-07-31*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [International Conference on Innovations in Computer Science and Engineering](https://unstop.com/conferences/international-conference-on-innovations-in-computer-science-and-engineering-international-conference-on-inno-1728027) | Gurunanak institution technical campus | India | 🏢 Onsite | — | 2026-07-30 | Unstop |
 
 ## 📖 Interview Preparation
 
