@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**757 active** | **0 expired** | **757 total**
+**760 active** | **0 expired** | **760 total**
 
 *Last updated: 2026-08-01*
 
@@ -8,6 +8,9 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Product Manager Intern - Host Squad](https://jobs.ashbyhq.com/sweatpals/be2f5fa7-2542-40e6-873f-778322bb0522/application?embed=true) | Sweatpals | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Product Manager Intern](https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544/application?embed=true) | Tessera Labs | San Jose, CA, Remote in USA, NYC | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Travel Supply Analyst Intern](https://jobs.ashbyhq.com/super.com/d12fc858-e930-4f43-9c92-da2f02dd2cd2/application?embed=true) | Super | Toronto, ON, Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Data Analysis Intern](https://jobs.lever.co/calstart/39565f0d-d10f-458b-b72d-d807420059b8/apply) | CALSTART | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Product Developer Intern](https://jobs.ashbyhq.com/colonist/b9285b46-6972-4443-b34f-8d74631a0dbd/application?embed=true) | Colonist | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Engineering Co-op](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---ON/Engineering-Co-op_R0017831) | CLEAResult | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -105,6 +108,3 @@
 | [ML Technology Intern, Graduate Students](https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Arlington/ML-Technology-Intern--Graduate-Students_R37735) | CoStar Group | Arlington, VA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Computer Science/Data Science Intern - Bachelor's Degree](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Santa-Clara-CA/Computer-Science-Data-Science-Intern---Bachelor-s-Degree_2502352) | Marvell | Santa Clara, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Data Analyst Intern](https://app.careerpuck.com/job-board/lyft/job/8218030002/) | Lyft | New York, NY | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [University 2026 Intern: Product Manager](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7388902003) | ID.me | McLean, VA, Mountain View, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Software Engineering Intern – Internal Tools 2026 (hybrid)](https://jobs.baesystems.com/global/en/job/BAE1US118298BREXTERNAL/Software-Engineering-Intern-Internal-Tools-2026-hybrid) | BAE Systems | Cedar Rapids, IA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [3D Graphics Engineer](https://jobs.bytedance.com/en/position/7564516412456306997/detail) | ByteDance | San Jose, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

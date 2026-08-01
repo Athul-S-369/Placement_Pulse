@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Chicago, IL, Augusta, ME, Manassas, VA, St. Louis, MO, Rochester, MI
+- **Categories:** Internship, Fresher Job
+- **Locations:** Chantilly, VA, St. Louis, MO, Jefferson City, MO, Dublin, OH, Columbus, OH
 
 ## Current Opportunities
 

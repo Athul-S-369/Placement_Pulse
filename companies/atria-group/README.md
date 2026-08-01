@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Dallas, TX, Chicago, IL, Alpharetta, GA, NYC, St. Louis, MO
+- **Categories:** Internship, Fresher Job
+- **Locations:** Broomfield, CO, Sunnyvale, CA, Plainview, NY, Chicago, IL, Jacksonville, FL
 
 ## Current Opportunities
 
