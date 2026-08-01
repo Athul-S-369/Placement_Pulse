@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Chantilly, VA, St. Louis, MO, Jefferson City, MO, Dublin, OH, Columbus, OH
+- **Locations:** Westminster, CO, Traverse City, MI, California City, CA, El Segundo, CA, Augusta, ME
 
 ## Current Opportunities
 

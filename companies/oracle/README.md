@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Pleasanton, CA, San Carlos, CA, Santa Clara, CA, United States, Nashville, TN, Ashburn, VA, Nashville, TN, Austin, TX, United States
+- **Locations:** Nashville, TN, Seattle, WA, Santa Clara, CA, Pleasanton, CA, San Carlos, CA, Santa Clara, CA, Ashburn, VA, Santa Clara, CA
 
 ## Current Opportunities
 

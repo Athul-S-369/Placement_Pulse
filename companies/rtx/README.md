@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Arlington, VA, Andover, MA, Fort Wayne, IN, Huntsville, AL, Cedar Rapids, IA
+- **Locations:** McKinney, TX, Huntsville, AL, Cedar Rapids, IA, Longueuil, QC, Canada, Fort Wayne, IN
 
 ## Current Opportunities
 

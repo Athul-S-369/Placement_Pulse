@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Sharonville, OH, Livonia, MI, Sharonville, OH, Saugus, MA
+- **Locations:** Sharonville, OH, Saugus, MA, Sharonville, OH, Livonia, MI
 
 ## Current Opportunities
 

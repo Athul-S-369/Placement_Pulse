@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Cherry Hills Village, CO, Boston, MA, Milwaukee, WI, Cambridge, MA, Exton, PA
+- **Locations:** Boston, MA, Cherry Hills Village, CO, Santa Clara, CA, Exton, PA, Cambridge, MA
 
 ## Current Opportunities
 

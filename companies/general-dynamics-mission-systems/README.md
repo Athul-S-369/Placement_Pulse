@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Pittsfield, MA, Taunton, MA, Dedham, MA
+- **Locations:** Taunton, MA, Pittsfield, MA, Dedham, MA
 
 ## Current Opportunities
 
