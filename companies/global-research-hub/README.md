@@ -1,6 +1,6 @@
 # 🏢 Global Research Hub
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-31*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-01*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [ICONSTARS 2026 – InterConnect 2026-Conference](https://unstop.com/conferences/iconstars-2026-interconnect-2026-conference-global-research-hub-1710724) | Global Research Hub | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
 
 ## 📖 Interview Preparation
 

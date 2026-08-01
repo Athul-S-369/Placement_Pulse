@@ -1,6 +1,6 @@
 # 🏢 MyCaptain by Imarticus learning
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-31*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-01*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Designing Your Future – Building a Successful Career in the Design Industry](https://unstop.com/workshops-webinars/designing-your-future-building-a-successful-career-in-the-design-industry-mycaptain-by-imarticus-lear-1717088) | MyCaptain by Imarticus learning | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
 
 ## 📖 Interview Preparation
 

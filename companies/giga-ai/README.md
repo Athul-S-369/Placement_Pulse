@@ -1,11 +1,11 @@
 # 🏢 Giga AI
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-07-31*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-01*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** SF, NYC, NYC, SF
+- **Locations:** NYC, NYC, SF, SF
 
 ## Current Opportunities
 

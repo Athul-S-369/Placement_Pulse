@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Management (IIM), Calcutta
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-31*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-01*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Sprint'26](https://unstop.com/competitions/sprint26-iim-calcutta-1704312) | Indian Institute of Management (IIM), Calcutta | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
 
 ## 📖 Interview Preparation
 

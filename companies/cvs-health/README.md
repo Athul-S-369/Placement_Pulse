@@ -1,11 +1,11 @@
 # 🏢 CVS Health
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-07-31*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-08-01*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Smithfield, RI, Richardson, TX, Hartford, CT, Irving, TX
+- **Locations:** Smithfield, RI, Richardson, TX, Irving, TX, Hartford, CT
 
 ## Current Opportunities
 

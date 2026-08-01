@@ -1,6 +1,6 @@
 # 🏢 HackerX Community
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-31*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-01*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Prompt2Poster - AI Design Contest](https://unstop.com/events/prompt2poster-ai-design-contest-hackerx-community-1715396) | HackerX Community | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
 
 ## 📖 Interview Preparation
 

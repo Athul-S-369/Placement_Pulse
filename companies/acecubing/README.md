@@ -1,6 +1,6 @@
 # 🏢 AceCubing
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-31*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-01*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AceCubing Essay Competition](https://unstop.com/competitions/acecubing-essay-competition-acecubing-mind-creativity-challenge-series-acecubing-1722999) | AceCubing | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
 
 ## 📖 Interview Preparation
 

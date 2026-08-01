@@ -1,11 +1,11 @@
 # 🏢 RTX
 
-**9 active opportunities** | **9 total tracked** | *Last updated: 2026-07-31*
+**9 active opportunities** | **9 total tracked** | *Last updated: 2026-08-01*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Goleta, CA, Huntsville, AL, Barrie, ON, Canada, Andover, MA, Fort Wayne, IN
+- **Locations:** McKinney, TX, Arlington, VA, Cedar Rapids, IA, Longueuil, QC, Canada, Goleta, CA
 
 ## Current Opportunities
 

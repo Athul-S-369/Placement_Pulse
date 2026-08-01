@@ -1,6 +1,6 @@
 # 🏢 Chennai Institute of Technology
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-31*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-01*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [ExploitX: Into the Void 2.0 CTF](https://unstop.com/hackathons/exploitx-into-the-void-20-ctf-chennai-institute-of-technology-1708797) | Chennai Institute of Technology | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
 
 ## 📖 Interview Preparation
 

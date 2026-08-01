@@ -1,6 +1,6 @@
 # 🏢 Jai Shriram Engineering College, Tirupur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-31*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-01*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Ideathon 2026 | Turn Ideas into Impact](https://unstop.com/competitions/ideathon-2026-turn-ideas-into-impact-jai-shriram-engineering-college-tirupur-1726686) | Jai Shriram Engineering College, Tirupur | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
 
 ## 📖 Interview Preparation
 

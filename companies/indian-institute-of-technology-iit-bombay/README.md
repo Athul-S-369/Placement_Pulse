@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Technology (IIT), Bombay
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-07-31*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-01*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [DevFusion 4.O- The Developers Hackathon](https://unstop.com/hackathons/devfusion-4o-the-developers-hackathon-iit-bombay-1714389) | Indian Institute of Technology (IIT), Bombay | India | 🏢 Onsite | — | 2026-07-31 | Unstop |
 
 ## 📖 Interview Preparation
 
