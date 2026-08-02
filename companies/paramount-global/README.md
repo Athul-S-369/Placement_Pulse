@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Burbank, CA, Hollywood, LA, NYC, Hollywood, LA, NYC
+- **Locations:** Hollywood, LA, NYC, Burbank, CA, Hollywood, LA, NYC
 
 ## Current Opportunities
 

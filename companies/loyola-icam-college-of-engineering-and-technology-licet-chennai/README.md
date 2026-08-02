@@ -1,0 +1,22 @@
+# 🏢 Loyola ICAM College of Engineering and Technology (LICET), Chennai
+
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-02*
+
+## Overview
+
+- **Categories:** Hackathon
+- **Locations:** India
+
+## Current Opportunities
+
+| Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
+|------|---------|----------|------|----------------|----------|--------|
+| [Multiverse Breach](https://unstop.com/competitions/multiverse-breach-loyola-icam-college-of-engineering-and-technology-licet-chennai-1729534) | Loyola ICAM College of Engineering and Technology (LICET), Chennai | India | 🏢 Onsite | — | 2026-08-08 | Unstop |
+
+## 📖 Interview Preparation
+
+| Resource | Link |
+|----------|------|
+| GeeksForGeeks – Loyola ICAM College of Engineering and Technology (LICET), Chennai | [Search](https://www.geeksforgeeks.org/search/?q=Loyola+ICAM+College+of+Engineering+and+Technology+(LICET),+Chennai) |
+| LeetCode – Loyola ICAM College of Engineering and Technology (LICET), Chennai | [Problems](https://leetcode.com/company/loyola-icam-college-of-engineering-and-technology-licet-chennai/) |
+| Glassdoor – Loyola ICAM College of Engineering and Technology (LICET), Chennai | [Reviews](https://www.glassdoor.com/Reviews/Loyola-ICAM-College-of-Engineering-and-Technology-(LICET),-Chennai-Reviews-E.htm) |

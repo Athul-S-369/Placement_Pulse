@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Toronto, ON, Canada, Boston, MA, Remote in USA, Remote in Canada, Remote / Various, Austin, TX, Santa Clara, CA
+- **Locations:** Austin, TX, Santa Clara, CA, Remote / Various, Santa Clara, CA, Remote in USA, Remote in Canada, Austin, TX
 
 ## Current Opportunities
 

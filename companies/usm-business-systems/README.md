@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Rochester, MI, Manassas, VA, Traverse City, MI, San Antonio, TX, California City, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** California City, CA, NYC, Manassas, VA, Westminster, CO, Rochester, MI
 
 ## Current Opportunities
 
