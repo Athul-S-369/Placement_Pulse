@@ -1,11 +1,11 @@
 # 🏢 Rivian
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-01*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-02*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Urbana, IL, Palo Alto, CA, Irvine, CA
+- **Locations:** Palo Alto, CA, Irvine, CA, Urbana, IL
 
 ## Current Opportunities
 

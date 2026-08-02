@@ -1,11 +1,11 @@
 # 🏢 Texas Instruments
 
-**6 active opportunities** | **6 total tracked** | *Last updated: 2026-08-01*
+**6 active opportunities** | **6 total tracked** | *Last updated: 2026-08-02*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Toronto, ON, Canada, Dallas, TX, Tucson, AZ, Richardson, TX, Dallas, TX, United States
+- **Locations:** Knoxville, TN, United States, Richardson, TX, Toronto, ON, Canada, Dallas, TX
 
 ## Current Opportunities
 

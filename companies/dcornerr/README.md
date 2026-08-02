@@ -1,6 +1,6 @@
 # 🏢 DCornerr
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-01*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-02*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Placement Masterclass with AI: The Tools That Will Get You HIRED!](https://unstop.com/workshops-webinars/placement-masterclass-with-ai-the-tools-that-will-get-you-hired-dcornerr-1724258) | DCornerr | India | 🏢 Onsite | — | 2026-08-01 | Unstop |
 
 ## 📖 Interview Preparation
 

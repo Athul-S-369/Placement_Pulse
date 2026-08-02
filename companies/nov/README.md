@@ -1,11 +1,11 @@
 # 🏢 NOV
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-01*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-02*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Tulsa, OK, Houston, TX, Clarksburg, WV
+- **Locations:** Clarksburg, WV, Houston, TX, Tulsa, OK
 
 ## Current Opportunities
 

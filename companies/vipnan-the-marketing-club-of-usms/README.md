@@ -1,6 +1,6 @@
 # 🏢 VIPNAN- THE MARKETING CLUB OF USMS
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-01*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-02*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Marketing Minds Challenge 2026](https://unstop.com/quiz/marketing-minds-challenge-2026-vipnan-the-marketing-club-of-usms-1723683) | VIPNAN- THE MARKETING CLUB OF USMS | India | 🏢 Onsite | — | 2026-08-01 | Unstop |
 
 ## 📖 Interview Preparation
 

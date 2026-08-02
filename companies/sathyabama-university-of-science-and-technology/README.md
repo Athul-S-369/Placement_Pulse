@@ -1,6 +1,6 @@
 # 🏢 Sathyabama University of Science and Technology
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-01*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-02*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Datasphere](https://unstop.com/hackathons/datathon-sathyabama-university-of-science-and-technology-1714310) | Sathyabama University of Science and Technology | India | 🏢 Onsite | — | 2026-08-01 | Unstop |
 
 ## 📖 Interview Preparation
 

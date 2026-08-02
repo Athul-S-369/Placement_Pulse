@@ -1,11 +1,11 @@
 # 🏢 Samsung
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-01*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-02*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Mountain View, CA, Plano, TX
+- **Locations:** Plano, TX, Mountain View, CA
 
 ## Current Opportunities
 

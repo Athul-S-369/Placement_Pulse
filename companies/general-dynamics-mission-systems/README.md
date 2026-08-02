@@ -1,11 +1,11 @@
 # 🏢 General Dynamics Mission Systems
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-01*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-02*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Taunton, MA, Pittsfield, MA, Dedham, MA
+- **Locations:** Dedham, MA, Pittsfield, MA, Taunton, MA
 
 ## Current Opportunities
 

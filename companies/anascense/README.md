@@ -1,6 +1,6 @@
 # 🏢 Anascense
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-01*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-02*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [🌍 Global Hospitality Career Challenge 2026](https://unstop.com/quiz/global-hospitality-career-challenge-2026-anascense-1719900) | Anascense | India | 🏢 Onsite | — | 2026-08-01 | Unstop |
 
 ## 📖 Interview Preparation
 

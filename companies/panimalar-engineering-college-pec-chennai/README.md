@@ -1,6 +1,6 @@
 # 🏢 Panimalar Engineering College (PEC), Chennai
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-01*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-02*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Software Innovation Challenge](https://unstop.com/competitions/software-innovation-challenge-panimalar-engineering-college-pec-chennai-1720004) | Panimalar Engineering College (PEC), Chennai | India | 🏢 Onsite | — | 2026-08-01 | Unstop |
 
 ## 📖 Interview Preparation
 
