@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job, Hackathon
-- **Locations:** Tempe, AZ, NYC, Winnipeg, MB, Canada, Toronto, ON, Canada, Victoria, BC, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, London, UK, Edinburgh, UK, Cambridge, UK, Fredericksburg, VA, Ashburn, VA, Manassas, VA, Reston, VA, Dulles, VA
+- **Categories:** Fresher Job, Internship, Hackathon
+- **Locations:** Winnipeg, MB, Canada, Toronto, ON, Canada, Victoria, BC, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Sunnyvale, CA, Seattle, WA, SF, Fredericksburg, VA, Ashburn, VA, Manassas, VA, Reston, VA, Dulles, VA, Indianapolis, IN, Hyderabad, Telangana, India
 
 ## Current Opportunities
 

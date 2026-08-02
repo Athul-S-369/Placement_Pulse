@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** San Jose, CA, Allen, TX, Fairview, OR, Scottsdale, AZ, Wappingers Falls, NY
+- **Categories:** Fresher Job, Internship
+- **Locations:** Wappingers Falls, NY, Fairview, OR, San Jose, CA, Allen, TX, Scottsdale, AZ
 
 ## Current Opportunities
 

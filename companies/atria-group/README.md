@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** NYC, Chicago, IL, Novato, CA, San Jose, CA, St. Louis, MO
+- **Categories:** Fresher Job, Internship
+- **Locations:** Thousand Oaks, CA, Sunnyvale, CA, Broomfield, CO, Chicago, IL, NYC
 
 ## Current Opportunities
 

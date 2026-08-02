@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Columbus, OH, Traverse City, MI, Dublin, OH, Alexandria, VA, California City, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Rochester, MI, Manassas, VA, Traverse City, MI, San Antonio, TX, California City, CA
 
 ## Current Opportunities
 

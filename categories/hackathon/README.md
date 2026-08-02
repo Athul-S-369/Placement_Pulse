@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**156 active** | **182 expired** | **338 total**
+**160 active** | **182 expired** | **342 total**
 
 *Last updated: 2026-08-02*
 
@@ -8,6 +8,10 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [AI-Powered Paper Presentation Challenge](https://unstop.com/competitions/ai-powered-paper-presentation-challenge-college-simplified-1729373) | College Simplified | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
+| [Python Basic Programming Competition](https://unstop.com/hackathons/python-basic-programming-competition-bvc-college-of-engineering-rajamahendravaram-andhra-pradesh-1729093) | BVC College of Engineering, Rajamahendravaram, Andhra Pradesh | India | 🏢 Onsite | — | 2026-08-16 | Unstop |
+| [Echelon Essay Competition 2026](https://unstop.com/competitions/echelon-essay-competition-2026-echelon-association-1729396) | Echelon Association | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
+| [Pixellence](https://unstop.com/events/pixellence-ibs-hyderabad-1729260) | ICFAI Business School (IBS), Hyderabad | India | 🏢 Onsite | — | 2026-08-07 | Unstop |
 | [NexBuildOn Hack 2026](https://unstop.com/hackathons/nexbuildon-hack-2026-nexbuildon-community-1728774) | NexBuildOn Community | India | 🏢 Onsite | — | 2026-08-16 | Unstop |
 | [Prasunethon 2.0](https://unstop.com/hackathons/prasunethon-20-prasunet-1728532) | Prasunet | India | 🏢 Onsite | — | 2026-08-30 | Unstop |
 | [CodeSprint 2.O : One Shot Challenge](https://unstop.com/hackathons/codesprint-2o-one-shot-challenge-oriental-college-of-technology-oct-bhopal-1728495) | Oriental College of Technology (OCT), Bhopal | India | 🏢 Onsite | — | 2026-08-30 | Unstop |
@@ -104,10 +108,6 @@
 | [AI powered prompt freshers party](https://unstop.com/quiz/ai-powered-prompt-freshers-party-maharshi-dayanand-university-mdu-rohtak-1720715) | Maharshi Dayanand University (MDU), Rohtak | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
 | [Pune Chapters](https://unstop.com/conferences/pune-chapters-e-cell-iit-bombay-1720170) | E-Cell, IIT Bombay | India | 🏢 Onsite | — | 2026-08-08 | Unstop |
 | [Brand Canvas 2026](https://unstop.com/competitions/brand-canvas-2026-omnia-creative-1717779) | Omnia Creative | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
-| [Smackathon 2k26](https://unstop.com/hackathons/smackathon-2k26-yeshwantrao-chavan-college-of-engineering-ycce-nagpur-1718448) | Yeshwantrao Chavan College of Engineering (YCCE), Nagpur | India | 🏢 Onsite | — | 2026-10-06 | Unstop |
-| [Capital Odyssey](https://unstop.com/competitions/capital-odyssey-svnit-surat-1719871) | Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
-| [SynTech 2026- Data Science contest](https://unstop.com/competitions/syntech-2026-data-science-contest-manipal-institute-of-technology-manipal-1718519) | Manipal Institute of Technology (MIT), Manipal | India | 🏢 Onsite | — | 2026-08-15 | Unstop |
-| [Code O'Clock 2K26](https://unstop.com/hackathons/code-oclock-2k26-coimbatore-institute-of-technology-cit-coimbatore-1719235) | Coimbatore Institute of Technology (CIT), Coimbatore | India | 🏢 Onsite | — | 2026-08-18 | Unstop |
 
 ## Recently Expired
 

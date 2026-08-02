@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Santa Clara, CA, Hillsboro, OR, Santa Clara, CA, Remote in Canada, Austin, TX, Santa Clara, CA, Hillsboro, OR, Folsom, CA, Hillsboro, OR
+- **Categories:** Fresher Job, Internship
+- **Locations:** Hillsboro, OR, Phoenix, AZ, Santa Clara, CA, Hillsboro, OR, Remote in Canada, Hillsboro, OR, Phoenix, AZ
 
 ## Current Opportunities
 

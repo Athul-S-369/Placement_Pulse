@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Irvine, CA, Boston, MA, Seattle, WA, Newport Beach, CA, Irvine, CA, Reston, VA, Atlanta, GA, Newport Beach, CA, Rhode Island, Bellevue, WA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Boston, MA, Seattle, WA, Newport Beach, CA, Irvine, CA, Reston, VA, Atlanta, GA, Rhode Island, Bellevue, WA, Newport Beach, CA, Irvine, CA
 
 ## Current Opportunities
 
