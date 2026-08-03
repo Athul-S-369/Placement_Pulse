@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**158 active** | **191 expired** | **349 total**
+**160 active** | **191 expired** | **351 total**
 
 *Last updated: 2026-08-03*
 
@@ -11,6 +11,8 @@
 | [Simply Updify InnovateX 2.0](https://unstop.com/hackathons/simply-updify-innovatex-20-simply-updify-1729747) | Simply Updify | India | 🏢 Onsite | — | 2026-08-17 | Unstop |
 | [The Governance Challenge 2026 (TGC 2026)](https://unstop.com/competitions/crp-the-governance-challenge-2026-tgc-2026-samagra-1726557) | Samagra | India | 🏢 Onsite | — | 2026-09-30 | Unstop |
 | [79th Independence Day Quiz 2026](https://unstop.com/quiz/79th-independence-day-quiz-2026-knowledge-institute-of-technology-kiot-tamil-nadu-1729703) | ISTE Student Chapter, Bengaluru | India | 🏢 Onsite | — | 2026-08-17 | Unstop |
+| [Kautilya Colloquy 2026: Niti-in-Quest | National Level Policy Quiz Competition](https://unstop.com/quiz/kautilya-colloquy-2026-niti-in-quest-national-level-policy-quiz-competition-kautilya-school-of-public-policy-gitam--1729809) | Kautilya School of Public Policy, Gitam University, Telangana | India | 🏢 Onsite | — | 2026-09-25 | Unstop |
+| [CodeRed 2026: FIFA World Cup](https://unstop.com/hackathons/codered-2026-fifa-world-cup-nitk-surathkal-1727517) | National Institute of Technology Karnataka (NITK), Surathkal | India | 🏢 Onsite | — | 2026-08-15 | Unstop |
 | [AI-Powered Paper Presentation Challenge](https://unstop.com/competitions/ai-powered-paper-presentation-challenge-college-simplified-1729373) | College Simplified | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
 | [Python Basic Programming Competition](https://unstop.com/hackathons/python-basic-programming-competition-bvc-college-of-engineering-rajamahendravaram-andhra-pradesh-1729093) | BVC College of Engineering, Rajamahendravaram, Andhra Pradesh | India | 🏢 Onsite | — | 2026-08-16 | Unstop |
 | [Echelon Essay Competition 2026](https://unstop.com/competitions/echelon-essay-competition-2026-echelon-association-1729396) | Echelon Association | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
@@ -106,8 +108,6 @@
 | [AlgoOlympia 1.0](https://unstop.com/hackathons/algoolympia-10-chandigarh-university-cu-ajitgarh-punjab-1721974) | Chandigarh University (CU), Ajitgarh, Punjab | India | 🏢 Onsite | — | 2026-08-03 | Unstop |
 | [AWS Student Builder Event – Unlock Free AWS Certification Exam Opportunities](https://unstop.com/workshops-webinars/aws-student-builder-event-unlock-free-aws-certification-exam-opportunities-ies-university-bhopal-1720954) | IES University, Bhopal | India | 🏢 Onsite | — | 2026-09-01 | Unstop |
 | [AI Arena 2026: Online MCQ Quiz Competition](https://unstop.com/quiz/ai-arena-2026-online-mcq-quiz-competition-angels-secondary-boarding-school-1721694) | Angels Secondary Boarding School | India | 🏢 Onsite | — | 2026-08-07 | Unstop |
-| [AstroHack 2026: Build the Next Universe](https://unstop.com/competitions/astrohack-2026-build-the-next-universe-astrolive-1719172) | Astrolive | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
-| [Operation Black Vault](https://unstop.com/competitions/operation-black-vault-igdtuw-delhi-1722554) | Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi | India | 🏢 Onsite | — | 2026-08-10 | Unstop |
 
 ## Recently Expired
 

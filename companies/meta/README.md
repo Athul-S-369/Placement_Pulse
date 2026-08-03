@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Seattle, WA, Redmond, WA, New York, NY, Redmond, WA, Sausalito, CA, Redmond, WA, Pittsburgh, PA, London, UK
+- **Locations:** Redmond, WA, Seattle, WA, Redmond, WA, Sausalito, CA, Redmond, WA, Pittsburgh, PA, London, UK, Menlo Park, CA, NYC, Bellevue, WA
 
 ## Current Opportunities
 

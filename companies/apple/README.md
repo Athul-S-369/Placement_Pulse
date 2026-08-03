@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Beaverton, OR, Morrisville, NC, Cupertino, CA, Waltham, MA, California
+- **Categories:** Fresher Job, Internship
+- **Locations:** Cupertino, CA, San Diego, CA, Austin, TX, SF, Santa Clara, CA
 
 ## Current Opportunities
 
