@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Alexandria, VA, El Segundo, CA, Rochester, MI, Westminster, CO, San Antonio, TX
+- **Categories:** Internship, Fresher Job
+- **Locations:** Alexandria, VA, El Segundo, CA, Washington, DC, Augusta, ME, St. Louis, MO
 
 ## Current Opportunities
 

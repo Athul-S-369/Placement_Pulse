@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Longueuil, QC, Canada, Goleta, CA, Andover, MA, Cedar Rapids, IA, McKinney, TX
+- **Categories:** Internship, Fresher Job
+- **Locations:** Goleta, CA, Andover, MA, Longueuil, QC, Canada, Cedar Rapids, IA, Arlington, VA
 
 ## Current Opportunities
 
