@@ -1,6 +1,6 @@
 # 🏢 Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-02*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-03*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Capital Odyssey](https://unstop.com/competitions/capital-odyssey-svnit-surat-1719871) | Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
 
 ## 📖 Interview Preparation
 

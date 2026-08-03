@@ -1,6 +1,6 @@
 # 🏢 SAGE University (SAGEU), Indore, Madhya Pradesh
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-02*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-03*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [SquidHack 2026](https://unstop.com/hackathons/squidhack-sage-university-sageu-indore-madhya-pradesh-1703351) | SAGE University (SAGEU), Indore, Madhya Pradesh | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
 
 ## 📖 Interview Preparation
 

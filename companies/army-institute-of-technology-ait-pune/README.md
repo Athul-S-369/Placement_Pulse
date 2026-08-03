@@ -1,6 +1,6 @@
 # 🏢 Army Institute of Technology (AIT), Pune
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-02*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-03*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Aryabhata Mathematics Quiz 2026](https://unstop.com/quiz/aryabhata-mathematics-quiz-2026-army-institute-of-technology-ait-pune-1714401) | Army Institute of Technology (AIT), Pune | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
 
 ## 📖 Interview Preparation
 

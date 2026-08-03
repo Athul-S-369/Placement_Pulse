@@ -1,6 +1,6 @@
 # 🏢 NoobSync Innovations
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-02*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-03*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AI Won’t Replace You—But Someone Using AI Will](https://unstop.com/workshops-webinars/ai-wont-replace-you-but-someone-using-ai-will-noobsync-innovations-1721327) | NoobSync Innovations | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
 
 ## 📖 Interview Preparation
 

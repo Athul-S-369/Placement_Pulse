@@ -1,6 +1,6 @@
 # 🏢 St. Xavier's College (SXC), Mumbai, Maharashtra
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-02*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-03*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Case Competition](https://unstop.com/competitions/case-competition-st-xaviers-college-sxc-mumbai-1728608) | St. Xavier's College (SXC), Mumbai, Maharashtra | India | 🏢 Onsite | — | 2026-08-02 | Unstop |
 
 ## 📖 Interview Preparation
 
