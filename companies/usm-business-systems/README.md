@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** El Segundo, CA, Augusta, ME, Washington, DC, Rochester, MI, Chantilly, VA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Manassas, VA, Alexandria, VA, Traverse City, MI, Washington, DC, Columbus, OH
 
 ## Current Opportunities
 
