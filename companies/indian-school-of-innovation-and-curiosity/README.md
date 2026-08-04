@@ -1,6 +1,6 @@
 # 🏢 Indian School of Innovation and Curiosity
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-03*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-04*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AI Video Strategist](https://unstop.com/competitions/ai-video-strategist-indian-school-of-innovation-and-curiosity-1725471) | Indian School of Innovation and Curiosity | India | 🏢 Onsite | — | 2026-08-03 | Unstop |
 
 ## 📖 Interview Preparation
 

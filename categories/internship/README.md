@@ -1,13 +1,14 @@
 # 🎓 Internship
 
-**762 active** | **0 expired** | **762 total**
+**763 active** | **0 expired** | **763 total**
 
-*Last updated: 2026-08-03*
+*Last updated: 2026-08-04*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [AI Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) | Intel | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true) | Yotta Labs | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Digital & Technology Extern - Digital & Technology](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US--REMOTE/Start-Your-Legacy-HBCU-Externship-----Digital---Technology_R-144386) | The Coca-Cola Company | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Product Manager Intern - Host Squad](https://jobs.ashbyhq.com/sweatpals/be2f5fa7-2542-40e6-873f-778322bb0522/application?embed=true) | Sweatpals | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [Product Intern](https://job-boards.greenhouse.io/sezzle/jobs/6599073003) | Sezzle | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Data Science PhD Intern](https://job-boards.greenhouse.io/docugami/jobs/4192122003) | Docugami | Kirkland, WA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Machine Learning Engineer Intern - Monetization Technology](https://lifeattiktok.com/search/7562342433721862405) | TikTok | San Jose, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [ML Technology Intern, Graduate Students](https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/US-VA-Arlington/ML-Technology-Intern--Graduate-Students_R37735) | CoStar Group | Arlington, VA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

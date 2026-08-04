@@ -1,6 +1,6 @@
 # 🏢 AHZ Associates Limited
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-03*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-04*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Study Abroad Expo – September 2026 Intake](https://unstop.com/conferences/study-abroad-expo-september-2026-intake-ahz-associates-limited-1710733) | AHZ Associates Limited | India | 🏢 Onsite | — | 2026-08-03 | Unstop |
 
 ## 📖 Interview Preparation
 

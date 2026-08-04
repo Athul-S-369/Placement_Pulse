@@ -1,6 +1,6 @@
 # 🏢 Chandigarh University (CU), Ajitgarh, Punjab
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-03*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-04*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AlgoOlympia 1.0](https://unstop.com/hackathons/algoolympia-10-chandigarh-university-cu-ajitgarh-punjab-1721974) | Chandigarh University (CU), Ajitgarh, Punjab | India | 🏢 Onsite | — | 2026-08-03 | Unstop |
 
 ## 📖 Interview Preparation
 

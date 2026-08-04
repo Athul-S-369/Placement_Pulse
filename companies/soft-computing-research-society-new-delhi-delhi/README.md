@@ -1,6 +1,6 @@
 # 🏢 Soft Computing Research Society, New Delhi, Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-03*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-04*
 
 ## Overview
 

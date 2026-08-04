@@ -1,11 +1,11 @@
 # 🏢 Waabi
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-03*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-04*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Toronto, ON, Canada, Toronto, ON, Canada, California, SF, Canada
+- **Locations:** Toronto, ON, Canada, California, SF, Canada, Toronto, ON, Canada
 
 ## Current Opportunities
 

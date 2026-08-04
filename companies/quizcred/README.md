@@ -1,6 +1,6 @@
 # 🏢 QuizCred
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-03*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-04*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Campus to Career 2026](https://unstop.com/workshops-webinars/campus-to-career-2026-quizcred-1722573) | QuizCred | India | 🏢 Onsite | — | 2026-08-03 | Unstop |
 
 ## 📖 Interview Preparation
 

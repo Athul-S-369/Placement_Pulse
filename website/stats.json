@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-03T18:20:13.270997Z",
-  "date": "2026-08-03",
-  "total": 2388,
-  "active": 2196,
-  "new_today": 128,
-  "companies": 1735,
+  "generated_at": "2026-08-04T03:51:18.878043Z",
+  "date": "2026-08-04",
+  "total": 2392,
+  "active": 2195,
+  "new_today": 127,
+  "companies": 1738,
   "categories": {
-    "fresher-job": 1269,
-    "internship": 762,
-    "hackathon": 351,
+    "fresher-job": 1270,
+    "internship": 763,
+    "hackathon": 353,
     "open-source-program": 2,
     "fellowship": 2,
     "student-ambassador": 2
@@ -75,6 +75,10 @@
       "count": 8
     },
     {
+      "name": "Intel",
+      "count": 8
+    },
+    {
       "name": "Tenstorrent",
       "count": 7
     },
@@ -89,16 +93,12 @@
     {
       "name": "John Deere",
       "count": 7
-    },
-    {
-      "name": "NVIDIA",
-      "count": 7
     }
   ],
   "domain_tags": {
-    "ai-ml": 304,
+    "ai-ml": 305,
     "data-science": 173,
-    "software-engineering": 410,
+    "software-engineering": 411,
     "backend": 16,
     "embedded": 45,
     "cybersecurity": 19,
@@ -109,7 +109,7 @@
     "cloud": 26
   },
   "work_modes": {
-    "remote": 306,
-    "onsite": 2082
+    "remote": 308,
+    "onsite": 2084
   }
 }
