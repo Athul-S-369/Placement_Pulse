@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Plainview, NY, Sunnyvale, CA, NYC, Alpharetta, GA, Jacksonville, FL
+- **Categories:** Internship, Fresher Job
+- **Locations:** San Jose, CA, Plainview, NY, Jacksonville, FL, Novato, CA, Sunnyvale, CA
 
 ## Current Opportunities
 
