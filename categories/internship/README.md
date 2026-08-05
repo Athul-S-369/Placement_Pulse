@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**763 active** | **0 expired** | **763 total**
+**764 active** | **0 expired** | **764 total**
 
 *Last updated: 2026-08-05*
 
@@ -8,6 +8,7 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [People Analytics Intern](https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/People-Analytics-Intern_R0002363) | US Acute Care Solutions | Remote in USA, Ohio | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [AI Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) | Intel | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true) | Yotta Labs | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Digital & Technology Extern - Digital & Technology](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US--REMOTE/Start-Your-Legacy-HBCU-Externship-----Digital---Technology_R-144386) | The Coca-Cola Company | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [Applied Scientist / Research Engineer – Internship](https://jobs.lever.co/mistral/426ef8c0-eb26-4004-a690-f33c62b445a7/apply) | Mistral AI | London, UK, Paris, France | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Product Intern](https://job-boards.greenhouse.io/sezzle/jobs/6599073003) | Sezzle | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Data Science PhD Intern](https://job-boards.greenhouse.io/docugami/jobs/4192122003) | Docugami | Kirkland, WA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Machine Learning Engineer Intern - Monetization Technology](https://lifeattiktok.com/search/7562342433721862405) | TikTok | San Jose, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

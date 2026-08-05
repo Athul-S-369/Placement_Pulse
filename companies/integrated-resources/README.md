@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Cambridge, MA, Westborough, MA, North Haven, CT, Santa Clara, CA, Boston, MA
+- **Locations:** Hickory, NC, Elmira, NY, Boston, MA, Milwaukee, WI, Ambler, PA
 
 ## Current Opportunities
 

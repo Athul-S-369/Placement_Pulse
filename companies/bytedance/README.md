@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** San Jose, CA, Seattle, WA, San Diego, CA
+- **Locations:** Seattle, WA, San Diego, CA, San Jose, CA
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** San Jose, CA, San Diego, CA, Santa Clara, CA, Cambridge, MA, London, UK
+- **Locations:** Seattle, WA, Waltham, MA, London, UK, Austin, TX, San Jose, CA
 
 ## Current Opportunities
 

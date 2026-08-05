@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Southfield, MI, Bloomington, MN, Rochester, MI, Chicago, IL, Alexandria, VA
+- **Locations:** Manassas, VA, El Segundo, CA, Jefferson City, MO, Westminster, CO, California City, CA
 
 ## Current Opportunities
 

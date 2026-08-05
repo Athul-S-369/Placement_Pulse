@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**168 active** | **198 expired** | **366 total**
+**175 active** | **198 expired** | **373 total**
 
 *Last updated: 2026-08-05*
 
@@ -13,6 +13,13 @@
 | [International Conference on AI-Driven Innovation in Engineering and Technology](https://unstop.com/conferences/international-conference-on-ai-driven-innovation-in-engineering-and-technology-sns-college-of-technology-sns-1731025) | SNS College of Technology (SNSCT), Coimbatore, Tamil Nadu | India | 🏢 Onsite | — | 2026-09-21 | Unstop |
 | [Britannia Creatovate 2.0 - Sales and Marketing Track](https://unstop.com/competitions/crp-britannia-creatovate-20-sales-and-marketing-track-britannia-industries-ltd-1730216) | Britannia Industries Ltd. | India | 🏢 Onsite | — | 2026-11-17 | Unstop |
 | [Beyond the Mood Board — The Alendei Design Hackathon](https://unstop.com/hackathons/beyond-the-mood-board-the-alendei-design-hackathon-alendei-from-bharat-1730881) | Alendei from Bharat | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
+| [Python & AI Tools Workshop: Build Your Future with AI](https://unstop.com/workshops-webinars/python-ai-tools-workshop-build-your-future-with-ai-vaultsphere-ai-technology-pvt-ltd-1730984) | Vaultsphere Ai technology Pvt Ltd | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
+| [CyberVulnX Community Meetup - Build & Deploy Your First Website Using AI & Coding](https://unstop.com/workshops-webinars/cybervulnx-community-meetup-01-build-deploy-your-first-website-using-ai-coding-cybervulnx-1731308) | cybervulnx | India | 🏢 Onsite | — | 2026-08-08 | Unstop |
+| [Understanding Business Cycles: Insights for Future Business Leaders](https://unstop.com/workshops-webinars/understanding-business-cycles-insights-for-future-business-leaders-lakshmi-narain-college-of-technolo-1731286) | Lakshmi Narain College of Technology Excellence (LNCTE), Bhopal, Madhya Pradesh | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
+| [HackGyanVerse Founders Circle - Application Only Founder Pass | AI Innovation & Founders Summit 2026](https://unstop.com/conferences/hackgyanverse-founders-circle-application-only-founder-pass-ai-innovation-founders-summit-2026-hackgyanverse-1730665) | HackGyanVerse Community (Students Driven Community) | India | 🏢 Onsite | — | 2026-08-12 | Unstop |
+| [VCET Hackathon 2026](https://unstop.com/hackathons/vcet-hackathon-2026-vidyavardhinis-college-of-engineering-and-technology-1729412) | Vidyavardhini’s College of Engineering and Technology | India | 🏢 Onsite | — | 2026-09-05 | Unstop |
+| [The Quantum Technology Quiz](https://unstop.com/quiz/the-quantum-technology-quiz-think-loop-community-1730898) | Think Loop Community | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
+| [VELOHACK 2k26: 24 Hour International Hackathon](https://unstop.com/hackathons/velohack-2k26-24-hour-international-hackathon-vel-tech-rangarajan-dr-sagunthala-rd-institute-of-science-and-t-1730386) | Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology, Avadi | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
 | [The Chandigarh Police Hackathon](https://unstop.com/hackathons/the-chandigarh-police-hackathon-university-institute-of-engineering-and-technology-uiet-chandigarh-1730320) | University Institute of Engineering and Technology (UIET), Chandigarh | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
 | [Brumble-2026: Point of Contact](https://unstop.com/events/brumble-2026-point-of-contact-matiks-1730217) | Matiks | India | 🏢 Onsite | — | 2026-08-17 | Unstop |
 | [Test MoEngage - Multiple steps](https://unstop.com/competitions/test-moengage-multiple-steps-indian-institute-of-technology-iit-bhilai-1730618) | Indian Institute of Technology (IIT), Bhilai | India | 🏢 Onsite | — | 2026-08-18 | Unstop |
@@ -101,13 +108,6 @@
 | [InstaRinn Creative Marketing Challenge 2026](https://unstop.com/competitions/instarinn-creative-marketing-challenge-2026-instarinn-1724053) | InstaRinn | India | 🏢 Onsite | — | 2026-08-22 | Unstop |
 | [The Great Prompt AI Quiz 2026](https://unstop.com/quiz/the-great-prompt-ai-quiz-2026-promptbite-1720114) | PromptBite | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
 | [CraftVerse 2.0](https://unstop.com/hackathons/craftverse-20-pimpri-chinchwad-college-of-engineering-research-pccoer-ravet-pimpri-chinchwad-pune-1719658) | Pimpri Chinchwad College Of Engineering & Research (PCCOE&R), Ravet, Pimpri-Chinchwad, Pune | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
-| [EchoSphere: Agora Conversational AI Hackathon](https://unstop.com/hackathons/echosphere-agora-conversational-ai-hackathon-knotic-1723695) | KNOTiC | India | 🏢 Onsite | — | 2026-08-21 | Unstop |
-| [PromptX](https://unstop.com/competitions/promptx-s2s-1721995) | S2S | India | 🏢 Onsite | — | 2026-12-10 | Unstop |
-| [Statutory Audit Masterclass For Free](https://unstop.com/workshops-webinars/statutory-audit-masterclass-for-free-thinking-bridge-1723396) | Thinking Bridge | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
-| [Hacker's Gambit 2026](https://unstop.com/hackathons/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293) | Jaihind college of Engineering Kuran | India | 🏢 Onsite | — | 2026-10-04 | Unstop |
-| [Hackfinity 3.0](https://unstop.com/hackathons/hackfinity-30-ramco-institute-of-technology-rit-tamil-nadu-1722654) | Ramco Institute of Technology (RIT), Tamil Nadu | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
-| [CodeYourCult](https://unstop.com/hackathons/codeyourcult-build-cult-1723045) | Build Cult | India | 🏢 Onsite | — | 2026-09-06 | Unstop |
-| [Build With Bharat 3.0](https://unstop.com/hackathons/build-with-bharat-30-chitkara-university-cu-himachal-pradesh-1722484) | Chitkara University (CU), Himachal Pradesh | India | 🏢 Onsite | — | 2026-09-22 | Unstop |
 
 ## Recently Expired
 
