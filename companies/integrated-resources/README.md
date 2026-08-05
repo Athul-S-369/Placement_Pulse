@@ -1,11 +1,11 @@
 # 🏢 Integrated Resources
 
-**12 active opportunities** | **12 total tracked** | *Last updated: 2026-08-04*
+**12 active opportunities** | **12 total tracked** | *Last updated: 2026-08-05*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Birmingham, AL, Hickory, NC, Ambler, PA, Cherry Hills Village, CO, Exton, PA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Cherry Hills Village, CO, Hickory, NC, Boston, MA, Milwaukee, WI, Westborough, MA
 
 ## Current Opportunities
 

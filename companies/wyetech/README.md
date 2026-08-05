@@ -1,11 +1,11 @@
 # 🏢 Wyetech
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-04*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-05*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Annapolis Junction, MD, Morrisville, NC
+- **Locations:** Morrisville, NC, Annapolis Junction, MD
 
 ## Current Opportunities
 

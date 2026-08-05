@@ -1,6 +1,6 @@
 # 🏢 Marvell
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-08-04*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-08-05*
 
 ## Overview
 

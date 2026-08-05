@@ -1,13 +1,15 @@
 # 💼 Fresher Job
 
-**1270 active** | **0 expired** | **1270 total**
+**1272 active** | **0 expired** | **1272 total**
 
-*Last updated: 2026-08-04*
+*Last updated: 2026-08-05*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Applied Scientist - Unsecured Underwriting Machine Learning](https://careers.upstart.com/jobs?gh_jid=7293116) | Upstart | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Associate Data Engineer](https://boards.greenhouse.io/abacusinsights/jobs/8674746002) | Abacus Insights | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Data Scientist](https://dealertire.wd5.myworkdayjobs.com/DealerTireLLC-Careers/job/Remote-Ohio/Associate-Data-Scientist_R13774) | Dealer Tire | Remote in USA, Ohio | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [GIS Specialist](https://xtscareers.applytojob.com/apply/zXuVgWExgU/GIS-Specialist-Entry-Level) | Xcellent Technology Solutions | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Field Service Engineer](https://evertz.applytojob.com/apply/2EPc2HfSPN/Field-Service-Engineer-AV-USA) | Evertz Microsystems Limited | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -106,5 +108,3 @@
 | [AI Product Engineer - Copilot & Power Platform](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/AI-Product-Engineer--Copilot---Power-Platform---Remote---US-_R30742-1) | Allstate Insurance Company | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer 1](https://careers.varsitybrands.com/global/en/job/JR114172) | Varsity Brands | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Tutor Punjabi](https://job-boards.greenhouse.io/xai/jobs/5090246007) | xAI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Data Engineer Associate](https://job-boards.greenhouse.io/beyondtrust/jobs/6602214) | BeyondTrust | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Mobile Application Developer - Service Technician](https://carrier.wd5.myworkdayjobs.com/jobs/job/CAGAO-Carrier-Home-Georgia-Remote-Location-Remote-City-GA-30303-USA/Mobile-Application-Developer---Service-Technician_30205642) | Carrier Global | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

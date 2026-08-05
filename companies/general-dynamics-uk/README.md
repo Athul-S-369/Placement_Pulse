@@ -1,11 +1,11 @@
 # 🏢 General Dynamics UK
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-04*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-05*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Ashford District, UK, Halifax Regional Municipality, NS, Canada
+- **Categories:** Fresher Job, Internship
+- **Locations:** Halifax Regional Municipality, NS, Canada, Ashford District, UK
 
 ## Current Opportunities
 

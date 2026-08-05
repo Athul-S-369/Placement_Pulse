@@ -1,11 +1,11 @@
 # 🏢 Anthropic
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-04*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-05*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** London, UK, SF, Remote in USA, Remote in Canada, London, UK, SF, United States, Ontario, CA
+- **Locations:** London, UK, SF, United States, Ontario, CA, London, UK, SF, Remote in USA, Remote in Canada
 
 ## Current Opportunities
 

@@ -1,10 +1,10 @@
 # 🏢 Autodesk
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-04*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-05*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
+- **Categories:** Fresher Job, Internship
 - **Locations:** Remote in Canada, Vancouver, BC, Canada
 
 ## Current Opportunities

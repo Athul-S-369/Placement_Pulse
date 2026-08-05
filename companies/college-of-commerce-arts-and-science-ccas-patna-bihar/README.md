@@ -1,6 +1,6 @@
 # 🏢 College of Commerce, Arts and Science (CCAS), Patna, Bihar
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-04*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-05*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Brain Battle 2026](https://unstop.com/quiz/brain-battle-2026-college-of-commerce-arts-and-science-ccas-patna-bihar-1723106) | College of Commerce, Arts and Science (CCAS), Patna, Bihar | India | 🏢 Onsite | — | 2026-08-04 | Unstop |
 
 ## 📖 Interview Preparation
 
