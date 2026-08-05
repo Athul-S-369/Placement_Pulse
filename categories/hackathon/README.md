@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**165 active** | **198 expired** | **363 total**
+**168 active** | **198 expired** | **366 total**
 
 *Last updated: 2026-08-05*
 
@@ -10,6 +10,9 @@
 |------|---------|----------|------|----------------|----------|--------|
 | [AlgoForce AI Transformation Summit Delhi 2026](https://unstop.com/events/algoforce-ai-transformation-summit-delhi-2026-algoforce-ai-1730791) | AlgoForce AI | India | 🏢 Onsite | — | 2026-09-09 | Unstop |
 | [Binary Hacks 4.0](https://unstop.com/hackathons/binary-hacks-40-raj-kumar-goel-institute-of-technology-rkgit-ghaziabad-1730767) | Raj Kumar Goel Institute of Technology (RKGIT), Ghaziabad | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
+| [International Conference on AI-Driven Innovation in Engineering and Technology](https://unstop.com/conferences/international-conference-on-ai-driven-innovation-in-engineering-and-technology-sns-college-of-technology-sns-1731025) | SNS College of Technology (SNSCT), Coimbatore, Tamil Nadu | India | 🏢 Onsite | — | 2026-09-21 | Unstop |
+| [Britannia Creatovate 2.0 - Sales and Marketing Track](https://unstop.com/competitions/crp-britannia-creatovate-20-sales-and-marketing-track-britannia-industries-ltd-1730216) | Britannia Industries Ltd. | India | 🏢 Onsite | — | 2026-11-17 | Unstop |
+| [Beyond the Mood Board — The Alendei Design Hackathon](https://unstop.com/hackathons/beyond-the-mood-board-the-alendei-design-hackathon-alendei-from-bharat-1730881) | Alendei from Bharat | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
 | [The Chandigarh Police Hackathon](https://unstop.com/hackathons/the-chandigarh-police-hackathon-university-institute-of-engineering-and-technology-uiet-chandigarh-1730320) | University Institute of Engineering and Technology (UIET), Chandigarh | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
 | [Brumble-2026: Point of Contact](https://unstop.com/events/brumble-2026-point-of-contact-matiks-1730217) | Matiks | India | 🏢 Onsite | — | 2026-08-17 | Unstop |
 | [Test MoEngage - Multiple steps](https://unstop.com/competitions/test-moengage-multiple-steps-indian-institute-of-technology-iit-bhilai-1730618) | Indian Institute of Technology (IIT), Bhilai | India | 🏢 Onsite | — | 2026-08-18 | Unstop |
@@ -105,9 +108,6 @@
 | [Hackfinity 3.0](https://unstop.com/hackathons/hackfinity-30-ramco-institute-of-technology-rit-tamil-nadu-1722654) | Ramco Institute of Technology (RIT), Tamil Nadu | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
 | [CodeYourCult](https://unstop.com/hackathons/codeyourcult-build-cult-1723045) | Build Cult | India | 🏢 Onsite | — | 2026-09-06 | Unstop |
 | [Build With Bharat 3.0](https://unstop.com/hackathons/build-with-bharat-30-chitkara-university-cu-himachal-pradesh-1722484) | Chitkara University (CU), Himachal Pradesh | India | 🏢 Onsite | — | 2026-09-22 | Unstop |
-| [Vibewright](https://unstop.com/hackathons/vibewright-oblivion26-dcode-nsut-1722532) | D'Code NSUT | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
-| [The Innovation Quiz](https://unstop.com/quiz/the-innovation-quiz-school-of-excellence-sector-17-rohini-delhi-1722464) | School of Excellence, Sector 17, Rohini, Delhi | India | 🏢 Onsite | — | 2026-08-07 | Unstop |
-| [13th Interdisciplinary Conference on Health, Humanities, Technology and Management Research (ICHTMR 2026)](https://unstop.com/conferences/13th-interdisciplinary-conference-on-health-humanities-technology-and-management-research-ichtmr-2026-manipa-1722662) | Manipal Academy of Higher Education (MAHE), Karnataka | India | 🏢 Onsite | — | 2026-10-15 | Unstop |
 
 ## Recently Expired
 

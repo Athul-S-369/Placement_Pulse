@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** London, UK, Miami, FL, NYC, Paris, France, London, UK
+- **Categories:** Internship, Fresher Job
+- **Locations:** London, UK, Paris, France, London, UK, Miami, FL, NYC
 
 ## Current Opportunities
 

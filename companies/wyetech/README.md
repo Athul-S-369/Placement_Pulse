@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Morrisville, NC, Annapolis Junction, MD
+- **Locations:** Annapolis Junction, MD, Morrisville, NC
 
 ## Current Opportunities
 
