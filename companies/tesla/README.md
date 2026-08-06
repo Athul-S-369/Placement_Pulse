@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Bellevue, WA, Austin, TX, Anaheim, CA, Draper, UT, Palo Alto, CA, Fremont, CA, Austin, TX
+- **Categories:** Fresher Job, Internship
+- **Locations:** Fremont, CA, Palo Alto, CA, Draper, UT, Dallas, TX, Orlando, FL
 
 ## Current Opportunities
 

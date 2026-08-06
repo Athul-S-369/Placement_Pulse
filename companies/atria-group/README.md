@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Chicago, IL, San Jose, CA, Sunnyvale, CA, St. Louis, MO, Jacksonville, FL
+- **Categories:** Fresher Job, Internship
+- **Locations:** Chicago, IL, St. Louis, MO, San Jose, CA, Plainview, NY, Novato, CA
 
 ## Current Opportunities
 

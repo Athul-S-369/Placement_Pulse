@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**175 active** | **204 expired** | **379 total**
+**180 active** | **204 expired** | **384 total**
 
 *Last updated: 2026-08-06*
 
@@ -14,6 +14,11 @@
 | [AI with Initiative: AI Makes the First Move - Hackathon](https://unstop.com/hackathons/ai-with-initiative-ai-makes-the-first-move-hackathon-symbiosis-institute-of-digital-and-telecom-management-si-1731061) | Symbiosis Institute of Digital and Telecom Management (SIDTM) | India | 🏢 Onsite | — | 2026-09-05 | Unstop |
 | [Pathway Hackathon](https://unstop.com/hackathons/pathway-hackathon-e-cell-jss-noida-1731395) | E-Cell, JSS Noida | India | 🏢 Onsite | — | 2026-08-10 | Unstop |
 | [Resolve'26 – National Level 48-Hour Game Jam](https://unstop.com/hackathons/resolve26-national-level-48-hour-game-jam-srm-insitute-of-science-and-technology-1731440) | SRM Insitute of Science and Technology | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
+| [Hackblox Open Source Hackathon](https://unstop.com/hackathons/hackblox-open-source-hackathon-hackers-cult-1731738) | Hackers Cult | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
+| [Bitmela Launchpad: Ideathon 01](https://unstop.com/hackathons/bitmela-launchpad-ideathon-01-bitmela-1722812) | Bitmela | India | 🏢 Onsite | — | 2026-10-31 | Unstop |
+| [Yukti](https://unstop.com/competitions/yukti-symbiosis-institute-of-business-management-sibm-nagpur-maharashtra-1729807) | Symbiosis Institute of Business Management (SIBM), Nagpur, Maharashtra | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
+| [BSM Agentic AI Challenge 2026](https://unstop.com/competitions/bsm-agentic-ai-challenge-2026-badruka-school-of-management-1731585) | Badruka School of Management | India | 🏢 Onsite | — | 2026-08-17 | Unstop |
+| [Cyber Hygiene Workshop](https://unstop.com/workshops-webinars/cyber-hygiene-workshop-united-university-allahabad-uttar-pradesh-1731546) | United University, Allahabad, Uttar Pradesh | India | 🏢 Onsite | — | 2026-08-09 | Unstop |
 | [AlgoForce AI Transformation Summit Delhi 2026](https://unstop.com/events/algoforce-ai-transformation-summit-delhi-2026-algoforce-ai-1730791) | AlgoForce AI | India | 🏢 Onsite | — | 2026-09-09 | Unstop |
 | [Binary Hacks 4.0](https://unstop.com/hackathons/binary-hacks-40-raj-kumar-goel-institute-of-technology-rkgit-ghaziabad-1730767) | Raj Kumar Goel Institute of Technology (RKGIT), Ghaziabad | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
 | [International Conference on AI-Driven Innovation in Engineering and Technology](https://unstop.com/conferences/international-conference-on-ai-driven-innovation-in-engineering-and-technology-sns-college-of-technology-sns-1731025) | SNS College of Technology (SNSCT), Coimbatore, Tamil Nadu | India | 🏢 Onsite | — | 2026-09-21 | Unstop |
@@ -103,11 +108,6 @@
 | [International Hackathon Competition 2026](https://unstop.com/hackathons/international-hackathon-competition-2026-sofzenix-it-solution-llp-1724168) | Sofzenix IT Solution LLP | India | 🏢 Onsite | — | 2026-08-06 | Unstop |
 | [Brain War 2026 – National Level Tech Quiz](https://unstop.com/quiz/brain-war-2026-national-level-tech-quiz-codearenas-1724356) | codearenas | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
 | [The Builder's Blueprint: Learn the Latest Strategies & Career Opportunities](https://unstop.com/workshops-webinars/the-builders-blueprint-learn-the-latest-strategies-career-opportunities-digimation-flight-1724393) | Digimation Flight | India | 🏢 Onsite | — | 2026-08-08 | Unstop |
-| [BizQuiz](https://unstop.com/quiz/bizquiz-amity-international-school-gurgaon-1724338) | Amity International School ,Gurgaon | India | 🏢 Onsite | — | 2026-08-07 | Unstop |
-| [LevelUp Game Hackathon](https://unstop.com/hackathons/levelup-game-hackathon-gamnexis-1722925) | Gamnexis | India | 🏢 Onsite | — | 2026-08-09 | Unstop |
-| [Startup Summit 2026 - National Level Business Plan Event](https://unstop.com/competitions/startup-summit-2026-national-level-business-plan-event-mla-academy-of-higher-learning-1722558) | MLA Academy of Higher learning | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
-| [Cosmicathon : National Level Product Building Hackathon](https://unstop.com/competitions/cosmicathon-national-level-product-building-hackathon-thapar-institute-of-engineering-and-technology-tiet-p-1724180) | Thapar Institute of Engineering and Technology (TIET), Patiala | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
-| [PactaNova MUN](https://unstop.com/competitions/pactanova-mun-nivaan-2026-sibm-pune-1724363) | Symbiosis Institute of Business Management (SIBM), Pune | India | 🏢 Onsite | — | 2026-08-07 | Unstop |
 
 ## Recently Expired
 

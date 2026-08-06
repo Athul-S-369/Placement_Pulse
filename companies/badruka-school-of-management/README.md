@@ -1,0 +1,22 @@
+# 🏢 Badruka School of Management
+
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-06*
+
+## Overview
+
+- **Categories:** Hackathon
+- **Locations:** India
+
+## Current Opportunities
+
+| Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
+|------|---------|----------|------|----------------|----------|--------|
+| [BSM Agentic AI Challenge 2026](https://unstop.com/competitions/bsm-agentic-ai-challenge-2026-badruka-school-of-management-1731585) | Badruka School of Management | India | 🏢 Onsite | — | 2026-08-17 | Unstop |
+
+## 📖 Interview Preparation
+
+| Resource | Link |
+|----------|------|
+| GeeksForGeeks – Badruka School of Management | [Search](https://www.geeksforgeeks.org/search/?q=Badruka+School+of+Management) |
+| LeetCode – Badruka School of Management | [Problems](https://leetcode.com/company/badruka-school-of-management/) |
+| Glassdoor – Badruka School of Management | [Reviews](https://www.glassdoor.com/Reviews/Badruka-School-of-Management-Reviews-E.htm) |
