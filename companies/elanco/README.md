@@ -1,16 +1,17 @@
 # 🏢 Elanco
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-05*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-06*
 
 ## Overview
 
-- **Categories:** Internship
-- **Locations:** Remote in USA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Remote in USA, Indianapolis, IN
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Machine Learning & Computer Vision Scientist - R&D - Junior/Associate](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/Machine-Learning---Computer-Vision-Scientist---R-D--Junior-Associate-_R0026698) | Elanco | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Special Projects Associate - Sustainability Data Monitoring](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/US-Territory-Field-based/Special-Projects-Associate---Sustainability-Data-Monitoring_R0026251) | Elanco | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 
 ## 📖 Interview Preparation

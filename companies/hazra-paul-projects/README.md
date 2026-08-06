@@ -1,6 +1,6 @@
 # 🏢 Hazra & Paul PROJECTS
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-05*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-06*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [NextGen Manufacturing Quiz 2026](https://unstop.com/quiz/nextgen-manufacturing-quiz-2026-hazra-paul-projects-1715363) | Hazra & Paul PROJECTS | India | 🏢 Onsite | — | 2026-08-05 | Unstop |
 
 ## 📖 Interview Preparation
 

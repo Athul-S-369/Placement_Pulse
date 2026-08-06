@@ -1,6 +1,6 @@
 # 🏢 Fortinet
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-05*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-06*
 
 ## Overview
 

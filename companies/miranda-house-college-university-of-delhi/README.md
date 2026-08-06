@@ -1,6 +1,6 @@
 # 🏢 Miranda House College, University of Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-05*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-06*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Call for Themed Guest Entries: Economics is Political](https://unstop.com/competitions/call-for-themed-guest-entries-economics-is-political-mhc-du-1720882) | Miranda House College, University of Delhi | India | 🏢 Onsite | — | 2026-08-05 | Unstop |
 
 ## 📖 Interview Preparation
 

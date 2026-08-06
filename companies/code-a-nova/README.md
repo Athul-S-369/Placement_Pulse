@@ -1,6 +1,6 @@
 # 🏢 CODE-A-NOVA
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-05*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-06*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Full Stack Web Development Challenge 2026](https://unstop.com/quiz/full-stack-web-development-challenge-2026-code-a-nova-1724088) | CODE-A-NOVA | India | 🏢 Onsite | — | 2026-08-05 | Unstop |
 
 ## 📖 Interview Preparation
 

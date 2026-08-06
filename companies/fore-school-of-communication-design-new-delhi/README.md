@@ -1,6 +1,6 @@
 # 🏢 FORE School of Communication Design, New Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-05*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-06*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Logo Making Competition & Workshop](https://unstop.com/competitions/logo-making-competition-workshop-fore-school-of-communication-design-new-delhi-1719612) | FORE School of Communication Design, New Delhi | India | 🏢 Onsite | — | 2026-08-05 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,6 +1,6 @@
 # 🏢 B.N. College Of Engineering And Technology, Lucknow, Uttar Pradesh
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-05*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-06*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Gemini Prompt Wars](https://unstop.com/competitions/gemini-prompt-wars-bn-college-of-engineering-and-technology-lucknow-uttar-pradesh-1711583) | B.N. College Of Engineering And Technology, Lucknow, Uttar Pradesh | India | 🏢 Onsite | — | 2026-08-05 | Unstop |
 
 ## 📖 Interview Preparation
 
