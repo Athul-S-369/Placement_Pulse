@@ -1,6 +1,6 @@
 # 🏢 People Matters
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-06*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-07*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [TA Hackathon](https://unstop.com/competitions/ta-hackathon-people-matters-1723444) | People Matters | India | 🏢 Onsite | — | 2026-08-06 | Unstop |
 
 ## 📖 Interview Preparation
 

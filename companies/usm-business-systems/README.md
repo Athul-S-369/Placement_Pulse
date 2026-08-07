@@ -1,11 +1,11 @@
 # 🏢 USM Business Systems
 
-**21 active opportunities** | **21 total tracked** | *Last updated: 2026-08-06*
+**21 active opportunities** | **21 total tracked** | *Last updated: 2026-08-07*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Dublin, OH, Chantilly, VA, Jefferson City, MO, Southfield, MI, Chicago, IL
+- **Locations:** Westminster, CO, Baltimore, MD, St. Louis, MO, Rochester, MI, NYC
 
 ## Current Opportunities
 

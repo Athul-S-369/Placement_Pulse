@@ -1,6 +1,6 @@
 # 🏢 SDA Bocconi Asia Center, Mumbai
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-06*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-07*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [FINnovate](https://unstop.com/competitions/finnovate-la-conquista-2026-sda-bocconi-asia-center-mumbai-1716603) | SDA Bocconi Asia Center, Mumbai | India | 🏢 Onsite | — | 2026-08-06 | Unstop |
 
 ## 📖 Interview Preparation
 

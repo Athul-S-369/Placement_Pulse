@@ -1,6 +1,6 @@
 # 🏢 Mumbai University (MU), Mumbai
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-06*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-07*
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # 🏢 Sofzenix IT Solution LLP
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-06*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-07*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [International Hackathon Competition 2026](https://unstop.com/hackathons/international-hackathon-competition-2026-sofzenix-it-solution-llp-1724168) | Sofzenix IT Solution LLP | India | 🏢 Onsite | — | 2026-08-06 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,13 +1,14 @@
 # 💼 Fresher Job
 
-**1274 active** | **0 expired** | **1274 total**
+**1275 active** | **0 expired** | **1275 total**
 
-*Last updated: 2026-08-06*
+*Last updated: 2026-08-07*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer College Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) | Salesforce | Palo Alto, CA, Seattle, WA, Indianapolis, IN, SF, Dallas, TX, Bellevue, WA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Machine Learning & Computer Vision Scientist - R&D - Junior/Associate](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/Machine-Learning---Computer-Vision-Scientist---R-D--Junior-Associate-_R0026698) | Elanco | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Automation Developer](https://apply.workable.com/saalex/j/B9CC90B5BA/apply) | Saalex | Remote in USA, Lexington Park, MD | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Applied Scientist - Unsecured Underwriting Machine Learning](https://careers.upstart.com/jobs?gh_jid=7293116) | Upstart | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Data Engineer](https://job-boards.greenhouse.io/leolabsinc/jobs/4221511009) | LeoLabs | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Analyst AI Opportunity & Value Creation](https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Remote-USA/Analyst--AI-Opportunity---Value-Creation_R250000006069) | R1 RCM | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Product Manager - Fordpay](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/66700) | Ford Motor Company | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [AI Product Engineer - Copilot & Power Platform](https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/US---Remote/AI-Product-Engineer--Copilot---Power-Platform---Remote---US-_R30742-1) | Allstate Insurance Company | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

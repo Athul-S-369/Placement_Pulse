@@ -1,11 +1,11 @@
 # 🏢 Halliburton
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-06*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-07*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Oxford, UK, Houston, TX
+- **Locations:** Houston, TX, Oxford, UK
 
 ## Current Opportunities
 

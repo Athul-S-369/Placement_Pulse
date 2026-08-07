@@ -1,11 +1,11 @@
 # 🏢 Integrated Resources
 
-**12 active opportunities** | **12 total tracked** | *Last updated: 2026-08-06*
+**12 active opportunities** | **12 total tracked** | *Last updated: 2026-08-07*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Birmingham, AL, Cambridge, MA, Santa Clara, CA, Milwaukee, WI, Exton, PA
+- **Locations:** Cherry Hills Village, CO, Milwaukee, WI, North Haven, CT, Boston, MA, Birmingham, AL
 
 ## Current Opportunities
 
