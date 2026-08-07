@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** St. Louis, MO, Bloomington, MN, Rochester, MI, Bluemont, VA, Dublin, OH
+- **Locations:** Chantilly, VA, Baltimore, MD, Rochester, MI, El Segundo, CA, Westminster, CO
 
 ## Current Opportunities
 

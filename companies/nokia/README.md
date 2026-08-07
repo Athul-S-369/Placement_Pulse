@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** San Jose, CA, Sunnyvale, CA, Vancouver, BC, Canada, Allentown, PA, Canada
+- **Locations:** Ottawa, ON, Canada, Allentown, PA, Canada, San Jose, CA, Sunnyvale, CA
 
 ## Current Opportunities
 

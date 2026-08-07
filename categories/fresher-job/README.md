@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1277 active** | **0 expired** | **1277 total**
+**1278 active** | **0 expired** | **1278 total**
 
 *Last updated: 2026-08-07*
 
@@ -11,6 +11,7 @@
 | [Software Engineer College Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) | Salesforce | Palo Alto, CA, Seattle, WA, Indianapolis, IN, SF, Dallas, TX, Bellevue, WA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Research Fellow - Workforce Intelligence](https://apply.workable.com/alphax/j/E8CAD15968/apply) | AlphaHire | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://apply.workable.com/interimage/j/50AEE969C4/apply) | InterImage | Remote in USA, Arlington County, Arlington, VA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Field Service Technician 2 - Gaming](https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Indiana-US/Field-Service-Tech-II_R321726) | Light & Wonder | Indiana | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Machine Learning & Computer Vision Scientist - R&D - Junior/Associate](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/Machine-Learning---Computer-Vision-Scientist---R-D--Junior-Associate-_R0026698) | Elanco | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Automation Developer](https://apply.workable.com/saalex/j/B9CC90B5BA/apply) | Saalex | Remote in USA, Lexington Park, MD | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Applied Scientist - Unsecured Underwriting Machine Learning](https://careers.upstart.com/jobs?gh_jid=7293116) | Upstart | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Data Analyst](https://job-boards.greenhouse.io/impiricus/jobs/5349829008) | Impiricus | Remote in USA, NYC, Atlanta, GA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Technical Product Associate - Lifecycle](https://job-boards.greenhouse.io/sleepdoctor/jobs/7805274003) | Sleep Doctor | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Applications Development Associate](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Applications-Devt-Associate_R26005648) | United Parcel Service (UPS) | Indiana | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Data Engineer](https://job-boards.greenhouse.io/leolabsinc/jobs/4221511009) | LeoLabs | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

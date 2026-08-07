@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Sioux Falls, SD, Grimes, IA, Waterloo, IA, Grimes, IA, Davenport, IA, Urbana, IL
+- **Locations:** Davenport, IA, Sioux Falls, SD, Waterloo, IA, Grimes, IA, Ames, IA
 
 ## Current Opportunities
 

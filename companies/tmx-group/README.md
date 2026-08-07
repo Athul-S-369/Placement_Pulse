@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, Montreal, QC, Canada, Toronto, ON, Canada, London, UK
+- **Locations:** Montreal, QC, Canada, Toronto, ON, Canada, Remote in USA, London, UK
 
 ## Current Opportunities
 

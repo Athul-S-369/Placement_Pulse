@@ -1,23 +1,22 @@
-# 🏢 GE Healthcare
+# 🏢 GE HealthCare
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-07*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-07*
 
 ## Overview
 
-- **Categories:** Fresher Job
-- **Locations:** Remote in USA, St. Louis, MO
+- **Categories:** Hackathon
+- **Locations:** India
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [IGS Calibration Engineer](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/IGS-Calibration-Engineer_R4041210-2) | GE Healthcare | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Field Service Engineer 1](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I---St-Louis--MO_R4040646-1) | GE Healthcare | St. Louis, MO | 🏢 Onsite | — | — | SimplifyJobs New Grad |
+| [Precision Care Challenge 2026](https://unstop.com/hackathons/crp-precision-care-challenge-2026-ge-healthcare-1731208) | GE HealthCare | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
 
 ## 📖 Interview Preparation
 
 | Resource | Link |
 |----------|------|
-| GeeksForGeeks – GE Healthcare | [Search](https://www.geeksforgeeks.org/search/?q=GE+Healthcare) |
-| LeetCode – GE Healthcare | [Problems](https://leetcode.com/company/ge-healthcare/) |
-| Glassdoor – GE Healthcare | [Reviews](https://www.glassdoor.com/Reviews/GE-Healthcare-Reviews-E.htm) |
+| GeeksForGeeks – GE HealthCare | [Search](https://www.geeksforgeeks.org/search/?q=GE+HealthCare) |
+| LeetCode – GE HealthCare | [Problems](https://leetcode.com/company/ge-healthcare/) |
+| Glassdoor – GE HealthCare | [Reviews](https://www.glassdoor.com/Reviews/GE-HealthCare-Reviews-E.htm) |

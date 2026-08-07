@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**181 active** | **208 expired** | **389 total**
+**185 active** | **208 expired** | **393 total**
 
 *Last updated: 2026-08-07*
 
@@ -13,6 +13,10 @@
 | [Investor's Dilema '26](https://unstop.com/competitions/investors-dilema-26-pw-institute-of-innovation-1732290) | PW Institute of Innovation | India | 🏢 Onsite | — | 2026-08-17 | Unstop |
 | [TEJAS India Hackathon 2026](https://unstop.com/hackathons/tejas-india-hackathon-2026-government-engineering-collegegec-jamui-1733064) | Government Engineering College(GEC), Jamui | India | 🏢 Onsite | — | 2026-08-21 | Unstop |
 | [Edge AI Hackathon 2026](https://unstop.com/hackathons/edge-ai-hackathon-2026-parala-maharaja-engineering-college-berhampur-1720578) | Parala Maharaja Engineering College, Berhampur | India | 🏢 Onsite | — | 2026-10-06 | Unstop |
+| [Webscape](https://unstop.com/competitions/webscape-coep-mindspark-1733306) | COEP MindSpark | India | 🏢 Onsite | — | 2026-09-29 | Unstop |
+| [Precision Care Challenge 2026](https://unstop.com/hackathons/crp-precision-care-challenge-2026-ge-healthcare-1731208) | GE HealthCare | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
+| [Aethon 2026 | 24-Hour National Hackathon](https://unstop.com/hackathons/aethon-2026-24-hour-national-hackathon-enac-3-day-innovation-entrepreneurship-fest-2026-central-university-of-1731459) | CENTRAL UNIVERSITY OF RAJASTHAN, AJMER KISHANGARDH | India | 🏢 Onsite | — | 2026-08-24 | Unstop |
+| [ReLead 9.0](https://unstop.com/competitions/crp-relead-90-renew-1728228) | ReNew | India | 🏢 Onsite | — | 2026-10-08 | Unstop |
 | [Nexus 2026 | National Pre-Conference Research Paper Writing Competition](https://unstop.com/conferences/nexus-2026-national-pre-conference-research-paper-writing-competition-techfuison-hiet-ghaziabad-1731453) | TechFuison Hiet Ghaziabad | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
 | [H.I. Cohort 3.0](https://unstop.com/workshops-webinars/hi-cohort-30-cohort-30-hi-human-intelligence-1731430) | H.I. Human Intelligence | India | 🏢 Onsite | — | 2026-08-08 | Unstop |
 | [Code Rush 3.0](https://unstop.com/hackathons/code-rush-30-krishna-institute-of-engineering-and-technology-kiet-ghaziabad-1731472) | Krishna Institute of Engineering and Technology (KIET), Ghaziabad | India | 🏢 Onsite | — | 2026-09-05 | Unstop |
@@ -104,10 +108,6 @@
 | [AI Career Masterclass: How to Land a ₹15–18 LPA Job as a Fresher](https://unstop.com/workshops-webinars/ai-career-masterclass-how-to-land-a-rs15-18-lpa-job-as-a-fresher-institute-of-product-leadership-1725042) | Institute of Product Leadership | India | 🏢 Onsite | — | 2026-08-08 | Unstop |
 | [Brand Beyond Borders: Reimagining Brands for New Markets](https://unstop.com/competitions/brand-beyond-borders-reimagining-brands-for-new-markets-great-lakes-institute-of-management-glim-gurgaon-1725776) | Great Lakes Institute of Management (GLIM), Gurgaon | India | 🏢 Onsite | — | 2026-08-30 | Unstop |
 | [Open Innovation Workshop](https://unstop.com/workshops-webinars/open-innovation-workshop-malla-reddy-engineering-college-1726121) | Malla Reddy Engineering College | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
-| [HR Auction](https://unstop.com/competitions/hr-auction-hr-symposium-40-faculty-of-business-administration-glsbba-gls-university-1726120) | Faculty Of Business Administration (GLSBBA), GLS University | India | 🏢 Onsite | — | 2026-08-14 | Unstop |
-| [Specathon 2026](https://unstop.com/hackathons/specathon-2026-st-peters-engineering-college-1723868) | St Peters Engineering College | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
-| [Introduction to Agentic AI: Building Intelligent Applications with Forge](https://unstop.com/workshops-webinars/introduction-to-agentic-ai-building-intelligent-applications-with-forge-initializai-1724632) | Initializ.ai | India | 🏢 Onsite | — | 2026-08-07 | Unstop |
-| [Omnikon National Hackathon 2026](https://unstop.com/hackathons/omnikon-national-hackathon-2026-omnikon-1715716) | Omnikon | India | 🏢 Onsite | — | 2026-09-01 | Unstop |
 
 ## Recently Expired
 
