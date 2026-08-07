@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Longueuil, QC, Canada, Arlington, VA, Barrie, ON, Canada, Goleta, CA, Fort Wayne, IN
+- **Locations:** Arlington, VA, Barrie, ON, Canada, Andover, MA, Huntsville, AL, Goleta, CA
 
 ## Current Opportunities
 

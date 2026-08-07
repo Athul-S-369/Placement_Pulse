@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**765 active** | **0 expired** | **765 total**
+**766 active** | **0 expired** | **766 total**
 
 *Last updated: 2026-08-07*
 
@@ -8,6 +8,7 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Monitoring & Evaluation Intern](https://apply.workable.com/healthcorpsorg/j/DD52981B55/apply) | HealthCorps | Remote in USA, Phoenix, AZ | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [AI Deployment Intern](https://jobs.jobvite.com/exabeam/job/oRNAAfwy?nl=1&nl=1&fr=false) | Exabeam | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [People Analytics Intern](https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/People-Analytics-Intern_R0002363) | US Acute Care Solutions | Remote in USA, Ohio | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [AI Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) | Intel | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [Software Engineering Intern, Summer 2026](https://jobs.baesystems.com/global/en/job/BAE1US117813BREXTERNAL/Software-Engineering-Intern-Summer-2026) | BAE Systems | Fort Worth, TX | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Analog/Mixed-Signal IC & AI Systems R&D Intern - Master's Degree](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Irvine-CA/Analog-Mixed-Signal-IC---AI-Systems-R-D-Intern---Master-s-Degree_2502428) | Marvell | Irvine, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Applied Scientist / Research Engineer – Internship](https://jobs.lever.co/mistral/426ef8c0-eb26-4004-a690-f33c62b445a7/apply) | Mistral AI | London, UK, Paris, France | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Product Intern](https://job-boards.greenhouse.io/sezzle/jobs/6599073003) | Sezzle | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
