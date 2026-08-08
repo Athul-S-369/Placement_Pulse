@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**180 active** | **216 expired** | **396 total**
+**181 active** | **216 expired** | **397 total**
 
 *Last updated: 2026-08-08*
 
@@ -11,6 +11,7 @@
 | [CoArena Hackathon](https://unstop.com/hackathons/coarena-hackathon-coarena-1733431) | CoArena | India | 🏢 Onsite | — | 2026-08-21 | Unstop |
 | [AIKHTC Shark Tank 2026](https://unstop.com/competitions/aikhtc-shark-tank-2026-anjuman-i-islams-kalsekar-technical-campus-aiktc-navi-mumbai-1733373) | Anjuman-I-Islam's Kalsekar Technical Campus (AIKTC), Navi Mumbai | India | 🏢 Onsite | — | 2026-08-21 | Unstop |
 | [HACK HIVE 2.0](https://unstop.com/competitions/hack-hive-20-school-of-data-science-and-forecasting-indore-1733098) | School of data science and forecasting, Indore | India | 🏢 Onsite | — | 2026-08-31 | Unstop |
+| [The L’Oréal Edge - Beauty Tech Track](https://unstop.com/competitions/crp-the-loreal-edge-beauty-tech-track-the-loreal-edge-loreal-1727748) | Loreal | India | 🏢 Onsite | — | 2026-08-28 | Unstop |
 | [Case-ette 7.0 | Case Study Competition](https://unstop.com/competitions/case-ette-70-case-study-competition-sri-guru-gobind-singh-college-of-commerce-sggscc-new-delhi-1732629) | Sri Guru Gobind Singh College of Commerce (SGGSCC), New Delhi | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 | [Kumbhathon 2026 | Idea Pitch Competition](https://unstop.com/competitions/kumbhathon-2026-idea-pitch-competition-symbiosis-institute-of-operations-management-1731307) | Symbiosis Institute of operations management | India | 🏢 Onsite | — | 2026-08-21 | Unstop |
 | [Investor's Dilema '26](https://unstop.com/competitions/investors-dilema-26-pw-institute-of-innovation-1732290) | PW Institute of Innovation | India | 🏢 Onsite | — | 2026-08-17 | Unstop |
@@ -107,7 +108,6 @@
 | [Data Sprint 2026](https://unstop.com/competitions/data-sprint-2026-vidyalankar-polytechnic-1726513) | Vidyalankar Polytechnic | India | 🏢 Onsite | — | 2026-08-10 | Unstop |
 | [Capital NEXUS](https://unstop.com/competitions/capital-nexus-mit-academy-of-engineering-mitaoe-pune-maharashtra-1726068) | MIT Academy of Engineering (MITAOE), Pune, Maharashtra | India | 🏢 Onsite | — | 2026-08-10 | Unstop |
 | [Neetiyudh: A Case Study](https://unstop.com/competitions/neetiyudh-a-case-study-krishi-chanakya-2026-national-institute-of-agricultural-extension-management-manage--1724872) | National Institute of Agricultural Extension Management (MANAGE), Hyderabad | India | 🏢 Onsite | — | 2026-08-14 | Unstop |
-| [AI Career Masterclass: How to Land a ₹15–18 LPA Job as a Fresher](https://unstop.com/workshops-webinars/ai-career-masterclass-how-to-land-a-rs15-18-lpa-job-as-a-fresher-institute-of-product-leadership-1725042) | Institute of Product Leadership | India | 🏢 Onsite | — | 2026-08-08 | Unstop |
 
 ## Recently Expired
 

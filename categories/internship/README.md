@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**769 active** | **0 expired** | **769 total**
+**770 active** | **0 expired** | **770 total**
 
 *Last updated: 2026-08-08*
 
@@ -10,6 +10,7 @@
 |------|---------|----------|------|----------------|----------|--------|
 | [Software Engineering Intern](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334-2) | Cadence Design Systems | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Software Engineer Intern](https://apply.workable.com/pronexus-1/j/AF8C34AC6D/apply) | ProNexus | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Clinical Product Strategy Intern - Clinical Technology](https://jobs.lever.co/ekohealth/ff0ee63d-4733-4c97-b3c5-0a6f1e303f1d/apply) | Eko Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Monitoring & Evaluation Intern](https://apply.workable.com/healthcorpsorg/j/DD52981B55/apply) | HealthCorps | Remote in USA, Phoenix, AZ | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Intelligence Solutions Intern](https://everstream.ai/careers/jobs/?gh_jid=5991766004) | Everstream Analytics | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [AI Deployment Intern](https://jobs.jobvite.com/exabeam/job/oRNAAfwy?nl=1&nl=1&fr=false) | Exabeam | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [Software Intern - AI Compilers](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968219007) | Tenstorrent | Austin, TX | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [SoC Performance Modeling Internship - Platform Architecture](https://jobs.apple.com/en-us/details/200629965) | Apple | London, UK | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Student Software Engineering Intern](https://jobs.smartrecruiters.com/oneclick-ui/company/RESPECInc/publication/643d3be0-a063-4b49-8b31-049c95eb74a5?dcr_ci=RESPECInc) | RESPEC | Richardson, TX | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Software Engineering Intern IV, Summer 2026](https://jobs.baesystems.com/global/en/job/BAE1US118035BREXTERNAL/Software-Engineering-Intern-IV-Summer-2026) | BAE Systems | Nashua, NH, Hudson, NH, Manchester, NH, Merrimack, NH | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

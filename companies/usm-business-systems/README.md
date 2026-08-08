@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Columbus, OH, Traverse City, MI, Manassas, VA, Chicago, IL, San Antonio, TX
+- **Locations:** Chicago, IL, Westminster, CO, Manassas, VA, NYC, Augusta, ME
 
 ## Current Opportunities
 
