@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Columbus, IN, New Orleans, LA, Leeds, UK
+- **Categories:** Fresher Job, Internship
+- **Locations:** Columbus, IN, Leeds, UK, New Orleans, LA
 
 ## Current Opportunities
 

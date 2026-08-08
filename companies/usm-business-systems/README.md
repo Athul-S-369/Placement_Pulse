@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Jefferson City, MO, St. Louis, MO, Baltimore, MD, Bloomington, MN, El Segundo, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Columbus, OH, Traverse City, MI, Manassas, VA, Chicago, IL, San Antonio, TX
 
 ## Current Opportunities
 

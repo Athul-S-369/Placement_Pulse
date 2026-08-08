@@ -125,7 +125,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Prompt Challenge: August Edition](https://unstop.com/competitions/prompt-challenge-august-edition-thinknest-1733388) | thinknest | India | Hackathon | Onsite | 2026-08-26 |
 | [Summer Associate - Enterprise AI & Insights - 8 Week Program](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Remote-USA/Summer-Associate--Enterprise-AI---Insights--8-10-Week-Program-_R100119581) | ASM Global | Remote in USA | Internship | Remote | — |
 | [Modelling Resident](https://jobs.ashbyhq.com/adaption/3acd56ba-3085-441e-ba75-e6252ce3d566/application) | Adaption Labs | Remote in USA | Internship | Remote | — |
-| [Careers at Adobe](https://careers.adobe.com/us/en/) | Adobe | India | Internship | Onsite | — |
 | [Software Development Engineer - Temp](https://amazon.jobs/en/jobs/10477224/software-dev-engineer-temp) | Amazon | Tennessee, Chennai, Tamil | Internship | Onsite | — |
 | [Data Science Co-op - AI Document Understanding](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Data-Science---AI-Document-Understanding--Co-op_R003371) | Ancestry | Remote in USA | Internship | Remote | — |
 | [Anthropic Fellows Program - ML Systems & Performance](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | Anthropic | London, UK, SF, Remote in | Internship | Remote | — |
@@ -158,6 +157,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [AI Product Engineer Intern](https://jobs.gusto.com/postings/myemployment-llc-ai-product-engineer-intern-c08d7fd3-115e-46ad-a46f-6c4be1f77263) | MyEmployment | Remote in US | Internship | Remote | — |
 | [Associate/Undergraduate Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote/XMLNAME--Associate-Undergraduate--Intern---Carbon-Management-and-Large-Energy-Systems_R14405) | National Laboratory of the R | Remote in USA | Internship | Remote | — |
 | [Graduate Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---LLM-Reliability-and-Uncertainty-for-AI-Science-Assistants_R14416) | National Laboratory of the R | Remote in USA, Golden, CO | Internship | Remote | — |
+| [Forward Deployed Software Engineer – Internship - US Governm...](https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e/apply) | Palantir | Remote / Various | Internship | Remote | — |
 | [Product Manager Intern](https://ats.rippling.com/pendulum-intelligence-jobs/jobs/301a1742-46fd-4489-b410-6fdcac0dbe27) | Pendulum Intelligence | Remote in USA | Internship | Remote | — |
 | [Generative AI Engineer Intern](https://careers-peraton.icims.com/jobs/167460/job?mobile=true&needsRedirect=false) | Peraton | Remote in USA | Internship | Remote | — |
 | [AI Research Resident - Open Source AGI](https://jobs.ashbyhq.com/PrimeIntellect/afa6079a-5a35-4f90-ba88-780e4d36112f/application?embed=true) | Prime Intellect | Remote in USA | Internship | Remote | — |
@@ -296,6 +296,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-08-08 02:31 UTC</sub>
+<sub>Last generated: 2026-08-08 09:12 UTC</sub>
 
 </div>
