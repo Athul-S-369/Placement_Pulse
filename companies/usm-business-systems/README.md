@@ -1,11 +1,11 @@
 # 🏢 USM Business Systems
 
-**21 active opportunities** | **21 total tracked** | *Last updated: 2026-08-07*
+**21 active opportunities** | **21 total tracked** | *Last updated: 2026-08-08*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Chantilly, VA, Baltimore, MD, Rochester, MI, El Segundo, CA, Westminster, CO
+- **Categories:** Internship, Fresher Job
+- **Locations:** Jefferson City, MO, St. Louis, MO, Baltimore, MD, Bloomington, MN, El Segundo, CA
 
 ## Current Opportunities
 

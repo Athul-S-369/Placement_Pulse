@@ -1,6 +1,6 @@
 # 🏢 Amity International School ,Gurgaon
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-07*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-08*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [BizQuiz](https://unstop.com/quiz/bizquiz-amity-international-school-gurgaon-1724338) | Amity International School ,Gurgaon | India | 🏢 Onsite | — | 2026-08-07 | Unstop |
 
 ## 📖 Interview Preparation
 

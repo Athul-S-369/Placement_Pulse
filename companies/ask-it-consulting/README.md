@@ -1,11 +1,11 @@
 # 🏢 Ask IT Consulting
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-08-07*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-08-08*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Little Rock, AR, Richmond, VA, Redmond, WA, Waukesha, WI
+- **Categories:** Internship, Fresher Job
+- **Locations:** Waukesha, WI, Little Rock, AR, Redmond, WA, Richmond, VA
 
 ## Current Opportunities
 

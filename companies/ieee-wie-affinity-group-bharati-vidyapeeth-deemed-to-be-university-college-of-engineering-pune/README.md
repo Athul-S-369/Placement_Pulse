@@ -1,6 +1,6 @@
 # 🏢 IEEE WIE Affinity Group, Bharati Vidyapeeth (Deemed to be University) College of Engineering, Pune
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-07*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-08*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Innovate 4 Impact](https://unstop.com/hackathons/innovate-4-impact-ieee-wie-affinity-group-bharati-vidyapeeth-deemed-to-be-university-college-of-engineering-p-1711745) | IEEE WIE Affinity Group, Bharati Vidyapeeth (Deemed to be University) College of Engineering, Pune | India | 🏢 Onsite | — | 2026-08-07 | Unstop |
 
 ## 📖 Interview Preparation
 

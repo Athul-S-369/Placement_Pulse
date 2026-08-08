@@ -1,10 +1,10 @@
 # 🏢 Ciena
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-07*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-08*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
+- **Categories:** Internship, Fresher Job
 - **Locations:** Ottawa, ON, Canada, Rochester, NY
 
 ## Current Opportunities

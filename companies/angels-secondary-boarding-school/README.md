@@ -1,6 +1,6 @@
 # 🏢 Angels Secondary Boarding School
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-07*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-08*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AI Arena 2026: Online MCQ Quiz Competition](https://unstop.com/quiz/ai-arena-2026-online-mcq-quiz-competition-angels-secondary-boarding-school-1721694) | Angels Secondary Boarding School | India | 🏢 Onsite | — | 2026-08-07 | Unstop |
 
 ## 📖 Interview Preparation
 

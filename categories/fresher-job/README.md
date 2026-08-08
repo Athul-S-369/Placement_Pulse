@@ -1,13 +1,16 @@
 # 💼 Fresher Job
 
-**1278 active** | **0 expired** | **1278 total**
+**1281 active** | **0 expired** | **1281 total**
 
-*Last updated: 2026-08-07*
+*Last updated: 2026-08-08*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Food & Ingredient Analyst](https://jobs.lever.co/wisecode/c29ef6f7-a244-43c5-acf8-09556057fa56/apply) | WISEcode | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Integrating Firmware Engineer - Mesh](https://careers-lmi.icims.com/jobs/14396/job?mobile=true&needsRedirect=false) | LMI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Quantitative Developer](https://apply.workable.com/wallstreetquants/j/AA3FB20456/apply) | WallStreetQuants | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer College Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) | Salesforce | Palo Alto, CA, Seattle, WA, Indianapolis, IN, SF, Dallas, TX, Bellevue, WA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Research Fellow - Workforce Intelligence](https://apply.workable.com/alphax/j/E8CAD15968/apply) | AlphaHire | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://apply.workable.com/interimage/j/50AEE969C4/apply) | InterImage | Remote in USA, Arlington County, Arlington, VA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -105,6 +108,3 @@
 | [Integration Specialist](https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Integration-Specialist_JR101961) | NorthAB | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Data Engineer](https://jobs.ashbyhq.com/Vytalize%20Health/3576b087-709e-4bf0-a016-6cc1c24b802c/application?embed=true) | Vytalize Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Machine Learning AI Engineer](https://ensono.com/company/careers/jobs-board/?gh_jid=4711789005) | Ensono | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Data Analyst](https://job-boards.greenhouse.io/impiricus/jobs/5349829008) | Impiricus | Remote in USA, NYC, Atlanta, GA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Technical Product Associate - Lifecycle](https://job-boards.greenhouse.io/sleepdoctor/jobs/7805274003) | Sleep Doctor | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Applications Development Associate](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Applications-Devt-Associate_R26005648) | United Parcel Service (UPS) | Indiana | 🏢 Onsite | — | — | SimplifyJobs New Grad |

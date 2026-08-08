@@ -1,6 +1,6 @@
 # 🏢 ICFAI Business School (IBS), Hyderabad
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-07*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-08*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Pixellence](https://unstop.com/events/pixellence-ibs-hyderabad-1729260) | ICFAI Business School (IBS), Hyderabad | India | 🏢 Onsite | — | 2026-08-07 | Unstop |
 
 ## 📖 Interview Preparation
 

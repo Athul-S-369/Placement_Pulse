@@ -1,11 +1,11 @@
 # 🏢 Kanshe Infotech
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-07*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-08*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Colorado Springs, CO, Newark, NJ, Houston, TX
+- **Locations:** Houston, TX, Colorado Springs, CO, Newark, NJ
 
 ## Current Opportunities
 

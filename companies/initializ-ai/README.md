@@ -1,6 +1,6 @@
 # 🏢 Initializ.ai
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-07*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-08*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Introduction to Agentic AI: Building Intelligent Applications with Forge](https://unstop.com/workshops-webinars/introduction-to-agentic-ai-building-intelligent-applications-with-forge-initializai-1724632) | Initializ.ai | India | 🏢 Onsite | — | 2026-08-07 | Unstop |
 
 ## 📖 Interview Preparation
 

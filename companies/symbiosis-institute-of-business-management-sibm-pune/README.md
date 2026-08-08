@@ -1,6 +1,6 @@
 # 🏢 Symbiosis Institute of Business Management (SIBM), Pune
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-07*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-08*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [PactaNova MUN](https://unstop.com/competitions/pactanova-mun-nivaan-2026-sibm-pune-1724363) | Symbiosis Institute of Business Management (SIBM), Pune | India | 🏢 Onsite | — | 2026-08-07 | Unstop |
 
 ## 📖 Interview Preparation
 

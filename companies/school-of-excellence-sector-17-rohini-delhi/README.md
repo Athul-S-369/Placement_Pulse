@@ -1,6 +1,6 @@
 # 🏢 School of Excellence, Sector 17, Rohini, Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-07*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-08*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [The Innovation Quiz](https://unstop.com/quiz/the-innovation-quiz-school-of-excellence-sector-17-rohini-delhi-1722464) | School of Excellence, Sector 17, Rohini, Delhi | India | 🏢 Onsite | — | 2026-08-07 | Unstop |
 
 ## 📖 Interview Preparation
 

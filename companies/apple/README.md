@@ -1,11 +1,11 @@
 # 🏢 Apple
 
-**17 active opportunities** | **17 total tracked** | *Last updated: 2026-08-07*
+**17 active opportunities** | **17 total tracked** | *Last updated: 2026-08-08*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Lafayette, KS, Cambridge, MA, Austin, TX, SF, Santa Clara, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Austin, TX, Lafayette, KS, Santa Clara, CA, Cupertino, CA, SF
 
 ## Current Opportunities
 

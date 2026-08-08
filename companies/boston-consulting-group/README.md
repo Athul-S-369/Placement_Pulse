@@ -1,11 +1,11 @@
 # 🏢 Boston Consulting Group
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-07*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-08*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Chicago, IL, Neukirchen-Vluyn, Germany, London, UK
+- **Categories:** Internship, Fresher Job
+- **Locations:** Chicago, IL, London, UK, Neukirchen-Vluyn, Germany
 
 ## Current Opportunities
 
