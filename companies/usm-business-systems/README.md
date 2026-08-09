@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Southfield, MI, Jefferson City, MO, Chicago, IL, Bloomington, MN, El Segundo, CA
+- **Locations:** NYC, Southfield, MI, Washington, DC, Columbus, OH, St. Louis, MO
 
 ## Current Opportunities
 

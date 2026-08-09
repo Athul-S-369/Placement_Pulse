@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Exton, PA, Birmingham, AL, Boston, MA, Cherry Hills Village, CO, Ambler, PA
+- **Locations:** North Haven, CT, Birmingham, AL, Hickory, NC, Ambler, PA, Exton, PA
 
 ## Current Opportunities
 

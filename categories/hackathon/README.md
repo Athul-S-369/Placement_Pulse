@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**171 active** | **226 expired** | **397 total**
+**173 active** | **226 expired** | **399 total**
 
 *Last updated: 2026-08-09*
 
@@ -8,6 +8,8 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [byteBuilt 1.0](https://unstop.com/hackathons/bytebuilt-10-chandigah-university-1733940) | Chandigah University | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
+| [SN1PHERS 3.0: Capture The Flag(CTF)](https://unstop.com/hackathons/sn1phers-30-capture-the-flagctf-stjosephs-institute-of-technology-stjit-chennai-1732038) | St.Joseph's Institute of Technology (STJIT), Chennai | India | 🏢 Onsite | — | 2026-08-22 | Unstop |
 | [CoArena Hackathon](https://unstop.com/hackathons/coarena-hackathon-coarena-1733431) | CoArena | India | 🏢 Onsite | — | 2026-08-21 | Unstop |
 | [AIKHTC Shark Tank 2026](https://unstop.com/competitions/aikhtc-shark-tank-2026-anjuman-i-islams-kalsekar-technical-campus-aiktc-navi-mumbai-1733373) | Anjuman-I-Islam's Kalsekar Technical Campus (AIKTC), Navi Mumbai | India | 🏢 Onsite | — | 2026-08-21 | Unstop |
 | [HACK HIVE 2.0](https://unstop.com/competitions/hack-hive-20-school-of-data-science-and-forecasting-indore-1733098) | School of data science and forecasting, Indore | India | 🏢 Onsite | — | 2026-08-31 | Unstop |
@@ -106,8 +108,6 @@
 | [Neetiyudh: A Case Study](https://unstop.com/competitions/neetiyudh-a-case-study-krishi-chanakya-2026-national-institute-of-agricultural-extension-management-manage--1724872) | National Institute of Agricultural Extension Management (MANAGE), Hyderabad | India | 🏢 Onsite | — | 2026-08-14 | Unstop |
 | [Brand Beyond Borders: Reimagining Brands for New Markets](https://unstop.com/competitions/brand-beyond-borders-reimagining-brands-for-new-markets-great-lakes-institute-of-management-glim-gurgaon-1725776) | Great Lakes Institute of Management (GLIM), Gurgaon | India | 🏢 Onsite | — | 2026-08-30 | Unstop |
 | [Open Innovation Workshop](https://unstop.com/workshops-webinars/open-innovation-workshop-malla-reddy-engineering-college-1726121) | Malla Reddy Engineering College | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
-| [HR Auction](https://unstop.com/competitions/hr-auction-hr-symposium-40-faculty-of-business-administration-glsbba-gls-university-1726120) | Faculty Of Business Administration (GLSBBA), GLS University | India | 🏢 Onsite | — | 2026-08-14 | Unstop |
-| [Specathon 2026](https://unstop.com/hackathons/specathon-2026-st-peters-engineering-college-1723868) | St Peters Engineering College | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
 
 ## Recently Expired
 
