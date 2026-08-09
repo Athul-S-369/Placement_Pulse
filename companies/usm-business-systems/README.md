@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** NYC, Southfield, MI, Washington, DC, Columbus, OH, St. Louis, MO
+- **Locations:** San Antonio, TX, Dublin, OH, Jefferson City, MO, Chicago, IL, Bluemont, VA
 
 ## Current Opportunities
 

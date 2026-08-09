@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** North Haven, CT, Birmingham, AL, Hickory, NC, Ambler, PA, Exton, PA
+- **Locations:** Westborough, MA, Exton, PA, Cambridge, MA, Santa Clara, CA, Ambler, PA
 
 ## Current Opportunities
 
