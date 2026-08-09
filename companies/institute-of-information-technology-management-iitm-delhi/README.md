@@ -1,6 +1,6 @@
 # 🏢 Institute of Information Technology & Management (IITM), Delhi
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-08*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-09*
 
 ## Overview
 

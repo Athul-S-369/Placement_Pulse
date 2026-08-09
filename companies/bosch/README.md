@@ -1,11 +1,11 @@
 # 🏢 Bosch
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-08*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-09*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Sunnyvale, CA, Pittsburgh, PA
+- **Locations:** Pittsburgh, PA, Sunnyvale, CA
 
 ## Current Opportunities
 

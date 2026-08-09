@@ -1,6 +1,6 @@
 # 🏢 cybervulnx
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-08*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-09*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [CyberVulnX Community Meetup - Build & Deploy Your First Website Using AI & Coding](https://unstop.com/workshops-webinars/cybervulnx-community-meetup-01-build-deploy-your-first-website-using-ai-coding-cybervulnx-1731308) | cybervulnx | India | 🏢 Onsite | — | 2026-08-08 | Unstop |
 
 ## 📖 Interview Preparation
 

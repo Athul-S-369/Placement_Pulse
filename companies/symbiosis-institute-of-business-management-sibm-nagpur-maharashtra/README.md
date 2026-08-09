@@ -1,6 +1,6 @@
 # 🏢 Symbiosis Institute of Business Management (SIBM), Nagpur, Maharashtra
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-08*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-09*
 
 ## Overview
 

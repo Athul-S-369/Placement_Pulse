@@ -1,6 +1,6 @@
 # 🏢 GLA University (GLAU), Uttar Pradesh
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-08*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-09*
 
 ## Overview
 

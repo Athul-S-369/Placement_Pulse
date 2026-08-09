@@ -1,6 +1,6 @@
 # 🏢 Kiras Logic
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-08*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-09*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Hack to Survive](https://unstop.com/hackathons/hack-to-survive-kiras-logic-1705001) | Kiras Logic | India | 🏢 Onsite | — | 2026-08-08 | Unstop |
 
 ## 📖 Interview Preparation
 

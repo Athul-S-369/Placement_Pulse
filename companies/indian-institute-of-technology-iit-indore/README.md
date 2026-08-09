@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Technology (IIT), Indore
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-08*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-09*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Aerothon 2026 - HAL x IITI](https://unstop.com/hackathons/aerothon-2026-hal-x-iiti-iit-indore-1709519) | Indian Institute of Technology (IIT), Indore | India | 🏢 Onsite | — | 2026-08-08 | Unstop |
 
 ## 📖 Interview Preparation
 

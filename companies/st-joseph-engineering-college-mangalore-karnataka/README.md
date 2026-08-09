@@ -1,6 +1,6 @@
 # 🏢 St. Joseph Engineering College, Mangalore, Karnataka
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-08*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-09*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Noesis 2026](https://unstop.com/competitions/noesis-2026-st-joseph-engineering-college-mangalore-karnataka-1729842) | St. Joseph Engineering College, Mangalore, Karnataka | India | 🏢 Onsite | — | 2026-08-08 | Unstop |
 
 ## 📖 Interview Preparation
 
