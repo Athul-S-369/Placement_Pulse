@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Augusta, ME, Southfield, MI, Chantilly, VA, Washington, DC, Bluemont, VA
+- **Locations:** NYC, Manassas, VA, Washington, DC, San Antonio, TX, Jefferson City, MO
 
 ## Current Opportunities
 

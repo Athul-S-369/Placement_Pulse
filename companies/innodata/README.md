@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Idaho, South Carolina, Wisconsin, Mississippi, New Mexico
+- **Locations:** Utah, New Mexico, Idaho, Mississippi, South Carolina
 
 ## Current Opportunities
 
