@@ -1,11 +1,11 @@
 # 🏢 Parsons
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-09*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-10*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Centreville, VA, Remote in USA
+- **Locations:** Remote in USA, Centreville, VA
 
 ## Current Opportunities
 

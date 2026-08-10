@@ -1,6 +1,6 @@
 # 🏢 United University, Allahabad, Uttar Pradesh
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-09*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-10*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Cyber Hygiene Workshop](https://unstop.com/workshops-webinars/cyber-hygiene-workshop-united-university-allahabad-uttar-pradesh-1731546) | United University, Allahabad, Uttar Pradesh | India | 🏢 Onsite | — | 2026-08-09 | Unstop |
 
 ## 📖 Interview Preparation
 

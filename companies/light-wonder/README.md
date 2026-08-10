@@ -1,11 +1,11 @@
 # 🏢 Light & Wonder
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-09*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-10*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Las Vegas, NV, Indiana
+- **Locations:** Indiana, Las Vegas, NV
 
 ## Current Opportunities
 

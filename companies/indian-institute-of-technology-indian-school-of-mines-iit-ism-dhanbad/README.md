@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Technology, Indian School of Mines (IIT ISM), Dhanbad
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-09*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-10*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Pitchfund](https://unstop.com/competitions/pitchfund-e-summit-2026-iit-ism-dhanbad-indian-institute-of-technology-indian-school-of-mines-iit-ism-dhanb-1704711) | Indian Institute of Technology, Indian School of Mines (IIT ISM), Dhanbad | India | 🏢 Onsite | — | 2026-08-09 | Unstop |
 
 ## 📖 Interview Preparation
 

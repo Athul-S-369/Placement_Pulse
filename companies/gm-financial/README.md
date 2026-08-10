@@ -1,11 +1,11 @@
 # 🏢 GM financial
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-09*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-10*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Arlington, TX, Irving, TX, Fort Worth, TX, Detroit, MI, Fort Worth, TX
+- **Locations:** Detroit, MI, Fort Worth, TX, Arlington, TX, Irving, TX, Fort Worth, TX
 
 ## Current Opportunities
 

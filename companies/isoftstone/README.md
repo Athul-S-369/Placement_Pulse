@@ -1,11 +1,11 @@
 # 🏢 iSoftStone
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-09*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-10*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Palo Alto, CA, Seattle, WA, Dallas, TX, White Plains, NY
+- **Locations:** Seattle, WA, Dallas, TX, White Plains, NY, Palo Alto, CA
 
 ## Current Opportunities
 
