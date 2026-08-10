@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Jefferson City, MO, El Segundo, CA, Chicago, IL, Columbus, OH, Washington, DC
+- **Locations:** Augusta, ME, Southfield, MI, Chantilly, VA, Washington, DC, Bluemont, VA
 
 ## Current Opportunities
 

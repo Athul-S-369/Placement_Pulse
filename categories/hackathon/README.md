@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**174 active** | **232 expired** | **406 total**
+**175 active** | **232 expired** | **407 total**
 
 *Last updated: 2026-08-10*
 
@@ -8,6 +8,7 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Eureka PitchFest 2026 – Internal Pitching Round for Eureka! 2026](https://unstop.com/events/eureka-pitchfest-2026-internal-pitching-round-for-eureka-2026-gl-bajaj-group-of-institutions-mathura-uttar-prades-1734220) | GL Bajaj Group of Institutions, Mathura, Uttar Pradesh | India | 🏢 Onsite | — | 2026-08-14 | Unstop |
 | [byteBuilt 1.0](https://unstop.com/hackathons/bytebuilt-10-chandigah-university-1733940) | Chandigah University | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
 | [SN1PHERS 3.0: Capture The Flag(CTF)](https://unstop.com/hackathons/sn1phers-30-capture-the-flagctf-stjosephs-institute-of-technology-stjit-chennai-1732038) | St.Joseph's Institute of Technology (STJIT), Chennai | India | 🏢 Onsite | — | 2026-08-22 | Unstop |
 | [EUREKA! 2026 — STARTUP PITCHING COMPETITION](https://unstop.com/competitions/eureka-2026-startup-pitching-competition-tulsiramji-gaikwad-patil-college-of-engineering-and-technology-tgp-1734123) | Tulsiramji Gaikwad Patil College of Engineering and Technology (TGPCET), Maharashtra | India | 🏢 Onsite | — | 2026-08-21 | Unstop |
@@ -107,7 +108,6 @@
 | [Product & Design Challenge](https://unstop.com/competitions/product-design-challenge-product-and-design-challenge-algozenith-technologies-1718305) | AlgoZenith Technologies | India | 🏢 Onsite | — | 2026-08-25 | Unstop |
 | [The Vingo Campus Strategy Challenge '26](https://unstop.com/competitions/the-vingo-campus-strategy-challenge-26-vingo-1725792) | VINGO | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
 | [WasteChakra 2026](https://unstop.com/competitions/wastechakra-2026-iit-delhi-1723889) | Indian Institute of Technology (IIT), Delhi | India | 🏢 Onsite | — | 2026-08-24 | Unstop |
-| [Data Sprint 2026](https://unstop.com/competitions/data-sprint-2026-vidyalankar-polytechnic-1726513) | Vidyalankar Polytechnic | India | 🏢 Onsite | — | 2026-08-10 | Unstop |
 
 ## Recently Expired
 

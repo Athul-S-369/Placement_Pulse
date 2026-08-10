@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** McKinney, TX, Longueuil, QC, Canada, Andover, MA, Cedar Rapids, IA, Fort Wayne, IN
+- **Locations:** McKinney, TX, Arlington, VA, Cedar Rapids, IA, Huntsville, AL, Fort Wayne, IN
 
 ## Current Opportunities
 

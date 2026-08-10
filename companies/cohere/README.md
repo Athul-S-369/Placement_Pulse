@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Montreal, QC, Canada, Toronto, ON, Canada, Calgary, AB, Canada, Vancouver, BC, Canada, Montreal, QC, Canada, London, UK, Toronto, ON, Canada, SF, Canada, United Kingdom, United States, Toronto, ON, Canada, SF, NYC
+- **Locations:** Montreal, QC, Canada, London, UK, Toronto, ON, Canada, SF, Canada, United Kingdom, United States, Toronto, ON, Canada, SF, NYC, Montreal, QC, Canada, Toronto, ON, Canada, Calgary, AB, Canada, Vancouver, BC, Canada
 
 ## Current Opportunities
 
