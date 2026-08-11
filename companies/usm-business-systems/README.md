@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Jefferson City, MO, Baltimore, MD, Bloomington, MN, Southfield, MI, Bluemont, VA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Traverse City, MI, Columbus, OH, Augusta, ME, NYC, Baltimore, MD
 
 ## Current Opportunities
 

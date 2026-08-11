@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Albuquerque, NM, Long Beach, CA
+- **Locations:** Long Beach, CA, Albuquerque, NM
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Long Island City, Queens, NY, California, Ottawa, ON, Canada, Allentown, PA, Sunnyvale, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Jackson Township, NJ, United States, Ottawa, ON, Canada, Long Island City, Queens, NY, Vancouver, BC, Canada
 
 ## Current Opportunities
 
