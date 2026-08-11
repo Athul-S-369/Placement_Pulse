@@ -1,11 +1,11 @@
 # 🏢 Motorola
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-08-10*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-08-11*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Leicester, UK, Remote in UK, Glasgow, UK, Glasgow, UK, Alberta, Canada, Remote in Canada, Allen, TX
+- **Locations:** Glasgow, UK, Alberta, Canada, Remote in Canada, Allen, TX, Leicester, UK, Remote in UK, Glasgow, UK
 
 ## Current Opportunities
 

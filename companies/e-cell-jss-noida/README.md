@@ -1,6 +1,6 @@
 # 🏢 E-Cell, JSS Noida
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-10*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-11*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Pathway Hackathon](https://unstop.com/hackathons/pathway-hackathon-e-cell-jss-noida-1731395) | E-Cell, JSS Noida | India | 🏢 Onsite | — | 2026-08-10 | Unstop |
 
 ## 📖 Interview Preparation
 

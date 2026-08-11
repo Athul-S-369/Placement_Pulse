@@ -1,11 +1,11 @@
 # 🏢 Robert Bosch Venture Capital
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-10*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-11*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Atlanta, GA, Sunnyvale, CA, Southfield, MI
+- **Locations:** Southfield, MI, Sunnyvale, CA, Atlanta, GA
 
 ## Current Opportunities
 

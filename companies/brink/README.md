@@ -1,11 +1,11 @@
 # 🏢 Brink
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-10*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-11*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Cincinnati, OH, Baton Rouge, LA
+- **Locations:** Baton Rouge, LA, Cincinnati, OH
 
 ## Current Opportunities
 

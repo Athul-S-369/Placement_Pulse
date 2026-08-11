@@ -1,6 +1,6 @@
 # 🏢 SuccessCv
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-10*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-11*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [SuccessCV Ad-Craft Challenge 2026 : Digital Poster Making Competition](https://unstop.com/events/successcv-ad-craft-challenge-2026-digital-poster-making-competition-successcv-1726425) | SuccessCv | India | 🏢 Onsite | — | 2026-08-10 | Unstop |
 
 ## 📖 Interview Preparation
 

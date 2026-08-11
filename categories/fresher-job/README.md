@@ -1,13 +1,17 @@
 # 💼 Fresher Job
 
-**1281 active** | **0 expired** | **1281 total**
+**1285 active** | **0 expired** | **1285 total**
 
-*Last updated: 2026-08-10*
+*Last updated: 2026-08-11*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Junior Data Engineer](https://careers-knowledgeservices.icims.com/jobs/31209/job?mobile=true&needsRedirect=false) | Knowledge Services | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
+| [Partner Trading and AI Merchandising Executive](https://apply.workable.com/swoon-editions/j/3438545340/apply) | Swoon Editions | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Product Management Trainee - Bilingual Mandarin Required](https://apply.workable.com/cwill-us/j/0AF59B8964/apply) | CWILL | Remote in USA, Cary, NC | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Product Manager](https://apply.workable.com/ripjar/j/6BCF4824FE/apply) | Ripjar | Remote in UK, Cheltenham, UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Food & Ingredient Analyst](https://jobs.lever.co/wisecode/c29ef6f7-a244-43c5-acf8-09556057fa56/apply) | WISEcode | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Integrating Firmware Engineer - Mesh](https://careers-lmi.icims.com/jobs/14396/job?mobile=true&needsRedirect=false) | LMI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Quantitative Developer](https://apply.workable.com/wallstreetquants/j/AA3FB20456/apply) | WallStreetQuants | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -104,7 +108,3 @@
 | [Software Engineer](https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Software-Engineer_JR-000768) | Alkami Technology | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://jobs.lever.co/voltus/f13d367c-97c1-4af3-8e8b-06827017fee2/apply) | Voltus | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Digital Associate - Multiple Teams](https://amazon.jobs/en/jobs/10475775/digital-associate-ring-data-engineering-services-operations-it-support-engineering) | Amazon | Tennessee, Chennai, Tamil Nadu, India, Indiana | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Associate ServiceNow Technical Consultant](https://job-boards.greenhouse.io/tenon/jobs/8067766) | Tenon | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Integration Specialist](https://nabancard.wd1.myworkdayjobs.com/nab/job/US---Remote/Integration-Specialist_JR101961) | NorthAB | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Associate Data Engineer](https://jobs.ashbyhq.com/Vytalize%20Health/3576b087-709e-4bf0-a016-6cc1c24b802c/application?embed=true) | Vytalize Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Associate Machine Learning AI Engineer](https://ensono.com/company/careers/jobs-board/?gh_jid=4711789005) | Ensono | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

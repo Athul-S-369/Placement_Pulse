@@ -1,6 +1,6 @@
 # 🏢 Vidyalankar Polytechnic
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-10*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-11*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Data Sprint 2026](https://unstop.com/competitions/data-sprint-2026-vidyalankar-polytechnic-1726513) | Vidyalankar Polytechnic | India | 🏢 Onsite | — | 2026-08-10 | Unstop |
 
 ## 📖 Interview Preparation
 

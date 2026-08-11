@@ -1,6 +1,6 @@
 # 🏢 Smt Kashibai Navale College of Engineering (SKNCE), Pune
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-10*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-11*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Samarthya 2026 Project Competition](https://unstop.com/hackathons/samarthya-2026-project-competition-smt-kashibai-navale-college-of-engineering-sknce-pune-1727311) | Smt Kashibai Navale College of Engineering (SKNCE), Pune | India | 🏢 Onsite | — | 2026-08-10 | Unstop |
 
 ## 📖 Interview Preparation
 

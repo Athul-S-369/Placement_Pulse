@@ -1,6 +1,6 @@
 # 🏢 Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-10*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-11*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Operation Black Vault](https://unstop.com/competitions/operation-black-vault-igdtuw-delhi-1722554) | Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi | India | 🏢 Onsite | — | 2026-08-10 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,11 +1,11 @@
 # 🏢 USM Business Systems
 
-**21 active opportunities** | **21 total tracked** | *Last updated: 2026-08-10*
+**21 active opportunities** | **21 total tracked** | *Last updated: 2026-08-11*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** NYC, Manassas, VA, Washington, DC, San Antonio, TX, Jefferson City, MO
+- **Locations:** Jefferson City, MO, Baltimore, MD, Bloomington, MN, Southfield, MI, Bluemont, VA
 
 ## Current Opportunities
 
