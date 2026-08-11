@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Traverse City, MI, Columbus, OH, Augusta, ME, NYC, Baltimore, MD
+- **Categories:** Fresher Job, Internship
+- **Locations:** California City, CA, Baltimore, MD, Dublin, OH, San Antonio, TX, Washington, DC
 
 ## Current Opportunities
 

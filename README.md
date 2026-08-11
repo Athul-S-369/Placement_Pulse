@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**August 11, 2026** &nbsp;—&nbsp; **68** Fresher Job &nbsp;·&nbsp; **51** Internship &nbsp;·&nbsp; **6** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**August 11, 2026** &nbsp;—&nbsp; **68** Fresher Job &nbsp;·&nbsp; **51** Internship &nbsp;·&nbsp; **7** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**131 opportunities** added or updated in the latest run (August 11, 2026).
+**132 opportunities** added or updated in the latest run (August 11, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -113,6 +113,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Quantitative Developer](https://apply.workable.com/wallstreetquants/j/AA3FB20456/apply) | WallStreetQuants | Remote in USA | Fresher Job | Remote | — |
 | [Maps Personalization Relevance Rater - English](https://jobs.lever.co/weloglobal/7b07afde-d586-4945-9ef8-b41ca36a739b/apply) | Welo Global | Remote in Canada | Fresher Job | Remote | — |
 | [Full Stack Engineer](https://jobs.lever.co/hhaexchange/37711e74-f9e9-42c5-9c4f-66df2afab2e2/apply) | hhaexchange | Remote in USA | Fresher Job | Remote | — |
+| [Asian Paints Chain Reaction 2026](https://unstop.com/competitions/crp-asian-paints-chain-reaction-2026-asian-paints-1728250) | Asian Paints | India | Hackathon | Onsite | 2026-10-25 |
 | [Prompt War](https://unstop.com/quiz/prompt-war-bn-college-of-engineering-and-technology-lucknow-uttar-pradesh-1734171) | B.N. College Of Engineering  | India | Hackathon | Onsite | 2026-08-23 |
 | [Frontend Development Quiz Competition 2026](https://unstop.com/quiz/frontend-development-quiz-competition-2026-hi-tech-institute-of-engineering-and-technology-hiet-ghaziabad-1735201) | HI-Tech Institute Of Enginee | India | Hackathon | Onsite | 2026-08-25 |
 | [Startup Premier League](https://unstop.com/competitions/startup-premier-league-udyam26-the-business-fest-jindal-global-business-school-jgbs-sonipat-1730647) | Jindal Global Business Schoo | India | Hackathon | Onsite | 2026-09-11 |
@@ -293,6 +294,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-08-11 09:34 UTC</sub>
+<sub>Last generated: 2026-08-11 17:32 UTC</sub>
 
 </div>
