@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Westminster, CO, Bluemont, VA, California City, CA, Chantilly, VA, Manassas, VA
+- **Locations:** Westminster, CO, Washington, DC, Dublin, OH, Columbus, OH, Jefferson City, MO
 
 ## Current Opportunities
 
