@@ -1,6 +1,6 @@
 # 🏢 R.V.R. & J.C.College of Engineering
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-11*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-12*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [DSA Clash](https://unstop.com/quiz/dsa-clash-rvr-jccollege-of-engineering-1734912) | R.V.R. & J.C.College of Engineering | India | 🏢 Onsite | — | 2026-08-11 | Unstop |
 
 ## 📖 Interview Preparation
 

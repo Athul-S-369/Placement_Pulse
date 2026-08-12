@@ -1,6 +1,6 @@
 # 🏢 Colgate-Palmolive (India) Limited
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-11*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-12*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Colgate Transcend 2026 - Sales and Marketing Track](https://unstop.com/competitions/crp-colgate-transcend-2026-sales-and-marketing-track-colgate-transcend-2026-colgate-palmolive-india-limited-1709953) | Colgate-Palmolive (India) Limited | India | 🏢 Onsite | — | 2026-08-11 | Unstop |
 
 ## 📖 Interview Preparation
 

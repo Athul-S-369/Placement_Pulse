@@ -1,6 +1,6 @@
 # 🏢 Dhanalakshmi Srinivasan Engineering College, Perambalur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-11*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-12*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [National Level Technical Hackathon](https://unstop.com/hackathons/national-level-technical-hackathon-dhanalakshmi-srinivasan-engineering-college-perambalur-1711964) | Dhanalakshmi Srinivasan Engineering College, Perambalur | India | 🏢 Onsite | — | 2026-08-11 | Unstop |
 
 ## 📖 Interview Preparation
 
