@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Westminster, CO, Washington, DC, Dublin, OH, Columbus, OH, Jefferson City, MO
+- **Locations:** Southfield, MI, Westminster, CO, Jefferson City, MO, Manassas, VA, Rochester, MI
 
 ## Current Opportunities
 
