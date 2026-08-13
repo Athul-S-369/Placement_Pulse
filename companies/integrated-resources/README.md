@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Cambridge, MA, North Haven, CT, Birmingham, AL, Elmira, NY, Hickory, NC
+- **Locations:** Westborough, MA, Elmira, NY, Cambridge, MA, Exton, PA, Cherry Hills Village, CO
 
 ## Current Opportunities
 

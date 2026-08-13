@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**183 active** | **247 expired** | **430 total**
+**186 active** | **247 expired** | **433 total**
 
 *Last updated: 2026-08-13*
 
@@ -13,6 +13,9 @@
 | [InfiniX'26 – National Level 32-Hour Hackathon](https://unstop.com/hackathons/infinix26-national-level-32-hour-hackathon-ramco-institute-of-technology-1730876) | Ramco Institute of Technology | India | 🏢 Onsite | — | 2026-09-11 | Unstop |
 | [Idea Competition 2026](https://unstop.com/hackathons/idea-competition-2026-fr-conceicao-rodrigues-college-of-engineering-frcrce-bandra-1736048) | Fr. Conceicao Rodrigues College of Engineering (FRCRCE), Bandra | India | 🏢 Onsite | — | 2026-09-15 | Unstop |
 | [Naventra Finance Frenzy '26](https://unstop.com/quiz/naventra-finance-frenzy-26-naventra-1730345) | Naventra | India | 🏢 Onsite | — | 2026-09-10 | Unstop |
+| [Eureka! Pitching Competition](https://unstop.com/competitions/eureka-pitching-competition-shri-madhwa-vadiraja-institute-of-technology-and-management-smvitm-shankarapura-1736288) | Shri Madhwa Vadiraja Institute of Technology and Management (SMVITM), Shankarapura, Karnataka | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
+| [CodeWars](https://unstop.com/hackathons/codewars-hackers-unity-1733690) | Hackers Unity | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
+| [Data Analytics with Claude](https://unstop.com/workshops-webinars/data-analytics-with-claude-gradient-1736176) | Gradient | India | 🏢 Onsite | — | 2026-08-16 | Unstop |
 | [DevCrest Buildathon '26](https://unstop.com/hackathons/devcrest-buildathon-26-devcrest-1734263) | DevCrest | India | 🏢 Onsite | — | 2026-08-24 | Unstop |
 | [AI for Management](https://unstop.com/competitions/ai-for-management-growcial-1735621) | Growcial | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
 | [Case Consilium](https://unstop.com/competitions/case-consilium-bits-goa-consulting-club-bgcc-1734140) | BITS Goa Consulting Club (BGCC) | India | 🏢 Onsite | — | 2026-09-16 | Unstop |
@@ -105,9 +108,6 @@
 | [Morrow 1.0](https://unstop.com/hackathons/morrow-10-makers-need-more-mnm-1727667) | Makers Need More (MnM) | India | 🏢 Onsite | — | 2026-09-17 | Unstop |
 | [Caspian AI Agent Hackathon](https://unstop.com/hackathons/caspian-ai-agent-hackathon-caspian-1726439) | Caspian | India | 🏢 Onsite | — | 2026-08-13 | Unstop |
 | [Kurukshetra 2.0 Hackfest](https://unstop.com/hackathons/kurukshetra-20-hackfest-mit-arts-commerce-science-college-alandi-pune-maharashtra-1726911) | MIT Arts, Commerce & Science College, Alandi, Pune, Maharashtra | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
-| [Indian Impact Summit 2026](https://unstop.com/competitions/indian-impact-summit-2026-nexus-ideas-1728156) | Nexus Ideas | India | 🏢 Onsite | — | 2026-08-31 | Unstop |
-| [National Level Essay Writting Competition 2026](https://unstop.com/events/national-level-essay-writting-competition-2026-youthnova-foundation-1723638) | YouthNova Foundation | India | 🏢 Onsite | — | 2026-08-15 | Unstop |
-| [Mondelēz Maestros 2026 - Supply Chain Track (2nd Year)](https://unstop.com/competitions/crp-mondelez-maestros-2026-supply-chain-track-2nd-year-mondelez-maestros-2026-mondelez-international-1724435) | Mondelēz International | India | 🏢 Onsite | — | 2026-08-31 | Unstop |
 
 ## Recently Expired
 

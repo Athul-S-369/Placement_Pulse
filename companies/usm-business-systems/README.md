@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Westminster, CO, Baltimore, MD, Augusta, ME, Manassas, VA, Chantilly, VA
+- **Locations:** Baltimore, MD, Rochester, MI, Augusta, ME, Bluemont, VA, Alexandria, VA
 
 ## Current Opportunities
 
