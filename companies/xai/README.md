@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, Palo Alto, CA
+- **Locations:** Palo Alto, CA, Remote in USA
 
 ## Current Opportunities
 

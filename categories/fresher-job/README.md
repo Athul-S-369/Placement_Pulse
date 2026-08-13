@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1293 active** | **0 expired** | **1293 total**
+**1294 active** | **0 expired** | **1294 total**
 
 *Last updated: 2026-08-13*
 
@@ -13,6 +13,7 @@
 | [Data Coordinator Associate](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Remote---US/Data-Coordinator-Associate_JR14672-3) | DraftKings | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Instructional Assistant - Data Analyst](https://job-boards.greenhouse.io/perscholashires/jobs/4702822006) | Per Scholas | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Field Technician](https://binsentry.bamboohr.com/careers/273/) | BinSentry | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
+| [GIS Specialist - Multiple Levels](https://careers-nv5.icims.com/jobs/12490/job?mobile=true&needsRedirect=false) | NV5 Global | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Training Contributor - French](https://jobs.ashbyhq.com/lilt-production/1819d958-1eb4-4f5c-b5f2-eba8c1a9da55/application?embed=true) | Lilt | Remote in Canada, Québec City, QC, Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Product Manager](https://jobs.ashbyhq.com/n8n/42e72645-d99a-4545-97b7-53ba3a699893/application?embed=true) | n8n | Remote in Germany, Remote in UK, Remote in Ireland, Remote in Spain, Berlin, Germany | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Junior Data Engineer](https://careers-knowledgeservices.icims.com/jobs/31209/job?mobile=true&needsRedirect=false) | Knowledge Services | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Labeler / Annotator - AI Response Evaluation - French](https://job-boards.greenhouse.io/bpcs/jobs/8072559) | Blueprint Technologies | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Science Fellow](https://job-boards.greenhouse.io/axle/jobs/5158529007) | Axle | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Developer](https://magnatech.io/technology-careers/?gh_jid=4716011005) | Magnatech | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [AI Product Engineer](https://vertexinc.wd1.myworkdayjobs.com/en-US/VertexInc/job/Remote-USA/AI-Product-Engineer_JR102443-1) | Vertex | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

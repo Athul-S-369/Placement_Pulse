@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**186 active** | **247 expired** | **433 total**
+**191 active** | **247 expired** | **438 total**
 
 *Last updated: 2026-08-13*
 
@@ -16,6 +16,11 @@
 | [Eureka! Pitching Competition](https://unstop.com/competitions/eureka-pitching-competition-shri-madhwa-vadiraja-institute-of-technology-and-management-smvitm-shankarapura-1736288) | Shri Madhwa Vadiraja Institute of Technology and Management (SMVITM), Shankarapura, Karnataka | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
 | [CodeWars](https://unstop.com/hackathons/codewars-hackers-unity-1733690) | Hackers Unity | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
 | [Data Analytics with Claude](https://unstop.com/workshops-webinars/data-analytics-with-claude-gradient-1736176) | Gradient | India | 🏢 Onsite | — | 2026-08-16 | Unstop |
+| [Signal Quest – IEEE SPS Hackathon 2026](https://unstop.com/hackathons/signal-quest-ieee-sps-hackathon-2026-cmr-institute-of-technology-1736521) | CMR Institute Of Technology | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
+| [Foundersmeet 2K26](https://unstop.com/workshops-webinars/foundersmeet-2k26-startups-india-1736474) | Startups India | India | 🏢 Onsite | — | 2026-08-26 | Unstop |
+| [Brand Storm](https://unstop.com/competitions/brand-storm-wings-and-roots-50-narsee-monjee-institute-of-management-studies-nmims-mumbai-1735423) | Narsee Monjee Institute of Management Studies (NMIMS), Mumbai | India | 🏢 Onsite | — | 2026-09-11 | Unstop |
+| [Breakpoint Hackathon 2026](https://unstop.com/hackathons/breakpoint-hackathon-2026-invoqe-1734966) | invoqe | India | 🏢 Onsite | — | 2026-09-04 | Unstop |
+| [Design Thinking Workshop](https://unstop.com/workshops-webinars/design-thinking-workshop-sibm-hyderabad-1736325) | Symbiosis Institute of Business Management (SIBM), Hyderabad | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
 | [DevCrest Buildathon '26](https://unstop.com/hackathons/devcrest-buildathon-26-devcrest-1734263) | DevCrest | India | 🏢 Onsite | — | 2026-08-24 | Unstop |
 | [AI for Management](https://unstop.com/competitions/ai-for-management-growcial-1735621) | Growcial | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
 | [Case Consilium](https://unstop.com/competitions/case-consilium-bits-goa-consulting-club-bgcc-1734140) | BITS Goa Consulting Club (BGCC) | India | 🏢 Onsite | — | 2026-09-16 | Unstop |
@@ -103,11 +108,6 @@
 | [AI & Machine Learning Competition](https://unstop.com/competitions/ai-machine-learning-competition-bharat-academix-1728530) | Bharat Academix | India | 🏢 Onsite | — | 2026-08-14 | Unstop |
 | [Bootstrap Battle 2.0](https://unstop.com/competitions/bootstrap-battle-20-arun-jaitley-national-institute-of-financial-management-1728511) | Arun Jaitley National Institute of Financial Management | India | 🏢 Onsite | — | 2026-08-15 | Unstop |
 | [Marico Over The Wall Season 14](https://unstop.com/competitions/crp-marico-over-the-wall-season-14-marico-1727644) | Marico | India | 🏢 Onsite | — | 2027-01-16 | Unstop |
-| [Inkspire | Graphic Design Challenge | ORBIT 1.0](https://unstop.com/competitions/inkspire-graphic-design-challenge-orbit-10-institute-of-information-technology-and-management-janakpuri-1726992) | Institute of Information Technology and Management, Janakpuri | India | 🏢 Onsite | — | 2026-08-28 | Unstop |
-| [Nexora](https://unstop.com/hackathons/nexora-hackhere-1727929) | Hackhere | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
-| [Morrow 1.0](https://unstop.com/hackathons/morrow-10-makers-need-more-mnm-1727667) | Makers Need More (MnM) | India | 🏢 Onsite | — | 2026-09-17 | Unstop |
-| [Caspian AI Agent Hackathon](https://unstop.com/hackathons/caspian-ai-agent-hackathon-caspian-1726439) | Caspian | India | 🏢 Onsite | — | 2026-08-13 | Unstop |
-| [Kurukshetra 2.0 Hackfest](https://unstop.com/hackathons/kurukshetra-20-hackfest-mit-arts-commerce-science-college-alandi-pune-maharashtra-1726911) | MIT Arts, Commerce & Science College, Alandi, Pune, Maharashtra | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
 
 ## Recently Expired
 

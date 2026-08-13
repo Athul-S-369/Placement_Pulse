@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Baltimore, MD, Rochester, MI, Augusta, ME, Bluemont, VA, Alexandria, VA
+- **Locations:** Dublin, OH, Bluemont, VA, California City, CA, Baltimore, MD, Bloomington, MN
 
 ## Current Opportunities
 

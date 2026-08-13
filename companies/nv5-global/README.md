@@ -1,16 +1,17 @@
 # 🏢 NV5 Global
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-13*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-13*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Irvine, CA
+- **Locations:** Remote in USA, Irvine, CA
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [GIS Specialist - Multiple Levels](https://careers-nv5.icims.com/jobs/12490/job?mobile=true&needsRedirect=false) | NV5 Global | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Laser Scan Technician](https://careers-nv5.icims.com/jobs/12198/job?mobile=true&needsRedirect=false) | NV5 Global | Irvine, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 
 ## 📖 Interview Preparation
