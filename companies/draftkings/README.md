@@ -1,16 +1,17 @@
 # 🏢 DraftKings
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-12*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-13*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Boston, MA
+- **Locations:** Remote in USA, Boston, MA
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Data Coordinator Associate](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Remote---US/Data-Coordinator-Associate_JR14672-3) | DraftKings | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Analyst 1 - Casino Analytics](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Analyst-I_JR14374) | DraftKings | Boston, MA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 
 ## 📖 Interview Preparation

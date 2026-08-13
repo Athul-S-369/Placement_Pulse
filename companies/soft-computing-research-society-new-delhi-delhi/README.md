@@ -1,6 +1,6 @@
 # 🏢 Soft Computing Research Society, New Delhi, Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-12*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-13*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [2nd NextGen Hackathon 2026](https://unstop.com/hackathons/2nd-nextgen-hackathon-2026-soft-computing-research-society-new-delhi-delhi-1722019) | Soft Computing Research Society, New Delhi, Delhi | India | 🏢 Onsite | — | 2026-08-12 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,6 +1,6 @@
 # 🏢 Symbiosis Institute of Management Studies (SIMS), Pune
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-12*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-13*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Ops Elevate- The Internship Showcase 2026](https://unstop.com/competitions/ops-elevate-the-internship-showcase-2026-symbiosis-institute-of-management-studies-sims-pune-1726095) | Symbiosis Institute of Management Studies (SIMS), Pune | India | 🏢 Onsite | — | 2026-08-12 | Unstop |
 
 ## 📖 Interview Preparation
 

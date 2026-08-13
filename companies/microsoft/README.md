@@ -1,11 +1,11 @@
 # 🏢 Microsoft
 
-**15 active opportunities** | **15 total tracked** | *Last updated: 2026-08-12*
+**15 active opportunities** | **15 total tracked** | *Last updated: 2026-08-13*
 
 ## Overview
 
-- **Categories:** Internship, Student Ambassador, Fresher Job
-- **Locations:** Mountain View, CA, Remote in USA, Redmond, WA, Mountain View, CA, Redmond, WA, Cambridge, MA, Redmond, WA
+- **Categories:** Fresher Job, Internship, Student Ambassador
+- **Locations:** Cambridge, MA, NYC, Annapolis Junction, MD, Reston, VA, Vancouver, BC, Canada, Redmond, WA, Mountain View, CA, Redmond, WA, NYC
 
 ## Current Opportunities
 

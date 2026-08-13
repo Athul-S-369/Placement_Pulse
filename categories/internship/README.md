@@ -1,13 +1,14 @@
 # 🎓 Internship
 
-**773 active** | **0 expired** | **773 total**
+**774 active** | **0 expired** | **774 total**
 
-*Last updated: 2026-08-12*
+*Last updated: 2026-08-13*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Data Engineer Co-op](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/06083-GameChanger/Data-Engineering-Co-Op_202630722) | Dick's Sporting Goods | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Machine Learning Intern](https://cambiumlearning.wd1.myworkdayjobs.com/camb/job/Remote/Machine-Learning-Intern_REQ-4561) | Cambium Learning Group | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Vision AI Intern - Vision AI](https://apply.workable.com/thingtrax/j/5D09B73294/apply) | Thingtrax | Remote in UK | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Insights - Project Extension Team - Cohort](https://apply.workable.com/generation-west-virginia-1/j/315616F917/apply) | Generation West Virginia | Remote in USA, West Virginia | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [Software Engineer Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101987) | Copart | Dallas, TX | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Software Engineering Intern](https://jobs.lever.co/layup/0b42f7ad-ebdc-4b4a-8fe6-47640f6dba53/apply) | Layup Parts | Huntington Beach, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [2026 Machine Learning Research Intern](https://jobs.ashbyhq.com/Lambda/264f889c-38f4-42a5-9534-064a9512a3fe) | Lambda | San Francisco, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Physical Design for Machine Learning Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4968215007) | Tenstorrent | Santa Clara, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

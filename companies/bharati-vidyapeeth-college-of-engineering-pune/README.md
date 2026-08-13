@@ -1,6 +1,6 @@
 # 🏢 Bharati Vidyapeeth College of Engineering Pune
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-12*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-13*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AlgoVerse'26](https://unstop.com/hackathons/algoverse26-bharati-vidyapeeth-college-of-engineering-pune-1724255) | Bharati Vidyapeeth College of Engineering Pune | India | 🏢 Onsite | — | 2026-08-12 | Unstop |
 
 ## 📖 Interview Preparation
 
