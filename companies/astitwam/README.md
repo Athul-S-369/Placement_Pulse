@@ -1,6 +1,6 @@
 # 🏢 Astitwam
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-13*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-14*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Trivarna CTF — International CTF Championship](https://unstop.com/hackathons/trivarna-ctf-international-ctf-championship-astitwam-1724784) | Astitwam | India | 🏢 Onsite | — | 2026-08-13 | Unstop |
 
 ## 📖 Interview Preparation
 

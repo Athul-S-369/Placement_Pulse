@@ -1,6 +1,6 @@
 # 🏢 SourceDirect Talent
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-13*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-14*
 
 ## Overview
 

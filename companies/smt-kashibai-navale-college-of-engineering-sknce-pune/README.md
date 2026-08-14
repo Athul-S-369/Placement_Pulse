@@ -1,6 +1,6 @@
 # 🏢 Smt Kashibai Navale College of Engineering (SKNCE), Pune
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-13*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-14*
 
 ## Overview
 

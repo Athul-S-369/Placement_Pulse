@@ -1,11 +1,11 @@
 # 🏢 Adobe
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-08-13*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-08-14*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Seattle, WA, SF, San Jose, CA, Seattle, WA, India, San Jose, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** San Jose, CA, India, Seattle, WA, SF, San Jose, CA, Seattle, WA
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏢 Baba Farid College of Engineering and Technology (BFCET), Bathinda
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-13*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-14*
 
 ## Overview
 

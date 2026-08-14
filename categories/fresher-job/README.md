@@ -1,13 +1,16 @@
 # 💼 Fresher Job
 
-**1294 active** | **0 expired** | **1294 total**
+**1297 active** | **0 expired** | **1297 total**
 
-*Last updated: 2026-08-13*
+*Last updated: 2026-08-14*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Developer](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100537) | Autodesk | Toronto, ON, Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Associate Data Analyst](https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Boston/Associate-Data-Analyst_R2727) | PURE Insurance | Boston, MA, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Development Engineer 1](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540) | Dexcom | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Full Stack Developer](https://www.t2systems.com/jobs?gh_jid=4675527006) | T2 Systems | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Public Health Data Engineer](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Public-Health-Data-Engineer_43271-1) | Guidehouse | Houston, TX, Remote in USA, San Antonio, TX, Atlanta, GA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Coordinator Associate](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Remote---US/Data-Coordinator-Associate_JR14672-3) | DraftKings | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -105,6 +108,3 @@
 | [Associate Product Manager](https://careers.footlocker.com/jobs/71035?icims=1) | Foot Locker | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://jobs.lever.co/thinkahead/b044c4f0-4509-425f-8581-58070ded2379/apply) | AHEAD | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Fraud Analyst](https://job-boards.greenhouse.io/ddome/jobs/8636643002) | DataDome | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Labeler / Annotator - AI Response Evaluation - French](https://job-boards.greenhouse.io/bpcs/jobs/8072559) | Blueprint Technologies | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Data Science Fellow](https://job-boards.greenhouse.io/axle/jobs/5158529007) | Axle | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Associate Developer](https://magnatech.io/technology-careers/?gh_jid=4716011005) | Magnatech | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

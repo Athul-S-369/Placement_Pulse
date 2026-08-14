@@ -1,6 +1,6 @@
 # 🏢 Caspian
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-13*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-14*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Caspian AI Agent Hackathon](https://unstop.com/hackathons/caspian-ai-agent-hackathon-caspian-1726439) | Caspian | India | 🏢 Onsite | — | 2026-08-13 | Unstop |
 
 ## 📖 Interview Preparation
 

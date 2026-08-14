@@ -1,6 +1,6 @@
 # 🏢 SJC Institute of Technology
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-13*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-14*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Creative Fusion 2026 – Art & Culture Challenge](https://unstop.com/events/creative-fusion-2026-art-culture-challenge-sjc-institute-of-technology-1727599) | SJC Institute of Technology | India | 🏢 Onsite | — | 2026-08-13 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,6 +1,6 @@
 # 🏢 MIT Academy of Engineering (MITAOE), Pune, Maharashtra
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-13*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-14*
 
 ## Overview
 
