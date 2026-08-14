@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1303 active** | **0 expired** | **1303 total**
+**1304 active** | **0 expired** | **1304 total**
 
 *Last updated: 2026-08-14*
 
@@ -17,6 +17,7 @@
 | [AI Vibe Coding Engineer](https://careers.ctg.com/jobs/17347?icims=1) | CTG | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Entry-level Software Developer](https://careers-decisionpointcorp.icims.com/jobs/3685/job?mobile=true&needsRedirect=false) | DecisionPoint Corporation | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Master Data Management Specialist - MDM Team](https://jobs.ascension.org/us/en/job/456522) | Ascension | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [IT & Artificial Intelligence Fundamentals - Academy](https://specialisterne.applytojob.com/apply/l7VrTDSZmZ/Specialisterne-USA-Academy) | Specialisterne | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Full Stack Developer](https://www.t2systems.com/jobs?gh_jid=4675527006) | T2 Systems | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Public Health Data Engineer](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Public-Health-Data-Engineer_43271-1) | Guidehouse | Houston, TX, Remote in USA, San Antonio, TX, Atlanta, GA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Coordinator Associate](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Remote---US/Data-Coordinator-Associate_JR14672-3) | DraftKings | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Full-Stack Software Engineer - Full-Stack](https://jobs.ashbyhq.com/runpod/87e39052-6819-4332-86ba-81e5ba9785dd/application?embed=true) | Runpod | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Machine Learning Applications and Compiler Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2016937) | NVIDIA | Toronto, ON, Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/UK---Remote/Software-Engineer_R56506) | Trimble | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [IT Business Systems Engineer - IT Specialist in Business Systems - API Web](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mississauga-Ontario-Canada/Business-Systems-Engineer---Spcialiste-en-systmes-d-affaires_R46579-1) | TD Synnex | Washington, Oregon, Texas, Florida, South Carolina, Mississauga, ON, Canada, Greenville, SC, Colorado, North Carolina, Remote in Canada, Clearwater, FL | 🌐 Remote | — | — | SimplifyJobs New Grad |

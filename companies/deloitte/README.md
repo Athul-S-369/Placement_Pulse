@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Huntsville, AL, Atlanta, GA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Atlanta, GA, Huntsville, AL
 
 ## Current Opportunities
 

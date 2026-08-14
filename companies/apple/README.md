@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Cambridge, MA, Gloucester, UK, Austin, TX, California, Cupertino, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Waltham, MA, Cambridge, MA, SF, San Jose, CA, Austin, TX
 
 ## Current Opportunities
 
