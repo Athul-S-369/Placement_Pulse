@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Westminster, CO, Baltimore, MD, Dublin, OH, San Antonio, TX, Augusta, ME
+- **Categories:** Fresher Job, Internship
+- **Locations:** California City, CA, Chantilly, VA, El Segundo, CA, Southfield, MI, Augusta, ME
 
 ## Current Opportunities
 

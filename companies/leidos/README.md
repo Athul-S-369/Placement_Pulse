@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Aurora, CO, Annapolis Junction, MD, Alexandria, VA, San Diego, CA, Huntsville, AL, Reston, VA, Chesapeake, VA, Annapolis Junction, MD
+- **Categories:** Fresher Job, Internship
+- **Locations:** Aurora, CO, Annapolis Junction, MD, Alexandria, VA, San Diego, CA, Annapolis Junction, MD, Reston, VA, Columbia, MD, Chesapeake, VA
 
 ## Current Opportunities
 

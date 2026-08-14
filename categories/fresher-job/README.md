@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1297 active** | **0 expired** | **1297 total**
+**1303 active** | **0 expired** | **1303 total**
 
 *Last updated: 2026-08-14*
 
@@ -11,6 +11,12 @@
 | [Software Developer](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100537) | Autodesk | Toronto, ON, Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Data Analyst](https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Boston/Associate-Data-Analyst_R2727) | PURE Insurance | Boston, MA, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Development Engineer 1](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540) | Dexcom | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Agentic Factory Consultant](https://careers2-vistaequitypartners.icims.com/jobs/3017/job?mobile=true&needsRedirect=false) | Vista Equity Partners | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Electronics Worker 1](https://careers.gov2x.com/jobs/59672?icims=1) | V2X | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
+| [Junior Power Platform Developer](https://careers-ita-intl.icims.com/jobs/4470/job?mobile=true&needsRedirect=false) | ITA International | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [AI Vibe Coding Engineer](https://careers.ctg.com/jobs/17347?icims=1) | CTG | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Entry-level Software Developer](https://careers-decisionpointcorp.icims.com/jobs/3685/job?mobile=true&needsRedirect=false) | DecisionPoint Corporation | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Master Data Management Specialist - MDM Team](https://jobs.ascension.org/us/en/job/456522) | Ascension | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Full Stack Developer](https://www.t2systems.com/jobs?gh_jid=4675527006) | T2 Systems | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Public Health Data Engineer](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Public-Health-Data-Engineer_43271-1) | Guidehouse | Houston, TX, Remote in USA, San Antonio, TX, Atlanta, GA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Coordinator Associate](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Remote---US/Data-Coordinator-Associate_JR14672-3) | DraftKings | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -102,9 +108,3 @@
 | [Machine Learning Applications and Compiler Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2016937) | NVIDIA | Toronto, ON, Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/UK---Remote/Software-Engineer_R56506) | Trimble | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [IT Business Systems Engineer - IT Specialist in Business Systems - API Web](https://synnex.wd5.myworkdayjobs.com/tdsynnexcareers/job/Mississauga-Ontario-Canada/Business-Systems-Engineer---Spcialiste-en-systmes-d-affaires_R46579-1) | TD Synnex | Washington, Oregon, Texas, Florida, South Carolina, Mississauga, ON, Canada, Greenville, SC, Colorado, North Carolina, Remote in Canada, Clearwater, FL | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Data Labeling Associate](https://welocalize.wd1.myworkdayjobs.com/welocalize/job/CA-Client-Field-Office-San-Fran-Bay-Area/Data-Labeling-Associate_R0007638) | Welocalize | SF, Remote in USA, NYC | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Software Development Engineer 2](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/SDE2-2_JR107318-1) | Centific | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Applications Scientist 3](https://onto.wd1.myworkdayjobs.com/onto_careers/job/Hillsboro-OR/Applications-Scientist-3_R-6006) | Onto Innovation | Remote in USA, Hillsboro, OR | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Associate Product Manager](https://careers.footlocker.com/jobs/71035?icims=1) | Foot Locker | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Software Engineer](https://jobs.lever.co/thinkahead/b044c4f0-4509-425f-8581-58070ded2379/apply) | AHEAD | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Fraud Analyst](https://job-boards.greenhouse.io/ddome/jobs/8636643002) | DataDome | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Centreville, VA, Remote in USA
+- **Locations:** Remote in USA, Centreville, VA
 
 ## Current Opportunities
 

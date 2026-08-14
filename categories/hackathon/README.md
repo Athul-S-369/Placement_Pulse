@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**190 active** | **251 expired** | **441 total**
+**194 active** | **251 expired** | **445 total**
 
 *Last updated: 2026-08-14*
 
@@ -11,6 +11,10 @@
 | [Legend of the Treasure (Takara No Densetsu)](https://unstop.com/hackathons/legend-of-the-treasure-takara-no-densetsu-amity-school-of-engineering-technology-amity-noida-1736600) | Amity School of Engineering & Technology (AMITY), Noida | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
 | [Mozilla–CHRIST Human Scale AI Buildathon 2026](https://unstop.com/competitions/mozilla-christ-human-scale-ai-buildathon-2026-christ-university-1736544) | Christ University | India | 🏢 Onsite | — | 2026-08-30 | Unstop |
 | [Software Innovation Challenge II](https://unstop.com/competitions/software-innovation-challenge-ii-sai-ram-engineering-college-1736552) | Sai Ram Engineering College | India | 🏢 Onsite | — | 2026-08-31 | Unstop |
+| [Independence Day Quiz](https://unstop.com/quiz/independence-day-quiz-saraswati-english-medium-high-school-bhiwandi-maharashtra-1736750) | Saraswati English Medium High School, Bhiwandi, Maharashtra | India | 🏢 Onsite | — | 2026-08-16 | Unstop |
+| [The Trust Economy Challenge: Super App or Super Mess?](https://unstop.com/competitions/the-trust-economy-challenge-super-app-or-super-mess-ats-services-pvt-ltd-1736101) | ATS Services Pvt Ltd | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
+| [Campus Growth Challenge 2026](https://unstop.com/competitions/campus-growth-challenge-2026-healthigrity-1736307) | Healthigrity | India | 🏢 Onsite | — | 2026-08-31 | Unstop |
+| [Code Voyage](https://unstop.com/hackathons/code-voyage-iem-kolkata-1736284) | IEM Kolkata | India | 🏢 Onsite | — | 2026-09-15 | Unstop |
 | [Internal Smart India Hackathon 2026](https://unstop.com/hackathons/internal-smart-india-hackathon-2026-bharat-ratna-baba-saheb-bhim-rao-ambedkar-rajkiya-engineering-college-pra-1736096) | Bharat Ratna baba saheb bhim rao ambedkar rajkiya engineering college pratapgarh | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
 | [Co-operative/Employee Owned Business Ideathon](https://unstop.com/competitions/co-operativeemployee-owned-business-ideathon-kairos-creative-1730454) | Kairos Creative | India | 🏢 Onsite | — | 2026-08-29 | Unstop |
 | [InfiniX'26 – National Level 32-Hour Hackathon](https://unstop.com/hackathons/infinix26-national-level-32-hour-hackathon-ramco-institute-of-technology-1730876) | Ramco Institute of Technology | India | 🏢 Onsite | — | 2026-09-11 | Unstop |
@@ -104,10 +108,6 @@
 | [NexBuildOn Hack 2026](https://unstop.com/hackathons/nexbuildon-hack-2026-nexbuildon-community-1728774) | NexBuildOn Community | India | 🏢 Onsite | — | 2026-08-16 | Unstop |
 | [Prasunethon 2.0](https://unstop.com/hackathons/prasunethon-20-prasunet-1728532) | Prasunet | India | 🏢 Onsite | — | 2026-08-30 | Unstop |
 | [CodeSprint 2.O : One Shot Challenge](https://unstop.com/hackathons/codesprint-2o-one-shot-challenge-oriental-college-of-technology-oct-bhopal-1728495) | Oriental College of Technology (OCT), Bhopal | India | 🏢 Onsite | — | 2026-08-30 | Unstop |
-| [Techno Vbiquity 2.O – Technical Coding Competition](https://unstop.com/hackathons/techno-vbiquity-2o-technical-coding-competition-technocrats-group-of-institutions-bhopal-madhya-pradesh-1728481) | Technocrats Group of Institutions, Bhopal, Madhya Pradesh | India | 🏢 Onsite | — | 2026-09-05 | Unstop |
-| [Y-Hack'26 – 24-Hour National Hackathon](https://unstop.com/hackathons/y-hack26-24-hour-national-hackathon-kpr-institute-of-engineering-and-technology-kpriet-coimbatore-1702198) | KPR Institute of Engineering and Technology (KPRIET), Coimbatore | India | 🏢 Onsite | — | 2026-09-07 | Unstop |
-| [STEM Masters Festival - Delhi](https://unstop.com/conferences/stem-masters-festival-delhi-seed-global-education-services-private-limited-1728737) | SEED Global Education Services Private Limited | India | 🏢 Onsite | — | 2026-08-14 | Unstop |
-| [AI & Machine Learning Competition](https://unstop.com/competitions/ai-machine-learning-competition-bharat-academix-1728530) | Bharat Academix | India | 🏢 Onsite | — | 2026-08-14 | Unstop |
 
 ## Recently Expired
 
