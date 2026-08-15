@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** NYC, Rochester, MI, Baltimore, MD, Bluemont, VA, Alexandria, VA
+- **Locations:** Dublin, OH, El Segundo, CA, Bluemont, VA, Chantilly, VA, Alexandria, VA
 
 ## Current Opportunities
 

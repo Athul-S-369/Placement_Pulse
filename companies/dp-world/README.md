@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Thurrock, UK, London, UK
+- **Locations:** London, UK, Thurrock, UK
 
 ## Current Opportunities
 

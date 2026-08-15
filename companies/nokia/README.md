@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Ottawa, ON, Canada, California, NYC, Sunnyvale, CA, United States, Jackson Township, NJ
+- **Locations:** NYC, Sunnyvale, CA, Canada, San Jose, CA, Naperville, IL, Dallas, TX, Sunnyvale, CA
 
 ## Current Opportunities
 

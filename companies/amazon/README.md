@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Hackathon, Fresher Job, Internship
-- **Locations:** Seattle, WA, Seattle, WA, Wakefield, MA, Westborough, MA, Fredericksburg, VA, Ashburn, VA, Manassas, VA, Reston, VA, Dulles, VA, Indianapolis, IN, Hyderabad, Telangana, India, NYC
+- **Categories:** Fresher Job, Internship, Hackathon
+- **Locations:** Seattle, WA, London, UK, Edinburgh, UK, Cambridge, UK, Sunnyvale, CA, London, UK, Seattle, WA, Wakefield, MA, Westborough, MA
 
 ## Current Opportunities
 
