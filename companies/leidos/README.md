@@ -1,11 +1,11 @@
 # 🏢 Leidos
 
-**7 active opportunities** | **7 total tracked** | *Last updated: 2026-08-14*
+**7 active opportunities** | **7 total tracked** | *Last updated: 2026-08-15*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Aurora, CO, Annapolis Junction, MD, Alexandria, VA, San Diego, CA, Reston, VA, Huntsville, AL, Annapolis Junction, MD, Chesapeake, VA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Indianapolis, IN, Columbia, MD, Annapolis Junction, MD, Aurora, CO, Annapolis Junction, MD, Alexandria, VA, San Diego, CA, Huntsville, AL
 
 ## Current Opportunities
 

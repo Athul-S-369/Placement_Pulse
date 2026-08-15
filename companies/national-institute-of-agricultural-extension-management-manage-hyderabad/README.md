@@ -1,6 +1,6 @@
 # 🏢 National Institute of Agricultural Extension Management (MANAGE), Hyderabad
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-14*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-15*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Neetiyudh: A Case Study](https://unstop.com/competitions/neetiyudh-a-case-study-krishi-chanakya-2026-national-institute-of-agricultural-extension-management-manage--1724872) | National Institute of Agricultural Extension Management (MANAGE), Hyderabad | India | 🏢 Onsite | — | 2026-08-14 | Unstop |
 
 ## 📖 Interview Preparation
 

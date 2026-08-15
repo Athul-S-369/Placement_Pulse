@@ -1,6 +1,6 @@
 # 🏢 BV Raju Institute of Technology, Narsapur (BVRIT-N)
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-14*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-15*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [DEMUX 3.0](https://unstop.com/hackathons/demux-30-demux-30-bv-raju-institute-of-technology-narsapur-bvrit-n-1715858) | BV Raju Institute of Technology, Narsapur (BVRIT-N) | India | 🏢 Onsite | — | 2026-08-14 | Unstop |
 
 ## 📖 Interview Preparation
 

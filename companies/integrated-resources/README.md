@@ -1,11 +1,11 @@
 # 🏢 Integrated Resources
 
-**12 active opportunities** | **12 total tracked** | *Last updated: 2026-08-14*
+**12 active opportunities** | **12 total tracked** | *Last updated: 2026-08-15*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** North Haven, CT, Cambridge, MA, Westborough, MA, Milwaukee, WI, Birmingham, AL
+- **Categories:** Fresher Job, Internship
+- **Locations:** North Haven, CT, Westborough, MA, Elmira, NY, Exton, PA, Cambridge, MA
 
 ## Current Opportunities
 

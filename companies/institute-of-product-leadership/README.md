@@ -1,6 +1,6 @@
 # 🏢 Institute of Product Leadership
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-14*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-15*
 
 ## Overview
 

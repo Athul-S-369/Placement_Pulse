@@ -1,6 +1,6 @@
 # 🏢 Faculty Of Business Administration (GLSBBA), GLS University
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-14*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-15*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [HR Auction](https://unstop.com/competitions/hr-auction-hr-symposium-40-faculty-of-business-administration-glsbba-gls-university-1726120) | Faculty Of Business Administration (GLSBBA), GLS University | India | 🏢 Onsite | — | 2026-08-14 | Unstop |
 
 ## 📖 Interview Preparation
 

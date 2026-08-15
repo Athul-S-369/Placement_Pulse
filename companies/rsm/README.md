@@ -1,11 +1,11 @@
 # 🏢 RSM
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-14*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-15*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote / Various, Indianapolis, IN, Chicago, IL
+- **Locations:** Indianapolis, IN, Chicago, IL, Remote / Various
 
 ## Current Opportunities
 

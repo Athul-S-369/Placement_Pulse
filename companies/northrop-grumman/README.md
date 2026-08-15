@@ -1,11 +1,11 @@
 # 🏢 Northrop Grumman
 
-**6 active opportunities** | **6 total tracked** | *Last updated: 2026-08-14*
+**6 active opportunities** | **6 total tracked** | *Last updated: 2026-08-15*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Warner Robins, GA, Northridge, LA, Escondido, CA, Palmdale, CA, Melbourne, FL, Wright-Patterson AFB, OH
+- **Categories:** Fresher Job, Internship
+- **Locations:** Northridge, LA, Aurora, CO, Morrisville, NC, Annapolis Junction, MD, San Antonio, TX, Melbourne, FL, Escondido, CA, Palmdale, CA, Warner Robins, GA
 
 ## Current Opportunities
 

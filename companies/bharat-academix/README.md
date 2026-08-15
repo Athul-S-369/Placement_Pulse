@@ -1,6 +1,6 @@
 # 🏢 Bharat Academix
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-14*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-15*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AI & Machine Learning Competition](https://unstop.com/competitions/ai-machine-learning-competition-bharat-academix-1728530) | Bharat Academix | India | 🏢 Onsite | — | 2026-08-14 | Unstop |
 
 ## 📖 Interview Preparation
 

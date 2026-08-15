@@ -1,6 +1,6 @@
 # 🏢 B.N. College Of Engineering And Technology, Lucknow, Uttar Pradesh
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-14*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-15*
 
 ## Overview
 
