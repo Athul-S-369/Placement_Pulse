@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Jacksonville, FL, Novato, CA, San Jose, CA, Sunnyvale, CA, NYC
+- **Locations:** Hartford, CT, Broomfield, CO, Novato, CA, Dallas, TX, San Jose, CA
 
 ## Current Opportunities
 

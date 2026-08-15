@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**199 active** | **257 expired** | **456 total**
+**203 active** | **257 expired** | **460 total**
 
 *Last updated: 2026-08-15*
 
@@ -16,6 +16,10 @@
 | [VidyutVyuh](https://unstop.com/competitions/vidyutvyuh-yantrika-10-innovate-elevate-faculty-of-technology-delhi-university-1736996) | Faculty of Technology, Delhi University | India | 🏢 Onsite | — | 2026-09-10 | Unstop |
 | [CodeNeuraX: AlgoRush](https://unstop.com/hackathons/codeneurax-algorush-codeneurax-1737089) | CodeNeuraX | India | 🏢 Onsite | — | 2026-12-18 | Unstop |
 | [Lumora-2026](https://unstop.com/competitions/lumora-2026-kalyani-government-engineering-college-kgec-west-bengal-1737019) | Kalyani Government Engineering College (KGEC), West Bengal | India | 🏢 Onsite | — | 2026-08-21 | Unstop |
+| [AI and Cybersecurity: Foundations, Tools, and Emerging Applications](https://unstop.com/workshops-webinars/ai-and-cybersecurity-foundations-tools-and-emerging-applications-iit-hyderabad-1719619) | Indian Institute of Technology (IIT), Hyderabad | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
+| [Py-Quest: Python Intermediate Challenge](https://unstop.com/quiz/py-quest-python-intermediate-challenge-rankup-1726489) | RANKUP | India | 🏢 Onsite | — | 2026-09-08 | Unstop |
+| [CypherVerse](https://unstop.com/hackathons/cypherverse-chandigarh-group-of-colleges-cgc-jhanjeri-1736257) | Chandigarh Group of Colleges (CGC), Jhanjeri | India | 🏢 Onsite | — | 2026-08-21 | Unstop |
+| [Nerds Room: Launch Hacks](https://unstop.com/hackathons/nerds-room-launch-hacks-nerds-room-launch-hacks-ambalika-institute-of-management-and-technology-aimt-uttaar-g-1737146) | Ambalika Institute of Management and Technology (AIMT), Uttaar Gaon, Uttar Pradesh | India | 🏢 Onsite | — | 2026-08-29 | Unstop |
 | [Legend of the Treasure (Takara No Densetsu)](https://unstop.com/hackathons/legend-of-the-treasure-takara-no-densetsu-amity-school-of-engineering-technology-amity-noida-1736600) | Amity School of Engineering & Technology (AMITY), Noida | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
 | [Mozilla–CHRIST Human Scale AI Buildathon 2026](https://unstop.com/competitions/mozilla-christ-human-scale-ai-buildathon-2026-christ-university-1736544) | Christ University | India | 🏢 Onsite | — | 2026-08-30 | Unstop |
 | [Software Innovation Challenge II](https://unstop.com/competitions/software-innovation-challenge-ii-sai-ram-engineering-college-1736552) | Sai Ram Engineering College | India | 🏢 Onsite | — | 2026-08-31 | Unstop |
@@ -104,10 +108,6 @@
 | [Orvix Hackathon](https://unstop.com/hackathons/orvix-hackathon-nimblux-1730437) | NIMBLUX | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 | [Beyond Loss | A Veer Nari’s Journey of Courage, Leadership, and Service](https://unstop.com/workshops-webinars/beyond-loss-a-veer-naris-journey-of-courage-leadership-and-service-amaanitvam-foundation-1730762) | Amaanitvam Foundation | India | 🏢 Onsite | — | 2026-08-22 | Unstop |
 | [BioFuture 2026](https://unstop.com/quiz/biofuture-2026-innovatex-1729401) | InnovateX | India | 🏢 Onsite | — | 2026-08-18 | Unstop |
-| [Prompt to Placement: AI Tools & GenAI Careers Quiz 2026](https://unstop.com/quiz/prompt-to-placement-ai-tools-genai-careers-quiz-2026-dr-d-y-patil-technical-campus-1730321) | Dr D Y Patil Technical Campus | India | 🏢 Onsite | — | 2026-09-06 | Unstop |
-| [Simply Updify InnovateX 2.0](https://unstop.com/hackathons/simply-updify-innovatex-20-simply-updify-1729747) | Simply Updify | India | 🏢 Onsite | — | 2026-08-17 | Unstop |
-| [The Governance Challenge 2026 (TGC 2026)](https://unstop.com/competitions/crp-the-governance-challenge-2026-tgc-2026-samagra-1726557) | Samagra | India | 🏢 Onsite | — | 2026-09-30 | Unstop |
-| [79th Independence Day Quiz 2026](https://unstop.com/quiz/79th-independence-day-quiz-2026-knowledge-institute-of-technology-kiot-tamil-nadu-1729703) | ISTE Student Chapter, Bengaluru | India | 🏢 Onsite | — | 2026-08-17 | Unstop |
 
 ## Recently Expired
 

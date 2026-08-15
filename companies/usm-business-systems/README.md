@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Dublin, OH, El Segundo, CA, Bluemont, VA, Chantilly, VA, Alexandria, VA
+- **Locations:** El Segundo, CA, Manassas, VA, Chicago, IL, Jefferson City, MO, Southfield, MI
 
 ## Current Opportunities
 

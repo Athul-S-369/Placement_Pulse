@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Palo Alto, CA, Fremont, CA, Austin, TX, Dallas, TX, Palo Alto, CA, Fremont, CA, United States, Palo Alto, CA, Anaheim, CA
+- **Locations:** Orlando, FL, Palo Alto, CA, Fremont, CA, United States, Palo Alto, CA, Anaheim, CA, Fremont, CA
 
 ## Current Opportunities
 
