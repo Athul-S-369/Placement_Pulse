@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Sunnyvale, CA, Thousand Oaks, CA, Alpharetta, GA, Chicago, IL, Jacksonville, FL
+- **Categories:** Internship, Fresher Job
+- **Locations:** Broomfield, CO, Dallas, TX, Plainview, NY, Alpharetta, GA, Jacksonville, FL
 
 ## Current Opportunities
 

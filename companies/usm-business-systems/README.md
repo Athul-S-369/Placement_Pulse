@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Chicago, IL, Southfield, MI, NYC, Columbus, OH, Bluemont, VA
+- **Categories:** Internship, Fresher Job
+- **Locations:** El Segundo, CA, California City, CA, Traverse City, MI, Washington, DC, Westminster, CO
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** NYC, Washington, DC, Honolulu, HI
+- **Locations:** NYC, Honolulu, HI, Washington, DC
 
 ## Current Opportunities
 

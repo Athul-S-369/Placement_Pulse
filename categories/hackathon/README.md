@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**197 active** | **269 expired** | **466 total**
+**202 active** | **269 expired** | **471 total**
 
 *Last updated: 2026-08-16*
 
@@ -14,6 +14,11 @@
 | [TechAura 2026 – National Level Tech Expo](https://unstop.com/competitions/techaura-2026-national-level-tech-expo-sathyabama-institute-of-science-and-technology-chennai-tamil-nadu-1737359) | Sathyabama Institute of Science and Technology, Chennai, Tamil Nadu | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
 | [EVOLVX 4.0 – Workshop on Cybersecurity with Penetration Testing and AI](https://unstop.com/workshops-webinars/evolvx-40-workshop-on-cybersecurity-with-penetration-testing-and-ai-srm-institute-of-science-and-tech-1735330) | SRM Institute of Science and Technology - Vadapalani Campus | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
 | [Techception](https://unstop.com/quiz/techception-madan-mohan-malviya-university-of-technology-1736955) | Madan Mohan Malviya University Of Technology | India | 🏢 Onsite | — | 2026-08-22 | Unstop |
+| [PAW2026 Nationwide Competition](https://unstop.com/competitions/paw2026-nationwide-competition-animals-water-bowl-project-awbp-trust-1738046) | Animals Water-Bowl Project (AWBP) Trust | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
+| [NIMS MUN 1.0](https://unstop.com/conferences/nims-mun-10-stem-department-nims-university-1737272) | STEM Department, NIMS UNIVERSITY | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
+| [EUREKA! 2026 – Startup Pitching Competition](https://unstop.com/competitions/eureka-2026-startup-pitching-competition-shah-and-anchor-kutchhi-engineering-college-sakec-mumbai-maharasht-1737729) | Shah and Anchor Kutchhi Engineering College (SAKEC), Mumbai, Maharashtra | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
+| [Next Gen Pitch 2026 Edition](https://unstop.com/competitions/next-gen-pitch-2026-edition-incubation-innovation-entrepreneurship-cell-chhatrapati-shivami-maharaj-univers-1737742) | Incubation, Innovation & Entrepreneurship Cell, Chhatrapati Shivami Maharaj University, Panvel, Navi Mumbai | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
+| [The Pirate’s Flag – Capture the Flag Challenge](https://unstop.com/hackathons/the-pirates-flag-capture-the-flag-challenge-thakur-ramnarayan-college-of-arts-and-commerce-1737865) | Thakur Ramnarayan College of Arts and Commerce | India | 🏢 Onsite | — | 2026-09-10 | Unstop |
 | [Start-Up Pitching Comp](https://unstop.com/competitions/start-up-pitching-comp-eureka-2026-dcac-du-delhi-1736982) | Delhi College of Arts & Commerce (DCAC), University of Delhi (DU), Delhi | India | 🏢 Onsite | — | 2026-08-18 | Unstop |
 | [AIVantage](https://unstop.com/quiz/aivantage-mentozy-1737031) | Mentozy | India | 🏢 Onsite | — | 2026-09-17 | Unstop |
 | [Business on Values](https://unstop.com/competitions/business-on-values-institute-of-rural-management-anand-irma-gujarat-1736892) | Institute of Rural Management Anand (IRMA), Gujarat | India | 🏢 Onsite | — | 2026-09-27 | Unstop |
@@ -103,11 +108,6 @@
 | [Python & AI Tools Workshop: Build Your Future with AI](https://unstop.com/workshops-webinars/python-ai-tools-workshop-build-your-future-with-ai-vaultsphere-ai-technology-pvt-ltd-1730984) | Vaultsphere Ai technology Pvt Ltd | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
 | [Understanding Business Cycles: Insights for Future Business Leaders](https://unstop.com/workshops-webinars/understanding-business-cycles-insights-for-future-business-leaders-lakshmi-narain-college-of-technolo-1731286) | Lakshmi Narain College of Technology Excellence (LNCTE), Bhopal, Madhya Pradesh | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
 | [VCET Hackathon 2026](https://unstop.com/hackathons/vcet-hackathon-2026-vidyavardhinis-college-of-engineering-and-technology-1729412) | Vidyavardhini’s College of Engineering and Technology | India | 🏢 Onsite | — | 2026-09-05 | Unstop |
-| [The Quantum Technology Quiz](https://unstop.com/quiz/the-quantum-technology-quiz-think-loop-community-1730898) | Think Loop Community | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
-| [VELOHACK 2k26: 24 Hour International Hackathon](https://unstop.com/hackathons/velohack-2k26-24-hour-international-hackathon-vel-tech-rangarajan-dr-sagunthala-rd-institute-of-science-and-t-1730386) | Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology, Avadi | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
-| [The Chandigarh Police Hackathon](https://unstop.com/hackathons/the-chandigarh-police-hackathon-university-institute-of-engineering-and-technology-uiet-chandigarh-1730320) | University Institute of Engineering and Technology (UIET), Chandigarh | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
-| [Brumble-2026: Point of Contact](https://unstop.com/events/brumble-2026-point-of-contact-matiks-1730217) | Matiks | India | 🏢 Onsite | — | 2026-08-17 | Unstop |
-| [Test MoEngage - Multiple steps](https://unstop.com/competitions/test-moengage-multiple-steps-indian-institute-of-technology-iit-bhilai-1730618) | Indian Institute of Technology (IIT), Bhilai | India | 🏢 Onsite | — | 2026-08-18 | Unstop |
 
 ## Recently Expired
 

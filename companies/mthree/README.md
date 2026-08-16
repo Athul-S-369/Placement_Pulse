@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Montreal, QC, Canada, United States, United Kingdom, Letchworth Garden City, UK
+- **Categories:** Internship, Fresher Job
+- **Locations:** Letchworth Garden City, UK, United States, Montreal, QC, Canada, United Kingdom
 
 ## Current Opportunities
 
