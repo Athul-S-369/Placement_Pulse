@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Traverse City, MI, Columbus, OH, California City, CA, Dublin, OH, El Segundo, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Chicago, IL, Southfield, MI, NYC, Columbus, OH, Bluemont, VA
 
 ## Current Opportunities
 

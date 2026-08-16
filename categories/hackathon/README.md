@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**194 active** | **269 expired** | **463 total**
+**197 active** | **269 expired** | **466 total**
 
 *Last updated: 2026-08-16*
 
@@ -11,6 +11,9 @@
 | [Baller Bot - Robosoccer](https://unstop.com/competitions/baller-bot-robosoccer-elicit26-acm-manipal-university-jaipur-1737290) | ACM Manipal University, Jaipur | India | 🏢 Onsite | — | 2026-08-22 | Unstop |
 | [Campus Pitching Competition](https://unstop.com/competitions/campus-pitching-competition-institute-of-engineering-management-kolkata-1737103) | Institute of Engineering & Management, Kolkata | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
 | [Matrix 2026](https://unstop.com/hackathons/matrix-2026-government-engineering-college-gec-thrissur-1737241) | Government Engineering College (GEC), Thrissur | India | 🏢 Onsite | — | 2026-09-24 | Unstop |
+| [TechAura 2026 – National Level Tech Expo](https://unstop.com/competitions/techaura-2026-national-level-tech-expo-sathyabama-institute-of-science-and-technology-chennai-tamil-nadu-1737359) | Sathyabama Institute of Science and Technology, Chennai, Tamil Nadu | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
+| [EVOLVX 4.0 – Workshop on Cybersecurity with Penetration Testing and AI](https://unstop.com/workshops-webinars/evolvx-40-workshop-on-cybersecurity-with-penetration-testing-and-ai-srm-institute-of-science-and-tech-1735330) | SRM Institute of Science and Technology - Vadapalani Campus | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
+| [Techception](https://unstop.com/quiz/techception-madan-mohan-malviya-university-of-technology-1736955) | Madan Mohan Malviya University Of Technology | India | 🏢 Onsite | — | 2026-08-22 | Unstop |
 | [Start-Up Pitching Comp](https://unstop.com/competitions/start-up-pitching-comp-eureka-2026-dcac-du-delhi-1736982) | Delhi College of Arts & Commerce (DCAC), University of Delhi (DU), Delhi | India | 🏢 Onsite | — | 2026-08-18 | Unstop |
 | [AIVantage](https://unstop.com/quiz/aivantage-mentozy-1737031) | Mentozy | India | 🏢 Onsite | — | 2026-09-17 | Unstop |
 | [Business on Values](https://unstop.com/competitions/business-on-values-institute-of-rural-management-anand-irma-gujarat-1736892) | Institute of Rural Management Anand (IRMA), Gujarat | India | 🏢 Onsite | — | 2026-09-27 | Unstop |
@@ -105,9 +108,6 @@
 | [The Chandigarh Police Hackathon](https://unstop.com/hackathons/the-chandigarh-police-hackathon-university-institute-of-engineering-and-technology-uiet-chandigarh-1730320) | University Institute of Engineering and Technology (UIET), Chandigarh | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
 | [Brumble-2026: Point of Contact](https://unstop.com/events/brumble-2026-point-of-contact-matiks-1730217) | Matiks | India | 🏢 Onsite | — | 2026-08-17 | Unstop |
 | [Test MoEngage - Multiple steps](https://unstop.com/competitions/test-moengage-multiple-steps-indian-institute-of-technology-iit-bhilai-1730618) | Indian Institute of Technology (IIT), Bhilai | India | 🏢 Onsite | — | 2026-08-18 | Unstop |
-| [Fusion 360 & 3D Printing Workshop 2026](https://unstop.com/workshops-webinars/fusion-360-3d-printing-workshop-2026-vasantdada-patil-pratishthans-college-of-engineering-1730578) | Vasantdada Patil Pratishthan's College of Engineering | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
-| [SPRIHA 2026](https://unstop.com/competitions/spriha-2026-kjsim-mumbai-1730552) | K J Somaiya Institute of Management (KJ SIM), Mumbai | India | 🏢 Onsite | — | 2026-09-02 | Unstop |
-| [Orvix Hackathon](https://unstop.com/hackathons/orvix-hackathon-nimblux-1730437) | NIMBLUX | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 
 ## Recently Expired
 
