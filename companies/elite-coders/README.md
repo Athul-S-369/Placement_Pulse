@@ -1,6 +1,6 @@
 # 🏢 Elite Coders
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-15*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-16*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Elite Quiz 5.0](https://unstop.com/quiz/elite-quiz-50-elite-coders-1729465) | Elite Coders | India | 🏢 Onsite | — | 2026-08-15 | Unstop |
 
 ## 📖 Interview Preparation
 

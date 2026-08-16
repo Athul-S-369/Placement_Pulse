@@ -1,6 +1,6 @@
 # 🏢 Manipal Institute of Technology (MIT), Manipal
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-15*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-16*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [SynTech 2026- Data Science contest](https://unstop.com/competitions/syntech-2026-data-science-contest-manipal-institute-of-technology-manipal-1718519) | Manipal Institute of Technology (MIT), Manipal | India | 🏢 Onsite | — | 2026-08-15 | Unstop |
 
 ## 📖 Interview Preparation
 

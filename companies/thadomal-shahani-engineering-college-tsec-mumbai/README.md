@@ -1,6 +1,6 @@
 # 🏢 Thadomal Shahani Engineering College (TSEC), Mumbai
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-15*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-16*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Codeissance 2026](https://unstop.com/hackathons/codessiance-2026-thadomal-shahani-engineering-college-tsec-mumbai-1729289) | Thadomal Shahani Engineering College (TSEC), Mumbai | India | 🏢 Onsite | — | 2026-08-15 | Unstop |
 
 ## 📖 Interview Preparation
 

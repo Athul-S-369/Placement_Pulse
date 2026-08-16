@@ -1,6 +1,6 @@
 # 🏢 BMS Institute of Technology and Management (BMSITM), Bangalore
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-15*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-16*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Summer of Projects'26](https://unstop.com/competitions/summer-of-projects26-bms-institute-of-technology-and-management-bmsitm-bangalore-1702115) | BMS Institute of Technology and Management (BMSITM), Bangalore | India | 🏢 Onsite | — | 2026-08-15 | Unstop |
 
 ## 📖 Interview Preparation
 

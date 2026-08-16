@@ -1,6 +1,6 @@
 # 🏢 National Institute of Technology Karnataka (NITK), Surathkal
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-15*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-16*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [CodeRed 2026: FIFA World Cup](https://unstop.com/hackathons/codered-2026-fifa-world-cup-nitk-surathkal-1727517) | National Institute of Technology Karnataka (NITK), Surathkal | India | 🏢 Onsite | — | 2026-08-15 | Unstop |
 
 ## 📖 Interview Preparation
 

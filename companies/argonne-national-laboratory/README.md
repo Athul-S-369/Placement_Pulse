@@ -1,11 +1,11 @@
 # 🏢 Argonne National Laboratory
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-15*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-16*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Woodridge, IL, Remote in USA, Woodridge, IL
+- **Categories:** Internship, Fresher Job
+- **Locations:** Remote in USA, Woodridge, IL, Woodridge, IL
 
 ## Current Opportunities
 
