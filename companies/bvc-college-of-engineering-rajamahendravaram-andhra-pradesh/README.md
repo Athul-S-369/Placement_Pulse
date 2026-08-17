@@ -1,6 +1,6 @@
 # 🏢 BVC College of Engineering, Rajamahendravaram, Andhra Pradesh
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-16*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-17*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Python Basic Programming Competition](https://unstop.com/hackathons/python-basic-programming-competition-bvc-college-of-engineering-rajamahendravaram-andhra-pradesh-1729093) | BVC College of Engineering, Rajamahendravaram, Andhra Pradesh | India | 🏢 Onsite | — | 2026-08-16 | Unstop |
 
 ## 📖 Interview Preparation
 

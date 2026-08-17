@@ -1,6 +1,6 @@
 # 🏢 Learn Depth
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-16*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-17*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AI & Future Tech Quiz 2026](https://unstop.com/quiz/ai-future-tech-quiz-2026-learn-depth-1735135) | Learn Depth | India | 🏢 Onsite | — | 2026-08-16 | Unstop |
 
 ## 📖 Interview Preparation
 

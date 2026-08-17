@@ -1,6 +1,6 @@
 # 🏢 Gradient
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-16*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-17*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Data Analytics with Claude](https://unstop.com/workshops-webinars/data-analytics-with-claude-gradient-1736176) | Gradient | India | 🏢 Onsite | — | 2026-08-16 | Unstop |
 
 ## 📖 Interview Preparation
 

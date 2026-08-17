@@ -6,11 +6,11 @@
 
 **India's open-source aggregator for software internships, fresher jobs,<br>hackathons, fellowships, and placement opportunities.**
 
-[![Opportunities](https://img.shields.io/badge/Opportunities-2560-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
-[![Active](https://img.shields.io/badge/Active-2290-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
+[![Opportunities](https://img.shields.io/badge/Opportunities-2562-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
+[![Active](https://img.shields.io/badge/Active-2286-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
 [![Companies](https://img.shields.io/badge/Companies-1898-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
-[![Updated](https://img.shields.io/badge/Updated-Aug%2016%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
+[![Updated](https://img.shields.io/badge/Updated-Aug%2017%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
 [Latest Run](#latest-run) &nbsp;·&nbsp;
 [Active Opportunities](#active-opportunities) &nbsp;·&nbsp;
@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**August 16, 2026** &nbsp;—&nbsp; **83** Fresher Job &nbsp;·&nbsp; **50** Internship &nbsp;·&nbsp; **8** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**August 17, 2026** &nbsp;—&nbsp; **83** Fresher Job &nbsp;·&nbsp; **52** Internship &nbsp;·&nbsp; **8** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**147 opportunities** added or updated in the latest run (August 16, 2026).
+**149 opportunities** added or updated in the latest run (August 17, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -128,13 +128,13 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Maps Personalization Relevance Rater - English](https://jobs.lever.co/weloglobal/7b07afde-d586-4945-9ef8-b41ca36a739b/apply) | Welo Global | Remote in Canada | Fresher Job | Remote | — |
 | [Full Stack Engineer](https://jobs.lever.co/hhaexchange/37711e74-f9e9-42c5-9c4f-66df2afab2e2/apply) | hhaexchange | Remote in USA | Fresher Job | Remote | — |
 | [AI Product Manager](https://jobs.ashbyhq.com/n8n/42e72645-d99a-4545-97b7-53ba3a699893/application?embed=true) | n8n | Remote in Germany, Remote | Fresher Job | Remote | — |
-| [PAW2026 Nationwide Competition](https://unstop.com/competitions/paw2026-nationwide-competition-animals-water-bowl-project-awbp-trust-1738046) | Animals Water-Bowl Project ( | India | Hackathon | Onsite | 2026-09-19 |
+| [PAW2026 Nationwide Competition](https://unstop.com/competitions/paw2026-nationwide-competition-animals-water-bowl-project-awbp-trust-1738046) | Animals Water-Bowl Project ( | India | Hackathon | Onsite | 2026-09-15 |
+| [Digital Detective](https://unstop.com/quiz/digital-detective-colab-nation-1738012) | CoLab Nation | India | Hackathon | Onsite | 2026-09-17 |
 | [Next Gen Pitch 2026 Edition](https://unstop.com/competitions/next-gen-pitch-2026-edition-incubation-innovation-entrepreneurship-cell-chhatrapati-shivami-maharaj-univers-1737742) | Incubation, Innovation & Ent | India | Hackathon | Onsite | 2026-08-20 |
 | [Table Tennis (Men's Singles)](https://unstop.com/events/table-tennis-mens-singles-atharv-ranbhoomi-2026-iim-indore-1737975) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-08-30 |
-| [Ad War | Advertisement Shoot Challenge](https://unstop.com/competitions/ad-war-advertisement-shoot-challenge-orbit-10-institute-of-information-technology-and-management-janakpuri-1737347) | Institute of Information Tec | India | Hackathon | Onsite | 2026-08-30 |
+| [Generative AI & Software Engineering Foundation Workshop](https://unstop.com/workshops-webinars/generative-ai-software-engineering-foundation-workshop-noobsync-innovations-1738058) | NoobSync Innovations | India | Hackathon | Onsite | 2026-08-22 |
 | [NIMS MUN 1.0](https://unstop.com/conferences/nims-mun-10-stem-department-nims-university-1737272) | STEM Department, NIMS UNIVER | India | Hackathon | Onsite | 2026-09-19 |
 | [EUREKA! 2026 – Startup Pitching Competition](https://unstop.com/competitions/eureka-2026-startup-pitching-competition-shah-and-anchor-kutchhi-engineering-college-sakec-mumbai-maharasht-1737729) | Shah and Anchor Kutchhi Engi | India | Hackathon | Onsite | 2026-08-19 |
-| [The Pirate’s Flag – Capture the Flag Challenge](https://unstop.com/hackathons/the-pirates-flag-capture-the-flag-challenge-thakur-ramnarayan-college-of-arts-and-commerce-1737865) | Thakur Ramnarayan College of | India | Hackathon | Onsite | 2026-09-10 |
 | [Z0d1ak CTF](https://unstop.com/hackathons/z0d1ak-ctf-gravitas26-vit-vellore-1735740) | Vellore Institute of Technol | India | Hackathon | Onsite | 2026-08-23 |
 | [Summer Associate - Enterprise AI & Insights - 8 Week Program](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Remote-USA/Summer-Associate--Enterprise-AI---Insights--8-10-Week-Program-_R100119581) | ASM Global | Remote in USA | Internship | Remote | — |
 | [Internship - Software Development Engineer in Test](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071) | ASML | Remote / Various | Internship | Remote | — |
@@ -155,6 +155,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Software Development Intern](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Development-Intern_JR100290) | Cisive | New Mexico, Washington, K | Internship | Onsite | — |
 | [Software Engineer Intern](http://getfiber.ai/careers?gh_jid=5152467007) | Clerkie | Remote in USA | Internship | Remote | — |
 | [Data Analyst Intern](https://apply.workable.com/connectprep/j/D1C67258C0/apply) | ConnectPrep | Washington, DC, Remote in | Internship | Remote | — |
+| [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129) | Copart | Remote / Various | Internship | Remote | — |
 | [Generative AI/Agentic AI/Research Intern](https://careers-cotiviti.icims.com/jobs/18929/job?mobile=true&needsRedirect=false) | Cotiviti | Remote in USA | Internship | Remote | — |
 | [Data Science Intern - Customer Success](https://job-boards.greenhouse.io/cresta/jobs/5213417008) | Cresta | Remote in USA | Internship | Remote | — |
 | [Forward Deployed Engineering Intern - AI Agent](https://job-boards.greenhouse.io/cresta/jobs/5106468008) | Cresta | Remote in Canada | Internship | Remote | — |
@@ -186,6 +187,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Full Stack Developer Intern](https://vetsez.breezy.hr/p/a4010fdb3a7001-full-stack-developer-intern-remote-opportunity) | VetsEZ | Remote in US | Internship | Remote | — |
 | [Energy Markets Intern](https://jobs.lever.co/voltus/b7833dd8-d742-44d8-aae2-2e7de7541ce4/apply) | Voltus | Remote in USA, Remote in  | Internship | Remote | — |
 | [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true) | Yotta Labs | Remote in USA, Remote in  | Internship | Remote | — |
+| [Sustainability Systems Intern](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148) | thyssenkrupp | Remote / Various | Internship | Remote | — |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | Google | Remote | Open Source Program | Remote | 2026-04-08 |
 | [Linux Foundation Mentorship Program](https://mentorship.lfx.linuxfoundation.org/) | Linux Foundation | Remote | Open Source Program | Remote | — |
 | [GitHub Campus Expert Program](https://education.github.com/experts) | GitHub | India (Campus) | Student Ambassador | Onsite | — |
@@ -196,10 +198,12 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 ## Active Opportunities
 
 The 50 most recently added active opportunities across all categories.
-[View all 2560 on the website.](https://athul-s-369.github.io/Placement_Pulse)
+[View all 2562 on the website.](https://athul-s-369.github.io/Placement_Pulse)
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
+| [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129) | Copart | Remote / Various | Internship | Remote | Open |
+| [Sustainability Systems Intern](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148) | thyssenkrupp | Remote / Various | Internship | Remote | Open |
 | [Software Engineering Intern - AI](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738) | Photon | Remote in USA | Internship | Remote | Open |
 | [Baller Bot - Robosoccer](https://unstop.com/competitions/baller-bot-robosoccer-elicit26-acm-manipal-university-jaipur-1737290) | ACM Manipal University, Jaip | India | Hackathon | Onsite | 2026-08-22 |
 | [Campus Pitching Competition](https://unstop.com/competitions/campus-pitching-competition-institute-of-engineering-management-kolkata-1737103) | Institute of Engineering & M | India | Hackathon | Onsite | 2026-08-20 |
@@ -240,7 +244,6 @@ The 50 most recently added active opportunities across all categories.
 | [AI Vibe Coding Engineer](https://careers.ctg.com/jobs/17347?icims=1) | CTG | Remote in USA | Fresher Job | Remote | Open |
 | [Entry-level Software Developer](https://careers-decisionpointcorp.icims.com/jobs/3685/job?mobile=true&needsRedirect=false) | DecisionPoint Corporation | Remote in USA | Fresher Job | Remote | Open |
 | [Master Data Management Specialist - MDM Team](https://jobs.ascension.org/us/en/job/456522) | Ascension | Remote in USA | Fresher Job | Remote | Open |
-| [Independence Day Quiz](https://unstop.com/quiz/independence-day-quiz-saraswati-english-medium-high-school-bhiwandi-maharashtra-1736750) | Saraswati English Medium Hig | India | Hackathon | Onsite | 2026-08-16 |
 | [The Trust Economy Challenge: Super App or Super Mess?](https://unstop.com/competitions/the-trust-economy-challenge-super-app-or-super-mess-ats-services-pvt-ltd-1736101) | ATS Services Pvt Ltd | India | Hackathon | Onsite | 2026-09-12 |
 | [Campus Growth Challenge 2026](https://unstop.com/competitions/campus-growth-challenge-2026-healthigrity-1736307) | Healthigrity | India | Hackathon | Onsite | 2026-08-31 |
 | [Code Voyage](https://unstop.com/hackathons/code-voyage-iem-kolkata-1736284) | IEM Kolkata | India | Hackathon | Onsite | 2026-09-15 |
@@ -249,7 +252,6 @@ The 50 most recently added active opportunities across all categories.
 | [Fund My Crazy](https://unstop.com/workshops-webinars/fund-my-crazy-bennett-university-bu-greater-noida-1736935) | Bennett University (BU), Gre | India | Hackathon | Onsite | 2026-08-20 |
 | [Founders Beyond Borders - A Startup Webinar](https://unstop.com/workshops-webinars/founders-beyond-borders-a-startup-webinar-coyolia-technologies-1736743) | Coyolia Technologies | India | Hackathon | Onsite | 2026-08-29 |
 | [Data Engineer Co-op](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/DSG/job/06083-GameChanger/Data-Engineering-Co-Op_202630722) | Dick's Sporting Goods | Remote in USA | Internship | Remote | Open |
-| [Full Stack Developer](https://www.t2systems.com/jobs?gh_jid=4675527006) | T2 Systems | Indianapolis, IN | Fresher Job | Onsite | Open |
 
 ---
 
@@ -258,7 +260,7 @@ The 50 most recently added active opportunities across all categories.
 | Category | Total |
 |----------|-------|
 | [Fresher Job](categories/fresher-job/) | 1305 |
-| [Internship](categories/internship/) | 778 |
+| [Internship](categories/internship/) | 780 |
 | [Hackathon](categories/hackathon/) | 471 |
 | [Open Source Program](categories/open-source-program/) | 2 |
 | [Fellowship](categories/fellowship/) | 2 |
@@ -284,13 +286,13 @@ The 50 most recently added active opportunities across all categories.
 
 ## Archive
 
-- [August 16, 2026 — Today](daily/2026/August/2026-08-16.md)
+- [August 17, 2026 — Today](daily/2026/August/2026-08-17.md)
+- [August 16, 2026](daily/2026/August/2026-08-16.md)
 - [August 15, 2026](daily/2026/August/2026-08-15.md)
 - [August 14, 2026](daily/2026/August/2026-08-14.md)
 - [August 13, 2026](daily/2026/August/2026-08-13.md)
 - [August 12, 2026](daily/2026/August/2026-08-12.md)
 - [August 11, 2026](daily/2026/August/2026-08-11.md)
-- [August 10, 2026](daily/2026/August/2026-08-10.md)
 
 [Full archive](daily/)
 
@@ -309,6 +311,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-08-16 16:54 UTC</sub>
+<sub>Last generated: 2026-08-17 02:06 UTC</sub>
 
 </div>

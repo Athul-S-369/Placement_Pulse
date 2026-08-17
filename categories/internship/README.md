@@ -1,13 +1,15 @@
 # 🎓 Internship
 
-**778 active** | **0 expired** | **778 total**
+**780 active** | **0 expired** | **780 total**
 
-*Last updated: 2026-08-16*
+*Last updated: 2026-08-17*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129) | Copart | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [Sustainability Systems Intern](https://thyssenkruppmaterialsna.wd12.myworkdayjobs.com/1/job/Cleveland-Ohio-USA/Sustainability-Systems-Intern_JR104148) | thyssenkrupp | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Software Engineering Intern - AI](https://fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26738) | Photon | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Internship - Software Development Engineer in Test](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Development-Engineer-in-Test_J-00328071) | ASML | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Computer Science/Engineering Intern - Computer Vision Applications](https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/Computer-Science-Engineering-Intern---Computer-Vision-Applications_R-100731) | Analytical Mechanics Associates | New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Hampton, VA, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
@@ -106,5 +108,3 @@
 | [2026 – Internship - Markets - Systematic Trading - New York](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210680133) | JP Morgan Chase | NYC | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Research Internship - Reinforcement Learning for Large Foundation Models](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1) | Tencent | Bellevue, WA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Software Developer Intern - Industrial Placement](https://job-boards.greenhouse.io/drwuniversityjobs/jobs/7364884) | DRW Holdings | London, UK | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [2026 – Seasonal/Off Cycle Internship - London - FICC & Equities - Sales & Trading](https://higher.gs.com/roles/150725?type=students) | Goldman Sachs | London, UK | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Engineering Intern -](https://jobs.ashbyhq.com/cluely/89809243-a79a-4a8f-a394-8e8b12743108/application) | Cluely | SF | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

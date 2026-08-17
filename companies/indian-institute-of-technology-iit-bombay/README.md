@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Technology (IIT), Bombay
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-16*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-17*
 
 ## Overview
 

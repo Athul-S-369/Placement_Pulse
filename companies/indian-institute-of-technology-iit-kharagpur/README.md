@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Technology (IIT), Kharagpur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-16*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-17*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [OptimizeIT](https://unstop.com/competitions/optimizeit-fugacity-2026-iit-kharagpur-1716678) | Indian Institute of Technology (IIT), Kharagpur | India | 🏢 Onsite | — | 2026-08-16 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,11 +1,11 @@
 # 🏢 National Laboratory of the Rockies
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-16*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-17*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote in USA, Remote in USA, Golden, CO
+- **Locations:** Remote in USA, Golden, CO, Remote in USA
 
 ## Current Opportunities
 

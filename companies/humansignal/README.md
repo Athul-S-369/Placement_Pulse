@@ -1,11 +1,11 @@
 # 🏢 HumanSignal
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-16*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-17*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, United Kingdom
+- **Locations:** United Kingdom, Remote in USA
 
 ## Current Opportunities
 

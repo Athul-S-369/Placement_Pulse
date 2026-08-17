@@ -1,6 +1,6 @@
 # 🏢 Saraswati English Medium High School, Bhiwandi, Maharashtra
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-16*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-17*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Independence Day Quiz](https://unstop.com/quiz/independence-day-quiz-saraswati-english-medium-high-school-bhiwandi-maharashtra-1736750) | Saraswati English Medium High School, Bhiwandi, Maharashtra | India | 🏢 Onsite | — | 2026-08-16 | Unstop |
 
 ## 📖 Interview Preparation
 
