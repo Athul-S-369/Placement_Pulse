@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** California City, CA, Southfield, MI, NYC, Bluemont, VA, Dublin, OH
+- **Categories:** Internship, Fresher Job
+- **Locations:** Washington, DC, Chantilly, VA, Westminster, CO, Baltimore, MD, Augusta, ME
 
 ## Current Opportunities
 
