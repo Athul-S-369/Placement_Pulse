@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**199 active** | **275 expired** | **474 total**
+**204 active** | **275 expired** | **479 total**
 
 *Last updated: 2026-08-17*
 
@@ -11,6 +11,11 @@
 | [AUREX'26 - Classical Tamil's First Lingual Tech Hackathon](https://unstop.com/hackathons/aurex26-classical-tamils-first-lingual-tech-hackathon-central-institute-of-classical-tamil-cict-1736281) | Central Institute of Classical Tamil CICT | India | 🏢 Onsite | — | 2026-09-24 | Unstop |
 | [Aditya Birla Group Engenuity 2026](https://unstop.com/competitions/crp-aditya-birla-group-engenuity-2026-aditya-birla-group-1712136) | Aditya Birla Group | India | 🏢 Onsite | — | 2026-09-18 | Unstop |
 | [MMA - Chanakya the Mastermind 2026](https://unstop.com/competitions/mma-chanakya-the-mastermind-2026-madras-management-association-chennai-1738918) | Madras Management Association, Chennai | India | 🏢 Onsite | — | 2026-09-15 | Unstop |
+| [Market Verdict: A Finance Case Debate by Mochatrade (YC P26)](https://unstop.com/competitions/market-verdict-a-finance-case-debate-by-mochatrade-yc-p26-mochatrade-1736961) | Mochatrade | India | 🏢 Onsite | — | 2026-08-30 | Unstop |
+| [MOSIP Decode 2026](https://unstop.com/hackathons/mosip-decode-2026-synergy-26-international-institute-of-information-technology-iiit-bangalore-1735221) | International Institute of Information Technology (IIIT), Bangalore | India | 🏢 Onsite | — | 2026-11-06 | Unstop |
+| [WellNXT 2.0 by Zydus Wellness](https://unstop.com/competitions/crp-wellnxt-20-by-zydus-wellness-zydus-wellness-1736783) | Zydus Wellness | India | 🏢 Onsite | — | 2026-09-14 | Unstop |
+| [CONFLUENCE XIX: Paper Presentation](https://unstop.com/competitions/confluence-xix-paper-presentation-st-xaviers-college-kolkata-1739093) | St Xaviers College Kolkata | India | 🏢 Onsite | — | 2026-09-28 | Unstop |
+| [CardioViz XR: 48-Hour Medical Animation Challenge](https://unstop.com/hackathons/cardioviz-xr-48-hour-medical-animation-challenge-lv8-tech-1738943) | LV8 Tech | India | 🏢 Onsite | — | 2026-08-24 | Unstop |
 | [Baller Bot - Robosoccer](https://unstop.com/competitions/baller-bot-robosoccer-elicit26-acm-manipal-university-jaipur-1737290) | ACM Manipal University, Jaipur | India | 🏢 Onsite | — | 2026-08-22 | Unstop |
 | [Campus Pitching Competition](https://unstop.com/competitions/campus-pitching-competition-institute-of-engineering-management-kolkata-1737103) | Institute of Engineering & Management, Kolkata | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
 | [Matrix 2026](https://unstop.com/hackathons/matrix-2026-government-engineering-college-gec-thrissur-1737241) | Government Engineering College (GEC), Thrissur | India | 🏢 Onsite | — | 2026-09-24 | Unstop |
@@ -103,11 +108,6 @@
 | [AlgoForce AI Transformation Summit Delhi 2026](https://unstop.com/events/algoforce-ai-transformation-summit-delhi-2026-algoforce-ai-1730791) | AlgoForce AI | India | 🏢 Onsite | — | 2026-09-09 | Unstop |
 | [Binary Hacks 4.0](https://unstop.com/hackathons/binary-hacks-40-raj-kumar-goel-institute-of-technology-rkgit-ghaziabad-1730767) | Raj Kumar Goel Institute of Technology (RKGIT), Ghaziabad | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
 | [International Conference on AI-Driven Innovation in Engineering and Technology](https://unstop.com/conferences/international-conference-on-ai-driven-innovation-in-engineering-and-technology-sns-college-of-technology-sns-1731025) | SNS College of Technology (SNSCT), Coimbatore, Tamil Nadu | India | 🏢 Onsite | — | 2026-09-21 | Unstop |
-| [Britannia Creatovate 2.0 - Sales and Marketing Track](https://unstop.com/competitions/crp-britannia-creatovate-20-sales-and-marketing-track-britannia-industries-ltd-1730216) | Britannia Industries Ltd. | India | 🏢 Onsite | — | 2026-11-17 | Unstop |
-| [Beyond the Mood Board — The Alendei Design Hackathon](https://unstop.com/hackathons/beyond-the-mood-board-the-alendei-design-hackathon-alendei-from-bharat-1730881) | Alendei from Bharat | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
-| [Python & AI Tools Workshop: Build Your Future with AI](https://unstop.com/workshops-webinars/python-ai-tools-workshop-build-your-future-with-ai-vaultsphere-ai-technology-pvt-ltd-1730984) | Vaultsphere Ai technology Pvt Ltd | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
-| [Understanding Business Cycles: Insights for Future Business Leaders](https://unstop.com/workshops-webinars/understanding-business-cycles-insights-for-future-business-leaders-lakshmi-narain-college-of-technolo-1731286) | Lakshmi Narain College of Technology Excellence (LNCTE), Bhopal, Madhya Pradesh | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
-| [VCET Hackathon 2026](https://unstop.com/hackathons/vcet-hackathon-2026-vidyavardhinis-college-of-engineering-and-technology-1729412) | Vidyavardhini’s College of Engineering and Technology | India | 🏢 Onsite | — | 2026-09-05 | Unstop |
 
 ## Recently Expired
 

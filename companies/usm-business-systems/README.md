@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Washington, DC, Chantilly, VA, Westminster, CO, Baltimore, MD, Augusta, ME
+- **Locations:** El Segundo, CA, Columbus, OH, Chicago, IL, San Antonio, TX, California City, CA
 
 ## Current Opportunities
 

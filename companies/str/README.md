@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Atlanta, GA, Arlington, VA, Burlington, MA
+- **Locations:** Burlington, MA, Arlington, VA, Atlanta, GA
 
 ## Current Opportunities
 

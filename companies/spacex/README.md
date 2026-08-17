@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Palo Alto, CA, Bastrop, TX, Texas, Bothell, WA, West Athens, CA
+- **Locations:** Bothell, WA, Redmond, WA, West Athens, CA, Texas, Palo Alto, CA
 
 ## Current Opportunities
 

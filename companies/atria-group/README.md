@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Plainview, NY, Alpharetta, GA, Dallas, TX, NYC, Chicago, IL
+- **Locations:** Broomfield, CO, Hartford, CT, Alpharetta, GA, St. Louis, MO, Chicago, IL
 
 ## Current Opportunities
 
