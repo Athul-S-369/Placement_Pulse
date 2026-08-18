@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Boston, MA, Milwaukee, WI, Exton, PA, Ambler, PA, Cherry Hills Village, CO
+- **Categories:** Fresher Job, Internship
+- **Locations:** Hickory, NC, Westborough, MA, Birmingham, AL, Elmira, NY, Milwaukee, WI
 
 ## Current Opportunities
 

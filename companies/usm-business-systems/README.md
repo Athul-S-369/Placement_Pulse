@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Dublin, OH, Augusta, ME, Chicago, IL, NYC, Chantilly, VA
+- **Categories:** Fresher Job, Internship
+- **Locations:** El Segundo, CA, Dublin, OH, Columbus, OH, Baltimore, MD, Jefferson City, MO
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**199 active** | **280 expired** | **479 total**
+**204 active** | **280 expired** | **484 total**
 
 *Last updated: 2026-08-18*
 
@@ -8,6 +8,11 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Hackathon 4.0](https://unstop.com/hackathons/hackathon-40-indian-education-society-management-college-research-mumbai-1739792) | Indian Education Society Management College & Research, Mumbai | India | 🏢 Onsite | — | 2026-09-01 | Unstop |
+| [Emerging Founders Program](https://unstop.com/competitions/emerging-founders-program-emerging-founders-program-venturedu-1739314) | VenturEdu | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
+| [Startup Pitching Competition](https://unstop.com/competitions/startup-pitching-competition-jaihind-college-of-engineering-kuran-narayangaon-maharashtra-1739244) | Jaihind College of Engineering (Kuran), Narayangaon, Maharashtra | India | 🏢 Onsite | — | 2026-08-24 | Unstop |
+| [Portfolio Build Challenge 2026](https://unstop.com/competitions/portfolio-build-challenge-2026-buildathon-intelleqacademy-1739729) | IntelleQAcademy | India | 🏢 Onsite | — | 2026-09-09 | Unstop |
+| [Essay Writing Competition: Viksit Bharat](https://unstop.com/events/essay-writing-competition-viksit-bharat-shaheed-sukhdev-college-of-business-studies-sscbs-du-delhi-1739450) | Shaheed Sukhdev College of Business Studies, University of Delhi | India | 🏢 Onsite | — | 2026-08-29 | Unstop |
 | [AUREX'26 - Classical Tamil's First Lingual Tech Hackathon](https://unstop.com/hackathons/aurex26-classical-tamils-first-lingual-tech-hackathon-central-institute-of-classical-tamil-cict-1736281) | Central Institute of Classical Tamil CICT | India | 🏢 Onsite | — | 2026-09-24 | Unstop |
 | [Aditya Birla Group Engenuity 2026](https://unstop.com/competitions/crp-aditya-birla-group-engenuity-2026-aditya-birla-group-1712136) | Aditya Birla Group | India | 🏢 Onsite | — | 2026-09-18 | Unstop |
 | [MMA - Chanakya the Mastermind 2026](https://unstop.com/competitions/mma-chanakya-the-mastermind-2026-madras-management-association-chennai-1738918) | Madras Management Association, Chennai | India | 🏢 Onsite | — | 2026-09-15 | Unstop |
@@ -103,11 +108,6 @@
 | [Hackblox Open Source Hackathon](https://unstop.com/hackathons/hackblox-open-source-hackathon-hackers-cult-1731738) | Hackers Cult | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
 | [Bitmela Launchpad: Ideathon 01](https://unstop.com/hackathons/bitmela-launchpad-ideathon-01-bitmela-1722812) | Bitmela | India | 🏢 Onsite | — | 2026-10-31 | Unstop |
 | [Yukti](https://unstop.com/competitions/yukti-symbiosis-institute-of-business-management-sibm-nagpur-maharashtra-1729807) | Symbiosis Institute of Business Management (SIBM), Nagpur, Maharashtra | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
-| [AlgoForce AI Transformation Summit Delhi 2026](https://unstop.com/events/algoforce-ai-transformation-summit-delhi-2026-algoforce-ai-1730791) | AlgoForce AI | India | 🏢 Onsite | — | 2026-09-09 | Unstop |
-| [Binary Hacks 4.0](https://unstop.com/hackathons/binary-hacks-40-raj-kumar-goel-institute-of-technology-rkgit-ghaziabad-1730767) | Raj Kumar Goel Institute of Technology (RKGIT), Ghaziabad | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
-| [International Conference on AI-Driven Innovation in Engineering and Technology](https://unstop.com/conferences/international-conference-on-ai-driven-innovation-in-engineering-and-technology-sns-college-of-technology-sns-1731025) | SNS College of Technology (SNSCT), Coimbatore, Tamil Nadu | India | 🏢 Onsite | — | 2026-09-21 | Unstop |
-| [Britannia Creatovate 2.0 - Sales and Marketing Track](https://unstop.com/competitions/crp-britannia-creatovate-20-sales-and-marketing-track-britannia-industries-ltd-1730216) | Britannia Industries Ltd. | India | 🏢 Onsite | — | 2026-11-17 | Unstop |
-| [Beyond the Mood Board — The Alendei Design Hackathon](https://unstop.com/hackathons/beyond-the-mood-board-the-alendei-design-hackathon-alendei-from-bharat-1730881) | Alendei from Bharat | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
 
 ## Recently Expired
 

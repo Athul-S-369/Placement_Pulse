@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** San Jose, CA, Seattle, WA, Waltham, MA, United States, Austin, TX
+- **Categories:** Fresher Job, Internship
+- **Locations:** Gloucester, UK, SF, London, UK, Cambridge, UK, Welwyn Garden City, UK, San Jose, CA, Waltham, MA
 
 ## Current Opportunities
 
