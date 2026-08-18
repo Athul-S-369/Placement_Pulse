@@ -1,11 +1,11 @@
 # 🏢 Handshake
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-17*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-18*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** SF, Remote in USA
+- **Locations:** Remote in USA, SF
 
 ## Current Opportunities
 

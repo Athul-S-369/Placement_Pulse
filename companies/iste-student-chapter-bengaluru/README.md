@@ -1,6 +1,6 @@
 # 🏢 ISTE Student Chapter, Bengaluru
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-17*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-18*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [79th Independence Day Quiz 2026](https://unstop.com/quiz/79th-independence-day-quiz-2026-knowledge-institute-of-technology-kiot-tamil-nadu-1729703) | ISTE Student Chapter, Bengaluru | India | 🏢 Onsite | — | 2026-08-17 | Unstop |
 
 ## 📖 Interview Preparation
 

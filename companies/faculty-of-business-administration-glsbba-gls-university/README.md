@@ -1,6 +1,6 @@
 # 🏢 Faculty Of Business Administration (GLSBBA), GLS University
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-17*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-18*
 
 ## Overview
 

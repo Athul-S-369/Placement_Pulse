@@ -1,6 +1,6 @@
 # 🏢 Simply Updify
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-17*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-18*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Simply Updify InnovateX 2.0](https://unstop.com/hackathons/simply-updify-innovatex-20-simply-updify-1729747) | Simply Updify | India | 🏢 Onsite | — | 2026-08-17 | Unstop |
 
 ## 📖 Interview Preparation
 

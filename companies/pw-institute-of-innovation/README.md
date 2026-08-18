@@ -1,6 +1,6 @@
 # 🏢 PW Institute of Innovation
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-17*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-18*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Investor's Dilema '26](https://unstop.com/competitions/investors-dilema-26-pw-institute-of-innovation-1732290) | PW Institute of Innovation | India | 🏢 Onsite | — | 2026-08-17 | Unstop |
 
 ## 📖 Interview Preparation
 

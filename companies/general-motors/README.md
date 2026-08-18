@@ -1,11 +1,11 @@
 # 🏢 General Motors
 
-**5 active opportunities** | **5 total tracked** | *Last updated: 2026-08-17*
+**5 active opportunities** | **5 total tracked** | *Last updated: 2026-08-18*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Mountain View, CA, Sunnyvale, CA, Mountain View, CA, Sunnyvale, CA, San Francisco, CA, Mountain View, CA, Warren, MI, Sunnyvale, CA, Markham, ON, Canada
+- **Locations:** Mountain View, CA, Sunnyvale, CA, Markham, ON, Canada, Mountain View, CA, Sunnyvale, CA, San Francisco, CA, Mountain View, CA, Warren, MI, Sunnyvale, CA
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏢 Vikrant Institute of Technology and Management, Indore
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-17*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-18*
 
 ## Overview
 

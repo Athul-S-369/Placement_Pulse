@@ -1,6 +1,6 @@
 # 🏢 Badruka School of Management
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-17*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-18*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [BSM Agentic AI Challenge 2026](https://unstop.com/competitions/bsm-agentic-ai-challenge-2026-badruka-school-of-management-1731585) | Badruka School of Management | India | 🏢 Onsite | — | 2026-08-17 | Unstop |
 
 ## 📖 Interview Preparation
 

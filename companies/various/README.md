@@ -1,11 +1,11 @@
 # 🏢 Various
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-17*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-18*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote, India
+- **Locations:** India, Remote
 
 ## Current Opportunities
 
