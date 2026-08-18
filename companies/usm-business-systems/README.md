@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Westminster, CO, Rochester, MI, Chicago, IL, Augusta, ME, Dublin, OH
+- **Locations:** Dublin, OH, Augusta, ME, Chicago, IL, NYC, Chantilly, VA
 
 ## Current Opportunities
 

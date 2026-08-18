@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** India, San Jose, CA, Seattle, WA, SF, San Jose, CA, Seattle, WA
+- **Locations:** San Jose, CA, Seattle, WA, SF, San Jose, CA, India, Seattle, WA
 
 ## Current Opportunities
 
