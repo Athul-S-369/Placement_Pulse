@@ -1,6 +1,6 @@
 # 🏢 Coimbatore Institute of Technology (CIT), Coimbatore
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-18*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-19*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Code O'Clock 2K26](https://unstop.com/hackathons/code-oclock-2k26-coimbatore-institute-of-technology-cit-coimbatore-1719235) | Coimbatore Institute of Technology (CIT), Coimbatore | India | 🏢 Onsite | — | 2026-08-18 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,11 +1,11 @@
 # 🏢 USM Business Systems
 
-**21 active opportunities** | **21 total tracked** | *Last updated: 2026-08-18*
+**21 active opportunities** | **21 total tracked** | *Last updated: 2026-08-19*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** El Segundo, CA, Dublin, OH, Columbus, OH, Baltimore, MD, Jefferson City, MO
+- **Locations:** Rochester, MI, Jefferson City, MO, Augusta, ME, Bloomington, MN, Dublin, OH
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Technology (IIT), Bhilai
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-18*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-19*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Test MoEngage - Multiple steps](https://unstop.com/competitions/test-moengage-multiple-steps-indian-institute-of-technology-iit-bhilai-1730618) | Indian Institute of Technology (IIT), Bhilai | India | 🏢 Onsite | — | 2026-08-18 | Unstop |
 
 ## 📖 Interview Preparation
 

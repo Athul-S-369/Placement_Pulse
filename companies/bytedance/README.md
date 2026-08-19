@@ -1,6 +1,6 @@
 # 🏢 ByteDance
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-18*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-19*
 
 ## Overview
 

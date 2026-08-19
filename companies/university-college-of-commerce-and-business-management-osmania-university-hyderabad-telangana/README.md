@@ -1,6 +1,6 @@
 # 🏢 University College of Commerce and Business management, Osmania University, Hyderabad, Telangana
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-18*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-19*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [HR Quiz Competition](https://unstop.com/quiz/hr-quiz-competition-university-college-of-commerce-and-business-management-osmania-university-hyderabad-telangana-1710604) | University College of Commerce and Business management, Osmania University, Hyderabad, Telangana | India | 🏢 Onsite | — | 2026-08-18 | Unstop |
 
 ## 📖 Interview Preparation
 

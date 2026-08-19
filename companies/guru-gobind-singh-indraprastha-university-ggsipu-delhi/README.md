@@ -1,6 +1,6 @@
 # 🏢 Guru Gobind Singh Indraprastha University (GGSIPU), Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-18*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-19*
 
 ## Overview
 

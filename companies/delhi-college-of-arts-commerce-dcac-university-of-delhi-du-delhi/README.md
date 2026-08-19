@@ -1,6 +1,6 @@
 # 🏢 Delhi College of Arts & Commerce (DCAC), University of Delhi (DU), Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-18*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-19*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Start-Up Pitching Comp](https://unstop.com/competitions/start-up-pitching-comp-eureka-2026-dcac-du-delhi-1736982) | Delhi College of Arts & Commerce (DCAC), University of Delhi (DU), Delhi | India | 🏢 Onsite | — | 2026-08-18 | Unstop |
 
 ## 📖 Interview Preparation
 

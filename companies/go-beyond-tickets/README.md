@@ -1,6 +1,6 @@
 # 🏢 Go Beyond Tickets
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-18*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-19*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [GBT BuildStorm 2026](https://unstop.com/hackathons/gbt-buildstorm-2026-go-beyond-tickets-1719425) | Go Beyond Tickets | India | 🏢 Onsite | — | 2026-08-18 | Unstop |
 
 ## 📖 Interview Preparation
 
