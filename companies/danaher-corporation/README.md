@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Altoona, PA, Pittsburgh, PA, Indianapolis, IN
+- **Locations:** Indianapolis, IN, Altoona, PA, Pittsburgh, PA
 
 ## Current Opportunities
 

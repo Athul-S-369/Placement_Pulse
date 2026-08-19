@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Rochester, MI, Jefferson City, MO, Augusta, ME, Bloomington, MN, Dublin, OH
+- **Categories:** Internship, Fresher Job
+- **Locations:** Bloomington, MN, El Segundo, CA, Alexandria, VA, Columbus, OH, Westminster, CO
 
 ## Current Opportunities
 

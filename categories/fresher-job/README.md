@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1308 active** | **0 expired** | **1308 total**
+**1310 active** | **0 expired** | **1310 total**
 
 *Last updated: 2026-08-19*
 
@@ -9,6 +9,8 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [Software Engineer Associate - Tempus](https://pnc.wd5.myworkdayjobs.com/External/job/ZZ---Remote-Location/Software-Engineer-Associate---Tempus_R231402-1) | PNC Financial Services | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [AI Customer Insights Engineer](https://apply.workable.com/seeq/j/6F40FF632B/apply) | Seeq | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Machine Learning Engineer](https://jobs.ashbyhq.com/deeter-analytics/2c12339b-d302-427c-9a73-d825b4b942b0/application?embed=true) | Deeter Analytics | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Wireless Field Technician & Coordinator](https://circetusa-kgpco.icims.com/jobs/3746/job?mobile=true&needsRedirect=false) | Circet USA | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Product Manager - Business Banking & Treasury Management](https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Paducah-KY-Corporate/Product-Manager---Business-Banking---Treasury-Management_R-100612) | CSI | Paducah, KY, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Forward Deployed Engineer New Grad](https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true) | LiteLLM | India, United States | 🏢 Onsite | — | — | SimplifyJobs New Grad |
@@ -106,5 +108,3 @@
 | [Video Research Associate](https://ats.rippling.com/democratic-national-committee/jobs/71fac2e0-8025-4d14-b6e1-a153e36ec01f) | Democratic National Committee | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Outreach Associate](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/249395) | Newmark Group | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Engineer](https://jobs.lever.co/nextech/5f2f3398-12f2-45c2-921e-f22f915e1c15/apply) | Nextech Systems | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Full Stack Developer](https://jobs.ashbyhq.com/envision-horizons/ec0c6149-02d0-48ce-8612-61fea67918af/application?embed=true) | Envision Horizons LLC | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Media Analyst](https://ats.rippling.com/agilitypr/jobs/a5d209bc-f6a2-4278-aab9-e470119a61c7) | Agility PR Solutions | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
