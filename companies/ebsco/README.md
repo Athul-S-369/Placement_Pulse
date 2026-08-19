@@ -1,16 +1,17 @@
 # 🏢 EBSCO
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-19*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-19*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Ipswich, MA, Remote
+- **Locations:** Remote in USA, Ipswich, MA, Remote
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Product Manager - AI Exchange](https://careers-ebscoind.icims.com/jobs/2065/job?mobile=true&needsRedirect=false) | EBSCO | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Cloud Platform Engineer I](https://careers-ebscoind.icims.com/jobs/1873/cloud-platform-engineer-i/job) | EBSCO | Ipswich, MA, Remote | 🌐 Remote | — | — | SimplifyJobs New Grad |
 
 ## 📖 Interview Preparation

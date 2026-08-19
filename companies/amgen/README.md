@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, Tampa, FL, Thousand Oaks, CA
+- **Locations:** Tampa, FL, Thousand Oaks, CA, Remote in USA
 
 ## Current Opportunities
 

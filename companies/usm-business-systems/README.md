@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Bloomington, MN, El Segundo, CA, Alexandria, VA, Columbus, OH, Westminster, CO
+- **Categories:** Fresher Job, Internship
+- **Locations:** El Segundo, CA, Bloomington, MN, Jefferson City, MO, Manassas, VA, NYC
 
 ## Current Opportunities
 
