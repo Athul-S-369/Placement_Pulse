@@ -1,6 +1,6 @@
 # 🏢 Vaultsphere Ai technology Pvt Ltd
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-19*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-20*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Python & AI Tools Workshop: Build Your Future with AI](https://unstop.com/workshops-webinars/python-ai-tools-workshop-build-your-future-with-ai-vaultsphere-ai-technology-pvt-ltd-1730984) | Vaultsphere Ai technology Pvt Ltd | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
 
 ## 📖 Interview Preparation
 

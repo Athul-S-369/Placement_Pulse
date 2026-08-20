@@ -1,6 +1,6 @@
 # 🏢 SRM Insitute of Science and Technology
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-19*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-20*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Resolve'26 – National Level 48-Hour Game Jam](https://unstop.com/hackathons/resolve26-national-level-48-hour-game-jam-srm-insitute-of-science-and-technology-1731440) | SRM Insitute of Science and Technology | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
 
 ## 📖 Interview Preparation
 

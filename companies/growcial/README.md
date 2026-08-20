@@ -1,6 +1,6 @@
 # 🏢 Growcial
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-19*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-20*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AI for Management](https://unstop.com/competitions/ai-for-management-growcial-1735621) | Growcial | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
 
 ## 📖 Interview Preparation
 

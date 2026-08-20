@@ -1,6 +1,6 @@
 # 🏢 Shah and Anchor Kutchhi Engineering College (SAKEC), Mumbai, Maharashtra
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-19*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-20*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [EUREKA! 2026 – Startup Pitching Competition](https://unstop.com/competitions/eureka-2026-startup-pitching-competition-shah-and-anchor-kutchhi-engineering-college-sakec-mumbai-maharasht-1737729) | Shah and Anchor Kutchhi Engineering College (SAKEC), Mumbai, Maharashtra | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
 
 ## 📖 Interview Preparation
 

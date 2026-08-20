@@ -1,13 +1,14 @@
 # 💼 Fresher Job
 
-**1311 active** | **0 expired** | **1311 total**
+**1312 active** | **0 expired** | **1312 total**
 
-*Last updated: 2026-08-19*
+*Last updated: 2026-08-20*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Data Quality Assistant - Quality Systems and Credentialling](https://wd3.myworkdaysite.com/recruiting/hcahealthcare/hcacareers/job/Corporate/Data-Quality-Assistant_0053610) | HCA Healthcare UK | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer Associate - Tempus](https://pnc.wd5.myworkdayjobs.com/External/job/ZZ---Remote-Location/Software-Engineer-Associate---Tempus_R231402-1) | PNC Financial Services | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Customer Insights Engineer](https://apply.workable.com/seeq/j/6F40FF632B/apply) | Seeq | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Machine Learning Engineer](https://jobs.ashbyhq.com/deeter-analytics/2c12339b-d302-427c-9a73-d825b4b942b0/application?embed=true) | Deeter Analytics | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Technical Product Analyst 1](https://deluxe.wd5.myworkdayjobs.com/en-US/USA_CAN/job/Remote--USA/Technical-Product-Analyst-I_260794WD) | Deluxe | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Programmer Analyst 1](https://amazon.jobs/en/jobs/10480255/programmer-analyst-i-ftc) | Amazon | Indianapolis, IN, Hyderabad, Telangana, India | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Video Research Associate](https://ats.rippling.com/democratic-national-committee/jobs/71fac2e0-8025-4d14-b6e1-a153e36ec01f) | Democratic National Committee | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Data Outreach Associate](https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/249395) | Newmark Group | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

@@ -1,6 +1,6 @@
 # 🏢 Maulana Azad National Institute of Technology (MANIT), Bhopal
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-19*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-20*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Astro Verdict](https://unstop.com/competitions/astro-verdict-parikalp--1709529) | Maulana Azad National Institute of Technology (MANIT), Bhopal | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
 
 ## 📖 Interview Preparation
 

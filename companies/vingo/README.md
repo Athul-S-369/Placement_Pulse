@@ -1,6 +1,6 @@
 # 🏢 VINGO
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-19*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-20*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [The Vingo Campus Strategy Challenge '26](https://unstop.com/competitions/the-vingo-campus-strategy-challenge-26-vingo-1725792) | VINGO | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
 
 ## 📖 Interview Preparation
 

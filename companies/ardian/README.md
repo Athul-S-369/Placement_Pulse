@@ -1,11 +1,11 @@
 # 🏢 Ardian
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-19*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-20*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** London, UK, NYC
+- **Locations:** NYC, London, UK
 
 ## Current Opportunities
 

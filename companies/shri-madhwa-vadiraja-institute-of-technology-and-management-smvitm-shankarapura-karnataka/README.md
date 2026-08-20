@@ -1,6 +1,6 @@
 # 🏢 Shri Madhwa Vadiraja Institute of Technology and Management (SMVITM), Shankarapura, Karnataka
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-19*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-20*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Eureka! Pitching Competition](https://unstop.com/competitions/eureka-pitching-competition-shri-madhwa-vadiraja-institute-of-technology-and-management-smvitm-shankarapura-1736288) | Shri Madhwa Vadiraja Institute of Technology and Management (SMVITM), Shankarapura, Karnataka | India | 🏢 Onsite | — | 2026-08-19 | Unstop |
 
 ## 📖 Interview Preparation
 
