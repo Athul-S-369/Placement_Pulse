@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Augusta, ME, Baltimore, MD, California City, CA, Jefferson City, MO, Chicago, IL
+- **Locations:** Baltimore, MD, Washington, DC, San Antonio, TX, Traverse City, MI, Westminster, CO
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Toronto, ON, Canada, Chicago, IL
+- **Locations:** Chicago, IL, Toronto, ON, Canada
 
 ## Current Opportunities
 

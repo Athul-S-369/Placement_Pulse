@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** California, United States, Cambridge, MA, Lafayette, KS, Santa Clara, CA
+- **Locations:** United States, San Jose, CA, Cupertino, CA, SF, Austin, TX
 
 ## Current Opportunities
 

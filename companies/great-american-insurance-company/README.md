@@ -1,16 +1,17 @@
 # 🏢 Great American Insurance Company
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-20*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-20*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Cincinnati, OH
+- **Locations:** Cincinnati, OH, Remote in USA
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Junior Data Scientist](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Remote-USA/Junior-Data-Scientist_R9395) | Great American Insurance Company | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Reporting Analyst Associate](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Associate-Data-Reporting-Analyst-Data-Reporting-Analyst_R9144) | Great American Insurance Company | Cincinnati, OH | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 
 ## 📖 Interview Preparation
