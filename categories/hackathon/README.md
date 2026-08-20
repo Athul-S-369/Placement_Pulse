@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**192 active** | **296 expired** | **488 total**
+**194 active** | **296 expired** | **490 total**
 
 *Last updated: 2026-08-20*
 
@@ -8,6 +8,8 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [AIFORGE 2026](https://unstop.com/conferences/aiforge-2026-eminsphere-1739064) | EminSphere | India | 🏢 Onsite | — | 2026-08-28 | Unstop |
+| [Code Insight 2k26](https://unstop.com/hackathons/code-insight-2k26-ksr-college-of-engineering-namakkal-tamil-nadu-1740415) | KSR College of Engineering, Namakkal, Tamil Nadu | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
 | [Global Education Fair - Hyderabad 2026](https://unstop.com/events/global-education-fair-hyderabad-2026-collegepond-counsellors-private-limited-1739776) | Collegepond Counsellors Private Limited | India | 🏢 Onsite | — | 2026-09-06 | Unstop |
 | [Bharat Brain Quest: All-India Youth Trivia & Logic Challenge](https://unstop.com/quiz/bharat-brain-quest-all-india-youth-trivia-logic-challenge-mam-college-of-engineering-1740427) | MAM COLLEGE OF ENGINEERING | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
 | [Digital Education Awareness Quiz](https://unstop.com/quiz/digital-education-awareness-quiz-airkrit-india-pvt-ltd-1739090) | Airkrit India Pvt. Ltd. | India | 🏢 Onsite | — | 2026-08-31 | Unstop |
@@ -106,8 +108,6 @@
 | [Hackblox Open Source Hackathon](https://unstop.com/hackathons/hackblox-open-source-hackathon-hackers-cult-1731738) | Hackers Cult | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
 | [Bitmela Launchpad: Ideathon 01](https://unstop.com/hackathons/bitmela-launchpad-ideathon-01-bitmela-1722812) | Bitmela | India | 🏢 Onsite | — | 2026-10-31 | Unstop |
 | [Yukti](https://unstop.com/competitions/yukti-symbiosis-institute-of-business-management-sibm-nagpur-maharashtra-1729807) | Symbiosis Institute of Business Management (SIBM), Nagpur, Maharashtra | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
-| [AlgoForce AI Transformation Summit Delhi 2026](https://unstop.com/events/algoforce-ai-transformation-summit-delhi-2026-algoforce-ai-1730791) | AlgoForce AI | India | 🏢 Onsite | — | 2026-09-09 | Unstop |
-| [Binary Hacks 4.0](https://unstop.com/hackathons/binary-hacks-40-raj-kumar-goel-institute-of-technology-rkgit-ghaziabad-1730767) | Raj Kumar Goel Institute of Technology (RKGIT), Ghaziabad | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
 
 ## Recently Expired
 

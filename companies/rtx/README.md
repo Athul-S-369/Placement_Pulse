@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Cedar Rapids, IA, Indianapolis, IN, Arlington, VA, McKinney, TX, Barrie, ON, Canada
+- **Locations:** Barrie, ON, Canada, Arlington, VA, Andover, MA, Huntsville, AL, Indianapolis, IN
 
 ## Current Opportunities
 

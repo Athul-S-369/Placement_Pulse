@@ -6,9 +6,9 @@
 
 **India's open-source aggregator for software internships, fresher jobs,<br>hackathons, fellowships, and placement opportunities.**
 
-[![Opportunities](https://img.shields.io/badge/Opportunities-2587-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
-[![Active](https://img.shields.io/badge/Active-2290-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
-[![Companies](https://img.shields.io/badge/Companies-1920-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
+[![Opportunities](https://img.shields.io/badge/Opportunities-2589-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
+[![Active](https://img.shields.io/badge/Active-2292-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
+[![Companies](https://img.shields.io/badge/Companies-1922-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
 [![Updated](https://img.shields.io/badge/Updated-Aug%2020%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**August 20, 2026** &nbsp;—&nbsp; **82** Fresher Job &nbsp;·&nbsp; **43** Internship &nbsp;·&nbsp; **6** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**August 20, 2026** &nbsp;—&nbsp; **82** Fresher Job &nbsp;·&nbsp; **43** Internship &nbsp;·&nbsp; **7** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**137 opportunities** added or updated in the latest run (August 20, 2026).
+**138 opportunities** added or updated in the latest run (August 20, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -127,12 +127,13 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Maps Personalization Relevance Rater - English](https://jobs.lever.co/weloglobal/7b07afde-d586-4945-9ef8-b41ca36a739b/apply) | Welo Global | Remote in Canada | Fresher Job | Remote | — |
 | [Full Stack Engineer](https://jobs.lever.co/hhaexchange/37711e74-f9e9-42c5-9c4f-66df2afab2e2/apply) | hhaexchange | Remote in USA | Fresher Job | Remote | — |
 | [AI Product Manager](https://jobs.ashbyhq.com/n8n/42e72645-d99a-4545-97b7-53ba3a699893/application?embed=true) | n8n | Remote in Germany, Remote | Fresher Job | Remote | — |
-| [Digital Education Awareness Quiz](https://unstop.com/quiz/digital-education-awareness-quiz-airkrit-india-pvt-ltd-1739090) | Airkrit India Pvt. Ltd. | India | Hackathon | Onsite | 2026-08-31 |
-| [Bharat Brain Quest: All-India Youth Trivia & Logic Challenge](https://unstop.com/quiz/bharat-brain-quest-all-india-youth-trivia-logic-challenge-mam-college-of-engineering-1740427) | MAM COLLEGE OF ENGINEERING | India | Hackathon | Onsite | 2026-09-03 |
-| [Code to Creation (Project Submission)](https://unstop.com/hackathons/code-to-creation-project-submission-samrat-ashok-technological-institute-sati-vidisha-1740116) | Samrat Ashok Technological I | India | Hackathon | Onsite | 2026-08-31 |
-| [Scaling Software: What Happens Behind the Screen?](https://unstop.com/workshops-webinars/scaling-software-what-happens-behind-the-screen-techbairn-1740720) | TechBairn | India | Hackathon | Onsite | 2026-08-21 |
-| [Beyond Application Development: Exploring System Programming](https://unstop.com/workshops-webinars/beyond-application-development-exploring-system-programming-techbairn-research-1740724) | TechBairn Research | India | Hackathon | Onsite | 2026-08-21 |
-| [Captain’s Code – Blind Typing Challenge](https://unstop.com/hackathons/captains-code-blind-typing-challenge-thakur-ramnarayan-college-of-arts-and-commerce-1740464) | Thakur Ramnarayan College of | India | Hackathon | Onsite | 2026-09-10 |
+| [Hacks 11.0](https://unstop.com/hackathons/hacks-110-elicit26-acm-manipal-university-mu-jaipur-1739750) | ACM Manipal University (MU), | India | Hackathon | Onsite | 2026-08-23 |
+| [AIFORGE 2026](https://unstop.com/conferences/aiforge-2026-eminsphere-1739064) | EminSphere | India | Hackathon | Onsite | 2026-08-28 |
+| [ARC's Robo Race'26](https://unstop.com/competitions/arcs-robo-race26-kpr-institute-of-engineering-and-technology-kpriet-coimbatore-1741829) | KPR Institute of Engineering | India | Hackathon | Onsite | 2026-09-19 |
+| [Code Insight 2k26](https://unstop.com/hackathons/code-insight-2k26-ksr-college-of-engineering-namakkal-tamil-nadu-1740415) | KSR College of Engineering,  | India | Hackathon | Onsite | 2026-09-03 |
+| [Rebuild the Classroom : Build the tool that teaches when AI ...](https://unstop.com/hackathons/rebuild-the-classroom-build-the-tool-that-teaches-when-ai-is-the-teacher-lv8-tech-1741171) | LV8 Tech | India | Hackathon | Onsite | 2026-08-31 |
+| [Crew Assemble — Build, Battle & Conquer](https://unstop.com/hackathons/crew-assemble-build-battle-conquer-thakur-ramnarayan-college-of-arts-and-commerce-1740745) | Thakur Ramnarayan College of | India | Hackathon | Onsite | 2026-09-10 |
+| [Prompt Nova 2026](https://unstop.com/competitions/prompt-nova-2026-tulsiramji-gaikwad-patil-college-of-engineering-and-technology-tgpcet-maharashtra-1741982) | Tulsiramji Gaikwad Patil Col | India | Hackathon | Onsite | 2026-08-21 |
 | [Modelling Resident](https://jobs.ashbyhq.com/adaption/3acd56ba-3085-441e-ba75-e6252ce3d566/application) | Adaption Labs | Remote in USA | Internship | Remote | — |
 | [Careers at Adobe](https://careers.adobe.com/us/en/) | Adobe | India | Internship | Onsite | — |
 | [Software Engineering Intern – Hyper-RF Division](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/20521-Seneca-Meadows-Pkwy-Germantown-MD/Software-Engineering-Intern---Hyper-RF-Division_6367) | AeroVironment | Remote / Various | Internship | Remote | — |
@@ -186,11 +187,13 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 ## Active Opportunities
 
 The 50 most recently added active opportunities across all categories.
-[View all 2587 on the website.](https://athul-s-369.github.io/Placement_Pulse)
+[View all 2589 on the website.](https://athul-s-369.github.io/Placement_Pulse)
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
 | [Data Quality Assistant - Quality Systems and Credentialling](https://wd3.myworkdaysite.com/recruiting/hcahealthcare/hcacareers/job/Corporate/Data-Quality-Assistant_0053610) | HCA Healthcare UK | Remote in UK | Fresher Job | Remote | Open |
+| [AIFORGE 2026](https://unstop.com/conferences/aiforge-2026-eminsphere-1739064) | EminSphere | India | Hackathon | Onsite | 2026-08-28 |
+| [Code Insight 2k26](https://unstop.com/hackathons/code-insight-2k26-ksr-college-of-engineering-namakkal-tamil-nadu-1740415) | KSR College of Engineering,  | India | Hackathon | Onsite | 2026-09-03 |
 | [Software Engineer Associate - Tempus](https://pnc.wd5.myworkdayjobs.com/External/job/ZZ---Remote-Location/Software-Engineer-Associate---Tempus_R231402-1) | PNC Financial Services | Remote in USA | Fresher Job | Remote | Open |
 | [AI Customer Insights Engineer](https://apply.workable.com/seeq/j/6F40FF632B/apply) | Seeq | Remote in USA | Fresher Job | Remote | Open |
 | [Machine Learning Engineer](https://jobs.ashbyhq.com/deeter-analytics/2c12339b-d302-427c-9a73-d825b4b942b0/application?embed=true) | Deeter Analytics | Remote in USA | Fresher Job | Remote | Open |
@@ -238,8 +241,6 @@ The 50 most recently added active opportunities across all categories.
 | [Eureka! Pitching Competition 2026](https://unstop.com/competitions/eureka-pitching-competition-2026-rasiklal-m-dhariwal-sinhgad-technical-institutes-campus-pune-1737127) | Rasiklal M. Dhariwal Sinhgad | India | Hackathon | Onsite | 2026-08-25 |
 | [VidyutVyuh](https://unstop.com/competitions/vidyutvyuh-yantrika-10-innovate-elevate-faculty-of-technology-delhi-university-1736996) | Faculty of Technology, Delhi | India | Hackathon | Onsite | 2026-09-10 |
 | [CodeNeuraX: AlgoRush](https://unstop.com/hackathons/codeneurax-algorush-codeneurax-1737089) | CodeNeuraX | India | Hackathon | Onsite | 2026-12-18 |
-| [Lumora-2026](https://unstop.com/competitions/lumora-2026-kalyani-government-engineering-college-kgec-west-bengal-1737019) | Kalyani Government Engineeri | India | Hackathon | Onsite | 2026-08-21 |
-| [AI and Cybersecurity: Foundations, Tools, and Emerging Appli...](https://unstop.com/workshops-webinars/ai-and-cybersecurity-foundations-tools-and-emerging-applications-iit-hyderabad-1719619) | Indian Institute of Technolo | India | Hackathon | Onsite | 2026-08-23 |
 
 ---
 
@@ -249,7 +250,7 @@ The 50 most recently added active opportunities across all categories.
 |----------|-------|
 | [Fresher Job](categories/fresher-job/) | 1312 |
 | [Internship](categories/internship/) | 781 |
-| [Hackathon](categories/hackathon/) | 488 |
+| [Hackathon](categories/hackathon/) | 490 |
 | [Open Source Program](categories/open-source-program/) | 2 |
 | [Fellowship](categories/fellowship/) | 2 |
 | [Student Ambassador](categories/student-ambassador/) | 2 |
@@ -299,6 +300,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-08-20 02:02 UTC</sub>
+<sub>Last generated: 2026-08-20 09:08 UTC</sub>
 
 </div>

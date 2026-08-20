@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** San Antonio, TX, Augusta, ME, Alexandria, VA, Traverse City, MI, Chantilly, VA
+- **Locations:** Augusta, ME, Baltimore, MD, California City, CA, Jefferson City, MO, Chicago, IL
 
 ## Current Opportunities
 

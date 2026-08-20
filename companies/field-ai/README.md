@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Irvine, CA, Cardiff, UK
+- **Locations:** Cardiff, UK, Irvine, CA
 
 ## Current Opportunities
 
