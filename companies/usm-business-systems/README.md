@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Chantilly, VA, Southfield, MI, NYC, Bloomington, MN, Alexandria, VA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Columbus, OH, Chantilly, VA, San Antonio, TX, California City, CA, Traverse City, MI
 
 ## Current Opportunities
 

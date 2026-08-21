@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**188 active** | **314 expired** | **502 total**
+**190 active** | **314 expired** | **504 total**
 
 *Last updated: 2026-08-21*
 
@@ -15,6 +15,8 @@
 | [The Ken's Case-Build Competition 2026 - The Great Rewiring](https://unstop.com/competitions/crp-the-kens-case-build-competition-2026-the-great-rewiring-the-ken-1737144) | The Ken | India | 🏢 Onsite | — | 2026-10-10 | Unstop |
 | [Ather Community Day](https://unstop.com/workshops-webinars/crp-ather-community-day-ather-energy-1742037) | Ather Energy | India | 🏢 Onsite | — | 2026-08-30 | Unstop |
 | [ELUCode-2](https://unstop.com/hackathons/elucode-2-edulinkup-1740124) | EduLinkUp | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
+| [Horizon](https://unstop.com/hackathons/horizon-hoollow-1726596) | Hoollow | India | 🏢 Onsite | — | 2026-10-19 | Unstop |
+| [EC-Council HackAI Challenge: RACEx360](https://unstop.com/hackathons/ec-council-hackai-challenge-racex360-reva-academy-for-corporate-excellence-bangalore-karnataka-1739884) | REVA Academy for Corporate Excellence, Bangalore, Karnataka | India | 🏢 Onsite | — | 2026-09-17 | Unstop |
 | [AIFORGE 2026](https://unstop.com/conferences/aiforge-2026-eminsphere-1739064) | EminSphere | India | 🏢 Onsite | — | 2026-08-28 | Unstop |
 | [Code Insight 2k26](https://unstop.com/hackathons/code-insight-2k26-ksr-college-of-engineering-namakkal-tamil-nadu-1740415) | KSR College of Engineering, Namakkal, Tamil Nadu | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
 | [Cloudforge](https://unstop.com/hackathons/cloudforge-atal-bihari-vajpayee-indian-institute-of-information-technology-and-management-1741840) | Atal Bihari Vajpayee-Indian Institute of Information Technology and Management | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
@@ -106,8 +108,6 @@
 | [Edge AI Hackathon 2026](https://unstop.com/hackathons/edge-ai-hackathon-2026-parala-maharaja-engineering-college-berhampur-1720578) | Parala Maharaja Engineering College, Berhampur | India | 🏢 Onsite | — | 2026-10-06 | Unstop |
 | [Webscape](https://unstop.com/competitions/webscape-coep-mindspark-1733306) | COEP MindSpark | India | 🏢 Onsite | — | 2026-09-29 | Unstop |
 | [Precision Care Challenge 2026](https://unstop.com/hackathons/crp-precision-care-challenge-2026-ge-healthcare-1731208) | GE HealthCare | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
-| [Aethon 2026 | 24-Hour National Hackathon](https://unstop.com/hackathons/aethon-2026-24-hour-national-hackathon-enac-3-day-innovation-entrepreneurship-fest-2026-central-university-of-1731459) | CENTRAL UNIVERSITY OF RAJASTHAN, AJMER KISHANGARDH | India | 🏢 Onsite | — | 2026-08-24 | Unstop |
-| [ReLead 9.0](https://unstop.com/competitions/crp-relead-90-renew-1728228) | ReNew | India | 🏢 Onsite | — | 2026-10-08 | Unstop |
 
 ## Recently Expired
 

@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1315 active** | **0 expired** | **1315 total**
+**1316 active** | **0 expired** | **1316 total**
 
 *Last updated: 2026-08-21*
 
@@ -9,6 +9,7 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [Data Analyst](https://ats.rippling.com/hunterstrategy/jobs/ed17a8a3-821b-472b-912a-ef4c91ea45ec) | Hunter Strategy | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Engineer](https://legalshieldcorp.wd1.myworkdayjobs.com/en-US/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820) | PPLSI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Quality Assistant - Quality Systems and Credentialling](https://wd3.myworkdaysite.com/recruiting/hcahealthcare/hcacareers/job/Corporate/Data-Quality-Assistant_0053610) | HCA Healthcare UK | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Junior Data Scientist](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Remote-USA/Junior-Data-Scientist_R9395) | Great American Insurance Company | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://vivsofttechnologiesfa.applytojob.com/apply/QLa8RzmXAc/Software-Engineer-Entry-Level) | VivSoft Technologies | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Product Information Management Specialist](https://ats.rippling.com/orderco/jobs/6e06a4b6-c727-4007-bdae-e3735aad6e61) | Order.co | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Compiler Engineer New Grad - Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Infrastructure----New-College-Grad-2026_JR2021228) | NVIDIA | Austin, TX, Remote in USA, Redmond, WA, Santa Clara, CA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Assistant Registrar - Data Analyst](https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Indianapolis-IN/Assistant-Registrar---Data-Analyst_JR0000108989) | Ivy Tech Community College | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Forward Deployed Engineer - AI Solutions](https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1337) | Duracell | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
