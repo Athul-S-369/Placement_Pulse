@@ -1,6 +1,6 @@
 # 🏢 University Institute of Engineering and Technology (UIET), Chandigarh
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-20*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-21*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [The Chandigarh Police Hackathon](https://unstop.com/hackathons/the-chandigarh-police-hackathon-university-institute-of-engineering-and-technology-uiet-chandigarh-1730320) | University Institute of Engineering and Technology (UIET), Chandigarh | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
 
 ## 📖 Interview Preparation
 

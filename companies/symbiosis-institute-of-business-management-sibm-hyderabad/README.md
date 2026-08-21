@@ -1,6 +1,6 @@
 # 🏢 Symbiosis Institute of Business Management (SIBM), Hyderabad
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-20*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-21*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Design Thinking Workshop](https://unstop.com/workshops-webinars/design-thinking-workshop-sibm-hyderabad-1736325) | Symbiosis Institute of Business Management (SIBM), Hyderabad | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
 
 ## 📖 Interview Preparation
 

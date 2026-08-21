@@ -1,6 +1,6 @@
 # 🏢 Hackers Unity
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-20*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-21*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [CodeWars](https://unstop.com/hackathons/codewars-hackers-unity-1733690) | Hackers Unity | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
 
 ## 📖 Interview Preparation
 

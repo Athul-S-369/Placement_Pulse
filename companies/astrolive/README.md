@@ -1,6 +1,6 @@
 # 🏢 Astrolive
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-20*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-21*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AstroHack 2026: Build the Next Universe](https://unstop.com/competitions/astrohack-2026-build-the-next-universe-astrolive-1719172) | Astrolive | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
 
 ## 📖 Interview Preparation
 

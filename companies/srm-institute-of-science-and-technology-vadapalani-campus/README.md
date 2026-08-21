@@ -1,6 +1,6 @@
 # 🏢 SRM Institute of Science and Technology - Vadapalani Campus
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-20*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-21*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [EVOLVX 4.0 – Workshop on Cybersecurity with Penetration Testing and AI](https://unstop.com/workshops-webinars/evolvx-40-workshop-on-cybersecurity-with-penetration-testing-and-ai-srm-institute-of-science-and-tech-1735330) | SRM Institute of Science and Technology - Vadapalani Campus | India | 🏢 Onsite | — | 2026-08-20 | Unstop |
 
 ## 📖 Interview Preparation
 

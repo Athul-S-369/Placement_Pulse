@@ -1,6 +1,6 @@
 # 🏢 Tulsiramji Gaikwad Patil College of Engineering and Technology (TGPCET), Maharashtra
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-20*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-21*
 
 ## Overview
 

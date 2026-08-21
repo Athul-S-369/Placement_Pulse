@@ -1,16 +1,17 @@
 # 🏢 National Laboratory of the Rockies
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-20*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-21*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote in USA, Golden, CO, Remote in USA
+- **Locations:** Remote in USA, Boulder, CO, Remote in USA, Remote in USA, Golden, CO
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Graduate Energy Systems Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Boulder-CO/Graduate-Summer-Intern---Modeling-and-Analysis-of-Distributed-Hybrid-Energy-Systems_R14469) | National Laboratory of the Rockies | Remote in USA, Boulder, CO | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Graduate Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---LLM-Reliability-and-Uncertainty-for-AI-Science-Assistants_R14416) | National Laboratory of the Rockies | Remote in USA, Golden, CO | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Associate/Undergraduate Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote/XMLNAME--Associate-Undergraduate--Intern---Carbon-Management-and-Large-Energy-Systems_R14405) | National Laboratory of the Rockies | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 
