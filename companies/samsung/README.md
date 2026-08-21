@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Mountain View, CA, Plano, TX
+- **Locations:** Plano, TX, Mountain View, CA
 
 ## Current Opportunities
 

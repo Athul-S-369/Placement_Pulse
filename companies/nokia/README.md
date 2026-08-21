@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** United States, Allentown, PA, San Jose, CA, Sunnyvale, CA, Naperville, IL, Dallas, TX
+- **Locations:** United States, Naperville, IL, Dallas, TX, California, Naperville, IL, NYC, Sunnyvale, CA
 
 ## Current Opportunities
 

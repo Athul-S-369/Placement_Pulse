@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**183 active** | **314 expired** | **497 total**
+**188 active** | **314 expired** | **502 total**
 
 *Last updated: 2026-08-21*
 
@@ -10,6 +10,11 @@
 |------|---------|----------|------|----------------|----------|--------|
 | [Finsight 2026–27 Call for Articles](https://unstop.com/competitions/finsight-2026-27-call-for-articles-st-xaviers-college-autonomous-mumbai-maharashtra-1742225) | St. Xavier's College (Autonomous), Mumbai, Maharashtra | India | 🏢 Onsite | — | 2026-09-05 | Unstop |
 | [Webinar on Basic Embedded Systems](https://unstop.com/workshops-webinars/webinar-on-basic-embedded-systems-hepelancer-1737733) | Hepelancer | India | 🏢 Onsite | — | 2026-09-06 | Unstop |
+| [AI-Powered Coding with GitHub Copilot Masterclass](https://unstop.com/workshops-webinars/ai-powered-coding-with-github-copilot-masterclass-free-masterclass-on-github-copilot-cloudthat-1742373) | CloudThat | India | 🏢 Onsite | — | 2026-09-04 | Unstop |
+| [Python with Real Life Quiz](https://unstop.com/quiz/python-with-real-life-quiz-pravara-rural-engineering-college-prec-maharashtra-1742361) | Pravara Rural Engineering College (PREC), Maharashtra | India | 🏢 Onsite | — | 2026-08-22 | Unstop |
+| [The Ken's Case-Build Competition 2026 - The Great Rewiring](https://unstop.com/competitions/crp-the-kens-case-build-competition-2026-the-great-rewiring-the-ken-1737144) | The Ken | India | 🏢 Onsite | — | 2026-10-10 | Unstop |
+| [Ather Community Day](https://unstop.com/workshops-webinars/crp-ather-community-day-ather-energy-1742037) | Ather Energy | India | 🏢 Onsite | — | 2026-08-30 | Unstop |
+| [ELUCode-2](https://unstop.com/hackathons/elucode-2-edulinkup-1740124) | EduLinkUp | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 | [AIFORGE 2026](https://unstop.com/conferences/aiforge-2026-eminsphere-1739064) | EminSphere | India | 🏢 Onsite | — | 2026-08-28 | Unstop |
 | [Code Insight 2k26](https://unstop.com/hackathons/code-insight-2k26-ksr-college-of-engineering-namakkal-tamil-nadu-1740415) | KSR College of Engineering, Namakkal, Tamil Nadu | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
 | [Cloudforge](https://unstop.com/hackathons/cloudforge-atal-bihari-vajpayee-indian-institute-of-information-technology-and-management-1741840) | Atal Bihari Vajpayee-Indian Institute of Information Technology and Management | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
@@ -103,11 +108,6 @@
 | [Precision Care Challenge 2026](https://unstop.com/hackathons/crp-precision-care-challenge-2026-ge-healthcare-1731208) | GE HealthCare | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
 | [Aethon 2026 | 24-Hour National Hackathon](https://unstop.com/hackathons/aethon-2026-24-hour-national-hackathon-enac-3-day-innovation-entrepreneurship-fest-2026-central-university-of-1731459) | CENTRAL UNIVERSITY OF RAJASTHAN, AJMER KISHANGARDH | India | 🏢 Onsite | — | 2026-08-24 | Unstop |
 | [ReLead 9.0](https://unstop.com/competitions/crp-relead-90-renew-1728228) | ReNew | India | 🏢 Onsite | — | 2026-10-08 | Unstop |
-| [Code Rush 3.0](https://unstop.com/hackathons/code-rush-30-krishna-institute-of-engineering-and-technology-kiet-ghaziabad-1731472) | Krishna Institute of Engineering and Technology (KIET), Ghaziabad | India | 🏢 Onsite | — | 2026-09-05 | Unstop |
-| [AI with Initiative: AI Makes the First Move - Hackathon](https://unstop.com/hackathons/ai-with-initiative-ai-makes-the-first-move-hackathon-symbiosis-institute-of-digital-and-telecom-management-si-1731061) | Symbiosis Institute of Digital and Telecom Management (SIDTM) | India | 🏢 Onsite | — | 2026-09-05 | Unstop |
-| [Hackblox Open Source Hackathon](https://unstop.com/hackathons/hackblox-open-source-hackathon-hackers-cult-1731738) | Hackers Cult | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
-| [Bitmela Launchpad: Ideathon 01](https://unstop.com/hackathons/bitmela-launchpad-ideathon-01-bitmela-1722812) | Bitmela | India | 🏢 Onsite | — | 2026-10-31 | Unstop |
-| [Yukti](https://unstop.com/competitions/yukti-symbiosis-institute-of-business-management-sibm-nagpur-maharashtra-1729807) | Symbiosis Institute of Business Management (SIBM), Nagpur, Maharashtra | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
 
 ## Recently Expired
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** United States, Seattle, WA, San Diego, CA, San Jose, CA, Cambridge, MA
+- **Locations:** United States, Beaverton, OR, Austin, TX, London, UK, Cambridge, UK, Welwyn Garden City, UK, SF
 
 ## Current Opportunities
 

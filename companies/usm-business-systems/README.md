@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Westminster, CO, St. Louis, MO, San Antonio, TX, Bluemont, VA, Manassas, VA
+- **Locations:** Chantilly, VA, Southfield, MI, NYC, Bloomington, MN, Alexandria, VA
 
 ## Current Opportunities
 

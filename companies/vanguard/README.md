@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Scottsdale, AZ, Malvern, PA, Dallas, TX, Malvern, PA, Charlotte, NC
+- **Locations:** Malvern, PA, Dallas, TX, Malvern, PA, Charlotte, NC, Scottsdale, AZ
 
 ## Current Opportunities
 
