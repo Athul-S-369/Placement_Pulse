@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** St. Louis, MO, Bluemont, VA, Alexandria, VA, Rochester, MI, Westminster, CO
+- **Locations:** Washington, DC, Westminster, CO, Jefferson City, MO, St. Louis, MO, Alexandria, VA
 
 ## Current Opportunities
 

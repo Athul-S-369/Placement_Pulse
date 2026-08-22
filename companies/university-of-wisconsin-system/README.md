@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** River Falls, WI, Winona, MN
+- **Locations:** Winona, MN, River Falls, WI
 
 ## Current Opportunities
 

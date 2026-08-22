@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Reno, NV, Waukesha, WI
+- **Locations:** Waukesha, WI, Reno, NV
 
 ## Current Opportunities
 

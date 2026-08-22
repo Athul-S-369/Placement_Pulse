@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**August 22, 2026** &nbsp;—&nbsp; **84** Fresher Job &nbsp;·&nbsp; **42** Internship &nbsp;·&nbsp; **7** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**August 22, 2026** &nbsp;—&nbsp; **84** Fresher Job &nbsp;·&nbsp; **42** Internship &nbsp;·&nbsp; **5** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**139 opportunities** added or updated in the latest run (August 22, 2026).
+**137 opportunities** added or updated in the latest run (August 22, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -129,12 +129,10 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Quantitative Developer](https://apply.workable.com/wallstreetquants/j/AA3FB20456/apply) | WallStreetQuants | Remote in USA | Fresher Job | Remote | — |
 | [Maps Personalization Relevance Rater - English](https://jobs.lever.co/weloglobal/7b07afde-d586-4945-9ef8-b41ca36a739b/apply) | Welo Global | Remote in Canada | Fresher Job | Remote | — |
 | [Full Stack Engineer](https://jobs.lever.co/hhaexchange/37711e74-f9e9-42c5-9c4f-66df2afab2e2/apply) | hhaexchange | Remote in USA | Fresher Job | Remote | — |
-| [Advik - Live Case Study Competition](https://unstop.com/competitions/advik-live-case-study-competition-ccs-national-institute-of-agricultural-marketing-niam-jaipur-1742639) | C.C.S National Institute of  | India | Hackathon | Onsite | 2026-09-11 |
-| [Eureka x Devengers](https://unstop.com/hackathons/eureka-x-devengers-devengers-1740270) | Devengers | India | Hackathon | Onsite | 2026-09-22 |
-| [Horizon](https://unstop.com/hackathons/horizon-hoollow-1726596) | Hoollow | India | Hackathon | Onsite | 2026-10-19 |
-| [Innov8 4.0: A Hackathon by Eightfold Ai X Aries IIT Delhi](https://unstop.com/hackathons/innov8-40-a-hackathon-by-eightfold-ai-x-aries-iit-delhi-iit-delhi-1742230) | Indian Institute of Technolo | India | Hackathon | Onsite | 2026-09-03 |
-| [Prompt Challenge: AI Creativity Edition](https://unstop.com/competitions/prompt-challenge-ai-creativity-edition-sanjivani-university-kopargaon-1742612) | Sanjivani University, Koparg | India | Hackathon | Onsite | 2026-08-31 |
-| [HackRonyX 2.0](https://unstop.com/hackathons/hackronyx-20-st-vincent-pallotti-college-of-engineering-and-technology-svpcet-nagpur-1741857) | St. Vincent Pallotti College | India | Hackathon | Onsite | 2026-09-27 |
+| [Pratibimb - Photography Competition](https://unstop.com/events/pratibimb-photography-competition-agrovon-2k26-ccs-national-institute-of-agricultural-marketing-niam-jaipur-1742707) | C.C.S National Institute of  | India | Hackathon | Onsite | 2026-09-08 |
+| [Mascot Mania- iGEM IITD](https://unstop.com/competitions/mascot-mania-igem-iitd-iit-delhi-1742710) | Indian Institute of Technolo | India | Hackathon | Onsite | 2026-09-05 |
+| [Mind the Product 2026: Test 1](https://unstop.com/quiz/mind-the-product-test-1-iit-guwahati-1742736) | Indian Institute of Technolo | India | Hackathon | Onsite | 2026-11-30 |
+| [Brumble 2026](https://unstop.com/events/brumble-2026-brumble-2026-matiks-1742705) | Matiks | India | Hackathon | Onsite | 2026-08-23 |
 | [Innovation Unbound Prelims](https://unstop.com/hackathons/innovation-unbound-prelims-vellore-institute-of-technology-vit-chennai-1742601) | Vellore Institute of Technol | India | Hackathon | Onsite | 2026-08-31 |
 | [Modelling Resident](https://jobs.ashbyhq.com/adaption/3acd56ba-3085-441e-ba75-e6252ce3d566/application) | Adaption Labs | Remote in USA | Internship | Remote | — |
 | [Careers at Adobe](https://careers.adobe.com/us/en/) | Adobe | India | Internship | Onsite | — |
@@ -301,6 +299,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-08-22 02:00 UTC</sub>
+<sub>Last generated: 2026-08-22 08:59 UTC</sub>
 
 </div>
