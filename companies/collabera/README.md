@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Radcliff, KY, Calgary, AB, Canada, Eagan, MN, Salt Lake City, UT, Waukegan, IL
+- **Locations:** Eagan, MN, Alameda, CA, Salt Lake City, UT, Waukegan, IL, Radcliff, KY
 
 ## Current Opportunities
 

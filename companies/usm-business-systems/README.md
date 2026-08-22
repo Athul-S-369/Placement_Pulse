@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Washington, DC, Westminster, CO, Jefferson City, MO, St. Louis, MO, Alexandria, VA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Chantilly, VA, St. Louis, MO, Traverse City, MI, NYC, El Segundo, CA
 
 ## Current Opportunities
 
