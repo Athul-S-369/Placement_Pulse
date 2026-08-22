@@ -1,6 +1,6 @@
 # 🏢 SSM Institute of Engineering and Technology
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-21*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-22*
 
 ## Overview
 

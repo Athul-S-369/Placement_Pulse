@@ -1,6 +1,6 @@
 # 🏢 G. H. Raisoni College of Engineering and Management (GHRCEM), Nagpur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-21*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-22*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Code Forge 2026](https://unstop.com/hackathons/code-forge-2026-g-h-raisoni-college-of-engineering-and-management-ghrcem-nagpur-1726255) | G. H. Raisoni College of Engineering and Management (GHRCEM), Nagpur | India | 🏢 Onsite | — | 2026-08-21 | Unstop |
 
 ## 📖 Interview Preparation
 

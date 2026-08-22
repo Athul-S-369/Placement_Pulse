@@ -1,6 +1,6 @@
 # 🏢 Kalyani Government Engineering College (KGEC), West Bengal
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-21*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-22*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Lumora-2026](https://unstop.com/competitions/lumora-2026-kalyani-government-engineering-college-kgec-west-bengal-1737019) | Kalyani Government Engineering College (KGEC), West Bengal | India | 🏢 Onsite | — | 2026-08-21 | Unstop |
 
 ## 📖 Interview Preparation
 

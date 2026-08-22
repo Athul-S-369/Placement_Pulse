@@ -1,6 +1,6 @@
 # 🏢 Guru Gobind Singh Indraprastha University (GGSIPU), Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-21*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-22*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Brainwave](https://unstop.com/hackathons/brainwave-2026-guru-gobind-singh-indraprastha-university-ggsipu-delhi-1711474) | Guru Gobind Singh Indraprastha University (GGSIPU), Delhi | India | 🏢 Onsite | — | 2026-08-21 | Unstop |
 
 ## 📖 Interview Preparation
 

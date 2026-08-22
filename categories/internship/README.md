@@ -1,13 +1,14 @@
 # 🎓 Internship
 
-**782 active** | **0 expired** | **782 total**
+**783 active** | **0 expired** | **783 total**
 
-*Last updated: 2026-08-21*
+*Last updated: 2026-08-22*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer Intern - Multiple Teams](https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436) | Availity | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Graduate Energy Systems Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Boulder-CO/Graduate-Summer-Intern---Modeling-and-Analysis-of-Distributed-Hybrid-Energy-Systems_R14469) | National Laboratory of the Rockies | Remote in USA, Boulder, CO | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01867067) | RTX | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR106129) | Copart | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
@@ -107,4 +108,3 @@
 | [Software Developer Internship](https://llbean.wd1.myworkdayjobs.com/en-US/LLBean_Careers/job/Freeport-ME/Software-Developer-Internship_JR10190) | L.L.Bean | Freeport, ME | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Junior Software Engineer – Internship](https://job-boards.greenhouse.io/aechelontechnology/jobs/4831334008) | Aechelon Technology | Overland Park, KS | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Software Developer – Co-op - Engineering - Ruby on Rails, AngularJS, React Native, MySQL, Redis, ElasticSearch](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Vancouver/Software-Developer--Co-op_REQ-1577) | Clio | Toronto, ON, Canada, Calgary, AB, Canada, Vancouver, BC, Canada | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [2026 – Internship - Markets - Systematic Trading - New York](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210680133) | JP Morgan Chase | NYC | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

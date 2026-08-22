@@ -1,6 +1,6 @@
 # 🏢 Government Engineering College(GEC), Jamui
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-21*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-22*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [TEJAS India Hackathon 2026](https://unstop.com/hackathons/tejas-india-hackathon-2026-government-engineering-collegegec-jamui-1733064) | Government Engineering College(GEC), Jamui | India | 🏢 Onsite | — | 2026-08-21 | Unstop |
 
 ## 📖 Interview Preparation
 

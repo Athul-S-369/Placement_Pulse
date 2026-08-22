@@ -1,6 +1,6 @@
 # 🏢 Chandigarh Group of Colleges (CGC), Jhanjeri
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-21*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-22*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [CypherVerse](https://unstop.com/hackathons/cypherverse-chandigarh-group-of-colleges-cgc-jhanjeri-1736257) | Chandigarh Group of Colleges (CGC), Jhanjeri | India | 🏢 Onsite | — | 2026-08-21 | Unstop |
 
 ## 📖 Interview Preparation
 

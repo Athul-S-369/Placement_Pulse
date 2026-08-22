@@ -1,6 +1,6 @@
 # 🏢 Anjuman-I-Islam's Kalsekar Technical Campus (AIKTC), Navi Mumbai
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-21*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-22*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AIKHTC Shark Tank 2026](https://unstop.com/competitions/aikhtc-shark-tank-2026-anjuman-i-islams-kalsekar-technical-campus-aiktc-navi-mumbai-1733373) | Anjuman-I-Islam's Kalsekar Technical Campus (AIKTC), Navi Mumbai | India | 🏢 Onsite | — | 2026-08-21 | Unstop |
 
 ## 📖 Interview Preparation
 

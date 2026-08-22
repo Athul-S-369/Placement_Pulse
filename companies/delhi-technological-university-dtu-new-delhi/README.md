@@ -1,6 +1,6 @@
 # 🏢 Delhi Technological University (DTU), New Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-21*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-22*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Soch 6.0](https://unstop.com/competitions/soch-60-dtu-new-delhi-1726754) | Delhi Technological University (DTU), New Delhi | India | 🏢 Onsite | — | 2026-08-21 | Unstop |
 
 ## 📖 Interview Preparation
 

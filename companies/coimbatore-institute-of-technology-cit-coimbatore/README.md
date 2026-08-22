@@ -1,6 +1,6 @@
 # 🏢 Coimbatore Institute of Technology (CIT), Coimbatore
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-21*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-22*
 
 ## Overview
 

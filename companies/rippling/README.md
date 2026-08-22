@@ -1,11 +1,11 @@
 # 🏢 Rippling
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-21*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-22*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Seattle, WA, SF, NYC, SF
+- **Locations:** SF, Seattle, WA, SF, NYC
 
 ## Current Opportunities
 

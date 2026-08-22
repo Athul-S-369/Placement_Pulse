@@ -1,6 +1,6 @@
 # 🏢 Symbiosis Institute of operations management
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-21*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-22*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Kumbhathon 2026 | Idea Pitch Competition](https://unstop.com/competitions/kumbhathon-2026-idea-pitch-competition-symbiosis-institute-of-operations-management-1731307) | Symbiosis Institute of operations management | India | 🏢 Onsite | — | 2026-08-21 | Unstop |
 
 ## 📖 Interview Preparation
 

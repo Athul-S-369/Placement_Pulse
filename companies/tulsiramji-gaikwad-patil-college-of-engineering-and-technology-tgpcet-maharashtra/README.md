@@ -1,6 +1,6 @@
 # 🏢 Tulsiramji Gaikwad Patil College of Engineering and Technology (TGPCET), Maharashtra
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-21*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-22*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [EUREKA! 2026 — STARTUP PITCHING COMPETITION](https://unstop.com/competitions/eureka-2026-startup-pitching-competition-tulsiramji-gaikwad-patil-college-of-engineering-and-technology-tgp-1734123) | Tulsiramji Gaikwad Patil College of Engineering and Technology (TGPCET), Maharashtra | India | 🏢 Onsite | — | 2026-08-21 | Unstop |
 
 ## 📖 Interview Preparation
 
