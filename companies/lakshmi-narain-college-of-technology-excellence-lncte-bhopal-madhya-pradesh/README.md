@@ -1,6 +1,6 @@
 # 🏢 Lakshmi Narain College of Technology Excellence (LNCTE), Bhopal, Madhya Pradesh
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-22*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-23*
 
 ## Overview
 

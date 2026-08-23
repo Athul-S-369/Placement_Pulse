@@ -1,6 +1,6 @@
 # 🏢 InstaRinn
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-22*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-23*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [InstaRinn Creative Marketing Challenge 2026](https://unstop.com/competitions/instarinn-creative-marketing-challenge-2026-instarinn-1724053) | InstaRinn | India | 🏢 Onsite | — | 2026-08-22 | Unstop |
 
 ## 📖 Interview Preparation
 

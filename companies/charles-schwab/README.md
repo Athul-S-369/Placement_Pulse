@@ -1,11 +1,11 @@
 # 🏢 Charles Schwab
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-22*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-23*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Austin, TX, Phoenix, AZ, Lone Tree, CO, SF, Chicago, IL
+- **Locations:** SF, Chicago, IL, Lone Tree, CO, Austin, TX, Phoenix, AZ
 
 ## Current Opportunities
 

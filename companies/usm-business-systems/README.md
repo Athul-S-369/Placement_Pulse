@@ -1,11 +1,11 @@
 # 🏢 USM Business Systems
 
-**21 active opportunities** | **21 total tracked** | *Last updated: 2026-08-22*
+**21 active opportunities** | **21 total tracked** | *Last updated: 2026-08-23*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Chantilly, VA, St. Louis, MO, Traverse City, MI, NYC, El Segundo, CA
+- **Locations:** St. Louis, MO, Manassas, VA, Alexandria, VA, Jefferson City, MO, Bluemont, VA
 
 ## Current Opportunities
 

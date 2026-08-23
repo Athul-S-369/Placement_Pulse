@@ -1,6 +1,6 @@
 # 🏢 Madan Mohan Malviya University Of Technology
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-22*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-23*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Techception](https://unstop.com/quiz/techception-madan-mohan-malviya-university-of-technology-1736955) | Madan Mohan Malviya University Of Technology | India | 🏢 Onsite | — | 2026-08-22 | Unstop |
 
 ## 📖 Interview Preparation
 

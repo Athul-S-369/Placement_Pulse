@@ -1,6 +1,6 @@
 # 🏢 St.Joseph's Institute of Technology (STJIT), Chennai
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-22*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-23*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [SN1PHERS 3.0: Capture The Flag(CTF)](https://unstop.com/hackathons/sn1phers-30-capture-the-flagctf-stjosephs-institute-of-technology-stjit-chennai-1732038) | St.Joseph's Institute of Technology (STJIT), Chennai | India | 🏢 Onsite | — | 2026-08-22 | Unstop |
 
 ## 📖 Interview Preparation
 

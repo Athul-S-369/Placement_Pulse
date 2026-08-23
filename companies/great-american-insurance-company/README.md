@@ -1,11 +1,11 @@
 # 🏢 Great American Insurance Company
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-22*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-23*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, Cincinnati, OH
+- **Locations:** Cincinnati, OH, Remote in USA
 
 ## Current Opportunities
 

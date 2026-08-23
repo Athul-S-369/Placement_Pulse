@@ -6,11 +6,11 @@
 
 **India's open-source aggregator for software internships, fresher jobs,<br>hackathons, fellowships, and placement opportunities.**
 
-[![Opportunities](https://img.shields.io/badge/Opportunities-2615-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
-[![Active](https://img.shields.io/badge/Active-2287-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
-[![Companies](https://img.shields.io/badge/Companies-1946-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
+[![Opportunities](https://img.shields.io/badge/Opportunities-2617-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
+[![Active](https://img.shields.io/badge/Active-2283-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
+[![Companies](https://img.shields.io/badge/Companies-1948-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
-[![Updated](https://img.shields.io/badge/Updated-Aug%2022%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
+[![Updated](https://img.shields.io/badge/Updated-Aug%2023%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
 [Latest Run](#latest-run) &nbsp;·&nbsp;
 [Active Opportunities](#active-opportunities) &nbsp;·&nbsp;
@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**August 22, 2026** &nbsp;—&nbsp; **83** Fresher Job &nbsp;·&nbsp; **42** Internship &nbsp;·&nbsp; **6** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**August 23, 2026** &nbsp;—&nbsp; **83** Fresher Job &nbsp;·&nbsp; **42** Internship &nbsp;·&nbsp; **10** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**137 opportunities** added or updated in the latest run (August 22, 2026).
+**141 opportunities** added or updated in the latest run (August 23, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -128,12 +128,16 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Quantitative Developer](https://apply.workable.com/wallstreetquants/j/AA3FB20456/apply) | WallStreetQuants | Remote in USA | Fresher Job | Remote | — |
 | [Maps Personalization Relevance Rater - English](https://jobs.lever.co/weloglobal/7b07afde-d586-4945-9ef8-b41ca36a739b/apply) | Welo Global | Remote in Canada | Fresher Job | Remote | — |
 | [Full Stack Engineer](https://jobs.lever.co/hhaexchange/37711e74-f9e9-42c5-9c4f-66df2afab2e2/apply) | hhaexchange | Remote in USA | Fresher Job | Remote | — |
-| [Graviton](https://unstop.com/hackathons/graviton-iste-cgc-university-1742794) | ISTE CGC UNIVERSITY | India | Hackathon | Onsite | 2026-09-20 |
+| [Customer Discovery: Learn Before You Build](https://unstop.com/workshops-webinars/customer-discovery-learn-before-you-build-cloud-counsaleage-pvt-ltd-1742818) | Cloud Counsaleage Pvt Ltd | India | Hackathon | Onsite | 2026-09-01 |
 | [TurtleBot Pursuit & Evasion Challenge](https://unstop.com/hackathons/turtlebot-pursuit-evasion-challenge-tech-zephyr-40-indian-institute-of-technology-bhubaneswar-1742795) | Indian Institute Of Technolo | India | Hackathon | Onsite | 2026-09-13 |
+| [Product Mania](https://unstop.com/competitions/product-mania--1742240) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-09-07 |
+| [The Stress & Resiliency Challenge](https://unstop.com/quiz/the-stress-resiliency-challenge-iim-rohtak-1743034) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-09-06 |
 | [Aagaz - Classical Choir Singing Competition](https://unstop.com/events/aagaz-classical-choir-singing-competition-iit-delhi-1743020) | Indian Institute of Technolo | India | Hackathon | Onsite | 2026-09-29 |
+| [Mind the Product 2026: Test 2](https://unstop.com/quiz/mind-the-product-2026-test-2-iit-guwahati-1743050) | Indian Institute of Technolo | India | Hackathon | Onsite | 2026-11-24 |
 | [International Conference on AI-Driven Scientific Innovations...](https://unstop.com/conferences/international-conference-on-ai-driven-scientific-innovations-for-sustainable-development-goals-kalinga-unive-1739105) | Kalinga University, Raipur | India | Hackathon | Onsite | 2026-09-17 |
 | [Full Stack Python with Gen-AI](https://unstop.com/hackathons/full-stack-python-with-gen-ai-quality-thought-info-systems-1742888) | Quality Thought Info Systems | India | Hackathon | Onsite | 2026-08-25 |
 | [AI Skills Every Student Should Know in 2026](https://unstop.com/workshops-webinars/ai-skills-every-student-should-know-in-2026-taskveda-1743014) | TaskVeda | India | Hackathon | Onsite | 2026-09-06 |
+| [Fully Funded PhD in Germany & the EU](https://unstop.com/workshops-webinars/fully-funded-phd-in-germany-the-eu-workpunkt-1743044) | Workpunkt | India | Hackathon | Onsite | 2026-08-29 |
 | [Modelling Resident](https://jobs.ashbyhq.com/adaption/3acd56ba-3085-441e-ba75-e6252ce3d566/application) | Adaption Labs | Remote in USA | Internship | Remote | — |
 | [Careers at Adobe](https://careers.adobe.com/us/en/) | Adobe | India | Internship | Onsite | — |
 | [Software Engineering Intern – Hyper-RF Division](https://avav.wd1.myworkdayjobs.com/en-US/AVAV/job/20521-Seneca-Meadows-Pkwy-Germantown-MD/Software-Engineering-Intern---Hyper-RF-Division_6367) | AeroVironment | Remote / Various | Internship | Remote | — |
@@ -186,10 +190,12 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 ## Active Opportunities
 
 The 50 most recently added active opportunities across all categories.
-[View all 2615 on the website.](https://athul-s-369.github.io/Placement_Pulse)
+[View all 2617 on the website.](https://athul-s-369.github.io/Placement_Pulse)
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
+| [Product Mania](https://unstop.com/competitions/product-mania--1742240) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-09-07 |
+| [Customer Discovery: Learn Before You Build](https://unstop.com/workshops-webinars/customer-discovery-learn-before-you-build-cloud-counsaleage-pvt-ltd-1742818) | Cloud Counsaleage Pvt Ltd | India | Hackathon | Onsite | 2026-09-01 |
 | [Software Engineer Intern - Multiple Teams](https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436) | Availity | Remote in USA | Internship | Remote | Open |
 | [Associate Forward Deployed Engineer](https://medable.wd503.myworkdayjobs.com/explore-career-opportunities/job/United-Kingdom/Associate-Forward-Deployed-Engineer_JR100219) | Medable | Remote in UK, Remote in I | Fresher Job | Remote | Open |
 | [Software Developer - Distributed Simulation Technology](https://onearc.bamboohr.com/careers/402/) | BAE Systems OneArc USA, Inc | Remote in UK | Fresher Job | Remote | Open |
@@ -202,7 +208,6 @@ The 50 most recently added active opportunities across all categories.
 | [Webinar on Basic Embedded Systems](https://unstop.com/workshops-webinars/webinar-on-basic-embedded-systems-hepelancer-1737733) | Hepelancer | India | Hackathon | Onsite | 2026-09-06 |
 | [Data Analyst](https://ats.rippling.com/hunterstrategy/jobs/ed17a8a3-821b-472b-912a-ef4c91ea45ec) | Hunter Strategy | Remote in USA | Fresher Job | Remote | Open |
 | [AI-Powered Coding with GitHub Copilot Masterclass](https://unstop.com/workshops-webinars/ai-powered-coding-with-github-copilot-masterclass-free-masterclass-on-github-copilot-cloudthat-1742373) | CloudThat | India | Hackathon | Onsite | 2026-09-04 |
-| [Python with Real Life Quiz](https://unstop.com/quiz/python-with-real-life-quiz-pravara-rural-engineering-college-prec-maharashtra-1742361) | Pravara Rural Engineering Co | India | Hackathon | Onsite | 2026-08-22 |
 | [The Ken's Case-Build Competition 2026 - The Great Rewiring](https://unstop.com/competitions/crp-the-kens-case-build-competition-2026-the-great-rewiring-the-ken-1737144) | The Ken | India | Hackathon | Onsite | 2026-10-10 |
 | [Ather Community Day](https://unstop.com/workshops-webinars/crp-ather-community-day-ather-energy-1742037) | Ather Energy | India | Hackathon | Onsite | 2026-08-30 |
 | [ELUCode-2](https://unstop.com/hackathons/elucode-2-edulinkup-1740124) | EduLinkUp | India | Hackathon | Onsite | 2026-09-20 |
@@ -239,7 +244,6 @@ The 50 most recently added active opportunities across all categories.
 | [Aditya Birla Group Engenuity 2026](https://unstop.com/competitions/crp-aditya-birla-group-engenuity-2026-aditya-birla-group-1712136) | Aditya Birla Group | India | Hackathon | Onsite | 2026-09-18 |
 | [MMA - Chanakya the Mastermind 2026](https://unstop.com/competitions/mma-chanakya-the-mastermind-2026-madras-management-association-chennai-1738918) | Madras Management Associatio | India | Hackathon | Onsite | 2026-09-15 |
 | [Product Manager - Business Banking & Treasury Management](https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Paducah-KY-Corporate/Product-Manager---Business-Banking---Treasury-Management_R-100612) | CSI | Paducah, KY, Remote in US | Fresher Job | Remote | Open |
-| [Market Verdict: A Finance Case Debate by Mochatrade (YC P26)](https://unstop.com/competitions/market-verdict-a-finance-case-debate-by-mochatrade-yc-p26-mochatrade-1736961) | Mochatrade | India | Hackathon | Onsite | 2026-08-30 |
 
 ---
 
@@ -249,7 +253,7 @@ The 50 most recently added active opportunities across all categories.
 |----------|-------|
 | [Fresher Job](categories/fresher-job/) | 1318 |
 | [Internship](categories/internship/) | 783 |
-| [Hackathon](categories/hackathon/) | 508 |
+| [Hackathon](categories/hackathon/) | 510 |
 | [Open Source Program](categories/open-source-program/) | 2 |
 | [Fellowship](categories/fellowship/) | 2 |
 | [Student Ambassador](categories/student-ambassador/) | 2 |
@@ -274,13 +278,13 @@ The 50 most recently added active opportunities across all categories.
 
 ## Archive
 
-- [August 22, 2026 — Today](daily/2026/August/2026-08-22.md)
+- [August 23, 2026 — Today](daily/2026/August/2026-08-23.md)
+- [August 22, 2026](daily/2026/August/2026-08-22.md)
 - [August 21, 2026](daily/2026/August/2026-08-21.md)
 - [August 20, 2026](daily/2026/August/2026-08-20.md)
 - [August 19, 2026](daily/2026/August/2026-08-19.md)
 - [August 18, 2026](daily/2026/August/2026-08-18.md)
 - [August 17, 2026](daily/2026/August/2026-08-17.md)
-- [August 16, 2026](daily/2026/August/2026-08-16.md)
 
 [Full archive](daily/)
 
@@ -299,6 +303,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-08-22 16:53 UTC</sub>
+<sub>Last generated: 2026-08-23 02:11 UTC</sub>
 
 </div>

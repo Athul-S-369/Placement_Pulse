@@ -1,6 +1,6 @@
 # 🏢 SDA Bocconi Asia Center, Mumbai
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-22*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-23*
 
 ## Overview
 

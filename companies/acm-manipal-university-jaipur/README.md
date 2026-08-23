@@ -1,6 +1,6 @@
 # 🏢 ACM Manipal University, Jaipur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-22*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-23*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Baller Bot - Robosoccer](https://unstop.com/competitions/baller-bot-robosoccer-elicit26-acm-manipal-university-jaipur-1737290) | ACM Manipal University, Jaipur | India | 🏢 Onsite | — | 2026-08-22 | Unstop |
 
 ## 📖 Interview Preparation
 
