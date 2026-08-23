@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Knoxville, TN, Hoffman Estates, IL, India, Germany, Gulfport, MS
+- **Locations:** Gulfport, MS, Knoxville, TN, Hoffman Estates, IL, India, Germany
 
 ## Current Opportunities
 

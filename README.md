@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**August 23, 2026** &nbsp;—&nbsp; **83** Fresher Job &nbsp;·&nbsp; **42** Internship &nbsp;·&nbsp; **10** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**August 23, 2026** &nbsp;—&nbsp; **83** Fresher Job &nbsp;·&nbsp; **42** Internship &nbsp;·&nbsp; **9** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**141 opportunities** added or updated in the latest run (August 23, 2026).
+**140 opportunities** added or updated in the latest run (August 23, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -128,15 +128,14 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Quantitative Developer](https://apply.workable.com/wallstreetquants/j/AA3FB20456/apply) | WallStreetQuants | Remote in USA | Fresher Job | Remote | — |
 | [Maps Personalization Relevance Rater - English](https://jobs.lever.co/weloglobal/7b07afde-d586-4945-9ef8-b41ca36a739b/apply) | Welo Global | Remote in Canada | Fresher Job | Remote | — |
 | [Full Stack Engineer](https://jobs.lever.co/hhaexchange/37711e74-f9e9-42c5-9c4f-66df2afab2e2/apply) | hhaexchange | Remote in USA | Fresher Job | Remote | — |
-| [Customer Discovery: Learn Before You Build](https://unstop.com/workshops-webinars/customer-discovery-learn-before-you-build-cloud-counsaleage-pvt-ltd-1742818) | Cloud Counsaleage Pvt Ltd | India | Hackathon | Onsite | 2026-09-01 |
-| [TurtleBot Pursuit & Evasion Challenge](https://unstop.com/hackathons/turtlebot-pursuit-evasion-challenge-tech-zephyr-40-indian-institute-of-technology-bhubaneswar-1742795) | Indian Institute Of Technolo | India | Hackathon | Onsite | 2026-09-13 |
+| [PromptCraft: AI Creativity Challenge – August 2026](https://unstop.com/competitions/promptcraft-ai-creativity-challenge-august-2026-ies-university-bhopal-1743109) | IES University, Bhopal | India | Hackathon | Onsite | 2026-08-31 |
 | [Product Mania](https://unstop.com/competitions/product-mania--1742240) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-09-07 |
 | [The Stress & Resiliency Challenge](https://unstop.com/quiz/the-stress-resiliency-challenge-iim-rohtak-1743034) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-09-06 |
-| [Aagaz - Classical Choir Singing Competition](https://unstop.com/events/aagaz-classical-choir-singing-competition-iit-delhi-1743020) | Indian Institute of Technolo | India | Hackathon | Onsite | 2026-09-29 |
 | [Mind the Product 2026: Test 2](https://unstop.com/quiz/mind-the-product-2026-test-2-iit-guwahati-1743050) | Indian Institute of Technolo | India | Hackathon | Onsite | 2026-11-24 |
-| [International Conference on AI-Driven Scientific Innovations...](https://unstop.com/conferences/international-conference-on-ai-driven-scientific-innovations-for-sustainable-development-goals-kalinga-unive-1739105) | Kalinga University, Raipur | India | Hackathon | Onsite | 2026-09-17 |
-| [Full Stack Python with Gen-AI](https://unstop.com/hackathons/full-stack-python-with-gen-ai-quality-thought-info-systems-1742888) | Quality Thought Info Systems | India | Hackathon | Onsite | 2026-08-25 |
+| [CodeArena 2026](https://unstop.com/hackathons/codearena-2026-quizcred-1742930) | QuizCred | India | Hackathon | Onsite | 2026-09-15 |
+| [AI Engineering to AI Product Management: Building Real-World...](https://unstop.com/workshops-webinars/from-ai-ideas-to-winning-products-with-kanhayya-gupta-webinar-rankup-1742076) | RANKUP | India | Hackathon | Onsite | 2026-08-23 |
 | [AI Skills Every Student Should Know in 2026](https://unstop.com/workshops-webinars/ai-skills-every-student-should-know-in-2026-taskveda-1743014) | TaskVeda | India | Hackathon | Onsite | 2026-09-06 |
+| [Code2Create 7.0](https://unstop.com/hackathons/code2create-70-gravitas26-vit-vellore-1736086) | Vellore Institute of Technol | India | Hackathon | Onsite | 2026-09-05 |
 | [Fully Funded PhD in Germany & the EU](https://unstop.com/workshops-webinars/fully-funded-phd-in-germany-the-eu-workpunkt-1743044) | Workpunkt | India | Hackathon | Onsite | 2026-08-29 |
 | [Modelling Resident](https://jobs.ashbyhq.com/adaption/3acd56ba-3085-441e-ba75-e6252ce3d566/application) | Adaption Labs | Remote in USA | Internship | Remote | — |
 | [Careers at Adobe](https://careers.adobe.com/us/en/) | Adobe | India | Internship | Onsite | — |
@@ -303,6 +302,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-08-23 02:11 UTC</sub>
+<sub>Last generated: 2026-08-23 09:00 UTC</sub>
 
 </div>

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** St. Louis, MO, Manassas, VA, Alexandria, VA, Jefferson City, MO, Bluemont, VA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Westminster, CO, Bluemont, VA, San Antonio, TX, El Segundo, CA, NYC
 
 ## Current Opportunities
 
