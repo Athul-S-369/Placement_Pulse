@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Westminster, CO, Bluemont, VA, San Antonio, TX, El Segundo, CA, NYC
+- **Locations:** California City, CA, St. Louis, MO, Chantilly, VA, Washington, DC, Augusta, ME
 
 ## Current Opportunities
 

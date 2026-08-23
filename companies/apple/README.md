@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Austin, TX, Santa Clara, CA, San Diego, CA, United States, Waltham, MA
+- **Locations:** Seattle, WA, Santa Clara, CA, Gloucester, UK, Morrisville, NC, Cambridge, MA
 
 ## Current Opportunities
 

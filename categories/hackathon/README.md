@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**177 active** | **333 expired** | **510 total**
+**181 active** | **333 expired** | **514 total**
 
 *Last updated: 2026-08-23*
 
@@ -10,6 +10,10 @@
 |------|---------|----------|------|----------------|----------|--------|
 | [Product Mania](https://unstop.com/competitions/product-mania--1742240) | Indian Institute of Management (IIM), Raipur | India | 🏢 Onsite | — | 2026-09-07 | Unstop |
 | [Customer Discovery: Learn Before You Build](https://unstop.com/workshops-webinars/customer-discovery-learn-before-you-build-cloud-counsaleage-pvt-ltd-1742818) | Cloud Counsaleage Pvt Ltd | India | 🏢 Onsite | — | 2026-09-01 | Unstop |
+| [Slay Cybersecurity Conference and Workshop](https://unstop.com/workshops-webinars/slay-cybersecurity-conference-and-workshop-jalpaiguri-government-engineering-college-jgec-west-bengal-1743199) | Jalpaiguri Government Engineering College (JGEC), West Bengal | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
+| [FUSION X 1.0 – 24-Hour Hackathon](https://unstop.com/hackathons/fusion-x-10-24-hour-hackathon-paavai-engineering-college-pec-namakkal-1743196) | Paavai Engineering College (PEC), Namakkal | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
+| [St.Jude's Code Arena](https://unstop.com/hackathons/stjudes-code-arena-st-judes-public-schoolsjps-nilgiris-1743110) | St. Jude's Public School(SJPS), Nilgiris | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
+| [INIT'26 - Hackathon](https://unstop.com/hackathons/init26-hackathon-mukesh-patel-college-of-engineering-and-management-mpstme-1743123) | Mukesh Patel college of engineering and management, (MPSTME ) | India | 🏢 Onsite | — | 2026-09-06 | Unstop |
 | [HackRonyX 2.0](https://unstop.com/hackathons/hackronyx-20-st-vincent-pallotti-college-of-engineering-and-technology-svpcet-nagpur-1741857) | St. Vincent Pallotti College of Engineering and Technology (SVPCET), Nagpur | India | 🏢 Onsite | — | 2026-09-27 | Unstop |
 | [Advik - Live Case Study Competition](https://unstop.com/competitions/advik-live-case-study-competition-ccs-national-institute-of-agricultural-marketing-niam-jaipur-1742639) | C.C.S National Institute of Agricultural Marketing (NIAM), Jaipur | India | 🏢 Onsite | — | 2026-09-11 | Unstop |
 | [Prompt Challenge: AI Creativity Edition](https://unstop.com/competitions/prompt-challenge-ai-creativity-edition-sanjivani-university-kopargaon-1742612) | Sanjivani University, Kopargaon | India | 🏢 Onsite | — | 2026-08-31 | Unstop |
@@ -104,10 +108,6 @@
 | [Precision Care Challenge 2026](https://unstop.com/hackathons/crp-precision-care-challenge-2026-ge-healthcare-1731208) | GE HealthCare | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
 | [Aethon 2026 | 24-Hour National Hackathon](https://unstop.com/hackathons/aethon-2026-24-hour-national-hackathon-enac-3-day-innovation-entrepreneurship-fest-2026-central-university-of-1731459) | CENTRAL UNIVERSITY OF RAJASTHAN, AJMER KISHANGARDH | India | 🏢 Onsite | — | 2026-08-24 | Unstop |
 | [ReLead 9.0](https://unstop.com/competitions/crp-relead-90-renew-1728228) | ReNew | India | 🏢 Onsite | — | 2026-10-08 | Unstop |
-| [Code Rush 3.0](https://unstop.com/hackathons/code-rush-30-krishna-institute-of-engineering-and-technology-kiet-ghaziabad-1731472) | Krishna Institute of Engineering and Technology (KIET), Ghaziabad | India | 🏢 Onsite | — | 2026-09-05 | Unstop |
-| [AI with Initiative: AI Makes the First Move - Hackathon](https://unstop.com/hackathons/ai-with-initiative-ai-makes-the-first-move-hackathon-symbiosis-institute-of-digital-and-telecom-management-si-1731061) | Symbiosis Institute of Digital and Telecom Management (SIDTM) | India | 🏢 Onsite | — | 2026-09-05 | Unstop |
-| [Hackblox Open Source Hackathon](https://unstop.com/hackathons/hackblox-open-source-hackathon-hackers-cult-1731738) | Hackers Cult | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
-| [Bitmela Launchpad: Ideathon 01](https://unstop.com/hackathons/bitmela-launchpad-ideathon-01-bitmela-1722812) | Bitmela | India | 🏢 Onsite | — | 2026-10-31 | Unstop |
 
 ## Recently Expired
 

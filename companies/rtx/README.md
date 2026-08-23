@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Arlington, VA, Indianapolis, IN, Barrie, ON, Canada, Goleta, CA, Andover, MA
+- **Locations:** Arlington, VA, Indianapolis, IN, Andover, MA, Fort Wayne, IN, Goleta, CA
 
 ## Current Opportunities
 

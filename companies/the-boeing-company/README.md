@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Bristol, UK, Fleet, UK, Camberley, UK, Mesa, AZ, Seal Beach, CA, Hazelwood, MO, St. Louis, MO, Hazelwood, MO
+- **Locations:** Mesa, AZ, Seal Beach, CA, Bristol, UK, Fleet, UK, Camberley, UK, Hazelwood, MO, Huntsville, AL
 
 ## Current Opportunities
 
