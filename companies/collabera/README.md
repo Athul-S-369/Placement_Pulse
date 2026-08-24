@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Madison, WI, Waukegan, IL, Alameda, CA, Eagan, MN, Princeton, NJ
+- **Locations:** Oakland, CA, Alameda, CA, Waukegan, IL, Radcliff, KY, Eagan, MN
 
 ## Current Opportunities
 

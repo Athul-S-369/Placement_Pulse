@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Oshkosh, WI, Urbana, IL
+- **Categories:** Internship, Fresher Job
+- **Locations:** Urbana, IL, Oshkosh, WI
 
 ## Current Opportunities
 

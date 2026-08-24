@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**August 24, 2026** &nbsp;—&nbsp; **83** Fresher Job &nbsp;·&nbsp; **40** Internship &nbsp;·&nbsp; **7** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**August 24, 2026** &nbsp;—&nbsp; **83** Fresher Job &nbsp;·&nbsp; **40** Internship &nbsp;·&nbsp; **4** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**136 opportunities** added or updated in the latest run (August 24, 2026).
+**133 opportunities** added or updated in the latest run (August 24, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -128,12 +128,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Quantitative Developer](https://apply.workable.com/wallstreetquants/j/AA3FB20456/apply) | WallStreetQuants | Remote in USA | Fresher Job | Remote | — |
 | [Maps Personalization Relevance Rater - English](https://jobs.lever.co/weloglobal/7b07afde-d586-4945-9ef8-b41ca36a739b/apply) | Welo Global | Remote in Canada | Fresher Job | Remote | — |
 | [Full Stack Engineer](https://jobs.lever.co/hhaexchange/37711e74-f9e9-42c5-9c4f-66df2afab2e2/apply) | hhaexchange | Remote in USA | Fresher Job | Remote | — |
-| [ROTA Quiz](https://unstop.com/quiz/rota-quiz-harcourt-butler-technical-university-hbtu-kanpur-1743315) | Harcourt Butler Technical Un | India | Hackathon | Onsite | 2026-08-25 |
 | [The Minute - LV8 Tech Video Editor Hackathon](https://unstop.com/hackathons/the-minute-lv8-tech-video-editor-hackathon-lv8-tech-1743164) | LV8 Tech | India | Hackathon | Onsite | 2026-08-30 |
-| [Tarkshil - Hindi Debate Competition](https://unstop.com/events/tarkshil-hindi-debate-competition-maharaja-agrasen-institute-of-management-studies-maims-delhi-1743132) | Maharaja Agrasen Institute o | India | Hackathon | Onsite | 2026-09-11 |
-| [Maudrik V7.0: The Policy Case Event](https://unstop.com/competitions/maudrik-v70-the-policy-case-event-netaji-subhas-university-of-technology-nsut-delhi-1743329) | Netaji Subhas University of  | India | Hackathon | Onsite | 2026-09-08 |
-| [From AI Tools to Tech Careers](https://unstop.com/events/from-ai-tools-to-tech-careers-noobsync-innovations-1743189) | NoobSync Innovations | India | Hackathon | Onsite | 2026-09-06 |
-| [ShaSang A.I National Growth Strategy Challenge](https://unstop.com/competitions/shasang-ai-national-growth-strategy-challenge-shasang-ai-1743013) | ShaSang A.I | India | Hackathon | Onsite | 2026-09-06 |
+| [Aarohan V7.0-The Stock Market Simulation](https://unstop.com/competitions/aarohan-v70-the-stock-market-simulation-consilium26-netaji-subhas-university-of-technology-nsut-delhi-1743345) | Netaji Subhas University of  | India | Hackathon | Onsite | 2026-09-06 |
+| [RANKUP AI Quest - AI Skills Challenge](https://unstop.com/quiz/rankup-ai-quest-ai-skills-challenge-rankup-1743406) | RANKUP | India | Hackathon | Onsite | 2026-09-01 |
 | [How Machines Find Their Way: The Technology Behind Autonomou...](https://unstop.com/workshops-webinars/how-machines-find-their-way-the-technology-behind-autonomous-navigation-techbairn-1743221) | TechBairn | India | Hackathon | Onsite | 2026-08-26 |
 | [Modelling Resident](https://jobs.ashbyhq.com/adaption/3acd56ba-3085-441e-ba75-e6252ce3d566/application) | Adaption Labs | Remote in USA | Internship | Remote | — |
 | [Careers at Adobe](https://careers.adobe.com/us/en/) | Adobe | India | Internship | Onsite | — |
@@ -298,6 +295,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-08-24 02:10 UTC</sub>
+<sub>Last generated: 2026-08-24 09:25 UTC</sub>
 
 </div>

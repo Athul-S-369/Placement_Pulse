@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Columbus, OH, Bloomington, MN, Manassas, VA, NYC, Dublin, OH
+- **Categories:** Internship, Fresher Job
+- **Locations:** Baltimore, MD, Bloomington, MN, Traverse City, MI, NYC, Chicago, IL
 
 ## Current Opportunities
 
