@@ -1,6 +1,6 @@
 # 🏢 BBS College of Engineering and Technology (BBSCET), Allahabad, Uttar Pradesh
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-23*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-24*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Nexora Launchpad 2026](https://unstop.com/competitions/nexora-launchpad-2026-bbs-college-of-engineering-and-technology-bbscet-allahabad-uttar-pradesh-1734181) | BBS College of Engineering and Technology (BBSCET), Allahabad, Uttar Pradesh | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,6 +1,6 @@
 # 🏢 Robert Bosch Venture Capital
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-23*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-24*
 
 ## Overview
 

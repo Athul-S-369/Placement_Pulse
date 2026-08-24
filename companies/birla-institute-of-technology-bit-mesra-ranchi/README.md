@@ -1,6 +1,6 @@
 # 🏢 Birla Institute of Technology (BIT), Mesra, Ranchi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-23*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-24*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Tech-A-Thon 5.0](https://unstop.com/hackathons/tech-a-thon-50-bit-mesra-ranchi-1699177) | Birla Institute of Technology (BIT), Mesra, Ranchi | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
 
 ## 📖 Interview Preparation
 

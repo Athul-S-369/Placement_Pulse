@@ -1,6 +1,6 @@
 # 🏢 Symbiosis Institute of Business Management (SIBM), Nagpur, Maharashtra
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-23*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-24*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Yukti](https://unstop.com/competitions/yukti-symbiosis-institute-of-business-management-sibm-nagpur-maharashtra-1729807) | Symbiosis Institute of Business Management (SIBM), Nagpur, Maharashtra | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
 
 ## 📖 Interview Preparation
 

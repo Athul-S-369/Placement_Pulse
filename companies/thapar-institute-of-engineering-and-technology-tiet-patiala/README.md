@@ -1,6 +1,6 @@
 # 🏢 Thapar Institute of Engineering and Technology (TIET), Patiala
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-23*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-24*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Cosmicathon : National Level Product Building Hackathon](https://unstop.com/competitions/cosmicathon-national-level-product-building-hackathon-thapar-institute-of-engineering-and-technology-tiet-p-1724180) | Thapar Institute of Engineering and Technology (TIET), Patiala | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
 
 ## 📖 Interview Preparation
 

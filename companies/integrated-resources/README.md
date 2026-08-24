@@ -1,11 +1,11 @@
 # 🏢 Integrated Resources
 
-**12 active opportunities** | **12 total tracked** | *Last updated: 2026-08-23*
+**12 active opportunities** | **12 total tracked** | *Last updated: 2026-08-24*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Westborough, MA, Santa Clara, CA, Exton, PA, Cambridge, MA, Ambler, PA
+- **Locations:** Cambridge, MA, Ambler, PA, Exton, PA, Westborough, MA, Birmingham, AL
 
 ## Current Opportunities
 

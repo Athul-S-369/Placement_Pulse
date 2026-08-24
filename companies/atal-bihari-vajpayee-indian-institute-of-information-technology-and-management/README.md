@@ -1,6 +1,6 @@
 # 🏢 Atal Bihari Vajpayee-Indian Institute of Information Technology and Management
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-23*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-24*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Cloudforge](https://unstop.com/hackathons/cloudforge-atal-bihari-vajpayee-indian-institute-of-information-technology-and-management-1741840) | Atal Bihari Vajpayee-Indian Institute of Information Technology and Management | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
 
 ## 📖 Interview Preparation
 

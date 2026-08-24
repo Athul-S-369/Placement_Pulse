@@ -1,11 +1,11 @@
 # 🏢 Allica Bank
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-23*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-24*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Milton Keynes, UK, London, UK
+- **Locations:** London, UK, Milton Keynes, UK
 
 ## Current Opportunities
 
