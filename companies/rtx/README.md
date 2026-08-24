@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Fort Wayne, IN, Barrie, ON, Canada, McKinney, TX, Goleta, CA, Arlington, VA
+- **Locations:** Arlington, VA, McKinney, TX, Fort Wayne, IN, Goleta, CA, Barrie, ON, Canada
 
 ## Current Opportunities
 
