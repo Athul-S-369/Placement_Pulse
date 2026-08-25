@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** United States, Austin, TX, California, Lafayette, KS, Santa Clara, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** SF, Beaverton, OR, Austin, TX, San Jose, CA, London, UK, Cambridge, UK, Welwyn Garden City, UK
 
 ## Current Opportunities
 

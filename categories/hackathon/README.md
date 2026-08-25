@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**167 active** | **360 expired** | **527 total**
+**170 active** | **360 expired** | **530 total**
 
 *Last updated: 2026-08-25*
 
@@ -11,6 +11,9 @@
 | [Relai PropTech Challenge 2026](https://unstop.com/competitions/relai-proptech-challenge-2026-relai-world-1742576) | relai world | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 | [Geeks2Code](https://unstop.com/hackathons/geeks2code-geeksforgeeks-campus-body-miet-1740788) | GeeksForGeeks Campus Body MIET | India | 🏢 Onsite | — | 2026-09-21 | Unstop |
 | [KNSIT Tech Community](https://unstop.com/hackathons/knsit-tech-community-kns-institute-of-technology-karnataka-1743721) | KNS Institute of Technology, Karnataka | India | 🏢 Onsite | — | 2026-09-30 | Unstop |
+| [Vision: Idea Pitching](https://unstop.com/competitions/vision-idea-pitching-techvision-2k26-srm-university-1743776) | SRM University | India | 🏢 Onsite | — | 2026-09-15 | Unstop |
+| [Anakin Forge Hackathon](https://unstop.com/hackathons/anakin-forge-hackathon-anakin-skywalker-pvt-ltd-1742485) | Anakin Skywalker Pvt. Ltd. | India | 🏢 Onsite | — | 2026-09-13 | Unstop |
+| [ISB Leadership Delegate Challenge 2026](https://unstop.com/quiz/isb-leadership-delegate-challenge-2026-indian-school-of-business-isb-1743690) | Indian School of Business (ISB) | India | 🏢 Onsite | — | 2026-09-29 | Unstop |
 | [Maudrik V7.0: The Policy Case Event](https://unstop.com/competitions/maudrik-v70-the-policy-case-event-netaji-subhas-university-of-technology-nsut-delhi-1743329) | Netaji Subhas University of Technology (NSUT), Delhi | India | 🏢 Onsite | — | 2026-09-08 | Unstop |
 | [ROTA Quiz](https://unstop.com/quiz/rota-quiz-harcourt-butler-technical-university-hbtu-kanpur-1743315) | Harcourt Butler Technical University (HBTU), Kanpur | India | 🏢 Onsite | — | 2026-08-25 | Unstop |
 | [ShaSang A.I National Growth Strategy Challenge](https://unstop.com/competitions/shasang-ai-national-growth-strategy-challenge-shasang-ai-1743013) | ShaSang A.I | India | 🏢 Onsite | — | 2026-09-06 | Unstop |
@@ -105,9 +108,6 @@
 | [Case-ette 7.0 | Case Study Competition](https://unstop.com/competitions/case-ette-70-case-study-competition-sri-guru-gobind-singh-college-of-commerce-sggscc-new-delhi-1732629) | Sri Guru Gobind Singh College of Commerce (SGGSCC), New Delhi | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 | [Edge AI Hackathon 2026](https://unstop.com/hackathons/edge-ai-hackathon-2026-parala-maharaja-engineering-college-berhampur-1720578) | Parala Maharaja Engineering College, Berhampur | India | 🏢 Onsite | — | 2026-10-06 | Unstop |
 | [Webscape](https://unstop.com/competitions/webscape-coep-mindspark-1733306) | COEP MindSpark | India | 🏢 Onsite | — | 2026-09-29 | Unstop |
-| [Precision Care Challenge 2026](https://unstop.com/hackathons/crp-precision-care-challenge-2026-ge-healthcare-1731208) | GE HealthCare | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
-| [ReLead 9.0](https://unstop.com/competitions/crp-relead-90-renew-1728228) | ReNew | India | 🏢 Onsite | — | 2026-10-08 | Unstop |
-| [Code Rush 3.0](https://unstop.com/hackathons/code-rush-30-krishna-institute-of-engineering-and-technology-kiet-ghaziabad-1731472) | Krishna Institute of Engineering and Technology (KIET), Ghaziabad | India | 🏢 Onsite | — | 2026-09-05 | Unstop |
 
 ## Recently Expired
 

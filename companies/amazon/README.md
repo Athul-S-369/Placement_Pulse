@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Hackathon, Fresher Job
-- **Locations:** NYC, Culver City, CA, Santa Clara, CA, Boston, MA, Seattle, WA, Denver, CO, SF, Arlington, VA, Sunnyvale, CA, Brooklyn, NY, Williston Park, NY, Bellevue, WA, Tempe, AZ, NYC, Seattle, WA, Wakefield, MA, Westborough, MA
+- **Categories:** Fresher Job, Internship, Hackathon
+- **Locations:** Tempe, AZ, Winnipeg, MB, Canada, Toronto, ON, Canada, Victoria, BC, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, India, Tennessee, Chennai, Tamil Nadu, India, Indiana, Seattle, WA, SF
 
 ## Current Opportunities
 

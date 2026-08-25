@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** El Segundo, CA, Jefferson City, MO, California City, CA, St. Louis, MO, Bloomington, MN
+- **Categories:** Fresher Job, Internship
+- **Locations:** El Segundo, CA, Traverse City, MI, Washington, DC, Columbus, OH, Westminster, CO
 
 ## Current Opportunities
 
