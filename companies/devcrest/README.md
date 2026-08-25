@@ -1,6 +1,6 @@
 # 🏢 DevCrest
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-24*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-25*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [DevCrest Buildathon '26](https://unstop.com/hackathons/devcrest-buildathon-26-devcrest-1734263) | DevCrest | India | 🏢 Onsite | — | 2026-08-24 | Unstop |
 
 ## 📖 Interview Preparation
 

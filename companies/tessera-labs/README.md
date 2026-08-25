@@ -1,11 +1,11 @@
 # 🏢 Tessera Labs
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-24*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-25*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** San Jose, CA, Remote in USA, NYC, Remote in USA
+- **Locations:** Remote in USA, San Jose, CA, Remote in USA, NYC
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Technology (IIT), Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-24*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-25*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [WasteChakra 2026](https://unstop.com/competitions/wastechakra-2026-iit-delhi-1723889) | Indian Institute of Technology (IIT), Delhi | India | 🏢 Onsite | — | 2026-08-24 | Unstop |
 
 ## 📖 Interview Preparation
 

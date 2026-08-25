@@ -1,6 +1,6 @@
 # 🏢 Pranveer Singh Institute of Technology (PSIT), Kanpur
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-24*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-25*
 
 ## Overview
 

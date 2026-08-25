@@ -1,11 +1,11 @@
 # 🏢 Jobs for Humanity
 
-**8 active opportunities** | **8 total tracked** | *Last updated: 2026-08-24*
+**8 active opportunities** | **8 total tracked** | *Last updated: 2026-08-25*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Philadelphia, PA, Pasadena, CA, Atlanta, GA, Bakersfield, CA, Manchester, UK
+- **Locations:** Manchester, UK, Kansas City, MO, Philadelphia, PA, Whiteley, UK, Cardiff, UK, Bakersfield, CA
 
 ## Current Opportunities
 

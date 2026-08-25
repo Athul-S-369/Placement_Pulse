@@ -1,13 +1,15 @@
 # 💼 Fresher Job
 
-**1319 active** | **0 expired** | **1319 total**
+**1321 active** | **0 expired** | **1321 total**
 
-*Last updated: 2026-08-24*
+*Last updated: 2026-08-25*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Data Scientist](https://careers-libertymutual.icims.com/jobs/77179/job?mobile=true&needsRedirect=false) | Liberty Mutual | Boston, MA, Seattle, WA, Remote in USA, Plano, TX | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Data Backend Engineer - Trust & Safety](https://www.yelp.careers/us/en/job/14018) | Yelp | Montreal, QC, Canada, Toronto, ON, Canada, Calgary, AB, Canada, Remote in Canada, Vancouver, BC, Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Field Technician 1](https://internaljobs.centurylink.com/job/INDIANAPOLIS-Field-Technician-I-INDIANAPOLIS,-IN-IN-46225/1422440100/?ats=successfactors) | CenturyLink | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Associate Forward Deployed Engineer](https://medable.wd503.myworkdayjobs.com/explore-career-opportunities/job/United-Kingdom/Associate-Forward-Deployed-Engineer_JR100219) | Medable | Remote in UK, Remote in Ireland | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Developer - Distributed Simulation Technology](https://onearc.bamboohr.com/careers/402/) | BAE Systems OneArc USA, Inc | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -106,5 +108,3 @@
 | [Data Scientist](https://ats.rippling.com/genlogs-corporation/jobs/127f98d1-b702-4395-a25c-0f7ebc98881b) | GenLogs | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Media and Marketing Data Scientist](https://ats.rippling.com/gofishdigital/jobs/78b97903-efc2-4c55-9c55-8e414006200b) | Go Fish Digital | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Authentication Specialist 1 - Blg](https://www.entrupy.com/careers/apply/?gh_jid=5094287007) | Entrupy | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [AI Solutions Associate](https://digitalunitedllc.applytojob.com/apply/KKyp2mtDHH/AI-Solutions-Associate) | Digital United | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [AI Enablement Strategist](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-Enablement-Strategist--New-College-Graduate-_JR-2600365) | GlobalFoundries | Malta, NY, Bengaluru, Karnataka, India | 🏢 Onsite | — | — | SimplifyJobs New Grad |

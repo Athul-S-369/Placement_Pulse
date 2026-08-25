@@ -1,6 +1,6 @@
 # 🏢 Thakur Ramnarayan College of Arts and Commerce
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-24*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-25*
 
 ## Overview
 

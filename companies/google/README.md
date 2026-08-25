@@ -1,11 +1,11 @@
 # 🏢 Google
 
-**5 active opportunities** | **6 total tracked** | *Last updated: 2026-08-24*
+**5 active opportunities** | **6 total tracked** | *Last updated: 2026-08-25*
 
 ## Overview
 
-- **Categories:** Fresher Job, Open Source Program
-- **Locations:** Seattle, WA, Irvine, CA, London, UK, Sunnyvale, CA, Remote
+- **Categories:** Open Source Program, Fresher Job
+- **Locations:** Mountain View, CA, Irvine, CA, Remote, Seattle, WA, Sunnyvale, CA
 
 ## Current Opportunities
 

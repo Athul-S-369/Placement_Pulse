@@ -1,6 +1,6 @@
 # 🏢 LV8 Tech
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-24*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-25*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [CardioViz XR: 48-Hour Medical Animation Challenge](https://unstop.com/hackathons/cardioviz-xr-48-hour-medical-animation-challenge-lv8-tech-1738943) | LV8 Tech | India | 🏢 Onsite | — | 2026-08-24 | Unstop |
 
 ## 📖 Interview Preparation
 

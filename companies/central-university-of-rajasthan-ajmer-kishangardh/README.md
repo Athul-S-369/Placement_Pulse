@@ -1,6 +1,6 @@
 # 🏢 CENTRAL UNIVERSITY OF RAJASTHAN, AJMER KISHANGARDH
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-24*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-25*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Aethon 2026 | 24-Hour National Hackathon](https://unstop.com/hackathons/aethon-2026-24-hour-national-hackathon-enac-3-day-innovation-entrepreneurship-fest-2026-central-university-of-1731459) | CENTRAL UNIVERSITY OF RAJASTHAN, AJMER KISHANGARDH | India | 🏢 Onsite | — | 2026-08-24 | Unstop |
 
 ## 📖 Interview Preparation
 

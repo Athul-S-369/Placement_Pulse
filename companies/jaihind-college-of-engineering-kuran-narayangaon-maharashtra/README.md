@@ -1,6 +1,6 @@
 # 🏢 Jaihind College of Engineering (Kuran), Narayangaon, Maharashtra
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-24*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-25*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Startup Pitching Competition](https://unstop.com/competitions/startup-pitching-competition-jaihind-college-of-engineering-kuran-narayangaon-maharashtra-1739244) | Jaihind College of Engineering (Kuran), Narayangaon, Maharashtra | India | 🏢 Onsite | — | 2026-08-24 | Unstop |
 
 ## 📖 Interview Preparation
 
