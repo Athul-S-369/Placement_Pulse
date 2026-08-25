@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** SF, Beaverton, OR, Austin, TX, San Jose, CA, London, UK, Cambridge, UK, Welwyn Garden City, UK
+- **Categories:** Internship, Fresher Job
+- **Locations:** Beaverton, OR, Gloucester, UK, United States, SF, Morrisville, NC
 
 ## Current Opportunities
 

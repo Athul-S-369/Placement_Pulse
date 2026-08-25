@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Andover, MA, Longueuil, QC, Canada, Huntsville, AL, Barrie, ON, Canada, Arlington, VA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Huntsville, AL, Longueuil, QC, Canada, Goleta, CA, Barrie, ON, Canada, Andover, MA
 
 ## Current Opportunities
 
