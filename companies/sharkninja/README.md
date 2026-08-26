@@ -1,11 +1,11 @@
 # 🏢 SharkNinja
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-25*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-26*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Needham, MA, Miami, FL
+- **Locations:** Miami, FL, Needham, MA
 
 ## Current Opportunities
 

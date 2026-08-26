@@ -1,6 +1,6 @@
 # 🏢 Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Pune
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-25*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-26*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Eureka! Pitching Competition 2026](https://unstop.com/competitions/eureka-pitching-competition-2026-rasiklal-m-dhariwal-sinhgad-technical-institutes-campus-pune-1737127) | Rasiklal M. Dhariwal Sinhgad Technical Institutes Campus, Pune | India | 🏢 Onsite | — | 2026-08-25 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,13 +1,14 @@
 # 🎓 Internship
 
-**783 active** | **0 expired** | **783 total**
+**784 active** | **0 expired** | **784 total**
 
-*Last updated: 2026-08-25*
+*Last updated: 2026-08-26*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [AI Prototyper Resident](https://jobs.ashbyhq.com/the%20browser%20company/abaefc4c-b229-431c-bec3-dd3e07ae0e09/application?embed=true) | The Browser Company | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern - Multiple Teams](https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436) | Availity | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Graduate Energy Systems Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Boulder-CO/Graduate-Summer-Intern---Modeling-and-Analysis-of-Distributed-Hybrid-Energy-Systems_R14469) | National Laboratory of the Rockies | Remote in USA, Boulder, CO | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01867067) | RTX | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [AI/ML Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/AI-ML-Intern_1195728) | Hewlett Packard Enterprise | San Jose, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Software Developer Internship](https://llbean.wd1.myworkdayjobs.com/en-US/LLBean_Careers/job/Freeport-ME/Software-Developer-Internship_JR10190) | L.L.Bean | Freeport, ME | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Junior Software Engineer – Internship](https://job-boards.greenhouse.io/aechelontechnology/jobs/4831334008) | Aechelon Technology | Overland Park, KS | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Software Developer – Co-op - Engineering - Ruby on Rails, AngularJS, React Native, MySQL, Redis, ElasticSearch](https://clio.wd3.myworkdayjobs.com/en-US/ClioCareerSite/job/Vancouver/Software-Developer--Co-op_REQ-1577) | Clio | Toronto, ON, Canada, Calgary, AB, Canada, Vancouver, BC, Canada | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

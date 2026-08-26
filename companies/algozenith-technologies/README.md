@@ -1,6 +1,6 @@
 # 🏢 AlgoZenith Technologies
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-25*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-26*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Product & Design Challenge](https://unstop.com/competitions/product-design-challenge-product-and-design-challenge-algozenith-technologies-1718305) | AlgoZenith Technologies | India | 🏢 Onsite | — | 2026-08-25 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,6 +1,6 @@
 # 🏢 HI-Tech Institute Of Engineering And Technology (HIET), Ghaziabad
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-25*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-26*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Frontend Development Quiz Competition 2026](https://unstop.com/quiz/frontend-development-quiz-competition-2026-hi-tech-institute-of-engineering-and-technology-hiet-ghaziabad-1735201) | HI-Tech Institute Of Engineering And Technology (HIET), Ghaziabad | India | 🏢 Onsite | — | 2026-08-25 | Unstop |
 
 ## 📖 Interview Preparation
 

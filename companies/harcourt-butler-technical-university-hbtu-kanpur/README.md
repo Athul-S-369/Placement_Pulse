@@ -1,6 +1,6 @@
 # 🏢 Harcourt Butler Technical University (HBTU), Kanpur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-25*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-26*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [ROTA Quiz](https://unstop.com/quiz/rota-quiz-harcourt-butler-technical-university-hbtu-kanpur-1743315) | Harcourt Butler Technical University (HBTU), Kanpur | India | 🏢 Onsite | — | 2026-08-25 | Unstop |
 
 ## 📖 Interview Preparation
 

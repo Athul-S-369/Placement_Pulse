@@ -1,11 +1,11 @@
 # 🏢 Apple
 
-**17 active opportunities** | **17 total tracked** | *Last updated: 2026-08-25*
+**17 active opportunities** | **17 total tracked** | *Last updated: 2026-08-26*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Beaverton, OR, Gloucester, UK, United States, SF, Morrisville, NC
+- **Categories:** Fresher Job, Internship
+- **Locations:** SF, Morrisville, NC, London, UK, Cambridge, UK, Welwyn Garden City, UK, Seattle, WA, Gloucester, UK
 
 ## Current Opportunities
 
