@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**170 active** | **366 expired** | **536 total**
+**171 active** | **368 expired** | **539 total**
 
 *Last updated: 2026-08-26*
 
@@ -11,6 +11,7 @@
 | [Global Equity Investing Competition Season 4](https://unstop.com/competitions/global-equity-investing-competition-season-4-valuation-master-class-boot-camp-1743072) | Valuation Master Class Boot Camp | India | 🏢 Onsite | — | 2026-09-09 | Unstop |
 | [Decarbonix 1.0](https://unstop.com/hackathons/decarbonix-10-dr-ss-bhatnagar-university-institute-of-chemical-engineering-technology-panjab-university-chand-1743102) | Dr SS Bhatnagar University Institute of Chemical Engineering & Technology, Panjab University, Chandigarh | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
 | [Aarambh'26](https://unstop.com/workshops-webinars/aarambh26-inderprastha-engineering-college-1744157) | Inderprastha Engineering College | India | 🏢 Onsite | — | 2026-08-30 | Unstop |
+| [HackCelestial 3.0](https://unstop.com/hackathons/hackcelestial-30-pillai-university-navi-mumbai-1737808) | Pillai University, Navi Mumbai | India | 🏢 Onsite | — | 2026-09-27 | Unstop |
 | [Relai PropTech Challenge 2026](https://unstop.com/competitions/relai-proptech-challenge-2026-relai-world-1742576) | relai world | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 | [Geeks2Code](https://unstop.com/hackathons/geeks2code-geeksforgeeks-campus-body-miet-1740788) | GeeksForGeeks Campus Body MIET | India | 🏢 Onsite | — | 2026-09-21 | Unstop |
 | [KNSIT Tech Community](https://unstop.com/hackathons/knsit-tech-community-kns-institute-of-technology-karnataka-1743721) | KNS Institute of Technology, Karnataka | India | 🏢 Onsite | — | 2026-09-30 | Unstop |
@@ -107,7 +108,6 @@
 | [HACK HIVE 2.0](https://unstop.com/competitions/hack-hive-20-school-of-data-science-and-forecasting-indore-1733098) | School of data science and forecasting, Indore | India | 🏢 Onsite | — | 2026-08-31 | Unstop |
 | [The L’Oréal Edge - Beauty Tech Track](https://unstop.com/competitions/crp-the-loreal-edge-beauty-tech-track-the-loreal-edge-loreal-1727748) | Loreal | India | 🏢 Onsite | — | 2026-08-28 | Unstop |
 | [Case-ette 7.0 | Case Study Competition](https://unstop.com/competitions/case-ette-70-case-study-competition-sri-guru-gobind-singh-college-of-commerce-sggscc-new-delhi-1732629) | Sri Guru Gobind Singh College of Commerce (SGGSCC), New Delhi | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
-| [Edge AI Hackathon 2026](https://unstop.com/hackathons/edge-ai-hackathon-2026-parala-maharaja-engineering-college-berhampur-1720578) | Parala Maharaja Engineering College, Berhampur | India | 🏢 Onsite | — | 2026-10-06 | Unstop |
 
 ## Recently Expired
 
