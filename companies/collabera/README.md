@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Salt Lake City, UT, Eagan, MN, Oakland, CA, Alameda, CA, Waukegan, IL
+- **Locations:** Waukegan, IL, Alameda, CA, Oakland, CA, Salt Lake City, UT, Calgary, AB, Canada
 
 ## Current Opportunities
 

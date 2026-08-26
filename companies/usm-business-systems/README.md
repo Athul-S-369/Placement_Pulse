@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Bluemont, VA, Alexandria, VA, Baltimore, MD, Manassas, VA, St. Louis, MO
+- **Categories:** Internship, Fresher Job
+- **Locations:** Dublin, OH, Chantilly, VA, El Segundo, CA, Traverse City, MI, Augusta, ME
 
 ## Current Opportunities
 
