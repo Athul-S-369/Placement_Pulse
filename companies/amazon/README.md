@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Hackathon, Internship, Fresher Job
-- **Locations:** Tempe, AZ, Bellevue, WA, Tennessee, Chennai, Tamil Nadu, India, Indiana, Seattle, WA, Winnipeg, MB, Canada, Toronto, ON, Canada, Victoria, BC, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada
+- **Categories:** Internship, Hackathon, Fresher Job
+- **Locations:** NYC, Seattle, WA, Sunnyvale, CA, Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington, VA, NYC, Bellevue, WA, San Diego, CA, Indianapolis, IN, Hyderabad, Telangana, India
 
 ## Current Opportunities
 

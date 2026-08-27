@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Broomfield, CO, St. Louis, MO, Novato, CA, Sunnyvale, CA, Plainview, NY
+- **Locations:** NYC, Plainview, NY, Sunnyvale, CA, Hartford, CT, Novato, CA
 
 ## Current Opportunities
 

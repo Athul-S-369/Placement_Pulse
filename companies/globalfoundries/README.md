@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Malta, NY, Malta, NY, Bengaluru, Karnataka, India, Richardson, TX, Burlington, VT
+- **Locations:** Richardson, TX, Burlington, VT, Malta, NY, Malta, NY, Bengaluru, Karnataka, India
 
 ## Current Opportunities
 

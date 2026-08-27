@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1327 active** | **0 expired** | **1327 total**
+**1329 active** | **0 expired** | **1329 total**
 
 *Last updated: 2026-08-27*
 
@@ -9,6 +9,8 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [Analyst 1](https://jobs.lever.co/hsag/2937f26a-3e66-4d42-ba61-c26e5b52f488/apply) | Health Services Advisory Group | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Audio-Visual Support Technician](https://careers.avispl.com/jobs/11987?icims=1) | AVI-SPL | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
+| [C++ Developer](https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4844280101) | think-cell | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Field Service Engineer](https://careers.ocadogroup.com/jobs/details?gh_jid=4960695101&gh_jid=4960695101) | Ocado Group | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Engineer Graduate Level](https://www.newrocket.com/careers/job?gh_jid=6163544004&gh_jid=6163544004) | NewRocket | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Analyst](https://careers.aflac.com/job/Remote-Data-Analyst-31999/1423406100/?ats=successfactors) | Aflac | Remote in USA, Georgia | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -106,5 +108,3 @@
 | [Associate Product Manager - Software and Databases - New Techniques](https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Remote-Ontario-CAN/Associate-Product-Manager---Software-and-Databases---New-Techniques_R2601031) | John Wiley & Sons | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate AI Automation Engineer/AI Automation Engineer](https://careers-appliedsystems.icims.com/jobs/7719/job?mobile=true&needsRedirect=false) | Applied Systems, Inc. | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Securities Finance Trader](https://job-boards.greenhouse.io/alpaca/jobs/6123649004) | Alpaca | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Survey Programmer - Contractor](https://ats.rippling.com/kielo/jobs/a9da7211-44de-456a-9587-6f4b31110155) | Kielo Research | Remote in India, Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [SAP Principal Architect - Transportation Management](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/SAP-Principal-Architect--Transportation-Management_R-244752) | Amgen | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

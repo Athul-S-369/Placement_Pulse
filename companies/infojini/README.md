@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Battle Creek, MI, Columbia, SC, Atlanta, GA
+- **Locations:** Columbia, SC, Atlanta, GA, Battle Creek, MI
 
 ## Current Opportunities
 
