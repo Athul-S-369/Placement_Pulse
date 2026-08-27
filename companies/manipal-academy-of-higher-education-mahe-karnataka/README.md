@@ -1,6 +1,6 @@
 # 🏢 Manipal Academy of Higher Education (MAHE), Karnataka
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-26*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-27*
 
 ## Overview
 

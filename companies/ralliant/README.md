@@ -1,11 +1,11 @@
 # 🏢 Ralliant
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-26*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-27*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Wenden, Germany, Bracknell, UK, France, Beaverton, OR
+- **Locations:** Beaverton, OR, Wenden, Germany, Bracknell, UK, France
 
 ## Current Opportunities
 

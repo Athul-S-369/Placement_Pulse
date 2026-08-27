@@ -1,6 +1,6 @@
 # 🏢 AMP Digital
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-26*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-27*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AI powered Performance Marketing by Amitabh (ex-Google)](https://unstop.com/workshops-webinars/ai-powered-performance-marketing-by-amitabh-ex-google-amp-digital-1735940) | AMP Digital | India | 🏢 Onsite | — | 2026-08-26 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,13 +1,17 @@
 # 🎓 Internship
 
-**784 active** | **0 expired** | **784 total**
+**788 active** | **0 expired** | **788 total**
 
-*Last updated: 2026-08-26*
+*Last updated: 2026-08-27*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Energy Markets Intern](https://jobs.lever.co/voltus/b7833dd8-d742-44d8-aae2-2e7de7541ce4/apply) | Voltus | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [Software Engineer Intern](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a/application?embed=true) | Realm | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Software Engineer Intern - Artificial Intelligence](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648) | Leidos | Remote in USA, Shiloh, IL, Odenton, MD | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Applied AI Engineer Intern - Government Healthcare Solutions](https://egua.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25529) | Conduent | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [AI Prototyper Resident](https://jobs.ashbyhq.com/the%20browser%20company/abaefc4c-b229-431c-bec3-dd3e07ae0e09/application?embed=true) | The Browser Company | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern - Multiple Teams](https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436) | Availity | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Graduate Energy Systems Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Boulder-CO/Graduate-Summer-Intern---Modeling-and-Analysis-of-Distributed-Hybrid-Energy-Systems_R14469) | National Laboratory of the Rockies | Remote in USA, Boulder, CO | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -104,7 +108,3 @@
 | [2026 Summer Intern, PhD, Software Engineer, Predictive Planner ML/DL](https://careers.withwaymo.com/jobs/2026-summer-intern-phd-software-engineer-predictive-planner-ml-dl-mountain-view-california-united-states?gh_jid=7368864) | Waymo | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [2026 U.S Summer Internship Program: AI Solution Developer – ShinrAI Center for AI/ML](https://takeda.wd3.myworkdayjobs.com/en-US/External/job/Cambridge-MA/XMLNAME-2026-US-Summer-Internship-Program--AI-Solution-Developer---ShinrAI-Center-for-AI-ML_R0166470) | Takeda | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Frontend Engineering Intern](https://job-boards.greenhouse.io/thenewyorktimes/jobs/4624587005) | The New York Times | New York, NY | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Software Engineer (AI/ML) Intern](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Austin-TX/Software-Engineer--AI-ML--Intern_2532241-1) | KLA | Austin, TX, Milpitas, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [AI/ML Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/San-Jose-California-United-States-of-America/AI-ML-Intern_1195728) | Hewlett Packard Enterprise | San Jose, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Software Developer Internship](https://llbean.wd1.myworkdayjobs.com/en-US/LLBean_Careers/job/Freeport-ME/Software-Developer-Internship_JR10190) | L.L.Bean | Freeport, ME | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Junior Software Engineer – Internship](https://job-boards.greenhouse.io/aechelontechnology/jobs/4831334008) | Aechelon Technology | Overland Park, KS | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

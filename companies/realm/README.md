@@ -1,16 +1,17 @@
 # 🏢 Realm
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-26*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-27*
 
 ## Overview
 
-- **Categories:** Fresher Job
-- **Locations:** Remote in US
+- **Categories:** Internship, Fresher Job
+- **Locations:** Remote in USA, Remote in US
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer Intern](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a/application?embed=true) | Realm | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer - New Grad](https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f) | Realm | Remote in US | 🌐 Remote | — | — | SimplifyJobs New Grad |
 
 ## 📖 Interview Preparation

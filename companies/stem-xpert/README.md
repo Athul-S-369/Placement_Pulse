@@ -1,11 +1,11 @@
 # 🏢 STEM Xpert
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-26*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-27*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Alpharetta, GA, NYC, East Lansing, MI
+- **Locations:** Alpharetta, GA, East Lansing, MI, NYC
 
 ## Current Opportunities
 

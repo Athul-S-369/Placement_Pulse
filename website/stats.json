@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-26T18:20:21.157493Z",
-  "date": "2026-08-26",
-  "total": 2655,
-  "active": 2286,
-  "new_today": 132,
-  "companies": 1984,
+  "generated_at": "2026-08-27T10:11:29.833432Z",
+  "date": "2026-08-27",
+  "total": 2661,
+  "active": 2290,
+  "new_today": 138,
+  "companies": 1987,
   "categories": {
-    "fresher-job": 1326,
-    "internship": 784,
-    "hackathon": 539,
+    "fresher-job": 1327,
+    "internship": 788,
+    "hackathon": 540,
     "open-source-program": 2,
     "fellowship": 2,
     "student-ambassador": 2
@@ -79,6 +79,10 @@
       "count": 8
     },
     {
+      "name": "Leidos",
+      "count": 8
+    },
+    {
       "name": "Tenstorrent",
       "count": 7
     },
@@ -89,16 +93,12 @@
     {
       "name": "Meta",
       "count": 7
-    },
-    {
-      "name": "John Deere",
-      "count": 7
     }
   ],
   "domain_tags": {
-    "ai-ml": 342,
+    "ai-ml": 344,
     "data-science": 180,
-    "software-engineering": 424,
+    "software-engineering": 426,
     "backend": 17,
     "embedded": 47,
     "cybersecurity": 20,
@@ -109,7 +109,7 @@
     "cloud": 26
   },
   "work_modes": {
-    "remote": 371,
-    "onsite": 2284
+    "remote": 376,
+    "onsite": 2285
   }
 }

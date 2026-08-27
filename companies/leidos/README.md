@@ -1,16 +1,17 @@
 # 🏢 Leidos
 
-**7 active opportunities** | **7 total tracked** | *Last updated: 2026-08-26*
+**8 active opportunities** | **8 total tracked** | *Last updated: 2026-08-27*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Indianapolis, IN, Huntsville, AL, Reston, VA, Aurora, CO, Annapolis Junction, MD, Alexandria, VA, San Diego, CA, Columbia, MD
+- **Locations:** Chesapeake, VA, Annapolis Junction, MD, Huntsville, AL, Indianapolis, IN, Remote in USA, Shiloh, IL, Odenton, MD
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer Intern - Artificial Intelligence](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648) | Leidos | Remote in USA, Shiloh, IL, Odenton, MD | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Application Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1) | Leidos | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [PCBA Soldering Technician](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Aoldering-Technician_R-00170309) | Leidos | Huntsville, AL | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Software Engineer TS/SCI Poly](https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Engineer-TS-SCI-Poly_R-00179080) | Leidos | Aurora, CO, Annapolis Junction, MD, Alexandria, VA, San Diego, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
