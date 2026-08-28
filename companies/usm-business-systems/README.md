@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Columbus, OH, Washington, DC, El Segundo, CA, San Antonio, TX, Traverse City, MI
+- **Categories:** Fresher Job, Internship
+- **Locations:** Traverse City, MI, San Antonio, TX, Columbus, OH, Westminster, CO, El Segundo, CA
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Fort Wayne, IN, Huntsville, AL, Arlington, VA, Andover, MA, Barrie, ON, Canada
+- **Categories:** Fresher Job, Internship
+- **Locations:** Fort Wayne, IN, Indianapolis, IN, McKinney, TX, Andover, MA, Huntsville, AL
 
 ## Current Opportunities
 

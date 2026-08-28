@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Roanoke, VA, Chicago, IL, San Antonio, TX, Bellevue, WA, SF, Jackson Township, NJ, San Ramon, CA
+- **Locations:** Boston, MA, San Antonio, TX, Chicago, IL, SF, Jackson Township, NJ, San Ramon, CA, Bellevue, WA
 
 ## Current Opportunities
 
