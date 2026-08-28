@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Westborough, MA, Cambridge, MA, Ambler, PA, Birmingham, AL, Milwaukee, WI
+- **Categories:** Internship, Fresher Job
+- **Locations:** Cambridge, MA, Elmira, NY, Westborough, MA, Ambler, PA, North Haven, CT
 
 ## Current Opportunities
 

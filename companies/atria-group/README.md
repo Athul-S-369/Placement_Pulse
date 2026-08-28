@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Alpharetta, GA, Novato, CA, Jacksonville, FL, Hartford, CT, Dallas, TX
+- **Categories:** Internship, Fresher Job
+- **Locations:** Alpharetta, GA, Broomfield, CO, Jacksonville, FL, Sunnyvale, CA, Dallas, TX
 
 ## Current Opportunities
 

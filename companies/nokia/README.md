@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Naperville, IL, Canada, United States, Allentown, PA, Ottawa, ON, Canada
+- **Categories:** Internship, Fresher Job
+- **Locations:** Naperville, IL, Canada, Naperville, IL, Dallas, TX, Allentown, PA, United States
 
 ## Current Opportunities
 
