@@ -1,11 +1,11 @@
 # 🏢 Viridien
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-27*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-28*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Calgary, AB, Canada, Crawley, UK
+- **Locations:** Crawley, UK, Calgary, AB, Canada
 
 ## Current Opportunities
 

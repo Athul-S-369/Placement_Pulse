@@ -1,11 +1,11 @@
 # 🏢 Tenstorrent
 
-**7 active opportunities** | **7 total tracked** | *Last updated: 2026-08-27*
+**7 active opportunities** | **7 total tracked** | *Last updated: 2026-08-28*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote / Various, Austin, TX, Santa Clara, CA, Boston, MA, Toronto, ON, Canada, Remote in USA, Remote in Canada
+- **Locations:** Toronto, ON, Canada, Austin, TX, Santa Clara, CA, Santa Clara, CA, Remote in USA, Remote in Canada, Boston, MA
 
 ## Current Opportunities
 

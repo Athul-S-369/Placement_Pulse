@@ -1,11 +1,11 @@
 # 🏢 Copart
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-27*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-28*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote / Various, Dallas, TX
+- **Locations:** Dallas, TX, Remote / Various
 
 ## Current Opportunities
 

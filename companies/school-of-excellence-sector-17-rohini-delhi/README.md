@@ -1,6 +1,6 @@
 # 🏢 School of Excellence, Sector 17, Rohini, Delhi
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-27*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-28*
 
 ## Overview
 

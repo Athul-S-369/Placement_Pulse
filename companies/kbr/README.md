@@ -1,11 +1,11 @@
 # 🏢 KBR
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-27*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-28*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Huntsville, AL, Silver Spring, MD, Beavercreek, OH
+- **Locations:** Silver Spring, MD, Huntsville, AL, Beavercreek, OH
 
 ## Current Opportunities
 

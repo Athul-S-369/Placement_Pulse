@@ -10,7 +10,7 @@
 [![Active](https://img.shields.io/badge/Active-2293-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
 [![Companies](https://img.shields.io/badge/Companies-1989-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
-[![Updated](https://img.shields.io/badge/Updated-Aug%2027%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
+[![Updated](https://img.shields.io/badge/Updated-Aug%2028%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
 [Latest Run](#latest-run) &nbsp;·&nbsp;
 [Active Opportunities](#active-opportunities) &nbsp;·&nbsp;
@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**August 27, 2026** &nbsp;—&nbsp; **89** Fresher Job &nbsp;·&nbsp; **42** Internship &nbsp;·&nbsp; **5** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**August 28, 2026** &nbsp;—&nbsp; **90** Fresher Job &nbsp;·&nbsp; **42** Internship &nbsp;·&nbsp; **5** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**142 opportunities** added or updated in the latest run (August 27, 2026).
+**143 opportunities** added or updated in the latest run (August 28, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -82,6 +82,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Data Analyst](https://ats.rippling.com/hunterstrategy/jobs/ed17a8a3-821b-472b-912a-ef4c91ea45ec) | Hunter Strategy | Remote in USA | Fresher Job | Remote | — |
 | [Junior Power Platform Developer](https://careers-ita-intl.icims.com/jobs/4470/job?mobile=true&needsRedirect=false) | ITA International | Remote in USA | Fresher Job | Remote | — |
 | [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4248787009) | Innodata | Remote in Canada | Fresher Job | Remote | — |
+| [Senior Machine Learning Engineer - Economist](https://instacart.careers/job/?gh_jid=8157736) | Instacart | Remote in USA | Fresher Job | Remote | — |
 | [Software Engineer](https://apply.workable.com/interimage/j/50AEE969C4/apply) | InterImage | Remote in USA, Arlington  | Fresher Job | Remote | — |
 | [AI Training Generalist - AI Trainer](https://job-boards.eu.greenhouse.io/agency/jobs/4864006101) | Invisible Technologies | Remote in USA | Fresher Job | Remote | — |
 | [AI Generalist - Entry-Level - Freelance AI Trainer Project](https://job-boards.eu.greenhouse.io/agency/jobs/4754242101) | Invisible Technologies AI | Remote in USA | Fresher Job | Remote | — |
@@ -279,13 +280,13 @@ The 50 most recently added active opportunities across all categories.
 
 ## Archive
 
-- [August 27, 2026 — Today](daily/2026/August/2026-08-27.md)
+- [August 28, 2026 — Today](daily/2026/August/2026-08-28.md)
+- [August 27, 2026](daily/2026/August/2026-08-27.md)
 - [August 26, 2026](daily/2026/August/2026-08-26.md)
 - [August 25, 2026](daily/2026/August/2026-08-25.md)
 - [August 24, 2026](daily/2026/August/2026-08-24.md)
 - [August 23, 2026](daily/2026/August/2026-08-23.md)
 - [August 22, 2026](daily/2026/August/2026-08-22.md)
-- [August 21, 2026](daily/2026/August/2026-08-21.md)
 
 [Full archive](daily/)
 
@@ -304,6 +305,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-08-27 19:15 UTC</sub>
+<sub>Last generated: 2026-08-28 01:06 UTC</sub>
 
 </div>
