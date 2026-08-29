@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Chicago, IL, Westminster, CO, California City, CA, St. Louis, MO, Augusta, ME
+- **Locations:** Washington, DC, Columbus, OH, Rochester, MI, Baltimore, MD, Southfield, MI
 
 ## Current Opportunities
 

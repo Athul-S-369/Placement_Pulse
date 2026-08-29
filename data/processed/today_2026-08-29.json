@@ -1136,6 +1136,37 @@
     "duplicate_of": ""
   },
   {
+    "id": "bf2cf7dc1927f530",
+    "title": "Software Engineer Intern",
+    "company": "Realm",
+    "company_slug": "realm",
+    "category": "internship",
+    "domain_tags": [
+      "software-engineering"
+    ],
+    "tags": [],
+    "location": "Remote in USA",
+    "work_mode": "remote",
+    "is_india": true,
+    "apply_link": "https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a/application?embed=true",
+    "source_url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json",
+    "source_name": "SimplifyJobs / PittCSC",
+    "date_found": "2026-08-29",
+    "date_posted": "",
+    "deadline": "",
+    "last_checked": "2026-08-29",
+    "batch_eligible": [],
+    "experience_required": "0",
+    "skills_required": [],
+    "salary": "",
+    "stipend": "",
+    "description": "",
+    "responsibilities": [],
+    "verification_status": "unverified",
+    "is_duplicate": false,
+    "duplicate_of": ""
+  },
+  {
     "id": "9f8d4bdded51aea6",
     "title": "Software Engineer Intern - Artificial Intelligence",
     "company": "Leidos",
