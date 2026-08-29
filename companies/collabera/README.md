@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Eagan, MN, Madison, WI, Radcliff, KY, Princeton, NJ, Calgary, AB, Canada
+- **Locations:** Alameda, CA, Princeton, NJ, Radcliff, KY, Eagan, MN, Oakland, CA
 
 ## Current Opportunities
 

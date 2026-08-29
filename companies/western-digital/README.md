@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Fremont, CA, San Jose, CA
+- **Locations:** San Jose, CA, Fremont, CA
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Rochester, MI, Baltimore, MD, Columbus, OH, Alexandria, VA, St. Louis, MO
+- **Categories:** Fresher Job, Internship
+- **Locations:** Chicago, IL, Westminster, CO, California City, CA, St. Louis, MO, Augusta, ME
 
 ## Current Opportunities
 
