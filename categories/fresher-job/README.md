@@ -1,13 +1,14 @@
 # 💼 Fresher Job
 
-**1329 active** | **0 expired** | **1329 total**
+**1330 active** | **0 expired** | **1330 total**
 
-*Last updated: 2026-08-28*
+*Last updated: 2026-08-29*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [IT Developer](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/USA---Remote/IT-Developer_REQ-21962) | Vermeer | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Analyst 1](https://jobs.lever.co/hsag/2937f26a-3e66-4d42-ba61-c26e5b52f488/apply) | Health Services Advisory Group | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Audio-Visual Support Technician](https://careers.avispl.com/jobs/11987?icims=1) | AVI-SPL | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [C++ Developer](https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4844280101) | think-cell | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Field Service Engineer - Electron Microscopy](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Kansas-USA/Field-Service-Engineer--Electron-Microscopy-_R-01334329) | Thermo Fisher Scientific | Kansas, LA, Remote in USA, Minnesota, Wisconsin, North Carolina, San Diego, CA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Product Manager - Software and Databases - New Techniques](https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Remote-Ontario-CAN/Associate-Product-Manager---Software-and-Databases---New-Techniques_R2601031) | John Wiley & Sons | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate AI Automation Engineer/AI Automation Engineer](https://careers-appliedsystems.icims.com/jobs/7719/job?mobile=true&needsRedirect=false) | Applied Systems, Inc. | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Securities Finance Trader](https://job-boards.greenhouse.io/alpaca/jobs/6123649004) | Alpaca | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

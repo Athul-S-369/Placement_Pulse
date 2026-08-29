@@ -1,8 +1,8 @@
 # 🏆 Hackathon
 
-**170 active** | **370 expired** | **540 total**
+**164 active** | **376 expired** | **540 total**
 
-*Last updated: 2026-08-28*
+*Last updated: 2026-08-29*
 
 ## Active Opportunities
 
@@ -49,7 +49,6 @@
 | [ELUCode-2](https://unstop.com/hackathons/elucode-2-edulinkup-1740124) | EduLinkUp | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 | [Horizon](https://unstop.com/hackathons/horizon-hoollow-1726596) | Hoollow | India | 🏢 Onsite | — | 2026-10-19 | Unstop |
 | [EC-Council HackAI Challenge: RACEx360](https://unstop.com/hackathons/ec-council-hackai-challenge-racex360-reva-academy-for-corporate-excellence-bangalore-karnataka-1739884) | REVA Academy for Corporate Excellence, Bangalore, Karnataka | India | 🏢 Onsite | — | 2026-09-17 | Unstop |
-| [AIFORGE 2026](https://unstop.com/conferences/aiforge-2026-eminsphere-1739064) | EminSphere | India | 🏢 Onsite | — | 2026-08-28 | Unstop |
 | [Code Insight 2k26](https://unstop.com/hackathons/code-insight-2k26-ksr-college-of-engineering-namakkal-tamil-nadu-1740415) | KSR College of Engineering, Namakkal, Tamil Nadu | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
 | [Inside the Malware Lab: Static & Dynamic Malware Analysis](https://unstop.com/workshops-webinars/inside-the-malware-lab-static-dynamic-malware-analysis-trios-tech-academy-1742126) | TrioS Tech Academy | India | 🏢 Onsite | — | 2026-08-30 | Unstop |
 | [Go-To-Market Strategy Challenge](https://unstop.com/competitions/go-to-market-strategy-challenge-hawk-and-rare-1735525) | Hawk and Rare | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
@@ -101,18 +100,25 @@
 | [Quantitative Trading Strategy Article Writing + Video Presentation Competition](https://unstop.com/competitions/quantitative-trading-strategy-article-writing-video-presentation-competition-kvants-1734888) | Kvants | India | 🏢 Onsite | — | 2026-09-07 | Unstop |
 | [Startup Premier League](https://unstop.com/competitions/startup-premier-league-udyam26-the-business-fest-jindal-global-business-school-jgbs-sonipat-1730647) | Jindal Global Business School (JGBS), Sonipat | India | 🏢 Onsite | — | 2026-09-11 | Unstop |
 | [A-1 Launchpad: Launch your Career with Us](https://unstop.com/competitions/a-1-launchpad-launch-your-career-with-us-a-1-fence-products-company-pvt-ltd-1718561) | A-1 Fence Products Company Pvt. Ltd. | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
-| [Digital Marketing Battle 1.0](https://unstop.com/competitions/digital-marketing-battle-10-saphul-marketing-solutions-private-limited-1733630) | Saphul Marketing Solutions Private Limited | India | 🏢 Onsite | — | 2026-08-28 | Unstop |
 | [MHTECHIN Innovation Challenge 2026](https://unstop.com/competitions/mhtechin-innovation-challenge-2026-mhtechin-1715258) | MHTECHIN | India | 🏢 Onsite | — | 2026-10-31 | Unstop |
-| [Zero Dependency | 72-Hour Hackathon](https://unstop.com/hackathons/zero-dependency-72-hour-hackathon-hackathon-raptors-1733673) | Hackathon Raptors | India | 🏢 Onsite | — | 2026-08-28 | Unstop |
 | [HACK HIVE 2.0](https://unstop.com/competitions/hack-hive-20-school-of-data-science-and-forecasting-indore-1733098) | School of data science and forecasting, Indore | India | 🏢 Onsite | — | 2026-08-31 | Unstop |
-| [The L’Oréal Edge - Beauty Tech Track](https://unstop.com/competitions/crp-the-loreal-edge-beauty-tech-track-the-loreal-edge-loreal-1727748) | Loreal | India | 🏢 Onsite | — | 2026-08-28 | Unstop |
 | [Case-ette 7.0 | Case Study Competition](https://unstop.com/competitions/case-ette-70-case-study-competition-sri-guru-gobind-singh-college-of-commerce-sggscc-new-delhi-1732629) | Sri Guru Gobind Singh College of Commerce (SGGSCC), New Delhi | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 | [Edge AI Hackathon 2026](https://unstop.com/hackathons/edge-ai-hackathon-2026-parala-maharaja-engineering-college-berhampur-1720578) | Parala Maharaja Engineering College, Berhampur | India | 🏢 Onsite | — | 2026-10-06 | Unstop |
+| [Webscape](https://unstop.com/competitions/webscape-coep-mindspark-1733306) | COEP MindSpark | India | 🏢 Onsite | — | 2026-09-29 | Unstop |
+| [Precision Care Challenge 2026](https://unstop.com/hackathons/crp-precision-care-challenge-2026-ge-healthcare-1731208) | GE HealthCare | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
+| [ReLead 9.0](https://unstop.com/competitions/crp-relead-90-renew-1728228) | ReNew | India | 🏢 Onsite | — | 2026-10-08 | Unstop |
+| [Code Rush 3.0](https://unstop.com/hackathons/code-rush-30-krishna-institute-of-engineering-and-technology-kiet-ghaziabad-1731472) | Krishna Institute of Engineering and Technology (KIET), Ghaziabad | India | 🏢 Onsite | — | 2026-09-05 | Unstop |
 
 ## Recently Expired
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Strategia](https://unstop.com/competitions/strategia-tezpur-university-tezu-tezpur-1726272) | Tezpur University (TEZU), Tezpur | India | 🏢 Onsite | — | 2026-08-28 | Unstop |
+| [Inkspire | Graphic Design Challenge | ORBIT 1.0](https://unstop.com/competitions/inkspire-graphic-design-challenge-orbit-10-institute-of-information-technology-and-management-janakpuri-1726992) | Institute of Information Technology and Management, Janakpuri | India | 🏢 Onsite | — | 2026-08-28 | Unstop |
+| [The L’Oréal Edge - Beauty Tech Track](https://unstop.com/competitions/crp-the-loreal-edge-beauty-tech-track-the-loreal-edge-loreal-1727748) | Loreal | India | 🏢 Onsite | — | 2026-08-28 | Unstop |
+| [Digital Marketing Battle 1.0](https://unstop.com/competitions/digital-marketing-battle-10-saphul-marketing-solutions-private-limited-1733630) | Saphul Marketing Solutions Private Limited | India | 🏢 Onsite | — | 2026-08-28 | Unstop |
+| [Zero Dependency | 72-Hour Hackathon](https://unstop.com/hackathons/zero-dependency-72-hour-hackathon-hackathon-raptors-1733673) | Hackathon Raptors | India | 🏢 Onsite | — | 2026-08-28 | Unstop |
+| [AIFORGE 2026](https://unstop.com/conferences/aiforge-2026-eminsphere-1739064) | EminSphere | India | 🏢 Onsite | — | 2026-08-28 | Unstop |
 | [AI powered Performance Marketing by Amitabh (ex-Google)](https://unstop.com/workshops-webinars/ai-powered-performance-marketing-by-amitabh-ex-google-amp-digital-1735940) | AMP Digital | India | 🏢 Onsite | — | 2026-08-26 | Unstop |
 | [Foundersmeet 2K26](https://unstop.com/workshops-webinars/foundersmeet-2k26-startups-india-1736474) | Startups India | India | 🏢 Onsite | — | 2026-08-26 | Unstop |
 | [Product & Design Challenge](https://unstop.com/competitions/product-design-challenge-product-and-design-challenge-algozenith-technologies-1718305) | AlgoZenith Technologies | India | 🏢 Onsite | — | 2026-08-25 | Unstop |
@@ -127,9 +133,3 @@
 | [ZYRORA - 24-Hour National Level Inter-College Hackathon](https://unstop.com/hackathons/zyrora-24-hour-national-level-inter-college-hackathon-aaa-college-of-engineering-and-technology-aaacet-sivaka-1734489) | AAA College of Engineering and Technology (AAACET), Sivakasi, Tamil Nadu | India | 🏢 Onsite | — | 2026-08-24 | Unstop |
 | [DevCrest Buildathon '26](https://unstop.com/hackathons/devcrest-buildathon-26-devcrest-1734263) | DevCrest | India | 🏢 Onsite | — | 2026-08-24 | Unstop |
 | [CardioViz XR: 48-Hour Medical Animation Challenge](https://unstop.com/hackathons/cardioviz-xr-48-hour-medical-animation-challenge-lv8-tech-1738943) | LV8 Tech | India | 🏢 Onsite | — | 2026-08-24 | Unstop |
-| [Startup Pitching Competition](https://unstop.com/competitions/startup-pitching-competition-jaihind-college-of-engineering-kuran-narayangaon-maharashtra-1739244) | Jaihind College of Engineering (Kuran), Narayangaon, Maharashtra | India | 🏢 Onsite | — | 2026-08-24 | Unstop |
-| [Tech-A-Thon 5.0](https://unstop.com/hackathons/tech-a-thon-50-bit-mesra-ranchi-1699177) | Birla Institute of Technology (BIT), Mesra, Ranchi | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
-| [Hackside Down](https://unstop.com/hackathons/hackside-down-falcon-sphere-1712468) | Falcon Sphere | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
-| [test](https://unstop.com/hackathons/hacknova-2026-kvg-college-of-engineering-kvgce-sullia-karnataka-1715653) | KVG College of Engineering (KVGCE), Sullia, Karnataka | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
-| [Fusion 360 & 3D Printing Workshop 2026](https://unstop.com/workshops-webinars/fusion-360-3d-printing-workshop-2026-vasantdada-patil-pratishthans-college-of-engineering-and-visual--1715441) | Vasantdada Patil Pratishthan's College of Engineering and Visual Arts, Mumbai, Maharashtra | India | 🏢 Onsite | — | 2026-08-23 | Unstop |
-| [Vibewright](https://unstop.com/hackathons/vibewright-oblivion26-dcode-nsut-1722532) | D'Code NSUT | India | 🏢 Onsite | — | 2026-08-23 | Unstop |

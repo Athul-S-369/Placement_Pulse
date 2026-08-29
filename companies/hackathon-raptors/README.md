@@ -1,6 +1,6 @@
 # 🏢 Hackathon Raptors
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-28*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-29*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Zero Dependency | 72-Hour Hackathon](https://unstop.com/hackathons/zero-dependency-72-hour-hackathon-hackathon-raptors-1733673) | Hackathon Raptors | India | 🏢 Onsite | — | 2026-08-28 | Unstop |
 
 ## 📖 Interview Preparation
 

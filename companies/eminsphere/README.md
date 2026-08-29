@@ -1,6 +1,6 @@
 # 🏢 EminSphere
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-28*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-29*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AIFORGE 2026](https://unstop.com/conferences/aiforge-2026-eminsphere-1739064) | EminSphere | India | 🏢 Onsite | — | 2026-08-28 | Unstop |
 
 ## 📖 Interview Preparation
 

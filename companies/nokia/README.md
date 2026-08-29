@@ -1,11 +1,11 @@
 # 🏢 Nokia
 
-**13 active opportunities** | **13 total tracked** | *Last updated: 2026-08-28*
+**13 active opportunities** | **13 total tracked** | *Last updated: 2026-08-29*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Naperville, IL, Canada, Naperville, IL, Dallas, TX, Allentown, PA, United States
+- **Locations:** Naperville, IL, Ottawa, ON, Canada, Vancouver, BC, Canada, NYC, Sunnyvale, CA, Canada
 
 ## Current Opportunities
 

@@ -1,11 +1,11 @@
 # 🏢 Palantir
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-28*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-29*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Honolulu, HI, NYC, Washington, DC
+- **Locations:** Washington, DC, Honolulu, HI, NYC
 
 ## Current Opportunities
 

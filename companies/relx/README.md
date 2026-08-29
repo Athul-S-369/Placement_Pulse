@@ -1,11 +1,11 @@
 # 🏢 RELX
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-28*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-08-29*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Southampton, UK, Toronto, ON, Canada, Canada, Cardiff, UK
+- **Locations:** Toronto, ON, Canada, Canada, Cardiff, UK, Southampton, UK
 
 ## Current Opportunities
 

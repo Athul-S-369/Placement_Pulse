@@ -1,6 +1,6 @@
 # 🏢 Loreal
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-28*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-29*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [The L’Oréal Edge - Beauty Tech Track](https://unstop.com/competitions/crp-the-loreal-edge-beauty-tech-track-the-loreal-edge-loreal-1727748) | Loreal | India | 🏢 Onsite | — | 2026-08-28 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,11 +1,11 @@
 # 🏢 Akima
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-28*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-29*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Oklahoma City, OK, Huntsville, AL
+- **Locations:** Huntsville, AL, Oklahoma City, OK
 
 ## Current Opportunities
 

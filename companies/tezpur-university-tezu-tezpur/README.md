@@ -1,6 +1,6 @@
 # 🏢 Tezpur University (TEZU), Tezpur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-28*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-29*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Strategia](https://unstop.com/competitions/strategia-tezpur-university-tezu-tezpur-1726272) | Tezpur University (TEZU), Tezpur | India | 🏢 Onsite | — | 2026-08-28 | Unstop |
 
 ## 📖 Interview Preparation
 

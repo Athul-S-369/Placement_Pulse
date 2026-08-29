@@ -1,6 +1,6 @@
 # 🏢 R.V.R. & J.C.College of Engineering
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-28*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-29*
 
 ## Overview
 
