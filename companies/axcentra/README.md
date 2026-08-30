@@ -1,6 +1,6 @@
 # 🏢 Axcentra
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-29*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-30*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [All India Hackathon](https://unstop.com/hackathons/all-india-hackathon-axcentra-1703933) | Axcentra | India | 🏢 Onsite | — | 2026-08-29 | Unstop |
 
 ## 📖 Interview Preparation
 

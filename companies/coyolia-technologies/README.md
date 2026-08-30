@@ -1,6 +1,6 @@
 # 🏢 Coyolia Technologies
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-29*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-30*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Founders Beyond Borders - A Startup Webinar](https://unstop.com/workshops-webinars/founders-beyond-borders-a-startup-webinar-coyolia-technologies-1736743) | Coyolia Technologies | India | 🏢 Onsite | — | 2026-08-29 | Unstop |
 
 ## 📖 Interview Preparation
 

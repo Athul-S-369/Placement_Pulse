@@ -1,6 +1,6 @@
 # 🏢 Raghu EngineeringbCollege
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-29*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-30*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Electronics Hub](https://unstop.com/competitions/electronics-hub-raghu-engineeringbcollege-1704857) | Raghu EngineeringbCollege | India | 🏢 Onsite | — | 2026-08-29 | Unstop |
 
 ## 📖 Interview Preparation
 

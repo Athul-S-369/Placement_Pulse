@@ -7,10 +7,10 @@
 **India's open-source aggregator for software internships, fresher jobs,<br>hackathons, fellowships, and placement opportunities.**
 
 [![Opportunities](https://img.shields.io/badge/Opportunities-2666-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
-[![Active](https://img.shields.io/badge/Active-2289-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
+[![Active](https://img.shields.io/badge/Active-2282-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
 [![Companies](https://img.shields.io/badge/Companies-1989-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
-[![Updated](https://img.shields.io/badge/Updated-Aug%2029%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
+[![Updated](https://img.shields.io/badge/Updated-Aug%2030%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
 [Latest Run](#latest-run) &nbsp;·&nbsp;
 [Active Opportunities](#active-opportunities) &nbsp;·&nbsp;
@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**August 29, 2026** &nbsp;—&nbsp; **89** Fresher Job &nbsp;·&nbsp; **42** Internship &nbsp;·&nbsp; **5** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**August 30, 2026** &nbsp;—&nbsp; **88** Fresher Job &nbsp;·&nbsp; **42** Internship &nbsp;·&nbsp; **5** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**142 opportunities** added or updated in the latest run (August 29, 2026).
+**141 opportunities** added or updated in the latest run (August 30, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -121,7 +121,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Applied Scientist - Unsecured Underwriting Machine Learning](https://careers.upstart.com/jobs?gh_jid=7293116) | Upstart | Remote in USA | Fresher Job | Remote | — |
 | [Electronics Worker 1](https://careers.gov2x.com/jobs/59672?icims=1) | V2X | Indianapolis, IN | Fresher Job | Onsite | — |
 | [Software Engineer - DevOps/.NET/Azure](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HES/DevOps-Engineer_R-26937-1) | Varian | Knoxville, TN, Hoffman Es | Fresher Job | Onsite | — |
-| [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailan...](https://www.flexport.com/company/careers/) | Various | India | Fresher Job | Onsite | — |
 | [IT Developer](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/USA---Remote/IT-Developer_REQ-21962) | Vermeer | Remote in USA | Fresher Job | Remote | — |
 | [Development Engineer - Software Engineering/AI Track](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004983-1) | Viavi Solutions | Indianapolis, IN | Fresher Job | Onsite | — |
 | [Agentic Factory Consultant](https://careers2-vistaequitypartners.icims.com/jobs/3017/job?mobile=true&needsRedirect=false) | Vista Equity Partners | Remote in USA | Fresher Job | Remote | — |
@@ -279,13 +278,13 @@ The 50 most recently added active opportunities across all categories.
 
 ## Archive
 
-- [August 29, 2026 — Today](daily/2026/August/2026-08-29.md)
+- [August 30, 2026 — Today](daily/2026/August/2026-08-30.md)
+- [August 29, 2026](daily/2026/August/2026-08-29.md)
 - [August 28, 2026](daily/2026/August/2026-08-28.md)
 - [August 27, 2026](daily/2026/August/2026-08-27.md)
 - [August 26, 2026](daily/2026/August/2026-08-26.md)
 - [August 25, 2026](daily/2026/August/2026-08-25.md)
 - [August 24, 2026](daily/2026/August/2026-08-24.md)
-- [August 23, 2026](daily/2026/August/2026-08-23.md)
 
 [Full archive](daily/)
 
@@ -304,6 +303,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-08-29 19:30 UTC</sub>
+<sub>Last generated: 2026-08-30 05:43 UTC</sub>
 
 </div>

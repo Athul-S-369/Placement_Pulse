@@ -1,6 +1,6 @@
 # 🏢 Kairos Creative
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-29*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-30*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Co-operative/Employee Owned Business Ideathon](https://unstop.com/competitions/co-operativeemployee-owned-business-ideathon-kairos-creative-1730454) | Kairos Creative | India | 🏢 Onsite | — | 2026-08-29 | Unstop |
 
 ## 📖 Interview Preparation
 

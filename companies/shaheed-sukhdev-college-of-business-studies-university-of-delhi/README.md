@@ -1,6 +1,6 @@
 # 🏢 Shaheed Sukhdev College of Business Studies, University of Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-29*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-30*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Essay Writing Competition: Viksit Bharat](https://unstop.com/events/essay-writing-competition-viksit-bharat-shaheed-sukhdev-college-of-business-studies-sscbs-du-delhi-1739450) | Shaheed Sukhdev College of Business Studies, University of Delhi | India | 🏢 Onsite | — | 2026-08-29 | Unstop |
 
 ## 📖 Interview Preparation
 

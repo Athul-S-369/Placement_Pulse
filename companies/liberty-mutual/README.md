@@ -1,11 +1,11 @@
 # 🏢 Liberty Mutual
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-29*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-30*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Boston, MA, Indianapolis, IN, Remote in USA, Portsmouth, NH, Boston, MA, Seattle, WA, Remote in USA, Plano, TX
+- **Locations:** Boston, MA, Seattle, WA, Remote in USA, Plano, TX, Boston, MA, Indianapolis, IN, Remote in USA, Portsmouth, NH
 
 ## Current Opportunities
 

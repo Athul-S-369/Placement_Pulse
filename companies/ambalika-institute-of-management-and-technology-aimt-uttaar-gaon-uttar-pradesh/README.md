@@ -1,6 +1,6 @@
 # 🏢 Ambalika Institute of Management and Technology (AIMT), Uttaar Gaon, Uttar Pradesh
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-29*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-30*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Nerds Room: Launch Hacks](https://unstop.com/hackathons/nerds-room-launch-hacks-nerds-room-launch-hacks-ambalika-institute-of-management-and-technology-aimt-uttaar-g-1737146) | Ambalika Institute of Management and Technology (AIMT), Uttaar Gaon, Uttar Pradesh | India | 🏢 Onsite | — | 2026-08-29 | Unstop |
 
 ## 📖 Interview Preparation
 

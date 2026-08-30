@@ -1,6 +1,6 @@
 # 🏢 Marathwada Mitra Mandal's College of Engineering (MMCOE), Pune
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-29*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-30*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Varithon 2026](https://unstop.com/hackathons/varithon-2026-marathwada-mitra-mandals-college-of-engineering-mmcoe-pune-1711499) | Marathwada Mitra Mandal's College of Engineering (MMCOE), Pune | India | 🏢 Onsite | — | 2026-08-29 | Unstop |
 
 ## 📖 Interview Preparation
 

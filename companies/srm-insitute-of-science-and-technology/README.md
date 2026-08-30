@@ -1,6 +1,6 @@
 # 🏢 SRM Insitute of Science and Technology
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-29*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-30*
 
 ## Overview
 
