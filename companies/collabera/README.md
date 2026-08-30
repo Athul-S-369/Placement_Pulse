@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Princeton, NJ, Radcliff, KY, Salt Lake City, UT, Eagan, MN, Waukegan, IL
+- **Locations:** Waukegan, IL, Salt Lake City, UT, Radcliff, KY, Princeton, NJ, Eagan, MN
 
 ## Current Opportunities
 

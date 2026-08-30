@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Edinburgh, UK, Austin, TX
+- **Categories:** Fresher Job, Internship
+- **Locations:** Austin, TX, Edinburgh, UK
 
 ## Current Opportunities
 

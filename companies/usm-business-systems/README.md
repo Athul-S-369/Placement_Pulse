@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Dublin, OH, Augusta, ME, Manassas, VA, Jefferson City, MO, Baltimore, MD
+- **Categories:** Fresher Job, Internship
+- **Locations:** Jefferson City, MO, Southfield, MI, Traverse City, MI, Dublin, OH, Augusta, ME
 
 ## Current Opportunities
 

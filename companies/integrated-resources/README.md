@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Milwaukee, WI, North Haven, CT, Hickory, NC, Birmingham, AL, Santa Clara, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Ambler, PA, Cherry Hills Village, CO, Hickory, NC, Elmira, NY, North Haven, CT
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** London, UK, Chicago, IL, Neukirchen-Vluyn, Germany
+- **Categories:** Fresher Job, Internship
+- **Locations:** Chicago, IL, London, UK, Neukirchen-Vluyn, Germany
 
 ## Current Opportunities
 

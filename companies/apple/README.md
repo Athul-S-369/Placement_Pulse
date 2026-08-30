@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Beaverton, OR, London, UK, Waltham, MA, Morrisville, NC, San Jose, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** London, UK, Cambridge, UK, Welwyn Garden City, UK, Morrisville, NC, Seattle, WA, San Diego, CA, Beaverton, OR
 
 ## Current Opportunities
 

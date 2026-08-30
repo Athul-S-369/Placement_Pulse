@@ -4,7 +4,7 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
+- **Categories:** Fresher Job, Internship
 - **Locations:** Remote in USA, Greenville, SC, Bengaluru, Karnataka, India
 
 ## Current Opportunities

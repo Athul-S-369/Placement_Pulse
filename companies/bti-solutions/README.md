@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Gilbert, AZ, Plano, TX
+- **Locations:** Plano, TX, Gilbert, AZ
 
 ## Current Opportunities
 
