@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Mesa, AZ, Hazelwood, MO, St. Louis, MO, Hazelwood, MO, Seal Beach, CA, Huntsville, AL, Mesa, AZ
+- **Locations:** Seal Beach, CA, Huntsville, AL, Mesa, AZ, Hazelwood, MO, Hazelwood, MO, Mesa, AZ
 
 ## Current Opportunities
 

@@ -1167,6 +1167,38 @@
     "duplicate_of": ""
   },
   {
+    "id": "9f8d4bdded51aea6",
+    "title": "Software Engineer Intern - Artificial Intelligence",
+    "company": "Leidos",
+    "company_slug": "leidos",
+    "category": "internship",
+    "domain_tags": [
+      "ai-ml",
+      "software-engineering"
+    ],
+    "tags": [],
+    "location": "Remote in USA, Shiloh, IL, Odenton, MD",
+    "work_mode": "remote",
+    "is_india": true,
+    "apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648",
+    "source_url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json",
+    "source_name": "SimplifyJobs / PittCSC",
+    "date_found": "2026-08-30",
+    "date_posted": "",
+    "deadline": "",
+    "last_checked": "2026-08-30",
+    "batch_eligible": [],
+    "experience_required": "0",
+    "skills_required": [],
+    "salary": "",
+    "stipend": "",
+    "description": "",
+    "responsibilities": [],
+    "verification_status": "unverified",
+    "is_duplicate": false,
+    "duplicate_of": ""
+  },
+  {
     "id": "81daa3341f1d7b8f",
     "title": "Surgery Field Engineer Apprentice",
     "company": "GE Healthcare",

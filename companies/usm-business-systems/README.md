@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Jefferson City, MO, Southfield, MI, Traverse City, MI, Dublin, OH, Augusta, ME
+- **Locations:** El Segundo, CA, Washington, DC, Southfield, MI, San Antonio, TX, NYC
 
 ## Current Opportunities
 
