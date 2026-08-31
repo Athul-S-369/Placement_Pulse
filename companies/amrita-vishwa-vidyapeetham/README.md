@@ -1,6 +1,6 @@
 # 🏢 Amrita Vishwa Vidyapeetham
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-30*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-31*
 
 ## Overview
 

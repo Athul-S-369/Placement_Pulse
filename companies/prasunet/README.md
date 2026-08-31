@@ -1,6 +1,6 @@
 # 🏢 Prasunet
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-30*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-31*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Prasunethon 2.0](https://unstop.com/hackathons/prasunethon-20-prasunet-1728532) | Prasunet | India | 🏢 Onsite | — | 2026-08-30 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,11 +1,11 @@
 # 🏢 Integrated Resources
 
-**12 active opportunities** | **12 total tracked** | *Last updated: 2026-08-30*
+**12 active opportunities** | **12 total tracked** | *Last updated: 2026-08-31*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Exton, PA, North Haven, CT, Westborough, MA, Milwaukee, WI, Birmingham, AL
+- **Locations:** Exton, PA, Milwaukee, WI, Hickory, NC, Cherry Hills Village, CO, Westborough, MA
 
 ## Current Opportunities
 

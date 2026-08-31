@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Management (IIM), R
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-30*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-31*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Reimagine Your City: Build Night](https://unstop.com/competitions/reimagine-your-city-build-night-indian-institute-of-management-iim-r-1744089) | Indian Institute of Management (IIM), R | India | 🏢 Onsite | — | 2026-08-30 | Unstop |
 
 ## 📖 Interview Preparation
 

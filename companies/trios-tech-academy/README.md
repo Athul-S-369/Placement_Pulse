@@ -1,6 +1,6 @@
 # 🏢 TrioS Tech Academy
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-30*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-31*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Inside the Malware Lab: Static & Dynamic Malware Analysis](https://unstop.com/workshops-webinars/inside-the-malware-lab-static-dynamic-malware-analysis-trios-tech-academy-1742126) | TrioS Tech Academy | India | 🏢 Onsite | — | 2026-08-30 | Unstop |
 
 ## 📖 Interview Preparation
 

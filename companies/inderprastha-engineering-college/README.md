@@ -1,6 +1,6 @@
 # 🏢 Inderprastha Engineering College
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-30*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-31*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Aarambh'26](https://unstop.com/workshops-webinars/aarambh26-inderprastha-engineering-college-1744157) | Inderprastha Engineering College | India | 🏢 Onsite | — | 2026-08-30 | Unstop |
 
 ## 📖 Interview Preparation
 

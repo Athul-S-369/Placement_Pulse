@@ -1,6 +1,6 @@
 # 🏢 Great Lakes Institute of Management (GLIM), Gurgaon
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-30*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-08-31*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Brand Beyond Borders: Reimagining Brands for New Markets](https://unstop.com/competitions/brand-beyond-borders-reimagining-brands-for-new-markets-great-lakes-institute-of-management-glim-gurgaon-1725776) | Great Lakes Institute of Management (GLIM), Gurgaon | India | 🏢 Onsite | — | 2026-08-30 | Unstop |
 
 ## 📖 Interview Preparation
 

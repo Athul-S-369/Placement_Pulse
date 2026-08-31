@@ -1,6 +1,6 @@
 # 🏢 Deenbandhu Chhotu Ram University Of Science And Technology (DCRUST), Murthal, Haryana
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-30*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-31*
 
 ## Overview
 

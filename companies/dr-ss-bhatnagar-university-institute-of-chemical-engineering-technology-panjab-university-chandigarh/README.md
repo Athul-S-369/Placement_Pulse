@@ -1,6 +1,6 @@
 # 🏢 Dr SS Bhatnagar University Institute of Chemical Engineering & Technology, Panjab University, Chandigarh
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-30*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-31*
 
 ## Overview
 
