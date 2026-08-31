@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** NYC, London, UK
+- **Locations:** London, UK, NYC
 
 ## Current Opportunities
 

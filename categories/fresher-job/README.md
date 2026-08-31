@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1330 active** | **0 expired** | **1330 total**
+**1332 active** | **0 expired** | **1332 total**
 
 *Last updated: 2026-08-31*
 
@@ -8,6 +8,8 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Analytics & Data Products Analyst](https://oneoncology.wd1.myworkdayjobs.com/OneOncology/job/United-States/Analyst--Analytics---Data-Products_R-0000021867) | OneOncology | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Technical Product Development Engineer 1](https://flsmidth.wd3.myworkdayjobs.com/FLS_Global/job/Tucson/Technical-Product-Development-Engineer-I_R30971) | FLSmidth | Chennai, Tamil Nadu, India, Tucson, AZ | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [IT Developer](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/USA---Remote/IT-Developer_REQ-21962) | Vermeer | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Analyst 1](https://jobs.lever.co/hsag/2937f26a-3e66-4d42-ba61-c26e5b52f488/apply) | Health Services Advisory Group | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Audio-Visual Support Technician](https://careers.avispl.com/jobs/11987?icims=1) | AVI-SPL | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
@@ -106,5 +108,3 @@
 | [Data Migration Specialist](https://ats.rippling.com/gaiias-open-positions/jobs/4b2a9591-cabc-4196-b879-99ff06278144) | Gaiia | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Analytics Engineer](https://job-boards.greenhouse.io/postscript/jobs/8649676002) | Postscript | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Field Service Engineer - Electron Microscopy](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Kansas-USA/Field-Service-Engineer--Electron-Microscopy-_R-01334329) | Thermo Fisher Scientific | Kansas, LA, Remote in USA, Minnesota, Wisconsin, North Carolina, San Diego, CA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Associate Product Manager - Software and Databases - New Techniques](https://wiley.wd1.myworkdayjobs.com/wiley_careers/job/Remote-Ontario-CAN/Associate-Product-Manager---Software-and-Databases---New-Techniques_R2601031) | John Wiley & Sons | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Associate AI Automation Engineer/AI Automation Engineer](https://careers-appliedsystems.icims.com/jobs/7719/job?mobile=true&needsRedirect=false) | Applied Systems, Inc. | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

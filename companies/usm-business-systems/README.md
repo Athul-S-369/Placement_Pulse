@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Baltimore, MD, Bloomington, MN, Rochester, MI, Alexandria, VA, Bluemont, VA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Rochester, MI, Bloomington, MN, San Antonio, TX, Jefferson City, MO, St. Louis, MO
 
 ## Current Opportunities
 

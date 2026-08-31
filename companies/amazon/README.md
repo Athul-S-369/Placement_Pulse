@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Hackathon, Internship
-- **Locations:** Winnipeg, MB, Canada, Toronto, ON, Canada, Victoria, BC, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Seattle, WA, Seattle, WA, SF, NYC, Seattle, WA, Wakefield, MA, Westborough, MA
+- **Categories:** Hackathon, Internship, Fresher Job
+- **Locations:** London, UK, Edinburgh, UK, Cambridge, UK, Tennessee, Chennai, Tamil Nadu, India, Indiana, NYC, Seattle, WA, SF, Seattle, WA, Wakefield, MA, Westborough, MA
 
 ## Current Opportunities
 
