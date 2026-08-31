@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** El Segundo, CA, NYC, Bluemont, VA, Augusta, ME, Bloomington, MN
+- **Locations:** Baltimore, MD, Bloomington, MN, Rochester, MI, Alexandria, VA, Bluemont, VA
 
 ## Current Opportunities
 
