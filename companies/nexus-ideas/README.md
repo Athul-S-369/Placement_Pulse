@@ -1,6 +1,6 @@
 # 🏢 Nexus Ideas
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-31*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-01*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Indian Impact Summit 2026](https://unstop.com/competitions/indian-impact-summit-2026-nexus-ideas-1728156) | Nexus Ideas | India | 🏢 Onsite | — | 2026-08-31 | Unstop |
 
 ## 📖 Interview Preparation
 

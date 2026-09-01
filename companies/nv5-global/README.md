@@ -1,6 +1,6 @@
 # 🏢 NV5 Global
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-08-31*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-01*
 
 ## Overview
 

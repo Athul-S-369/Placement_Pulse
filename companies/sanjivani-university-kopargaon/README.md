@@ -1,6 +1,6 @@
 # 🏢 Sanjivani University, Kopargaon
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-31*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-01*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Prompt Challenge: AI Creativity Edition](https://unstop.com/competitions/prompt-challenge-ai-creativity-edition-sanjivani-university-kopargaon-1742612) | Sanjivani University, Kopargaon | India | 🏢 Onsite | — | 2026-08-31 | Unstop |
 
 ## 📖 Interview Preparation
 

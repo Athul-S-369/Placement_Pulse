@@ -1,6 +1,6 @@
 # 🏢 School of data science and forecasting, Indore
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-31*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-01*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [HACK HIVE 2.0](https://unstop.com/competitions/hack-hive-20-school-of-data-science-and-forecasting-indore-1733098) | School of data science and forecasting, Indore | India | 🏢 Onsite | — | 2026-08-31 | Unstop |
 
 ## 📖 Interview Preparation
 

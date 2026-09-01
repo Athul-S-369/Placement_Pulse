@@ -1,6 +1,6 @@
 # 🏢 InteractUp
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-31*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-01*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [National Branding Challnge (Online): Can you lead a Brand](https://unstop.com/competitions/national-branding-challnge-online-can-you-lead-a-brand-interactup-1716105) | InteractUp | India | 🏢 Onsite | — | 2026-08-31 | Unstop |
 
 ## 📖 Interview Preparation
 

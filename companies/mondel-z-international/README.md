@@ -1,6 +1,6 @@
 # 🏢 Mondelēz International
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-08-31*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-01*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Mondelēz Maestros 2026 - Supply Chain Track (2nd Year)](https://unstop.com/competitions/crp-mondelez-maestros-2026-supply-chain-track-2nd-year-mondelez-maestros-2026-mondelez-international-1724435) | Mondelēz International | India | 🏢 Onsite | — | 2026-08-31 | Unstop |
 
 ## 📖 Interview Preparation
 
