@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Westminster, CO, Dublin, OH, NYC, Chantilly, VA, St. Louis, MO
+- **Categories:** Internship, Fresher Job
+- **Locations:** Jefferson City, MO, El Segundo, CA, San Antonio, TX, Bloomington, MN, Manassas, VA
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**790 active** | **0 expired** | **790 total**
+**791 active** | **0 expired** | **791 total**
 
 *Last updated: 2026-09-01*
 
@@ -8,6 +8,7 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Research Scientist Intern](https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be/application?embed=true) | Pluralis Research | Remote in USA, Remote in Australia | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771) | Salesforce | Palo Alto, CA, Seattle, WA, Indianapolis, IN, SF, NYC, Bellevue, WA, Atlanta, GA, Burlington, MA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Energy Markets Intern](https://jobs.lever.co/voltus/b7833dd8-d742-44d8-aae2-2e7de7541ce4/apply) | Voltus | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a/application?embed=true) | Realm | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [AI & IoT Solution Advisor Intern](https://careers-sas.icims.com/jobs/40587/summer-2026-%E2%80%93-ai-%26-iot-solution-advisor-intern/job) | SAS | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [AI & Automation Intern](https://ksmcpa.wd12.myworkdayjobs.com/en-US/ksmcareers/job/Indianapolis/AI---Automation-Intern--Summer-2026-_R-100241) | KSM | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [AI Intern](https://job-boards.greenhouse.io/eqtcorporation/jobs/4956747008) | EQT Corporation | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
-| [2026 Summer Intern, PhD, Software Engineer, Predictive Planner ML/DL](https://careers.withwaymo.com/jobs/2026-summer-intern-phd-software-engineer-predictive-planner-ml-dl-mountain-view-california-united-states?gh_jid=7368864) | Waymo | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |

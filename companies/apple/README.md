@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** United States, Cambridge, MA, California, Seattle, WA, Morrisville, NC
+- **Categories:** Internship, Fresher Job
+- **Locations:** Lafayette, KS, Santa Clara, CA, Beaverton, OR, Seattle, WA, London, UK, Cambridge, UK, Welwyn Garden City, UK
 
 ## Current Opportunities
 
