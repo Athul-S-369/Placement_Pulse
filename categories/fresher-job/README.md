@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1332 active** | **0 expired** | **1332 total**
+**1334 active** | **0 expired** | **1334 total**
 
 *Last updated: 2026-09-01*
 
@@ -8,6 +8,8 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Fullstack Software Engineer - Core](https://job-boards.greenhouse.io/dataiku/jobs/5420293004) | Dataiku | Remote in Germany, Remote in UK, Remote in Spain, Remote in France | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Application Engineer Grid Code Compliance and Testing](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Application-Engineer-Grid-Code-Compliance-and-Testing_R5049947) | GE Vernova | Remote in USA, Schenectady, NY | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Analytics & Data Products Analyst](https://oneoncology.wd1.myworkdayjobs.com/OneOncology/job/United-States/Analyst--Analytics---Data-Products_R-0000021867) | OneOncology | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Technical Product Development Engineer 1](https://flsmidth.wd3.myworkdayjobs.com/FLS_Global/job/Tucson/Technical-Product-Development-Engineer-I_R30971) | FLSmidth | Chennai, Tamil Nadu, India, Tucson, AZ | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [IT Developer](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/USA---Remote/IT-Developer_REQ-21962) | Vermeer | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -106,5 +108,3 @@
 | [Product Manager - Customer Engagement & Education](https://ats.rippling.com/routeware-careers/jobs/90022d85-760c-4641-b53b-cef108f79b58) | Routeware | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Implementation Specialist 1](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote---USA/Implementation-Specialist-I_R51653) | Jonas Software | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Migration Specialist](https://ats.rippling.com/gaiias-open-positions/jobs/4b2a9591-cabc-4196-b879-99ff06278144) | Gaiia | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Analytics Engineer](https://job-boards.greenhouse.io/postscript/jobs/8649676002) | Postscript | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Field Service Engineer - Electron Microscopy](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Remote-Kansas-USA/Field-Service-Engineer--Electron-Microscopy-_R-01334329) | Thermo Fisher Scientific | Kansas, LA, Remote in USA, Minnesota, Wisconsin, North Carolina, San Diego, CA | 🌐 Remote | — | — | SimplifyJobs New Grad |

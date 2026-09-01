@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Jefferson City, MO, El Segundo, CA, San Antonio, TX, Bloomington, MN, Manassas, VA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Washington, DC, Augusta, ME, El Segundo, CA, Southfield, MI, Rochester, MI
 
 ## Current Opportunities
 

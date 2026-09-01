@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Remote in USA, Atlanta, GA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Atlanta, GA, Remote in USA
 
 ## Current Opportunities
 

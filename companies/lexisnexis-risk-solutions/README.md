@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** London, UK, Southampton, UK, Cardiff, UK, Remote in USA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Southampton, UK, Remote in USA, Cardiff, UK, London, UK
 
 ## Current Opportunities
 

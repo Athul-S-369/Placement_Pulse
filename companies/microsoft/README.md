@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Student Ambassador, Fresher Job
-- **Locations:** Cambridge, MA, Redmond, WA, Annapolis Junction, MD, Reston, VA, Redmond, WA, NYC, Remote in USA, Cambridge, MA, NYC
+- **Categories:** Student Ambassador, Fresher Job, Internship
+- **Locations:** Cambridge, MA, Redmond, WA, Annapolis Junction, MD, Reston, VA, NYC, Berkeley, CA, Burlington, MA, India (Campus)
 
 ## Current Opportunities
 

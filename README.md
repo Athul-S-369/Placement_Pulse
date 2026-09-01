@@ -6,9 +6,9 @@
 
 **India's open-source aggregator for software internships, fresher jobs,<br>hackathons, fellowships, and placement opportunities.**
 
-[![Opportunities](https://img.shields.io/badge/Opportunities-2669-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
-[![Active](https://img.shields.io/badge/Active-2266-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
-[![Companies](https://img.shields.io/badge/Companies-1992-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
+[![Opportunities](https://img.shields.io/badge/Opportunities-2671-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
+[![Active](https://img.shields.io/badge/Active-2268-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
+[![Companies](https://img.shields.io/badge/Companies-1993-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
 [![Updated](https://img.shields.io/badge/Updated-Sep%2001%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
@@ -37,14 +37,15 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**September 01, 2026** &nbsp;—&nbsp; **90** Fresher Job &nbsp;·&nbsp; **41** Internship &nbsp;·&nbsp; **5** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**September 01, 2026** &nbsp;—&nbsp; **94** Fresher Job &nbsp;·&nbsp; **40** Internship &nbsp;·&nbsp; **5** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**142 opportunities** added or updated in the latest run (September 01, 2026).
+**145 opportunities** added or updated in the latest run (September 01, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
 | [MLH Fellowship](https://fellowship.mlh.io/) | MLH | Remote | Fellowship | Remote | — |
 | [Outreachy Internship](https://www.outreachy.org/apply/) | Outreachy | Remote | Fellowship | Remote | — |
+| [Business Intelligence Manager](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Remote-USA/Manager--Hospitality-Insights_R100123272-1) | ASM Global | Remote in USA | Fresher Job | Remote | — |
 | [Audio-Visual Support Technician](https://careers.avispl.com/jobs/11987?icims=1) | AVI-SPL | Indianapolis, IN | Fresher Job | Onsite | — |
 | [Modelling Resident](https://jobs.ashbyhq.com/adaption/3acd56ba-3085-441e-ba75-e6252ce3d566/application?embed=true) | Adaption Labs | SF, Remote in USA, NYC | Fresher Job | Remote | — |
 | [Data Engineer Associate](https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5372829008) | AffirmedRx | Remote in USA | Fresher Job | Remote | — |
@@ -65,6 +66,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Data Analyst](https://jobs.ashbyhq.com/chambercardio/eb5a8d6e-def9-4ea6-a76f-b64995ad5711/application?embed=true) | Chamber Cardio | Remote in USA | Fresher Job | Remote | — |
 | [Wireless Field Technician & Coordinator](https://circetusa-kgpco.icims.com/jobs/3746/job?mobile=true&needsRedirect=false) | Circet USA | Remote in USA | Fresher Job | Remote | — |
 | [Vietnamese Voice Recording Specialist - Voice Recording](https://jobs.lever.co/appen/bea969fc-4198-4680-b527-dae3bf67527e/apply) | CrowdGen by Appen | Remote in USA | Fresher Job | Remote | — |
+| [Fullstack Software Engineer - Core](https://job-boards.greenhouse.io/dataiku/jobs/5420293004) | Dataiku | Remote in Germany, Remote | Fresher Job | Remote | — |
 | [Entry-level Software Developer](https://careers-decisionpointcorp.icims.com/jobs/3685/job?mobile=true&needsRedirect=false) | DecisionPoint Corporation | Remote in USA | Fresher Job | Remote | — |
 | [Machine Learning Engineer](https://jobs.ashbyhq.com/deeter-analytics/2c12339b-d302-427c-9a73-d825b4b942b0/application?embed=true) | Deeter Analytics | Remote in USA | Fresher Job | Remote | — |
 | [Software Development Engineer 1](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540) | Dexcom | Remote in USA | Fresher Job | Remote | — |
@@ -75,6 +77,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Wireless Software Engineer Associate](https://jobs.ashbyhq.com/Flock%20Safety/44ae4912-89d9-4e83-840d-e22250d6a473/application?embed=true) | Flock Safety | Remote in USA | Fresher Job | Remote | — |
 | [Software Engineer](https://jobs.ashbyhq.com/foundationhealthcareers/e5a46260-f26d-4c62-a641-defcc04db137/application?embed=true) | Foundation Health | Orlando, FL, Remote in US | Fresher Job | Remote | — |
 | [Field Service Engineer 1](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1_R4044580-1) | GE Healthcare | Remote in USA | Fresher Job | Remote | — |
+| [Application Engineer Grid Code Compliance and Testing](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Application-Engineer-Grid-Code-Compliance-and-Testing_R5049947) | GE Vernova | Remote in USA, Schenectad | Fresher Job | Remote | — |
 | [Feed Integrations Associate](https://job-boards.greenhouse.io/garnerhealth/jobs/6112552004) | Garner Health | Remote in USA | Fresher Job | Remote | — |
 | [Field Service Engineer](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12132) | Hologic | Indianapolis, IN | Fresher Job | Onsite | — |
 | [Data Collection Contributor](https://job-boards.greenhouse.io/humansignal/jobs/5823639004) | HumanSignal | Remote in USA | Fresher Job | Remote | — |
@@ -106,6 +109,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Applications Scientist 3](https://onto.wd1.myworkdayjobs.com/onto_careers/job/Hillsboro-OR/Applications-Scientist-3_R-6006) | Onto Innovation | Remote in USA, Hillsboro, | Fresher Job | Remote | — |
 | [Software Engineer](https://legalshieldcorp.wd1.myworkdayjobs.com/en-US/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820) | PPLSI | Remote in USA | Fresher Job | Remote | — |
 | [Instructional Assistant - Data Analyst](https://job-boards.greenhouse.io/perscholashires/jobs/4702822006) | Per Scholas | Remote in USA | Fresher Job | Remote | — |
+| [Copilot Developer/AI Engineer](https://pyrovio.breezy.hr/p/a0653fb2684d/apply) | Pyrovio | Remote in USA | Fresher Job | Remote | — |
 | [Software Engineer New Grad - Machine Learning Platform](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true) | Quora | Remote in USA, Remote in  | Fresher Job | Remote | — |
 | [Speech AI Evaluation Specialist - Chinese Simplified](https://jobs.lever.co/rws/b6ae34f4-57e5-4bb8-8f29-4c69cf25ecbd/apply) | RWS | Remote in USA | Fresher Job | Remote | — |
 | [Software Engineer - New Grad](https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f) | Realm | Remote in US | Fresher Job | Remote | — |
@@ -146,7 +150,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Business Systems Administration Internship](https://argonne.wd1.myworkdayjobs.com/EDU_PUB/job/Lemont-IL-USA/Business-Systems-Administration-Internship_413528) | Argonne National Laboratory | Remote in USA, Woodridge, | Internship | Remote | — |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895/application) | Binance | Remote in USA | Internship | Remote | — |
 | [Data Analysis Intern](https://jobs.lever.co/calstart/39565f0d-d10f-458b-b72d-d807420059b8/apply) | CALSTART | Remote in USA | Internship | Remote | — |
-| [Energy Efficiency Analyst Co-op](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---BC/Energy-Efficiency-Co-op_R0018032) | CLEAResult | Remote in Canada | Internship | Remote | — |
 | [Research Assistant - College of Engineering - Department of ...](https://cmu.wd5.myworkdayjobs.com/cmu/job/Remote/Research-Assistant---College-of-Engineering---Department-of-Chemical-Engineering_2024265) | Carnegie Mellon University | Remote in USA | Internship | Remote | — |
 | [Software Development Intern](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Development-Intern_JR100290) | Cisive | New Mexico, Washington, K | Internship | Onsite | — |
 | [Software Engineer Intern](http://getfiber.ai/careers?gh_jid=5225258007) | Clerkie | Remote in USA | Internship | Remote | — |
@@ -191,11 +194,13 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 ## Active Opportunities
 
 The 50 most recently added active opportunities across all categories.
-[View all 2669 on the website.](https://athul-s-369.github.io/Placement_Pulse)
+[View all 2671 on the website.](https://athul-s-369.github.io/Placement_Pulse)
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
 | [Research Scientist Intern](https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be/application?embed=true) | Pluralis Research | Remote in USA, Remote in  | Internship | Remote | Open |
+| [Fullstack Software Engineer - Core](https://job-boards.greenhouse.io/dataiku/jobs/5420293004) | Dataiku | Remote in Germany, Remote | Fresher Job | Remote | Open |
+| [Application Engineer Grid Code Compliance and Testing](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Application-Engineer-Grid-Code-Compliance-and-Testing_R5049947) | GE Vernova | Remote in USA, Schenectad | Fresher Job | Remote | Open |
 | [Analytics & Data Products Analyst](https://oneoncology.wd1.myworkdayjobs.com/OneOncology/job/United-States/Analyst--Analytics---Data-Products_R-0000021867) | OneOncology | Remote in USA | Fresher Job | Remote | Open |
 | [Technical Product Development Engineer 1](https://flsmidth.wd3.myworkdayjobs.com/FLS_Global/job/Tucson/Technical-Product-Development-Engineer-I_R30971) | FLSmidth | Chennai, Tamil Nadu, Indi | Fresher Job | Onsite | Open |
 | [Software Engineer Intern](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771) | Salesforce | Palo Alto, CA, Seattle, W | Internship | Onsite | Open |
@@ -243,8 +248,6 @@ The 50 most recently added active opportunities across all categories.
 | [Slay Cybersecurity Conference and Workshop](https://unstop.com/workshops-webinars/slay-cybersecurity-conference-and-workshop-jalpaiguri-government-engineering-college-jgec-west-bengal-1743199) | Jalpaiguri Government Engine | India | Hackathon | Onsite | 2026-11-30 |
 | [FUSION X 1.0 – 24-Hour Hackathon](https://unstop.com/hackathons/fusion-x-10-24-hour-hackathon-paavai-engineering-college-pec-namakkal-1743196) | Paavai Engineering College ( | India | Hackathon | Onsite | 2026-09-19 |
 | [St.Jude's Code Arena](https://unstop.com/hackathons/stjudes-code-arena-st-judes-public-schoolsjps-nilgiris-1743110) | St. Jude's Public School(SJP | India | Hackathon | Onsite | 2026-09-20 |
-| [INIT'26 - Hackathon](https://unstop.com/hackathons/init26-hackathon-mukesh-patel-college-of-engineering-and-management-mpstme-1743123) | Mukesh Patel college of engi | India | Hackathon | Onsite | 2026-09-06 |
-| [Software Engineer Intern - Multiple Teams](https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436) | Availity | Remote in USA | Internship | Remote | Open |
 
 ---
 
@@ -252,7 +255,7 @@ The 50 most recently added active opportunities across all categories.
 
 | Category | Total |
 |----------|-------|
-| [Fresher Job](categories/fresher-job/) | 1332 |
+| [Fresher Job](categories/fresher-job/) | 1334 |
 | [Internship](categories/internship/) | 791 |
 | [Hackathon](categories/hackathon/) | 540 |
 | [Open Source Program](categories/open-source-program/) | 2 |
@@ -304,6 +307,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-09-01 13:39 UTC</sub>
+<sub>Last generated: 2026-09-01 19:32 UTC</sub>
 
 </div>

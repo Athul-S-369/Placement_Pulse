@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Irvine, CA, Remote in USA
+- **Locations:** Remote in USA, Irvine, CA
 
 ## Current Opportunities
 
