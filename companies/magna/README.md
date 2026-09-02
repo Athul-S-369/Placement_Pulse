@@ -1,11 +1,11 @@
 # 🏢 Magna
 
-**6 active opportunities** | **6 total tracked** | *Last updated: 2026-09-01*
+**6 active opportunities** | **6 total tracked** | *Last updated: 2026-09-02*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Oakville, ON, Canada, Grand Rapids, MI, Vaughan, ON, Canada, Troy, MI, Newmarket, ON, Canada
+- **Locations:** Auburn Hills, MI, Grand Rapids, MI, Oakville, ON, Canada, Troy, MI, Newmarket, ON, Canada
 
 ## Current Opportunities
 

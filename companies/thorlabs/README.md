@@ -1,11 +1,11 @@
 # 🏢 Thorlabs
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-01*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-02*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Ann Arbor, MI, West Columbia, SC
+- **Locations:** West Columbia, SC, Ann Arbor, MI
 
 ## Current Opportunities
 

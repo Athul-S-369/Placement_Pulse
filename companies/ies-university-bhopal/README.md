@@ -1,6 +1,6 @@
 # 🏢 IES University, Bhopal
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-01*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-02*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AWS Student Builder Event – Unlock Free AWS Certification Exam Opportunities](https://unstop.com/workshops-webinars/aws-student-builder-event-unlock-free-aws-certification-exam-opportunities-ies-university-bhopal-1720954) | IES University, Bhopal | India | 🏢 Onsite | — | 2026-09-01 | Unstop |
 
 ## 📖 Interview Preparation
 

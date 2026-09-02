@@ -1,13 +1,17 @@
 # 💼 Fresher Job
 
-**1334 active** | **0 expired** | **1334 total**
+**1338 active** | **0 expired** | **1338 total**
 
-*Last updated: 2026-09-01*
+*Last updated: 2026-09-02*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Graduate Software Engineer - AI](https://job-boards.greenhouse.io/synack/jobs/8165010) | Synack | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Site Reliability Engineer - Site Reliability Engineering](https://jobs.lever.co/pointclickcare/e56d6df3-16fb-4652-9d97-c6140700d2e0/apply) | PointClickCare | Mississauga, ON, Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Engineer 1 - Back-End](https://job-boards.greenhouse.io/tebra/jobs/4726985005) | Tebra | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Java Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Northrop-Grumman--SkillBridge--Java-Software-Engineer-Level-1-or-2_R10248772) | Northrop Grumman | Aurora, CO, Morrisville, NC, Remote in USA, Linthicum Heights, MD | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Fullstack Software Engineer - Core](https://job-boards.greenhouse.io/dataiku/jobs/5420293004) | Dataiku | Remote in Germany, Remote in UK, Remote in Spain, Remote in France | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Application Engineer Grid Code Compliance and Testing](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Application-Engineer-Grid-Code-Compliance-and-Testing_R5049947) | GE Vernova | Remote in USA, Schenectady, NY | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Analytics & Data Products Analyst](https://oneoncology.wd1.myworkdayjobs.com/OneOncology/job/United-States/Analyst--Analytics---Data-Products_R-0000021867) | OneOncology | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -104,7 +108,3 @@
 | [Data Scientist 1](https://jobs.ashbyhq.com/miovision/97548bf9-09a0-49b0-a6eb-9a43499a1369/application?embed=true) | Miovision | Remote in Canada, Kitchener, ON, Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer 1 - Assurehire - Go](https://job-boards.greenhouse.io/mitratech/jobs/8060928) | Mitratech | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Technical Service Representative - Level 1](https://ats.rippling.com/linenmaster/jobs/fe142242-d7d7-42d7-8958-927badbba414) | LinenMaster | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Systems Software Engineer - Kubernetes Scale - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Remote/Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020236) | NVIDIA | Remote in Germany, Remote in UK, Remote in Spain, Remote in France | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Product Manager - Customer Engagement & Education](https://ats.rippling.com/routeware-careers/jobs/90022d85-760c-4641-b53b-cef108f79b58) | Routeware | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Implementation Specialist 1](https://talentmanagementsolution.wd3.myworkdayjobs.com/JonasSoftwareUSA/job/Remote---USA/Implementation-Specialist-I_R51653) | Jonas Software | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Data Migration Specialist](https://ats.rippling.com/gaiias-open-positions/jobs/4b2a9591-cabc-4196-b879-99ff06278144) | Gaiia | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |

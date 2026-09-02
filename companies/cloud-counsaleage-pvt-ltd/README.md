@@ -1,6 +1,6 @@
 # 🏢 Cloud Counsaleage Pvt Ltd
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-01*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-02*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Customer Discovery: Learn Before You Build](https://unstop.com/workshops-webinars/customer-discovery-learn-before-you-build-cloud-counsaleage-pvt-ltd-1742818) | Cloud Counsaleage Pvt Ltd | India | 🏢 Onsite | — | 2026-09-01 | Unstop |
 
 ## 📖 Interview Preparation
 

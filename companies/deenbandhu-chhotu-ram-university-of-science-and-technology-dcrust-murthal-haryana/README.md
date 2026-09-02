@@ -1,6 +1,6 @@
 # 🏢 Deenbandhu Chhotu Ram University Of Science And Technology (DCRUST), Murthal, Haryana
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-01*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-02*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Paper Buddy EduVerse Hackathon 2026](https://unstop.com/hackathons/paper-buddy-eduverse-hackathon-2026-deenbandhu-chhotu-ram-university-of-science-and-technology-dcrust-murthal-1726534) | Deenbandhu Chhotu Ram University Of Science And Technology (DCRUST), Murthal, Haryana | India | 🏢 Onsite | — | 2026-09-01 | Unstop |
 
 ## 📖 Interview Preparation
 

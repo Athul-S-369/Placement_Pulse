@@ -1,6 +1,6 @@
 # 🏢 Hack4Health
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-01*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-02*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [2026 Hack4Health Labs Research Challenge](https://unstop.com/competitions/2026-hack4health-labs-research-challenge-hack4health-labs-hack4health-1715636) | Hack4Health | India | 🏢 Onsite | — | 2026-09-01 | Unstop |
 
 ## 📖 Interview Preparation
 

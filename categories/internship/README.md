@@ -1,13 +1,14 @@
 # 🎓 Internship
 
-**791 active** | **0 expired** | **791 total**
+**792 active** | **0 expired** | **792 total**
 
-*Last updated: 2026-09-01*
+*Last updated: 2026-09-02*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [AI Data Science Intern - AI/ML Center of Excellence](https://apply.workable.com/twgai/j/1206BF981C/apply) | TWG Global | London, UK, Remote in UK | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Research Scientist Intern](https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be/application?embed=true) | Pluralis Research | Remote in USA, Remote in Australia | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771) | Salesforce | Palo Alto, CA, Seattle, WA, Indianapolis, IN, SF, NYC, Bellevue, WA, Atlanta, GA, Burlington, MA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Energy Markets Intern](https://jobs.lever.co/voltus/b7833dd8-d742-44d8-aae2-2e7de7541ce4/apply) | Voltus | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
@@ -107,4 +108,3 @@
 | [AI & Automation Intern](https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Pittsburgh-Pennsylvania-USA/Data-Catalog-Maintenance-Intern_R-01328163c) | Thermo Fisher Scientific | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [AI & IoT Solution Advisor Intern](https://careers-sas.icims.com/jobs/40587/summer-2026-%E2%80%93-ai-%26-iot-solution-advisor-intern/job) | SAS | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [AI & Automation Intern](https://ksmcpa.wd12.myworkdayjobs.com/en-US/ksmcareers/job/Indianapolis/AI---Automation-Intern--Summer-2026-_R-100241) | KSM | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
-| [AI Intern](https://job-boards.greenhouse.io/eqtcorporation/jobs/4956747008) | EQT Corporation | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |

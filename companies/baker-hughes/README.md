@@ -1,11 +1,11 @@
 # 🏢 Baker Hughes
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-01*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-02*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Sharonville, OH, Bristol, UK
+- **Categories:** Internship, Fresher Job
+- **Locations:** Bristol, UK, Sharonville, OH
 
 ## Current Opportunities
 

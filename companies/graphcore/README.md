@@ -1,11 +1,11 @@
 # 🏢 Graphcore
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-01*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-02*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Cambridge, UK, Bristol, UK
+- **Locations:** Bristol, UK, Cambridge, UK
 
 ## Current Opportunities
 

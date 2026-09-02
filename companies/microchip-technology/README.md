@@ -1,11 +1,11 @@
 # 🏢 Microchip Technology
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-09-01*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-09-02*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Colorado Springs, CO, Houston, TX, Fairview, OR, Carlisle, PA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Houston, TX, Colorado Springs, CO, Fairview, OR, Carlisle, PA
 
 ## Current Opportunities
 

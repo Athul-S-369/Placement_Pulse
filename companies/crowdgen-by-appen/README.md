@@ -1,11 +1,11 @@
 # 🏢 CrowdGen by Appen
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-09-01*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-09-02*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, Remote in UK, Remote in Canada
+- **Locations:** Remote in USA, Remote in Canada, Remote in UK
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏢 Omnikon
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-01*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-02*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Omnikon National Hackathon 2026](https://unstop.com/hackathons/omnikon-national-hackathon-2026-omnikon-1715716) | Omnikon | India | 🏢 Onsite | — | 2026-09-01 | Unstop |
 
 ## 📖 Interview Preparation
 
