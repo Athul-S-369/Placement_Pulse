@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Rochester, MI, California City, CA, Chicago, IL, San Antonio, TX, El Segundo, CA
+- **Locations:** Traverse City, MI, Rochester, MI, Bluemont, VA, Dublin, OH, Westminster, CO
 
 ## Current Opportunities
 
