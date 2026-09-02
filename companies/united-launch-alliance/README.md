@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Denver, CO, Centennial, CO, Denver, CO
+- **Locations:** Centennial, CO, Denver, CO, Denver, CO
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** San Antonio, TX, Columbus, OH, Jefferson City, MO, Bluemont, VA, Washington, DC
+- **Locations:** Rochester, MI, California City, CA, Chicago, IL, San Antonio, TX, El Segundo, CA
 
 ## Current Opportunities
 

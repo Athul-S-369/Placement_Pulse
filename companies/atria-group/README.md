@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Dallas, TX, Novato, CA, Alpharetta, GA, NYC, Thousand Oaks, CA
+- **Locations:** Thousand Oaks, CA, Jacksonville, FL, NYC, Sunnyvale, CA, Plainview, NY
 
 ## Current Opportunities
 

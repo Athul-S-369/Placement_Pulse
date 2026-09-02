@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Beaverton, OR, Santa Clara, CA, Lafayette, KS, Cambridge, MA, San Diego, CA
+- **Locations:** San Diego, CA, Lafayette, KS, Morrisville, NC, California, Santa Clara, CA
 
 ## Current Opportunities
 
