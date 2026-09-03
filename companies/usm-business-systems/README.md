@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Dublin, OH, Bluemont, VA, Jefferson City, MO, Chicago, IL, Alexandria, VA
+- **Locations:** Jefferson City, MO, NYC, Dublin, OH, Chicago, IL, Southfield, MI
 
 ## Current Opportunities
 
