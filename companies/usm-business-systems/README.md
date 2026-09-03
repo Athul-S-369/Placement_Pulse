@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Chicago, IL, Alexandria, VA, San Antonio, TX, Southfield, MI, Washington, DC
+- **Categories:** Internship, Fresher Job
+- **Locations:** Dublin, OH, Bluemont, VA, Jefferson City, MO, Chicago, IL, Alexandria, VA
 
 ## Current Opportunities
 

@@ -1,16 +1,17 @@
 # 🏢 Innodata
 
-**11 active opportunities** | **11 total tracked** | *Last updated: 2026-09-03*
+**12 active opportunities** | **12 total tracked** | *Last updated: 2026-09-03*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Wyoming, Louisiana, Minnesota, South Carolina, Wisconsin
+- **Locations:** Utah, Ohio, Wisconsin, South Carolina, Idaho
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Content Evaluator - Bilingual, Vietnamese and English](https://job-boards.greenhouse.io/innodatainc/jobs/4384507009) | Innodata | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4266660009) | Innodata | Louisiana | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Data Annotation](https://job-boards.greenhouse.io/innodatainc/jobs/4235831009) | Innodata | New Mexico | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Applied AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4266634009) | Innodata | West Virginia | 🏢 Onsite | — | — | SimplifyJobs New Grad |
