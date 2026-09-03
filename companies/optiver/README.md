@@ -1,11 +1,11 @@
 # 🏢 Optiver
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-02*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-03*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Austin, TX, Chicago, IL, Chicago, IL
+- **Categories:** Fresher Job, Internship
+- **Locations:** Chicago, IL, Austin, TX, Chicago, IL
 
 ## Current Opportunities
 

@@ -1,11 +1,11 @@
 # 🏢 BTI Solutions
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-02*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-03*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Gilbert, AZ, Plano, TX
+- **Locations:** Plano, TX, Gilbert, AZ
 
 ## Current Opportunities
 

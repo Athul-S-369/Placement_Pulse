@@ -1,6 +1,6 @@
 # 🏢 Samrat Ashok Technological Institute (SATI), Vidisha
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-02*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-03*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Code to Creation (Project Submission)](https://unstop.com/hackathons/code-to-creation-project-submission-samrat-ashok-technological-institute-sati-vidisha-1740116) | Samrat Ashok Technological Institute (SATI), Vidisha | India | 🏢 Onsite | — | 2026-09-02 | Unstop |
 
 ## 📖 Interview Preparation
 

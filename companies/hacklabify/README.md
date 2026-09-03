@@ -1,6 +1,6 @@
 # 🏢 Hacklabify
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-02*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-03*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Hacklabify V1.0](https://unstop.com/hackathons/hacklabify-v10-hacklabify-1699949) | Hacklabify | India | 🏢 Onsite | — | 2026-09-02 | Unstop |
 
 ## 📖 Interview Preparation
 
