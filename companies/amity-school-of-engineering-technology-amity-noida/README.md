@@ -1,6 +1,6 @@
 # 🏢 Amity School of Engineering & Technology (AMITY), Noida
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-03*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-04*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Legend of the Treasure (Takara No Densetsu)](https://unstop.com/hackathons/legend-of-the-treasure-takara-no-densetsu-amity-school-of-engineering-technology-amity-noida-1736600) | Amity School of Engineering & Technology (AMITY), Noida | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
 
 ## 📖 Interview Preparation
 

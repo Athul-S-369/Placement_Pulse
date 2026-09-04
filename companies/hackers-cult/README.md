@@ -1,6 +1,6 @@
 # 🏢 Hackers Cult
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-03*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-04*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Hackblox Open Source Hackathon](https://unstop.com/hackathons/hackblox-open-source-hackathon-hackers-cult-1731738) | Hackers Cult | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
 
 ## 📖 Interview Preparation
 

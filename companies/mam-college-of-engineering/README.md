@@ -1,6 +1,6 @@
 # 🏢 MAM COLLEGE OF ENGINEERING
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-03*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-04*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Bharat Brain Quest: All-India Youth Trivia & Logic Challenge](https://unstop.com/quiz/bharat-brain-quest-all-india-youth-trivia-logic-challenge-mam-college-of-engineering-1740427) | MAM COLLEGE OF ENGINEERING | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
 
 ## 📖 Interview Preparation
 

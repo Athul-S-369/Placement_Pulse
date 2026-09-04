@@ -1,6 +1,6 @@
 # 🏢 Echelon Association
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-03*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-04*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Echelon Essay Competition 2026](https://unstop.com/competitions/echelon-essay-competition-2026-echelon-association-1729396) | Echelon Association | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
 
 ## 📖 Interview Preparation
 

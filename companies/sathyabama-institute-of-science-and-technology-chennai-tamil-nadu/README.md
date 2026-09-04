@@ -1,6 +1,6 @@
 # 🏢 Sathyabama Institute of Science and Technology, Chennai, Tamil Nadu
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-03*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-04*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [TechAura 2026 – National Level Tech Expo](https://unstop.com/competitions/techaura-2026-national-level-tech-expo-sathyabama-institute-of-science-and-technology-chennai-tamil-nadu-1737359) | Sathyabama Institute of Science and Technology, Chennai, Tamil Nadu | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
 
 ## 📖 Interview Preparation
 

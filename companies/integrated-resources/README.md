@@ -1,11 +1,11 @@
 # 🏢 Integrated Resources
 
-**12 active opportunities** | **12 total tracked** | *Last updated: 2026-09-03*
+**12 active opportunities** | **12 total tracked** | *Last updated: 2026-09-04*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Santa Clara, CA, Ambler, PA, Hickory, NC, Boston, MA, Westborough, MA
+- **Locations:** Milwaukee, WI, Birmingham, AL, North Haven, CT, Westborough, MA, Santa Clara, CA
 
 ## Current Opportunities
 

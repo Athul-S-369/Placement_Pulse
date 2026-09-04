@@ -1,13 +1,14 @@
 # 🎓 Internship
 
-**794 active** | **0 expired** | **794 total**
+**795 active** | **0 expired** | **795 total**
 
-*Last updated: 2026-09-03*
+*Last updated: 2026-09-04*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Computer Science and Data Science Intern](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W) | Corteva | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Artificial Intelligence Engineer Intern - Artificial Intelligence](https://www.pindrop.com/careers/job-title/?gh_jid=7899137) | Pindrop | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Developer Intern Co-op - Machine Learning](https://careers-kinaxis.icims.com/jobs/35297/job?mobile=true&needsRedirect=false) | Kinaxis | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [AI Data Science Intern - AI/ML Center of Excellence](https://apply.workable.com/twgai/j/1206BF981C/apply) | TWG Global | London, UK, Remote in UK | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [Software Engineering Intern](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineering-Intern_2532385-2) | KLA | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [AI Intern](https://prologis.wd5.myworkdayjobs.com/en-US/Prologis_External_Careers/job/San-Francisco-California/Intern--IT_R6209) | Prologis | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Summer 2025 Intern - Software Engineer (Security/Government)](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Summer-2025-Intern---Software-Engineer--Security-Government-_JR311149-1) | Salesforce | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
-| [AI & Automation Intern](https://thermofisher.wd5.myworkdayjobs.com/en-US/thermofishercareers/job/Pittsburgh-Pennsylvania-USA/Data-Catalog-Maintenance-Intern_R-01328163c) | Thermo Fisher Scientific | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
