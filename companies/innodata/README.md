@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Idaho, Ohio, Minnesota, West Virginia, Mississippi
+- **Locations:** Minnesota, West Virginia, Louisiana, Mississippi, Remote in USA
 
 ## Current Opportunities
 

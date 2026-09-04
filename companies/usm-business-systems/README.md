@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** St. Louis, MO, Jefferson City, MO, San Antonio, TX, Traverse City, MI, Bloomington, MN
+- **Categories:** Fresher Job, Internship
+- **Locations:** Alexandria, VA, Bluemont, VA, Traverse City, MI, Chicago, IL, Southfield, MI
 
 ## Current Opportunities
 

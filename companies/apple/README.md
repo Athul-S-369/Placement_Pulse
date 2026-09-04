@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Austin, TX, United States, San Diego, CA, Morrisville, NC, San Jose, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Lafayette, KS, Santa Clara, CA, Gloucester, UK, London, UK, Cambridge, MA
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** North Haven, CT, Boston, MA, Ambler, PA, Westborough, MA, Santa Clara, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Milwaukee, WI, Ambler, PA, Santa Clara, CA, Cambridge, MA, Exton, PA
 
 ## Current Opportunities
 

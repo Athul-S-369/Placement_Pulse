@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**795 active** | **0 expired** | **795 total**
+**797 active** | **0 expired** | **797 total**
 
 *Last updated: 2026-09-04*
 
@@ -9,6 +9,8 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [Computer Science and Data Science Intern](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W) | Corteva | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Front End Developer Intern](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975) | Simon Property Group | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Operations Graduate Program Intern - Operations](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Operations-Graduate-Program---Summer-2027-Internship_R-254659) | Amgen | Cambridge, MA, Remote in USA, Thousand Oaks, CA, Holly Springs, NC, New Albany, OH, West Greenwich, RI | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Artificial Intelligence Engineer Intern - Artificial Intelligence](https://www.pindrop.com/careers/job-title/?gh_jid=7899137) | Pindrop | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Developer Intern Co-op - Machine Learning](https://careers-kinaxis.icims.com/jobs/35297/job?mobile=true&needsRedirect=false) | Kinaxis | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [AI Data Science Intern - AI/ML Center of Excellence](https://apply.workable.com/twgai/j/1206BF981C/apply) | TWG Global | London, UK, Remote in UK | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -106,5 +108,3 @@
 | [Fixed Operations Data Analyst Intern](https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Fixed-Operations-Data-Analyst-Intern_JR104254) | JM Family | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [HPE Labs - AI Research Lab Research Associate (Intern)](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/HPE-Labs---AI-Research-Lab-Research-Associate--Intern-_1192299) | Hewlett Packard Enterprise | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Software Engineering Intern](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineering-Intern_2532385-2) | KLA | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
-| [AI Intern](https://prologis.wd5.myworkdayjobs.com/en-US/Prologis_External_Careers/job/San-Francisco-California/Intern--IT_R6209) | Prologis | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
-| [Summer 2025 Intern - Software Engineer (Security/Government)](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Summer-2025-Intern---Software-Engineer--Security-Government-_JR311149-1) | Salesforce | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
