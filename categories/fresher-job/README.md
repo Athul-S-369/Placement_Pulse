@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1352 active** | **0 expired** | **1352 total**
+**1353 active** | **0 expired** | **1353 total**
 
 *Last updated: 2026-09-04*
 
@@ -10,6 +10,7 @@
 |------|---------|----------|------|----------------|----------|--------|
 | [Creator Circle - Dipper](https://jobs.ashbyhq.com/dipper/ce3c338e-73e8-47ce-8c16-eafc331f6b16/application?embed=true) | Dipper | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Operations Engineer](https://jobs.ashbyhq.com/surge-ai/73c5fe8d-0cb6-40e1-a634-d46928702f85/application?embed=true) | Surge AI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Business Analyst](https://jobs.ashbyhq.com/openloophealth/d90def69-84a7-45d2-9e3a-9cd5381d4535/application?embed=true) | OpenLoop | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Medical Economics Analyst](https://verawholehealth.wd1.myworkdayjobs.com/MPG/job/US---Remote/Medical-Economics-Analyst_M104708) | Millennium Physician Group | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Global Monitoring + Insights](https://jobs.lever.co/pentagrp/872f8d11-7741-4243-a0ee-b45f7f98162f/apply) | Penta Group | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Content Evaluator - Bilingual, Vietnamese and English](https://job-boards.greenhouse.io/innodatainc/jobs/4384507009) | Innodata | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Wireless Software Engineer Associate](https://jobs.ashbyhq.com/Flock%20Safety/44ae4912-89d9-4e83-840d-e22250d6a473/application?embed=true) | Flock Safety | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Engineer Associate](https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5372829008) | AffirmedRx | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Forward Deployed Engineer](https://jobs.ashbyhq.com/eliza/3190c7b1-a01f-42e0-9a16-2c6dfc40eb8d/application?embed=true) | Eliza | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Customer Engineer Associate](https://job-boards.greenhouse.io/reltio/jobs/5576245004) | Reltio | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

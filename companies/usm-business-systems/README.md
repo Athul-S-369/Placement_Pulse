@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Southfield, MI, Dublin, OH, Bluemont, VA, Alexandria, VA, California City, CA
+- **Locations:** St. Louis, MO, Jefferson City, MO, San Antonio, TX, Traverse City, MI, Bloomington, MN
 
 ## Current Opportunities
 

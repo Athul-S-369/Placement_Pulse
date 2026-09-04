@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Milwaukee, WI, Birmingham, AL, North Haven, CT, Westborough, MA, Santa Clara, CA
+- **Locations:** North Haven, CT, Boston, MA, Ambler, PA, Westborough, MA, Santa Clara, CA
 
 ## Current Opportunities
 

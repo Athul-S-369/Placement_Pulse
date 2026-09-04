@@ -6,9 +6,9 @@
 
 **India's open-source aggregator for software internships, fresher jobs,<br>hackathons, fellowships, and placement opportunities.**
 
-[![Opportunities](https://img.shields.io/badge/Opportunities-2693-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
-[![Active](https://img.shields.io/badge/Active-2274-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
-[![Companies](https://img.shields.io/badge/Companies-2012-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
+[![Opportunities](https://img.shields.io/badge/Opportunities-2694-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
+[![Active](https://img.shields.io/badge/Active-2275-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
+[![Companies](https://img.shields.io/badge/Companies-2013-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
 [![Updated](https://img.shields.io/badge/Updated-Sep%2004%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**September 04, 2026** &nbsp;—&nbsp; **81** Fresher Job &nbsp;·&nbsp; **40** Internship &nbsp;·&nbsp; **4** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**September 04, 2026** &nbsp;—&nbsp; **81** Fresher Job &nbsp;·&nbsp; **38** Internship &nbsp;·&nbsp; **3** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**131 opportunities** added or updated in the latest run (September 04, 2026).
+**128 opportunities** added or updated in the latest run (September 04, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -80,7 +80,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Senior Research Scientist - Fault Tolerant Quantum Algorithm...](https://job-boards.greenhouse.io/ionq/jobs/6019179004) | IonQ | Toronto, ON, Canada, Both | Fresher Job | Remote | — |
 | [Integrating Firmware Engineer - Mesh](https://careers-lmi.icims.com/jobs/14396/job?mobile=true&needsRedirect=false) | LMI | Remote in USA | Fresher Job | Remote | — |
 | [AI Training Contributor - French](https://jobs.ashbyhq.com/lilt-production/1819d958-1eb4-4f5c-b5f2-eba8c1a9da55/application?embed=true) | Lilt | Remote in Canada, Québec  | Fresher Job | Remote | — |
-| [Forward Deployed Engineer New Grad](https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true) | LiteLLM | India, United States | Fresher Job | Onsite | — |
 | [Associate Product Engineer](https://mjhlifesciences.wd1.myworkdayjobs.com/Careers/job/United-States/Associate-Product-Engineer_JR102409-1) | MJH Life Sciences | Remote in USA | Fresher Job | Remote | — |
 | [Junior Full Stack Developer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4121413) | Meyer Distributing | Indianapolis, IN | Fresher Job | Onsite | — |
 | [Medical Economics Analyst](https://verawholehealth.wd1.myworkdayjobs.com/MPG/job/US---Remote/Medical-Economics-Analyst_M104708) | Millennium Physician Group | Remote in USA | Fresher Job | Remote | — |
@@ -91,6 +90,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [AI Engineer Graduate Level](https://www.newrocket.com/careers/job?gh_jid=6163544004&gh_jid=6163544004) | NewRocket | Remote in USA | Fresher Job | Remote | — |
 | [Java Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Northrop-Grumman--SkillBridge--Java-Software-Engineer-Level-1-or-2_R10248772) | Northrop Grumman | Aurora, CO, Morrisville,  | Fresher Job | Remote | — |
 | [Outcome Engineer - Early in Career Professional](https://jobs.ashbyhq.com/onebrief/a88e10d4-66d8-4911-99e3-3d20351e73d9/application) | One Brief | Remote in USA | Fresher Job | Remote | — |
+| [Business Analyst](https://jobs.ashbyhq.com/openloophealth/d90def69-84a7-45d2-9e3a-9cd5381d4535/application?embed=true) | OpenLoop | Remote in USA | Fresher Job | Remote | — |
 | [Software Engineer](https://legalshieldcorp.wd1.myworkdayjobs.com/en-US/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820) | PPLSI | Remote in USA | Fresher Job | Remote | — |
 | [Global Monitoring + Insights](https://jobs.lever.co/pentagrp/872f8d11-7741-4243-a0ee-b45f7f98162f/apply) | Penta Group | Remote in USA | Fresher Job | Remote | — |
 | [Copilot Developer/AI Engineer](https://pyrovio.breezy.hr/p/a0653fb2684d/apply) | Pyrovio | Remote in USA | Fresher Job | Remote | — |
@@ -129,10 +129,8 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Moneyball: The Football Auction (Interface 2026)](https://unstop.com/competitions/moneyball-the-football-auction-interface-2026-department-of-management-dom-birla-institute-of-technology-an-1744520) | Department of Management (Do | India | Hackathon | Onsite | 2026-09-25 |
 | [NeetiYudh: A Case Study](https://unstop.com/competitions/neetiyudh-a-case-study-challenge-national-institute-of-agricultural-extension-management-manage-hyderabad-1724150) | National Institute of Agricu | India | Hackathon | Onsite | 2026-09-06 |
 | [HackCelestial 3.0](https://unstop.com/hackathons/hackcelestial-30-pillai-university-navi-mumbai-1737808) | Pillai University, Navi Mumb | India | Hackathon | Onsite | 2026-09-27 |
-| [Workshop on Using AI for Fundraising & Investor Pitch Prepar...](https://unstop.com/workshops-webinars/workshop-on-using-ai-for-fundraising-investor-pitch-preparation-workshop-on-using-ai-for-fundraising--1743577) | Shyam Lal College, Universit | India | Hackathon | Onsite | 2026-09-07 |
 | [Careers at Adobe](https://careers.adobe.com/us/en/) | Adobe | India | Internship | Onsite | — |
 | [Software Engineer Co-op - Observability](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Software-Engineer---Observability--Co-op_R003434) | Ancestry | Remote in USA | Internship | Remote | — |
-| [Anthropic Fellows Program - ML Systems & Performance](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | Anthropic | London, UK, SF, Remote in | Internship | Remote | — |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895/application) | Binance | Remote in USA | Internship | Remote | — |
 | [Data Analysis Intern](https://jobs.lever.co/calstart/39565f0d-d10f-458b-b72d-d807420059b8/apply) | CALSTART | Remote in USA | Internship | Remote | — |
 | [Speech Intern 4](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Speech-Intern-4_JR107037) | Centific | Remote in USA | Internship | Remote | — |
@@ -159,7 +157,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [System Architecture Intern](https://www.psiquantum.com/apply?gh_jid=7695577003) | PsiQuantum | Palo Alto, CA, Bristol, U | Internship | Remote | — |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a/application?embed=true) | Realm | Remote in USA | Internship | Remote | — |
 | [Software Engineer Intern](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771) | Salesforce | Palo Alto, CA, Seattle, W | Internship | Onsite | — |
-| [Product Intern](https://job-boards.greenhouse.io/sezzle/jobs/6599073003) | Sezzle | Remote in Canada | Internship | Remote | — |
 | [Product Manager Intern - Host Squad](https://jobs.ashbyhq.com/sweatpals/be2f5fa7-2542-40e6-873f-778322bb0522/application?embed=true) | Sweatpals | Remote in USA | Internship | Remote | — |
 | [AI Data Science Intern - AI/ML Center of Excellence](https://apply.workable.com/twgai/j/1206BF981C/apply) | TWG Global | London, UK, Remote in UK | Internship | Remote | — |
 | [Product Manager Intern](https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544/application?embed=true) | Tessera Labs | San Jose, CA, Remote in U | Internship | Remote | — |
@@ -180,13 +177,14 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 ## Active Opportunities
 
 The 50 most recently added active opportunities across all categories.
-[View all 2693 on the website.](https://athul-s-369.github.io/Placement_Pulse)
+[View all 2694 on the website.](https://athul-s-369.github.io/Placement_Pulse)
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
 | [Computer Science and Data Science Intern](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W) | Corteva | Indianapolis, IN | Internship | Onsite | Open |
 | [Creator Circle - Dipper](https://jobs.ashbyhq.com/dipper/ce3c338e-73e8-47ce-8c16-eafc331f6b16/application?embed=true) | Dipper | Remote in USA | Fresher Job | Remote | Open |
 | [AI Operations Engineer](https://jobs.ashbyhq.com/surge-ai/73c5fe8d-0cb6-40e1-a634-d46928702f85/application?embed=true) | Surge AI | Remote in USA | Fresher Job | Remote | Open |
+| [Business Analyst](https://jobs.ashbyhq.com/openloophealth/d90def69-84a7-45d2-9e3a-9cd5381d4535/application?embed=true) | OpenLoop | Remote in USA | Fresher Job | Remote | Open |
 | [Artificial Intelligence Engineer Intern - Artificial Intelli...](https://www.pindrop.com/careers/job-title/?gh_jid=7899137) | Pindrop | Remote in USA | Internship | Remote | Open |
 | [Medical Economics Analyst](https://verawholehealth.wd1.myworkdayjobs.com/MPG/job/US---Remote/Medical-Economics-Analyst_M104708) | Millennium Physician Group | Remote in USA | Fresher Job | Remote | Open |
 | [Global Monitoring + Insights](https://jobs.lever.co/pentagrp/872f8d11-7741-4243-a0ee-b45f7f98162f/apply) | Penta Group | Remote in USA | Fresher Job | Remote | Open |
@@ -233,7 +231,6 @@ The 50 most recently added active opportunities across all categories.
 | [Data Scientist](https://careers-libertymutual.icims.com/jobs/77179/job?mobile=true&needsRedirect=false) | Liberty Mutual | Boston, MA, Seattle, WA,  | Fresher Job | Remote | Open |
 | [Data Backend Engineer - Trust & Safety](https://www.yelp.careers/us/en/job/14018) | Yelp | Montreal, QC, Canada, Tor | Fresher Job | Remote | Open |
 | [Relai PropTech Challenge 2026](https://unstop.com/competitions/relai-proptech-challenge-2026-relai-world-1742576) | relai world | India | Hackathon | Onsite | 2026-09-20 |
-| [Geeks2Code](https://unstop.com/hackathons/geeks2code-geeksforgeeks-campus-body-miet-1740788) | GeeksForGeeks Campus Body MI | India | Hackathon | Onsite | 2026-09-21 |
 
 ---
 
@@ -241,7 +238,7 @@ The 50 most recently added active opportunities across all categories.
 
 | Category | Total |
 |----------|-------|
-| [Fresher Job](categories/fresher-job/) | 1352 |
+| [Fresher Job](categories/fresher-job/) | 1353 |
 | [Internship](categories/internship/) | 795 |
 | [Hackathon](categories/hackathon/) | 540 |
 | [Open Source Program](categories/open-source-program/) | 2 |
@@ -293,6 +290,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-09-04 04:59 UTC</sub>
+<sub>Last generated: 2026-09-04 12:54 UTC</sub>
 
 </div>
