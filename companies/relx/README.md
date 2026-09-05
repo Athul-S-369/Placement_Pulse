@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Southampton, UK, Toronto, ON, Canada, Canada, Cardiff, UK
+- **Locations:** Toronto, ON, Canada, Canada, Southampton, UK, Cardiff, UK
 
 ## Current Opportunities
 

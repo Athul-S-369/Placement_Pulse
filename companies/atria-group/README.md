@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Dallas, TX, Jacksonville, FL, Plainview, NY, NYC, San Jose, CA
+- **Locations:** Plainview, NY, Novato, CA, Sunnyvale, CA, Dallas, TX, Alpharetta, GA
 
 ## Current Opportunities
 

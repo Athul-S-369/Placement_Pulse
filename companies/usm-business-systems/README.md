@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** NYC, Chantilly, VA, California City, CA, Westminster, CO, Augusta, ME
+- **Locations:** St. Louis, MO, Chicago, IL, Bloomington, MN, Rochester, MI, Traverse City, MI
 
 ## Current Opportunities
 
