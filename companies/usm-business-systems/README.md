@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Dublin, OH, Manassas, VA, San Antonio, TX, Baltimore, MD, Westminster, CO
+- **Categories:** Internship, Fresher Job
+- **Locations:** NYC, Chantilly, VA, California City, CA, Westminster, CO, Augusta, ME
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Goleta, CA, McKinney, TX, Indianapolis, IN, Arlington, VA, Fort Wayne, IN
+- **Categories:** Internship, Fresher Job
+- **Locations:** Goleta, CA, Arlington, VA, Andover, MA, Fort Wayne, IN, Cedar Rapids, IA
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Wenden, Germany, Bracknell, UK, France, Beaverton, OR
+- **Categories:** Internship, Fresher Job
+- **Locations:** Beaverton, OR, Wenden, Germany, Bracknell, UK, France
 
 ## Current Opportunities
 

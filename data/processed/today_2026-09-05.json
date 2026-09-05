@@ -60,6 +60,37 @@
     "duplicate_of": ""
   },
   {
+    "id": "738d9b22e8989867",
+    "title": "Anthropic Fellows Program - ML Systems & Performance",
+    "company": "Anthropic",
+    "company_slug": "anthropic",
+    "category": "internship",
+    "domain_tags": [
+      "ai-ml"
+    ],
+    "tags": [],
+    "location": "London, UK, SF, Remote in USA, Remote in Canada",
+    "work_mode": "remote",
+    "is_india": true,
+    "apply_link": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
+    "source_url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json",
+    "source_name": "SimplifyJobs / PittCSC",
+    "date_found": "2026-09-05",
+    "date_posted": "",
+    "deadline": "",
+    "last_checked": "2026-09-05",
+    "batch_eligible": [],
+    "experience_required": "0",
+    "skills_required": [],
+    "salary": "",
+    "stipend": "",
+    "description": "",
+    "responsibilities": [],
+    "verification_status": "unverified",
+    "is_duplicate": false,
+    "duplicate_of": ""
+  },
+  {
     "id": "62766a71424124e9",
     "title": "Speech Intern 4",
     "company": "Centific",
@@ -983,8 +1014,8 @@
     "deadline": "",
     "last_checked": "2026-09-05",
     "batch_eligible": [
-      "2026",
-      "2027"
+      "2027",
+      "2026"
     ],
     "experience_required": "0",
     "skills_required": [],
