@@ -1,11 +1,11 @@
 # 🏢 GlobalFoundries
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-09-04*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-09-05*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Richardson, TX, Malta, NY, Malta, NY, Bengaluru, Karnataka, India, Burlington, VT
+- **Locations:** Richardson, TX, Malta, NY, Bengaluru, Karnataka, India, Malta, NY, Burlington, VT
 
 ## Current Opportunities
 

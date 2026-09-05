@@ -1,11 +1,11 @@
 # 🏢 Cincinnati Children’s Hospital and Medical Center
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-04*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-05*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Cincinnati, OH, Remote in USA
+- **Locations:** Remote in USA, Cincinnati, OH
 
 ## Current Opportunities
 

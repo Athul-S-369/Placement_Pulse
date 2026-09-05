@@ -1,8 +1,8 @@
 # 🏆 Hackathon
 
-**122 active** | **418 expired** | **540 total**
+**119 active** | **421 expired** | **540 total**
 
-*Last updated: 2026-09-04*
+*Last updated: 2026-09-05*
 
 ## Active Opportunities
 
@@ -23,7 +23,6 @@
 | [Maudrik V7.0: The Policy Case Event](https://unstop.com/competitions/maudrik-v70-the-policy-case-event-netaji-subhas-university-of-technology-nsut-delhi-1743329) | Netaji Subhas University of Technology (NSUT), Delhi | India | 🏢 Onsite | — | 2026-09-08 | Unstop |
 | [ShaSang A.I National Growth Strategy Challenge](https://unstop.com/competitions/shasang-ai-national-growth-strategy-challenge-shasang-ai-1743013) | ShaSang A.I | India | 🏢 Onsite | — | 2026-09-06 | Unstop |
 | [Tarkshil - Hindi Debate Competition](https://unstop.com/events/tarkshil-hindi-debate-competition-maharaja-agrasen-institute-of-management-studies-maims-delhi-1743132) | Maharaja Agrasen Institute of Management Studies (MAIMS), Delhi | India | 🏢 Onsite | — | 2026-09-11 | Unstop |
-| [BuildSprint](https://unstop.com/hackathons/buildsprint-latentforceai-1742504) | LatentForce.ai | India | 🏢 Onsite | — | 2026-09-04 | Unstop |
 | [Code Quest 2026 – 21-Day Competitive Coding Challenge](https://unstop.com/hackathons/code-quest-2026-21-day-competitive-coding-challenge-k-j-somaiya-institute-of-technology-kjsit-1743505) | K. J. Somaiya Institute of Technology (KJSIT) | India | 🏢 Onsite | — | 2026-09-13 | Unstop |
 | [Workshop on Using AI for Fundraising & Investor Pitch Preparation](https://unstop.com/workshops-webinars/workshop-on-using-ai-for-fundraising-investor-pitch-preparation-workshop-on-using-ai-for-fundraising--1743577) | Shyam Lal College, University of Delhi | India | 🏢 Onsite | — | 2026-09-07 | Unstop |
 | [Stainless Spark – Engineering Innovation, Building Futures](https://unstop.com/competitions/crp-stainless-spark-engineering-innovation-building-futures-stainless-spark-case-study-competition-jindal-stain-1572025) | Jindal Stainless Limited | India | 🏢 Onsite | — | 2026-11-19 | Unstop |
@@ -38,7 +37,6 @@
 | [Graviton](https://unstop.com/hackathons/graviton-iste-cgc-university-1742794) | ISTE CGC UNIVERSITY | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 | [Finsight 2026–27 Call for Articles](https://unstop.com/competitions/finsight-2026-27-call-for-articles-st-xaviers-college-autonomous-mumbai-maharashtra-1742225) | St. Xavier's College (Autonomous), Mumbai, Maharashtra | India | 🏢 Onsite | — | 2026-09-05 | Unstop |
 | [Webinar on Basic Embedded Systems](https://unstop.com/workshops-webinars/webinar-on-basic-embedded-systems-hepelancer-1737733) | Hepelancer | India | 🏢 Onsite | — | 2026-09-06 | Unstop |
-| [AI-Powered Coding with GitHub Copilot Masterclass](https://unstop.com/workshops-webinars/ai-powered-coding-with-github-copilot-masterclass-free-masterclass-on-github-copilot-cloudthat-1742373) | CloudThat | India | 🏢 Onsite | — | 2026-09-04 | Unstop |
 | [The Ken's Case-Build Competition 2026 - The Great Rewiring](https://unstop.com/competitions/crp-the-kens-case-build-competition-2026-the-great-rewiring-the-ken-1737144) | The Ken | India | 🏢 Onsite | — | 2026-10-10 | Unstop |
 | [ELUCode-2](https://unstop.com/hackathons/elucode-2-edulinkup-1740124) | EduLinkUp | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 | [Horizon](https://unstop.com/hackathons/horizon-hoollow-1726596) | Hoollow | India | 🏢 Onsite | — | 2026-10-19 | Unstop |
@@ -71,7 +69,6 @@
 | [Naventra Finance Frenzy '26](https://unstop.com/quiz/naventra-finance-frenzy-26-naventra-1730345) | Naventra | India | 🏢 Onsite | — | 2026-09-10 | Unstop |
 | [Signal Quest – IEEE SPS Hackathon 2026](https://unstop.com/hackathons/signal-quest-ieee-sps-hackathon-2026-cmr-institute-of-technology-1736521) | CMR Institute Of Technology | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 | [Brand Storm](https://unstop.com/competitions/brand-storm-wings-and-roots-50-narsee-monjee-institute-of-management-studies-nmims-mumbai-1735423) | Narsee Monjee Institute of Management Studies (NMIMS), Mumbai | India | 🏢 Onsite | — | 2026-09-11 | Unstop |
-| [Breakpoint Hackathon 2026](https://unstop.com/hackathons/breakpoint-hackathon-2026-invoqe-1734966) | invoqe | India | 🏢 Onsite | — | 2026-09-04 | Unstop |
 | [Case Consilium](https://unstop.com/competitions/case-consilium-bits-goa-consulting-club-bgcc-1734140) | BITS Goa Consulting Club (BGCC) | India | 🏢 Onsite | — | 2026-09-16 | Unstop |
 | [Maxim Code challenges](https://unstop.com/competitions/maxim-code-challenges-saveetha-engineering-college-1735971) | Saveetha Engineering College | India | 🏢 Onsite | — | 2026-09-29 | Unstop |
 | [Quantitative Trading Strategy Article Writing + Video Presentation Competition](https://unstop.com/competitions/quantitative-trading-strategy-article-writing-video-presentation-competition-kvants-1734888) | Kvants | India | 🏢 Onsite | — | 2026-09-07 | Unstop |
@@ -108,11 +105,17 @@
 | [Specathon 2026](https://unstop.com/hackathons/specathon-2026-st-peters-engineering-college-1723868) | St Peters Engineering College | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
 | [CraftVerse 2.0](https://unstop.com/hackathons/craftverse-20-pimpri-chinchwad-college-of-engineering-research-pccoer-ravet-pimpri-chinchwad-pune-1719658) | Pimpri Chinchwad College Of Engineering & Research (PCCOE&R), Ravet, Pimpri-Chinchwad, Pune | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
 | [PromptX](https://unstop.com/competitions/promptx-s2s-1721995) | S2S | India | 🏢 Onsite | — | 2026-12-10 | Unstop |
+| [Hacker's Gambit 2026](https://unstop.com/hackathons/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293) | Jaihind college of Engineering Kuran | India | 🏢 Onsite | — | 2026-10-04 | Unstop |
+| [Hackfinity 3.0](https://unstop.com/hackathons/hackfinity-30-ramco-institute-of-technology-rit-tamil-nadu-1722654) | Ramco Institute of Technology (RIT), Tamil Nadu | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
+| [CodeYourCult](https://unstop.com/hackathons/codeyourcult-build-cult-1723045) | Build Cult | India | 🏢 Onsite | — | 2026-09-06 | Unstop |
 
 ## Recently Expired
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Breakpoint Hackathon 2026](https://unstop.com/hackathons/breakpoint-hackathon-2026-invoqe-1734966) | invoqe | India | 🏢 Onsite | — | 2026-09-04 | Unstop |
+| [AI-Powered Coding with GitHub Copilot Masterclass](https://unstop.com/workshops-webinars/ai-powered-coding-with-github-copilot-masterclass-free-masterclass-on-github-copilot-cloudthat-1742373) | CloudThat | India | 🏢 Onsite | — | 2026-09-04 | Unstop |
+| [BuildSprint](https://unstop.com/hackathons/buildsprint-latentforceai-1742504) | LatentForce.ai | India | 🏢 Onsite | — | 2026-09-04 | Unstop |
 | [Echelon Essay Competition 2026](https://unstop.com/competitions/echelon-essay-competition-2026-echelon-association-1729396) | Echelon Association | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
 | [Hackblox Open Source Hackathon](https://unstop.com/hackathons/hackblox-open-source-hackathon-hackers-cult-1731738) | Hackers Cult | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
 | [Legend of the Treasure (Takara No Densetsu)](https://unstop.com/hackathons/legend-of-the-treasure-takara-no-densetsu-amity-school-of-engineering-technology-amity-noida-1736600) | Amity School of Engineering & Technology (AMITY), Noida | India | 🏢 Onsite | — | 2026-09-03 | Unstop |
@@ -130,6 +133,3 @@
 | [Hackathon 4.0](https://unstop.com/hackathons/hackathon-40-indian-education-society-management-college-research-mumbai-1739792) | Indian Education Society Management College & Research, Mumbai | India | 🏢 Onsite | — | 2026-09-01 | Unstop |
 | [Customer Discovery: Learn Before You Build](https://unstop.com/workshops-webinars/customer-discovery-learn-before-you-build-cloud-counsaleage-pvt-ltd-1742818) | Cloud Counsaleage Pvt Ltd | India | 🏢 Onsite | — | 2026-09-01 | Unstop |
 | [National Branding Challnge (Online): Can you lead a Brand](https://unstop.com/competitions/national-branding-challnge-online-can-you-lead-a-brand-interactup-1716105) | InteractUp | India | 🏢 Onsite | — | 2026-08-31 | Unstop |
-| [AWS Student Builder Event – Get Free AWS Certification Exam Vouchers](https://unstop.com/workshops-webinars/aws-student-builder-event-get-free-aws-certification-exam-vouchers-ssm-institute-of-engineering-and-t-1718528) | SSM Institute of Engineering and Technology | India | 🏢 Onsite | — | 2026-08-31 | Unstop |
-| [Indian Impact Summit 2026](https://unstop.com/competitions/indian-impact-summit-2026-nexus-ideas-1728156) | Nexus Ideas | India | 🏢 Onsite | — | 2026-08-31 | Unstop |
-| [Mondelēz Maestros 2026 - Supply Chain Track (2nd Year)](https://unstop.com/competitions/crp-mondelez-maestros-2026-supply-chain-track-2nd-year-mondelez-maestros-2026-mondelez-international-1724435) | Mondelēz International | India | 🏢 Onsite | — | 2026-08-31 | Unstop |

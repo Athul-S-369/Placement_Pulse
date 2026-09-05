@@ -1,6 +1,6 @@
 # 🏢 University College of Commerce and Business management, Osmania University, Hyderabad, Telangana
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-04*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-05*
 
 ## Overview
 

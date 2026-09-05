@@ -1,13 +1,14 @@
 # 💼 Fresher Job
 
-**1353 active** | **0 expired** | **1353 total**
+**1354 active** | **0 expired** | **1354 total**
 
-*Last updated: 2026-09-04*
+*Last updated: 2026-09-05*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Associate Software Engineer](https://careers-healthedge.icims.com/jobs/8440/job?mobile=true&needsRedirect=false) | HealthEdge | Boston, MA, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Creator Circle - Dipper](https://jobs.ashbyhq.com/dipper/ce3c338e-73e8-47ce-8c16-eafc331f6b16/application?embed=true) | Dipper | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Operations Engineer](https://jobs.ashbyhq.com/surge-ai/73c5fe8d-0cb6-40e1-a634-d46928702f85/application?embed=true) | Surge AI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Business Analyst](https://jobs.ashbyhq.com/openloophealth/d90def69-84a7-45d2-9e3a-9cd5381d4535/application?embed=true) | OpenLoop | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Business Intelligence Engineer 2](https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Remote-Nationwide/Business-Intelligence-Engineer-2_R-421290) | CenterWell | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Wireless Software Engineer Associate](https://jobs.ashbyhq.com/Flock%20Safety/44ae4912-89d9-4e83-840d-e22250d6a473/application?embed=true) | Flock Safety | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Engineer Associate](https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5372829008) | AffirmedRx | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Associate Forward Deployed Engineer](https://jobs.ashbyhq.com/eliza/3190c7b1-a01f-42e0-9a16-2c6dfc40eb8d/application?embed=true) | Eliza | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

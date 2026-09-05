@@ -1,6 +1,6 @@
 # 🏢 KNS Institute of Technology, Karnataka
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-04*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-05*
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # 🏢 CloudThat
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-04*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-05*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AI-Powered Coding with GitHub Copilot Masterclass](https://unstop.com/workshops-webinars/ai-powered-coding-with-github-copilot-masterclass-free-masterclass-on-github-copilot-cloudthat-1742373) | CloudThat | India | 🏢 Onsite | — | 2026-09-04 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,11 +1,11 @@
 # 🏢 CIBC
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-09-04*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-09-05*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** London, UK, Montreal, QC, Canada, Toronto, ON, Canada
+- **Locations:** London, UK, Toronto, ON, Canada, Montreal, QC, Canada
 
 ## Current Opportunities
 

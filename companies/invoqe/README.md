@@ -1,6 +1,6 @@
 # 🏢 invoqe
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-04*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-05*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Breakpoint Hackathon 2026](https://unstop.com/hackathons/breakpoint-hackathon-2026-invoqe-1734966) | invoqe | India | 🏢 Onsite | — | 2026-09-04 | Unstop |
 
 ## 📖 Interview Preparation
 

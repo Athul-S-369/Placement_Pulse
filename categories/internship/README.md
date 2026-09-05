@@ -1,13 +1,15 @@
 # 🎓 Internship
 
-**797 active** | **0 expired** | **797 total**
+**799 active** | **0 expired** | **799 total**
 
-*Last updated: 2026-09-04*
+*Last updated: 2026-09-05*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Operational Analytics Intern](https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/DIRECTV-for-Business--Operational-Analytics-Intern_R260282) | DIRECTV | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Software Engineer Intern - Waterloo University](https://job-boards.greenhouse.io/brave/jobs/8161945) | Brave | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Computer Science and Data Science Intern](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W) | Corteva | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Front End Developer Intern](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975) | Simon Property Group | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Operations Graduate Program Intern - Operations](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Operations-Graduate-Program---Summer-2027-Internship_R-254659) | Amgen | Cambridge, MA, Remote in USA, Thousand Oaks, CA, Holly Springs, NC, New Albany, OH, West Greenwich, RI | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -106,5 +108,3 @@
 | [Software Engineer, Intern - Summer 2026](https://careers.jackhenry.com/job/-/-/42859/87787419520) | Jack Henry | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Intern, Software Engineer](https://www.kpmguscareers.com/jobdetail/?jobId=129155) | KPMG | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Fixed Operations Data Analyst Intern](https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Fixed-Operations-Data-Analyst-Intern_JR104254) | JM Family | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
-| [HPE Labs - AI Research Lab Research Associate (Intern)](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Ft-Collins-Colorado-United-States-of-America/HPE-Labs---AI-Research-Lab-Research-Associate--Intern-_1192299) | Hewlett Packard Enterprise | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
-| [Software Engineering Intern](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineering-Intern_2532385-2) | KLA | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |

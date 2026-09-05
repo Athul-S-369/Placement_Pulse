@@ -1,6 +1,6 @@
 # 🏢 Mercor
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-04*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-05*
 
 ## Overview
 

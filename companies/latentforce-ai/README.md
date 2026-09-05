@@ -1,6 +1,6 @@
 # 🏢 LatentForce.ai
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-04*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-05*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [BuildSprint](https://unstop.com/hackathons/buildsprint-latentforceai-1742504) | LatentForce.ai | India | 🏢 Onsite | — | 2026-09-04 | Unstop |
 
 ## 📖 Interview Preparation
 
