@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** NYC, Baltimore, MD, Jefferson City, MO, Traverse City, MI, Southfield, MI
+- **Categories:** Internship, Fresher Job
+- **Locations:** Traverse City, MI, Alexandria, VA, El Segundo, CA, Chantilly, VA, Rochester, MI
 
 ## Current Opportunities
 
