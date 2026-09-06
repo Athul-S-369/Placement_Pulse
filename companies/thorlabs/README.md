@@ -1,6 +1,6 @@
 # 🏢 Thorlabs
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-05*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-06*
 
 ## Overview
 

@@ -1,11 +1,11 @@
 # 🏢 Carnegie Mellon University
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-05*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-06*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Pittsburgh, PA, Remote in USA
+- **Locations:** Remote in USA, Pittsburgh, PA
 
 ## Current Opportunities
 

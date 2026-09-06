@@ -1,6 +1,6 @@
 # 🏢 Technocrats Group of Institutions, Bhopal, Madhya Pradesh
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-05*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-06*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Techno Vbiquity 2.O – Technical Coding Competition](https://unstop.com/hackathons/techno-vbiquity-2o-technical-coding-competition-technocrats-group-of-institutions-bhopal-madhya-pradesh-1728481) | Technocrats Group of Institutions, Bhopal, Madhya Pradesh | India | 🏢 Onsite | — | 2026-09-05 | Unstop |
 
 ## 📖 Interview Preparation
 

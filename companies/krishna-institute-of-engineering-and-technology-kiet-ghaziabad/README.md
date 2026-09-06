@@ -1,6 +1,6 @@
 # 🏢 Krishna Institute of Engineering and Technology (KIET), Ghaziabad
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-05*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-06*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Code Rush 3.0](https://unstop.com/hackathons/code-rush-30-krishna-institute-of-engineering-and-technology-kiet-ghaziabad-1731472) | Krishna Institute of Engineering and Technology (KIET), Ghaziabad | India | 🏢 Onsite | — | 2026-09-05 | Unstop |
 
 ## 📖 Interview Preparation
 

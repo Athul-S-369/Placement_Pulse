@@ -1,6 +1,6 @@
 # 🏢 Maharana Pratap Group of institutions
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-05*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-06*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [The Start up Conclave](https://unstop.com/competitions/the-start-up-conclave-maharana-pratap-group-of-institutions-1716485) | Maharana Pratap Group of institutions | India | 🏢 Onsite | — | 2026-09-05 | Unstop |
 
 ## 📖 Interview Preparation
 
