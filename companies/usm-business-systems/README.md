@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Traverse City, MI, Rochester, MI, St. Louis, MO, Chicago, IL, Bloomington, MN
+- **Categories:** Fresher Job, Internship
+- **Locations:** NYC, Baltimore, MD, Jefferson City, MO, Traverse City, MI, Southfield, MI
 
 ## Current Opportunities
 

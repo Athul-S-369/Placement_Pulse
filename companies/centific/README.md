@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Remote in USA, Remote in USA, Redmond, WA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Remote in USA, Redmond, WA, Remote in USA
 
 ## Current Opportunities
 
