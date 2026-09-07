@@ -1,6 +1,6 @@
 # 🏢 ShaSang A.I
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-06*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-07*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [ShaSang A.I National Growth Strategy Challenge](https://unstop.com/competitions/shasang-ai-national-growth-strategy-challenge-shasang-ai-1743013) | ShaSang A.I | India | 🏢 Onsite | — | 2026-09-06 | Unstop |
 
 ## 📖 Interview Preparation
 

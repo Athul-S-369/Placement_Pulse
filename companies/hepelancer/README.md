@@ -1,6 +1,6 @@
 # 🏢 Hepelancer
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-06*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-07*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Webinar on Basic Embedded Systems](https://unstop.com/workshops-webinars/webinar-on-basic-embedded-systems-hepelancer-1737733) | Hepelancer | India | 🏢 Onsite | — | 2026-09-06 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,6 +1,6 @@
 # 🏢 Collegepond Counsellors Private Limited
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-06*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-07*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Global Education Fair - Hyderabad 2026](https://unstop.com/events/global-education-fair-hyderabad-2026-collegepond-counsellors-private-limited-1739776) | Collegepond Counsellors Private Limited | India | 🏢 Onsite | — | 2026-09-06 | Unstop |
 
 ## 📖 Interview Preparation
 

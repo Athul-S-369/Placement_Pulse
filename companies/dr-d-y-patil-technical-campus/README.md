@@ -1,6 +1,6 @@
 # 🏢 Dr D Y Patil Technical Campus
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-06*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-07*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Prompt to Placement: AI Tools & GenAI Careers Quiz 2026](https://unstop.com/quiz/prompt-to-placement-ai-tools-genai-careers-quiz-2026-dr-d-y-patil-technical-campus-1730321) | Dr D Y Patil Technical Campus | India | 🏢 Onsite | — | 2026-09-06 | Unstop |
 
 ## 📖 Interview Preparation
 

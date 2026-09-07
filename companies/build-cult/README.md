@@ -1,6 +1,6 @@
 # 🏢 Build Cult
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-06*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-07*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [CodeYourCult](https://unstop.com/hackathons/codeyourcult-build-cult-1723045) | Build Cult | India | 🏢 Onsite | — | 2026-09-06 | Unstop |
 
 ## 📖 Interview Preparation
 

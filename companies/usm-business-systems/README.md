@@ -1,11 +1,11 @@
 # 🏢 USM Business Systems
 
-**21 active opportunities** | **21 total tracked** | *Last updated: 2026-09-06*
+**21 active opportunities** | **21 total tracked** | *Last updated: 2026-09-07*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Traverse City, MI, Alexandria, VA, El Segundo, CA, Chantilly, VA, Rochester, MI
+- **Locations:** Traverse City, MI, Alexandria, VA, El Segundo, CA, Rochester, MI, Southfield, MI
 
 ## Current Opportunities
 
