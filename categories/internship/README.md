@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**799 active** | **0 expired** | **799 total**
+**800 active** | **0 expired** | **800 total**
 
 *Last updated: 2026-09-07*
 
@@ -8,6 +8,7 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Data and Intelligence Delivery Intern - Assurance](https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Ernst & Young | Salt Lake City, UT, Indianapolis, IN, Houston, TX, Des Moines, IA, Detroit, MI, Tampa, FL, Dallas, TX, Greenville, SC, St. Louis, MO, Alpharetta, GA, Phoenix, AZ, Grandview Heights, OH | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Operational Analytics Intern](https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/DIRECTV-for-Business--Operational-Analytics-Intern_R260282) | DIRECTV | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern - Waterloo University](https://job-boards.greenhouse.io/brave/jobs/8161945) | Brave | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Computer Science and Data Science Intern](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W) | Corteva | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [Software Engineering Intern - Automation](https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/San-Jose-California/Software-Engineering-Intern---Automation_JR-20625) | Bloom Energy | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Software Engineer, Intern - Summer 2026](https://careers.jackhenry.com/job/-/-/42859/87787419520) | Jack Henry | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Intern, Software Engineer](https://www.kpmguscareers.com/jobdetail/?jobId=129155) | KPMG | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
-| [Fixed Operations Data Analyst Intern](https://jmfamily.wd1.myworkdayjobs.com/en-US/jmfamily_external/job/Florida---Deerfield-Beach/Fixed-Operations-Data-Analyst-Intern_JR104254) | JM Family | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |

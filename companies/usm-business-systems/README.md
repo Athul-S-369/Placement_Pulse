@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Westminster, CO, Alexandria, VA, Columbus, OH, San Antonio, TX, St. Louis, MO
+- **Categories:** Internship, Fresher Job
+- **Locations:** Augusta, ME, California City, CA, Chantilly, VA, Alexandria, VA, Southfield, MI
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Canada, NYC, Sunnyvale, CA, Vancouver, BC, Canada, Naperville, IL, Allentown, PA
+- **Categories:** Internship, Fresher Job
+- **Locations:** San Jose, CA, United States, Allentown, PA, Jackson Township, NJ, Sunnyvale, CA
 
 ## Current Opportunities
 

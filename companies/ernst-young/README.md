@@ -1,16 +1,17 @@
 # 🏢 Ernst & Young
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-07*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-07*
 
 ## Overview
 
-- **Categories:** Fresher Job
-- **Locations:** Nashville, TN, Austin, TX, Atlanta, GA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Nashville, TN, Austin, TX, Atlanta, GA, Salt Lake City, UT, Indianapolis, IN, Houston, TX, Des Moines, IA, Detroit, MI, Tampa, FL, Dallas, TX, Greenville, SC, St. Louis, MO, Alpharetta, GA, Phoenix, AZ, Grandview Heights, OH
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Data and Intelligence Delivery Intern - Assurance](https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Ernst & Young | Salt Lake City, UT, Indianapolis, IN, Houston, TX, Des Moines, IA, Detroit, MI, Tampa, FL, Dallas, TX, Greenville, SC, St. Louis, MO, Alpharetta, GA, Phoenix, AZ, Grandview Heights, OH | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Americas Tax Technology Group Tax - Engineering](https://eyglobal.yello.co/jobs/0m3IMV1LeGFu8D0t3z_1zQ?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Ernst & Young | Nashville, TN, Austin, TX, Atlanta, GA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 
 ## 📖 Interview Preparation
