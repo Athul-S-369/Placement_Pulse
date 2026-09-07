@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Richardson, TX, Boise, ID, Folsom, CA
+- **Locations:** Richardson, TX, Folsom, CA, Boise, ID
 
 ## Current Opportunities
 
