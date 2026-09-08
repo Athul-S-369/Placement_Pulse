@@ -1,6 +1,6 @@
 # 🏢 Hindustan Unilever Limited (HUL)
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-07*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-08*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [HUL TechTonic Season 8](https://unstop.com/competitions/crp-hul-techtonic-season-8-hindustan-unilever-limited-hul-1719683) | Hindustan Unilever Limited (HUL) | India | 🏢 Onsite | — | 2026-09-07 | Unstop |
 
 ## 📖 Interview Preparation
 

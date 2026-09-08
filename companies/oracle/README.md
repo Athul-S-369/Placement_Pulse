@@ -1,11 +1,11 @@
 # 🏢 Oracle
 
-**10 active opportunities** | **10 total tracked** | *Last updated: 2026-09-07*
+**10 active opportunities** | **10 total tracked** | *Last updated: 2026-09-08*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Kitchener, ON, Canada, United States, Seattle, WA, Santa Clara, CA, Kansas City, MO, Kansas City, KS, Nashville, TN, Austin, TX, United States
+- **Locations:** United States, Kitchener, ON, Canada, Santa Clara, CA, Pleasanton, CA, San Carlos, CA, Santa Clara, CA, Allen, TX
 
 ## Current Opportunities
 

@@ -7,10 +7,10 @@
 **India's open-source aggregator for software internships, fresher jobs,<br>hackathons, fellowships, and placement opportunities.**
 
 [![Opportunities](https://img.shields.io/badge/Opportunities-2700-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
-[![Active](https://img.shields.io/badge/Active-2266-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
+[![Active](https://img.shields.io/badge/Active-2261-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
 [![Companies](https://img.shields.io/badge/Companies-2017-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
-[![Updated](https://img.shields.io/badge/Updated-Sep%2007%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
+[![Updated](https://img.shields.io/badge/Updated-Sep%2008%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
 [Latest Run](#latest-run) &nbsp;·&nbsp;
 [Active Opportunities](#active-opportunities) &nbsp;·&nbsp;
@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**September 07, 2026** &nbsp;—&nbsp; **78** Fresher Job &nbsp;·&nbsp; **45** Internship &nbsp;·&nbsp; **8** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**September 08, 2026** &nbsp;—&nbsp; **78** Fresher Job &nbsp;·&nbsp; **45** Internship &nbsp;·&nbsp; **8** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**137 opportunities** added or updated in the latest run (September 07, 2026).
+**137 opportunities** added or updated in the latest run (September 08, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -274,13 +274,13 @@ The 50 most recently added active opportunities across all categories.
 
 ## Archive
 
-- [September 07, 2026 — Today](daily/2026/September/2026-09-07.md)
+- [September 08, 2026 — Today](daily/2026/September/2026-09-08.md)
+- [September 07, 2026](daily/2026/September/2026-09-07.md)
 - [September 06, 2026](daily/2026/September/2026-09-06.md)
 - [September 05, 2026](daily/2026/September/2026-09-05.md)
 - [September 04, 2026](daily/2026/September/2026-09-04.md)
 - [September 03, 2026](daily/2026/September/2026-09-03.md)
 - [September 02, 2026](daily/2026/September/2026-09-02.md)
-- [September 01, 2026](daily/2026/September/2026-09-01.md)
 
 [Full archive](daily/)
 
@@ -299,6 +299,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-09-07 20:08 UTC</sub>
+<sub>Last generated: 2026-09-08 05:04 UTC</sub>
 
 </div>

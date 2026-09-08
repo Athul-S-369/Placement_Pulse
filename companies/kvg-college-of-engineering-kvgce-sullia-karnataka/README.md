@@ -1,6 +1,6 @@
 # 🏢 KVG College of Engineering (KVGCE), Sullia, Karnataka
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-07*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-08*
 
 ## Overview
 

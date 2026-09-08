@@ -1,6 +1,6 @@
 # 🏢 Shyam Lal College, University of Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-07*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-08*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Workshop on Using AI for Fundraising & Investor Pitch Preparation](https://unstop.com/workshops-webinars/workshop-on-using-ai-for-fundraising-investor-pitch-preparation-workshop-on-using-ai-for-fundraising--1743577) | Shyam Lal College, University of Delhi | India | 🏢 Onsite | — | 2026-09-07 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,6 +1,6 @@
 # 🏢 Kvants
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-07*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-08*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Quantitative Trading Strategy Article Writing + Video Presentation Competition](https://unstop.com/competitions/quantitative-trading-strategy-article-writing-video-presentation-competition-kvants-1734888) | Kvants | India | 🏢 Onsite | — | 2026-09-07 | Unstop |
 
 ## 📖 Interview Preparation
 

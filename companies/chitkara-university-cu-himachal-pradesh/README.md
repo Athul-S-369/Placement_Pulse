@@ -1,6 +1,6 @@
 # 🏢 Chitkara University (CU), Himachal Pradesh
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-07*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-08*
 
 ## Overview
 

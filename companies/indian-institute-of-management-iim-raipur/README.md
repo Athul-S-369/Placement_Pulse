@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Management (IIM), Raipur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-07*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-08*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Product Mania](https://unstop.com/competitions/product-mania--1742240) | Indian Institute of Management (IIM), Raipur | India | 🏢 Onsite | — | 2026-09-07 | Unstop |
 
 ## 📖 Interview Preparation
 
