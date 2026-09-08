@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** San Antonio, TX, Columbus, OH, Bloomington, MN, Westminster, CO, St. Louis, MO
+- **Locations:** Bloomington, MN, Manassas, VA, Dublin, OH, Rochester, MI, Southfield, MI
 
 ## Current Opportunities
 

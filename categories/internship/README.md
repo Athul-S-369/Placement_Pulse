@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**800 active** | **0 expired** | **800 total**
+**801 active** | **0 expired** | **801 total**
 
 *Last updated: 2026-09-08*
 
@@ -8,6 +8,7 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Hardware Engineer Intern - Advanced Development](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineer--Advanced-Development-_JR37459-1) | Allegion | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Data and Intelligence Delivery Intern - Assurance](https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Ernst & Young | Salt Lake City, UT, Indianapolis, IN, Houston, TX, Des Moines, IA, Detroit, MI, Tampa, FL, Dallas, TX, Greenville, SC, St. Louis, MO, Alpharetta, GA, Phoenix, AZ, Grandview Heights, OH | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Operational Analytics Intern](https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/DIRECTV-for-Business--Operational-Analytics-Intern_R260282) | DIRECTV | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern - Waterloo University](https://job-boards.greenhouse.io/brave/jobs/8161945) | Brave | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [Embedded Software Intern](https://jobs.lever.co/anysignal/b5f278c9-9911-49c2-b5e8-0ed61f7194eb) | AnySignal | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Software Engineering Intern - Automation](https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/San-Jose-California/Software-Engineering-Intern---Automation_JR-20625) | Bloom Energy | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Software Engineer, Intern - Summer 2026](https://careers.jackhenry.com/job/-/-/42859/87787419520) | Jack Henry | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
-| [Intern, Software Engineer](https://www.kpmguscareers.com/jobdetail/?jobId=129155) | KPMG | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
