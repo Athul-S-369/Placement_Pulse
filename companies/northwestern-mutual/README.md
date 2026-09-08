@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Greendale, WI, Milwaukee, WI
+- **Locations:** Milwaukee, WI, Greendale, WI
 
 ## Current Opportunities
 
