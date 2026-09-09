@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Dallas, TX, Chesterfield, MO
+- **Locations:** Chesterfield, MO, Dallas, TX
 
 ## Current Opportunities
 

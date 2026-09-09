@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Stamford, CT, Perrysburg, OH
+- **Locations:** Perrysburg, OH, Stamford, CT
 
 ## Current Opportunities
 

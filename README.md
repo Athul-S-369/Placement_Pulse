@@ -6,9 +6,9 @@
 
 **India's open-source aggregator for software internships, fresher jobs,<br>hackathons, fellowships, and placement opportunities.**
 
-[![Opportunities](https://img.shields.io/badge/Opportunities-2704-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
-[![Active](https://img.shields.io/badge/Active-2263-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
-[![Companies](https://img.shields.io/badge/Companies-2020-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
+[![Opportunities](https://img.shields.io/badge/Opportunities-2705-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
+[![Active](https://img.shields.io/badge/Active-2264-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
+[![Companies](https://img.shields.io/badge/Companies-2021-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
 [![Updated](https://img.shields.io/badge/Updated-Sep%2009%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
@@ -56,7 +56,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Product Management Trainee - Bilingual Mandarin Required](https://apply.workable.com/cwill-us/j/0AF59B8964/apply) | CWILL | Remote in USA, Cary, NC | Fresher Job | Remote | — |
 | [Web Frontend Engineer - Multiple Teams](https://job-boards.greenhouse.io/canonical/jobs/5150422) | Canonical | Remote in UK | Fresher Job | Remote | — |
 | [AI Personalization Evaluation - Project Athabasca](https://jobs.lever.co/appen/407f58a5-9991-408b-8d30-229f2917d6e7/apply) | CrowdGen by Appen | Remote in USA | Fresher Job | Remote | — |
-| [Fullstack Software Engineer - Core](https://job-boards.greenhouse.io/dataiku/jobs/5420293004) | Dataiku | Remote in Germany, Remote | Fresher Job | Remote | — |
 | [Entry-level Software Developer](https://careers-decisionpointcorp.icims.com/jobs/3685/job?mobile=true&needsRedirect=false) | DecisionPoint Corporation | Remote in USA | Fresher Job | Remote | — |
 | [Machine Learning Engineer](https://jobs.ashbyhq.com/deeter-analytics/2c12339b-d302-427c-9a73-d825b4b942b0/application?embed=true) | Deeter Analytics | Remote in USA | Fresher Job | Remote | — |
 | [Associate Software Engineer](https://jobs.lever.co/demiurgestudios/85f401d2-5242-4096-b852-2947492d0035/apply) | Demiurge Studios | Remote in USA | Fresher Job | Remote | — |
@@ -93,6 +92,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Software Engineer New Grad - Machine Learning Platform](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application?embed=true) | Quora | Remote in USA, Remote in  | Fresher Job | Remote | — |
 | [Speech AI Evaluation Specialist - Chinese Simplified](https://jobs.lever.co/rws/b6ae34f4-57e5-4bb8-8f29-4c69cf25ecbd/apply) | RWS | Remote in USA | Fresher Job | Remote | — |
 | [Software Engineer - New Grad](https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f) | Realm | Remote in US | Fresher Job | Remote | — |
+| [Test and Measurement Software Engineer](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Test-and-Measurement-Software-Engineer_JR6155467) | Rolls-Royce | Indianapolis, IN | Fresher Job | Onsite | — |
 | [Software Engineer College Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) | Salesforce | Palo Alto, CA, Seattle, W | Fresher Job | Onsite | — |
 | [AI Customer Insights Engineer](https://apply.workable.com/seeq/j/6F40FF632B/apply) | Seeq | Remote in USA | Fresher Job | Remote | — |
 | [Applied ML Scientist](https://jobs.ashbyhq.com/sentilink/5217d6c6-2140-4956-89c3-640088c29ffe/application) | SentiLink | Remote in USA | Fresher Job | Remote | — |
@@ -187,13 +187,14 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 ## Active Opportunities
 
 The 50 most recently added active opportunities across all categories.
-[View all 2704 on the website.](https://athul-s-369.github.io/Placement_Pulse)
+[View all 2705 on the website.](https://athul-s-369.github.io/Placement_Pulse)
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
 | [AI Research Intern](https://jobs.ashbyhq.com/oneapp/7cc2fdfb-a186-4a58-af1b-8255c173244a/application?embed=true) | ONE Finance | Remote in USA | Internship | Remote | Open |
 | [Payments Forum Intern - Spring/Summer 2027](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/Payments-Forum-Intern---Spring-Summer-2027_R-0000033343-1) | The Federal Reserve System | Remote in USA, Atlanta, G | Internship | Remote | Open |
 | [Associate Software Engineer](https://jobs.lever.co/demiurgestudios/85f401d2-5242-4096-b852-2947492d0035/apply) | Demiurge Studios | Remote in USA | Fresher Job | Remote | Open |
+| [Test and Measurement Software Engineer](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Test-and-Measurement-Software-Engineer_JR6155467) | Rolls-Royce | Indianapolis, IN | Fresher Job | Onsite | Open |
 | [Hardware Engineer Intern - Advanced Development](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineer--Advanced-Development-_JR37459-1) | Allegion | Indianapolis, IN | Internship | Onsite | Open |
 | [Data and Intelligence Delivery Intern - Assurance](https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Ernst & Young | Salt Lake City, UT, India | Internship | Onsite | Open |
 | [Operational Analytics Intern](https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/DIRECTV-for-Business--Operational-Analytics-Intern_R260282) | DIRECTV | Remote in USA | Internship | Remote | Open |
@@ -240,7 +241,6 @@ The 50 most recently added active opportunities across all categories.
 | [Surgery Field Engineer Apprentice](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Salt-Lake-City--Utah-_R4044898-1) | GE Healthcare | Salt Lake City, UT, Remot | Internship | Remote | Open |
 | [Audio-Visual Support Technician](https://careers.avispl.com/jobs/11987?icims=1) | AVI-SPL | Indianapolis, IN | Fresher Job | Onsite | Open |
 | [C++ Developer](https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4844280101) | think-cell | Remote in UK | Fresher Job | Remote | Open |
-| [AI Prototyper Resident](https://jobs.ashbyhq.com/the%20browser%20company/abaefc4c-b229-431c-bec3-dd3e07ae0e09/application?embed=true) | The Browser Company | Remote in USA | Internship | Remote | Open |
 
 ---
 
@@ -248,7 +248,7 @@ The 50 most recently added active opportunities across all categories.
 
 | Category | Total |
 |----------|-------|
-| [Fresher Job](categories/fresher-job/) | 1355 |
+| [Fresher Job](categories/fresher-job/) | 1356 |
 | [Internship](categories/internship/) | 803 |
 | [Hackathon](categories/hackathon/) | 540 |
 | [Open Source Program](categories/open-source-program/) | 2 |
@@ -300,6 +300,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-09-09 05:03 UTC</sub>
+<sub>Last generated: 2026-09-09 13:08 UTC</sub>
 
 </div>

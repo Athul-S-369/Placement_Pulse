@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1355 active** | **0 expired** | **1355 total**
+**1356 active** | **0 expired** | **1356 total**
 
 *Last updated: 2026-09-09*
 
@@ -9,6 +9,7 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [Associate Software Engineer](https://jobs.lever.co/demiurgestudios/85f401d2-5242-4096-b852-2947492d0035/apply) | Demiurge Studios | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Test and Measurement Software Engineer](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Test-and-Measurement-Software-Engineer_JR6155467) | Rolls-Royce | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Associate Software Engineer](https://careers-healthedge.icims.com/jobs/8440/job?mobile=true&needsRedirect=false) | HealthEdge | Boston, MA, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Creator Circle - Dipper](https://jobs.ashbyhq.com/dipper/ce3c338e-73e8-47ce-8c16-eafc331f6b16/application?embed=true) | Dipper | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Operations Engineer](https://jobs.ashbyhq.com/surge-ai/73c5fe8d-0cb6-40e1-a634-d46928702f85/application?embed=true) | Surge AI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Senior Product Manager - Costing and Rebates](https://ferguson.wd1.myworkdayjobs.com/en-US/Ferguson_Experienced/job/Remote/Senior-Product-Owner---Costing-and-Rebates_R-134820) | Ferguson | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Operations Engineer](https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Home---UK--England/AI-Operations-Engineer_R0018646-1) | Howden | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Business Intelligence Engineer 2](https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site/job/Remote-Nationwide/Business-Intelligence-Engineer-2_R-421290) | CenterWell | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Wireless Software Engineer Associate](https://jobs.ashbyhq.com/Flock%20Safety/44ae4912-89d9-4e83-840d-e22250d6a473/application?embed=true) | Flock Safety | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
