@@ -1014,8 +1014,8 @@
     "deadline": "",
     "last_checked": "2026-09-09",
     "batch_eligible": [
-      "2026",
-      "2027"
+      "2027",
+      "2026"
     ],
     "experience_required": "0",
     "skills_required": [],
@@ -1486,6 +1486,37 @@
     "verification_status": "unverified",
     "is_duplicate": false,
     "duplicate_of": ""
+  },
+  {
+    "id": "c12299e008030854",
+    "title": "Software Engineer Intern - Studio Engineering Product Delivery",
+    "company": "Ascension",
+    "company_slug": "ascension",
+    "category": "internship",
+    "domain_tags": [
+      "software-engineering"
+    ],
+    "tags": [],
+    "location": "Remote in USA",
+    "work_mode": "remote",
+    "is_india": true,
+    "apply_link": "https://jobs.ascension.org/us/en/job/462970",
+    "source_url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json",
+    "source_name": "SimplifyJobs / PittCSC",
+    "date_found": "2026-09-09",
+    "date_posted": "",
+    "deadline": "",
+    "last_checked": "2026-09-09",
+    "batch_eligible": [],
+    "experience_required": "0",
+    "skills_required": [],
+    "salary": "",
+    "stipend": "",
+    "description": "",
+    "responsibilities": [],
+    "verification_status": "unverified",
+    "is_duplicate": true,
+    "duplicate_of": "271cd70ef53d8199"
   },
   {
     "id": "17ad45a78be97c25",
@@ -2645,35 +2676,6 @@
     "duplicate_of": ""
   },
   {
-    "id": "15f01a4f50b03e98",
-    "title": "Software Developer",
-    "company": "Autodesk",
-    "company_slug": "autodesk",
-    "category": "fresher-job",
-    "domain_tags": [],
-    "tags": [],
-    "location": "Toronto, ON, Canada, Remote in Canada",
-    "work_mode": "remote",
-    "is_india": true,
-    "apply_link": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100537",
-    "source_url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json",
-    "source_name": "SimplifyJobs New Grad",
-    "date_found": "2026-09-09",
-    "date_posted": "",
-    "deadline": "",
-    "last_checked": "2026-09-09",
-    "batch_eligible": [],
-    "experience_required": "0",
-    "skills_required": [],
-    "salary": "",
-    "stipend": "",
-    "description": "",
-    "responsibilities": [],
-    "verification_status": "unverified",
-    "is_duplicate": false,
-    "duplicate_of": ""
-  },
-  {
     "id": "de31a0a6413ca8d3",
     "title": "Software Development Engineer 1",
     "company": "Dexcom",
@@ -3005,20 +3007,19 @@
     "duplicate_of": ""
   },
   {
-    "id": "3ee6200d2a424af4",
-    "title": "Data Backend Engineer - Trust & Safety",
+    "id": "6d722c69d422ab1d",
+    "title": "Machine Learning Engineer",
     "company": "Yelp",
     "company_slug": "yelp",
     "category": "fresher-job",
     "domain_tags": [
-      "software-engineering",
-      "backend"
+      "ai-ml"
     ],
     "tags": [],
     "location": "Montreal, QC, Canada, Toronto, ON, Canada, Calgary, AB, Canada, Remote in Canada, Vancouver, BC, Canada",
     "work_mode": "remote",
     "is_india": true,
-    "apply_link": "https://www.yelp.careers/us/en/job/14018",
+    "apply_link": "https://www.yelp.careers/us/en/job/14019",
     "source_url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json",
     "source_name": "SimplifyJobs New Grad",
     "date_found": "2026-09-09",
@@ -3033,8 +3034,8 @@
     "description": "",
     "responsibilities": [],
     "verification_status": "unverified",
-    "is_duplicate": false,
-    "duplicate_of": ""
+    "is_duplicate": true,
+    "duplicate_of": "3ee6200d2a424af4"
   },
   {
     "id": "0504ed550ed2389d",

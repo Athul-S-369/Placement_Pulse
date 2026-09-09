@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Westminster, CO, NYC, Dublin, OH, El Segundo, CA, Augusta, ME
+- **Categories:** Fresher Job, Internship
+- **Locations:** NYC, Bloomington, MN, San Antonio, TX, Columbus, OH, California City, CA
 
 ## Current Opportunities
 

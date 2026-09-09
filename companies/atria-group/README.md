@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Thousand Oaks, CA, Plainview, NY, Broomfield, CO, NYC, Jacksonville, FL
+- **Categories:** Fresher Job, Internship
+- **Locations:** Broomfield, CO, NYC, Jacksonville, FL, Alpharetta, GA, Sunnyvale, CA
 
 ## Current Opportunities
 
