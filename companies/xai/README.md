@@ -1,11 +1,11 @@
 # 🏢 xAI
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-08*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-09*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Palo Alto, CA, Remote in USA
+- **Locations:** Remote in USA, Palo Alto, CA
 
 ## Current Opportunities
 

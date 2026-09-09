@@ -1,11 +1,11 @@
 # 🏢 Neuralink
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-08*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-09*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Fremont, CA, Austin, TX, Fremont, CA
+- **Locations:** Fremont, CA, Fremont, CA, Austin, TX
 
 ## Current Opportunities
 

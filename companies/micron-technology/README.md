@@ -1,11 +1,11 @@
 # 🏢 Micron Technology
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-09-08*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-09-09*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Richardson, TX, Boise, ID, Folsom, CA
+- **Locations:** Boise, ID, Richardson, TX, Folsom, CA
 
 ## Current Opportunities
 

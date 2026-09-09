@@ -1,13 +1,15 @@
 # 🎓 Internship
 
-**801 active** | **0 expired** | **801 total**
+**803 active** | **0 expired** | **803 total**
 
-*Last updated: 2026-09-08*
+*Last updated: 2026-09-09*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [AI Research Intern](https://jobs.ashbyhq.com/oneapp/7cc2fdfb-a186-4a58-af1b-8255c173244a/application?embed=true) | ONE Finance | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Payments Forum Intern - Spring/Summer 2027](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/Payments-Forum-Intern---Spring-Summer-2027_R-0000033343-1) | The Federal Reserve System | Remote in USA, Atlanta, GA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Hardware Engineer Intern - Advanced Development](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineer--Advanced-Development-_JR37459-1) | Allegion | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Data and Intelligence Delivery Intern - Assurance](https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Ernst & Young | Salt Lake City, UT, Indianapolis, IN, Houston, TX, Des Moines, IA, Detroit, MI, Tampa, FL, Dallas, TX, Greenville, SC, St. Louis, MO, Alpharetta, GA, Phoenix, AZ, Grandview Heights, OH | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Operational Analytics Intern](https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/DIRECTV-for-Business--Operational-Analytics-Intern_R260282) | DIRECTV | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -106,5 +108,3 @@
 | [Software Engineering Intern- Summer 2026](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Bartlesville-Oklahoma-United-States-of-America/Software-Engineering-Intern--Summer-2026_JR00014418) | ABB | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Software Engineer Intern](https://retailcareers.staples.com//job/-/-/49589/87839758768) | Staples | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Embedded Software Intern](https://jobs.lever.co/anysignal/b5f278c9-9911-49c2-b5e8-0ed61f7194eb) | AnySignal | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
-| [Software Engineering Intern - Automation](https://bloomenergy.wd1.myworkdayjobs.com/en-US/BloomEnergyCareers/job/San-Jose-California/Software-Engineering-Intern---Automation_JR-20625) | Bloom Energy | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
-| [Software Engineer, Intern - Summer 2026](https://careers.jackhenry.com/job/-/-/42859/87787419520) | Jack Henry | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |

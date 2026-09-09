@@ -1,11 +1,11 @@
 # 🏢 RTX
 
-**10 active opportunities** | **10 total tracked** | *Last updated: 2026-09-08*
+**10 active opportunities** | **10 total tracked** | *Last updated: 2026-09-09*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Goleta, CA, Fort Wayne, IN, Cedar Rapids, IA, Longueuil, QC, Canada, Arlington, VA
+- **Locations:** Goleta, CA, Andover, MA, McKinney, TX, Fort Wayne, IN, Cedar Rapids, IA
 
 ## Current Opportunities
 

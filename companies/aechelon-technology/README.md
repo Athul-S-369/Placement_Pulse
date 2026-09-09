@@ -1,11 +1,11 @@
 # 🏢 Aechelon Technology
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-08*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-09*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Overland Park, KS, Farmers Branch, TX
+- **Locations:** Farmers Branch, TX, Overland Park, KS
 
 ## Current Opportunities
 

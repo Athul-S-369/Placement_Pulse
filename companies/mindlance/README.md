@@ -1,11 +1,11 @@
 # 🏢 Mindlance
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-09-08*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-09-09*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** NYC, Syracuse, NY, Frisco, TX, Charlotte, NC
+- **Locations:** Syracuse, NY, Charlotte, NC, NYC, Frisco, TX
 
 ## Current Opportunities
 

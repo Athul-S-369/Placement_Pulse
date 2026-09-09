@@ -1,11 +1,11 @@
 # 🏢 Johnson Controls
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-08*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-09*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Appleton, WI, Milwaukee, WI
+- **Locations:** Milwaukee, WI, Appleton, WI
 
 ## Current Opportunities
 

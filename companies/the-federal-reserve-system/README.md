@@ -1,16 +1,17 @@
 # 🏢 The Federal Reserve System
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-08*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-09*
 
 ## Overview
 
-- **Categories:** Fresher Job
-- **Locations:** Philadelphia, PA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Remote in USA, Atlanta, GA, Philadelphia, PA
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Payments Forum Intern - Spring/Summer 2027](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/Payments-Forum-Intern---Spring-Summer-2027_R-0000033343-1) | The Federal Reserve System | Remote in USA, Atlanta, GA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Machine Learning Research Assistant](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Philadelphia-PA/Machine-Learning-Research-Assistant_R-0000032486) | The Federal Reserve System | Philadelphia, PA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 
 ## 📖 Interview Preparation

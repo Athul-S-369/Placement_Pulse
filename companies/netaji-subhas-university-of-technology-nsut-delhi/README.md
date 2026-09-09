@@ -1,6 +1,6 @@
 # 🏢 Netaji Subhas University of Technology (NSUT), Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-08*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-09*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Maudrik V7.0: The Policy Case Event](https://unstop.com/competitions/maudrik-v70-the-policy-case-event-netaji-subhas-university-of-technology-nsut-delhi-1743329) | Netaji Subhas University of Technology (NSUT), Delhi | India | 🏢 Onsite | — | 2026-09-08 | Unstop |
 
 ## 📖 Interview Preparation
 
