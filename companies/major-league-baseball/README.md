@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Phoenix, AZ, Baltimore, MD
+- **Locations:** Baltimore, MD, Phoenix, AZ
 
 ## Current Opportunities
 

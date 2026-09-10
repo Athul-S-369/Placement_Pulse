@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** California City, CA, Columbus, OH, NYC, Manassas, VA, Dublin, OH
+- **Locations:** San Antonio, TX, California City, CA, Columbus, OH, Augusta, ME, Chicago, IL
 
 ## Current Opportunities
 
