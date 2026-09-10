@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** United States, London, UK, Cupertino, CA, Austin, TX, London, UK, Cambridge, UK, Welwyn Garden City, UK
+- **Categories:** Fresher Job, Internship
+- **Locations:** Seattle, WA, London, UK, Cambridge, UK, Welwyn Garden City, UK, Gloucester, UK, Lafayette, KS, Morrisville, NC
 
 ## Current Opportunities
 

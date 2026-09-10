@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Ambler, PA, Santa Clara, CA, Birmingham, AL, Westborough, MA, Milwaukee, WI
+- **Categories:** Fresher Job, Internship
+- **Locations:** Ambler, PA, Birmingham, AL, Cherry Hills Village, CO, Boston, MA, Milwaukee, WI
 
 ## Current Opportunities
 

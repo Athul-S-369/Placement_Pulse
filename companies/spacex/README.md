@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Brownsville, TX, Sunnyvale, CA, West Athens, CA, Palo Alto, CA, Texas
+- **Categories:** Fresher Job, Internship
+- **Locations:** Sunnyvale, CA, West Athens, CA, Bothell, WA, Texas, Palo Alto, CA
 
 ## Current Opportunities
 

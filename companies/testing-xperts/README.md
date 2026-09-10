@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Cincinnati, OH, Eagan, MN
+- **Locations:** Eagan, MN, Cincinnati, OH
 
 ## Current Opportunities
 
