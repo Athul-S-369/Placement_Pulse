@@ -1,6 +1,6 @@
 # 🏢 Valuation Master Class Boot Camp
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-09*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-10*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Global Equity Investing Competition Season 4](https://unstop.com/competitions/global-equity-investing-competition-season-4-valuation-master-class-boot-camp-1743072) | Valuation Master Class Boot Camp | India | 🏢 Onsite | — | 2026-09-09 | Unstop |
 
 ## 📖 Interview Preparation
 

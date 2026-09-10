@@ -1,6 +1,6 @@
 # 🏢 AlgoForce AI
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-09*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-10*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AlgoForce AI Transformation Summit Delhi 2026](https://unstop.com/events/algoforce-ai-transformation-summit-delhi-2026-algoforce-ai-1730791) | AlgoForce AI | India | 🏢 Onsite | — | 2026-09-09 | Unstop |
 
 ## 📖 Interview Preparation
 

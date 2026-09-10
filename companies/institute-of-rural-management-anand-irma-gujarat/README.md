@@ -1,6 +1,6 @@
 # 🏢 Institute of Rural Management Anand (IRMA), Gujarat
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-09*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-10*
 
 ## Overview
 

@@ -1,6 +1,6 @@
 # 🏢 Sri Guru Gobind Singh College of Commerce (SGGSCC), New Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-09*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-10*
 
 ## Overview
 

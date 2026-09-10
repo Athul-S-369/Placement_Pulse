@@ -1,11 +1,11 @@
 # 🏢 Howden
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-09*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-10*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in UK, London, UK
+- **Locations:** London, UK, Remote in UK
 
 ## Current Opportunities
 

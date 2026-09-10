@@ -1,11 +1,11 @@
 # 🏢 USM Business Systems
 
-**21 active opportunities** | **21 total tracked** | *Last updated: 2026-09-09*
+**21 active opportunities** | **21 total tracked** | *Last updated: 2026-09-10*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** NYC, Bloomington, MN, San Antonio, TX, Columbus, OH, California City, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** California City, CA, Columbus, OH, NYC, Manassas, VA, Dublin, OH
 
 ## Current Opportunities
 

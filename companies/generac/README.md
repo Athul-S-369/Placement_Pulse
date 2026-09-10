@@ -1,11 +1,11 @@
 # 🏢 Generac
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-09*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-10*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Reno, NV, Waukesha, WI
+- **Locations:** Waukesha, WI, Reno, NV
 
 ## Current Opportunities
 

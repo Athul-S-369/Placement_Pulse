@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-09T19:25:50.316988Z",
-  "date": "2026-09-09",
-  "total": 2705,
-  "active": 2264,
-  "new_today": 138,
-  "companies": 2021,
+  "generated_at": "2026-09-10T05:06:51.005912Z",
+  "date": "2026-09-10",
+  "total": 2707,
+  "active": 2263,
+  "new_today": 139,
+  "companies": 2022,
   "categories": {
-    "fresher-job": 1356,
-    "internship": 803,
+    "fresher-job": 1357,
+    "internship": 804,
     "hackathon": 540,
     "open-source-program": 2,
     "fellowship": 2,
@@ -71,6 +71,10 @@
       "count": 9
     },
     {
+      "name": "Northrop Grumman",
+      "count": 8
+    },
+    {
       "name": "Jobs for Humanity",
       "count": 8
     },
@@ -89,14 +93,10 @@
     {
       "name": "BAE Systems",
       "count": 7
-    },
-    {
-      "name": "Meta",
-      "count": 7
     }
   ],
   "domain_tags": {
-    "ai-ml": 351,
+    "ai-ml": 352,
     "data-science": 184,
     "software-engineering": 435,
     "backend": 19,
@@ -109,7 +109,7 @@
     "cloud": 26
   },
   "work_modes": {
-    "remote": 408,
-    "onsite": 2297
+    "remote": 409,
+    "onsite": 2298
   }
 }
