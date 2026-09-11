@@ -1,16 +1,17 @@
 # 🏢 Rackner
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-10*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-11*
 
 ## Overview
 
-- **Categories:** Internship
-- **Locations:** Hyattsville, MD
+- **Categories:** Internship, Fresher Job
+- **Locations:** Remote in USA, Hyattsville, MD
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Associate Data Engineer](https://job-boards.greenhouse.io/rackner/jobs/4732844005) | Rackner | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Rackner AI Innovation Fellowship – Startup Accelerator Intern](https://job-boards.greenhouse.io/rackner/jobs/4681781005) | Rackner | Hyattsville, MD | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 
 ## 📖 Interview Preparation

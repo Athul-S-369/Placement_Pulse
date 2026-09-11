@@ -1,11 +1,11 @@
 # 🏢 The Campbell's Company
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-10*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-11*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Philadelphia, PA, Remote in USA
+- **Locations:** Remote in USA, Philadelphia, PA
 
 ## Current Opportunities
 

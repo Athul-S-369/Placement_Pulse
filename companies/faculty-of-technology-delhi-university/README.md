@@ -1,6 +1,6 @@
 # 🏢 Faculty of Technology, Delhi University
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-10*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-11*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [VidyutVyuh](https://unstop.com/competitions/vidyutvyuh-yantrika-10-innovate-elevate-faculty-of-technology-delhi-university-1736996) | Faculty of Technology, Delhi University | India | 🏢 Onsite | — | 2026-09-10 | Unstop |
 
 ## 📖 Interview Preparation
 
