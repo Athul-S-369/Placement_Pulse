@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Plainview, NY, NYC, Hartford, CT, Alpharetta, GA, Broomfield, CO
+- **Locations:** Hartford, CT, Thousand Oaks, CA, Dallas, TX, NYC, Jacksonville, FL
 
 ## Current Opportunities
 

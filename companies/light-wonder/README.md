@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Las Vegas, NV, Indiana
+- **Locations:** Indiana, Las Vegas, NV
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1359 active** | **0 expired** | **1359 total**
+**1360 active** | **0 expired** | **1360 total**
 
 *Last updated: 2026-09-11*
 
@@ -10,6 +10,7 @@
 |------|---------|----------|------|----------------|----------|--------|
 | [Associate Data Engineer](https://job-boards.greenhouse.io/rackner/jobs/4732844005) | Rackner | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Labs Engineer](https://jobs.ashbyhq.com/clasp-group/63dea81e-c456-424a-b88f-446aa2054650/application?embed=true) | Clasp | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Temporary Specialist - Fundraising Data](https://careers-bgca.icims.com/jobs/8609/job?mobile=true&needsRedirect=false) | Boys & Girls Clubs of America | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Development Analyst](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Remote/XMLNAME-2026-Associate-Software-Dev-Analyst---Software-Dev-Analyst---Remote_R10250232) | Northrop Grumman | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Software Engineer](https://jobs.lever.co/demiurgestudios/85f401d2-5242-4096-b852-2947492d0035/apply) | Demiurge Studios | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Test and Measurement Software Engineer](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Test-and-Measurement-Software-Engineer_JR6155467) | Rolls-Royce | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Frontend Software Engineer](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Frontend-Software-Engineer_R62283) | Motorola | Leicester, UK, Remote in UK, Glasgow, UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Product Specialist](https://jobs.lever.co/istaridigital.ai/6ec40df7-e9b8-40bd-9fe3-446ed0f29c15/apply) | Istari Digital | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Copilot Developer/AI Engineer](https://pyrovio.breezy.hr/p/a0653fb2684d/apply) | Pyrovio | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Data Specialist - BT Prep](https://bakertilly.wd5.myworkdayjobs.com/BTCareers/job/USA-WI-Remote/Temporary-Data-Specialist---BT-Prep_JR107323) | Baker Tilly | Remote in USA, Wisconsin | 🌐 Remote | — | — | SimplifyJobs New Grad |

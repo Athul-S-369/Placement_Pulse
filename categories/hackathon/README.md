@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**93 active** | **447 expired** | **540 total**
+**94 active** | **447 expired** | **541 total**
 
 *Last updated: 2026-09-11*
 
@@ -8,6 +8,7 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Commercio Artikel - Article Writing Competition](https://unstop.com/competitions/commercio-artikel-article-writing-competition-trade-winds-2026-iift-new-delhi-1754500) | Indian Institute of Foreign Trade (IIFT), New Delhi | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
 | [Moneyball: The Football Auction (Interface 2026)](https://unstop.com/competitions/moneyball-the-football-auction-interface-2026-department-of-management-dom-birla-institute-of-technology-an-1744520) | Department of Management (DoM), Birla Institute of Technology and Science (BITS), Pilani | India | 🏢 Onsite | — | 2026-09-25 | Unstop |
 | [Decarbonix 1.0](https://unstop.com/hackathons/decarbonix-10-dr-ss-bhatnagar-university-institute-of-chemical-engineering-technology-panjab-university-chand-1743102) | Dr SS Bhatnagar University Institute of Chemical Engineering & Technology, Panjab University, Chandigarh | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
 | [HackCelestial 3.0](https://unstop.com/hackathons/hackcelestial-30-pillai-university-navi-mumbai-1737808) | Pillai University, Navi Mumbai | India | 🏢 Onsite | — | 2026-09-27 | Unstop |
