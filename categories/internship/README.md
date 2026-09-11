@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**807 active** | **0 expired** | **807 total**
+**808 active** | **0 expired** | **808 total**
 
 *Last updated: 2026-09-11*
 
@@ -11,6 +11,7 @@
 | [Software Engineer Intern](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027455) | Hearst | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Hardware Engineer Co-op - Electrical Engineering](https://masco.wd1.myworkdayjobs.com/Masco/job/US---Indiana---Indianapolis/Hardware-Engineering-Co-op--Electrical-Engineering-_REQ54344-2) | Masco | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Hardware Engineer Co-op - Electrical Engineering](https://masco.wd1.myworkdayjobs.com/deltafaucet/job/US---Indiana---Indianapolis/Hardware-Engineering-Co-op--Electrical-Engineering-_REQ54344) | Delta Faucet | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Software Engineer Intern](https://jobs.ashbyhq.com/swarmaero/04cff1f6-c790-4773-8568-e487a03626f6/application?embed=true) | Swarm Aero | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Information Technology AI Intern](https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7/application?embed=true) | Barnes & Thornburg | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [AI Research Intern](https://jobs.ashbyhq.com/oneapp/7cc2fdfb-a186-4a58-af1b-8255c173244a/application?embed=true) | ONE Finance | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Payments Forum Intern - Spring/Summer 2027](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/Payments-Forum-Intern---Spring-Summer-2027_R-0000033343-1) | The Federal Reserve System | Remote in USA, Atlanta, GA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [Software Engineering Intern](https://githubinc.jibeapply.com/jobs/4640) | GitHub | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Advanced Analytics and Artificial Intelligence Intern - Summer 2026](https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/San-Diego/Advanced-Analytics-and-Artificial-Intelligence-Intern---Summer-2026_JR116229) | RSM | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Co-op AI Platform Engineer - Winter 2026](https://job-boards.greenhouse.io/faire/jobs/8230131002?gh_jid=8230131002) | Faire | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
-| [Data Engineer Intern](https://vermeer.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Data-Engineer-Intern_REQ-19859-1) | Vermeer | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |

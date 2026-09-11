@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Bluemont, VA, Baltimore, MD, Chantilly, VA, Washington, DC, Dublin, OH
+- **Locations:** Columbus, OH, Rochester, MI, San Antonio, TX, Traverse City, MI, Bluemont, VA
 
 ## Current Opportunities
 

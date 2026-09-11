@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** United States, Waltham, MA, Lafayette, KS, San Diego, CA, London, UK, Cambridge, UK, Welwyn Garden City, UK
+- **Locations:** SF, United States, London, UK, Cambridge, UK, Welwyn Garden City, UK, Waltham, MA, London, UK
 
 ## Current Opportunities
 
