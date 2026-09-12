@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** St. Louis, MO, Traverse City, MI, San Antonio, TX, Dublin, OH, NYC
+- **Categories:** Fresher Job, Internship
+- **Locations:** Manassas, VA, California City, CA, Columbus, OH, Westminster, CO, Dublin, OH
 
 ## Current Opportunities
 

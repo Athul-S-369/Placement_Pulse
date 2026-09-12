@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, Boston, MA
+- **Locations:** Boston, MA, Remote in USA
 
 ## Current Opportunities
 

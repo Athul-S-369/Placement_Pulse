@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, United States
+- **Locations:** United States, Remote in USA
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** San Jose, CA, California, Austin, TX, Seattle, WA, Lafayette, KS
+- **Categories:** Fresher Job, Internship
+- **Locations:** Beaverton, OR, California, Seattle, WA, Cambridge, MA, Cupertino, CA
 
 ## Current Opportunities
 

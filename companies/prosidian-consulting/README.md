@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Arlington, VA, Raleigh, NC
+- **Locations:** Raleigh, NC, Arlington, VA
 
 ## Current Opportunities
 
