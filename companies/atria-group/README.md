@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** NYC, Broomfield, CO, Novato, CA, Thousand Oaks, CA, Plainview, NY
+- **Locations:** St. Louis, MO, Alpharetta, GA, Hartford, CT, Thousand Oaks, CA, NYC
 
 ## Current Opportunities
 

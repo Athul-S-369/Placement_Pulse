@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Rhode Island, Remote / Various, Remote in USA, Raleigh, NC, Kansas, LA, Remote in USA, Minnesota, Wisconsin, North Carolina, San Diego, CA
+- **Locations:** Remote in USA, Raleigh, NC, Kansas, LA, Remote in USA, Minnesota, Wisconsin, North Carolina, San Diego, CA, Remote / Various, Rhode Island
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Augusta, ME, Bloomington, MN, Westminster, CO, San Antonio, TX, Chantilly, VA
+- **Locations:** St. Louis, MO, Traverse City, MI, San Antonio, TX, Dublin, OH, NYC
 
 ## Current Opportunities
 
