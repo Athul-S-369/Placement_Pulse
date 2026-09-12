@@ -1,6 +1,6 @@
 # 🏢 Maharaja Agrasen Institute of Management Studies (MAIMS), Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-11*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-12*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Tarkshil - Hindi Debate Competition](https://unstop.com/events/tarkshil-hindi-debate-competition-maharaja-agrasen-institute-of-management-studies-maims-delhi-1743132) | Maharaja Agrasen Institute of Management Studies (MAIMS), Delhi | India | 🏢 Onsite | — | 2026-09-11 | Unstop |
 
 ## 📖 Interview Preparation
 

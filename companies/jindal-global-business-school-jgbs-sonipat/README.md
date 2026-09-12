@@ -1,6 +1,6 @@
 # 🏢 Jindal Global Business School (JGBS), Sonipat
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-11*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-12*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Startup Premier League](https://unstop.com/competitions/startup-premier-league-udyam26-the-business-fest-jindal-global-business-school-jgbs-sonipat-1730647) | Jindal Global Business School (JGBS), Sonipat | India | 🏢 Onsite | — | 2026-09-11 | Unstop |
 
 ## 📖 Interview Preparation
 

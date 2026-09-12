@@ -1,11 +1,11 @@
 # 🏢 Hyundai Motor Company
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-11*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-12*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Irvine, CA, Montgomery, AL
+- **Locations:** Montgomery, AL, Irvine, CA
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏢 Narsee Monjee Institute of Management Studies (NMIMS), Mumbai
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-11*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-12*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Brand Storm](https://unstop.com/competitions/brand-storm-wings-and-roots-50-narsee-monjee-institute-of-management-studies-nmims-mumbai-1735423) | Narsee Monjee Institute of Management Studies (NMIMS), Mumbai | India | 🏢 Onsite | — | 2026-09-11 | Unstop |
 
 ## 📖 Interview Preparation
 
