@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Austin, TX, Phoenix, AZ, SF, Chicago, IL, Lone Tree, CO
+- **Locations:** SF, Chicago, IL, Austin, TX, Phoenix, AZ, Lone Tree, CO
 
 ## Current Opportunities
 

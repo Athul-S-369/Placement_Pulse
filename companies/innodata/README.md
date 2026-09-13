@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** South Carolina, Wisconsin, Mississippi, Ohio, Utah
+- **Locations:** Ohio, Mississippi, South Carolina, Remote in USA, Wisconsin
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Washington, DC, Bluemont, VA, Traverse City, MI, Augusta, ME, San Antonio, TX
+- **Categories:** Internship, Fresher Job
+- **Locations:** Baltimore, MD, Westminster, CO, Rochester, MI, Dublin, OH, Chicago, IL
 
 ## Current Opportunities
 

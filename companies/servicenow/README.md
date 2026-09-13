@@ -4,7 +4,7 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
+- **Categories:** Internship, Fresher Job
 - **Locations:** West Palm Beach, FL, Mountain View, CA
 
 ## Current Opportunities
