@@ -1,11 +1,11 @@
 # 🏢 Integrated Resources
 
-**12 active opportunities** | **12 total tracked** | *Last updated: 2026-09-12*
+**12 active opportunities** | **12 total tracked** | *Last updated: 2026-09-13*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Westborough, MA, Birmingham, AL, Cambridge, MA, Ambler, PA, Boston, MA
+- **Locations:** Boston, MA, Hickory, NC, Ambler, PA, Birmingham, AL, North Haven, CT
 
 ## Current Opportunities
 

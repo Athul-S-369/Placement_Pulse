@@ -1,6 +1,6 @@
 # 🏢 Raj Kumar Goel Institute of Technology (RKGIT), Ghaziabad
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-12*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-13*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Binary Hacks 4.0](https://unstop.com/hackathons/binary-hacks-40-raj-kumar-goel-institute-of-technology-rkgit-ghaziabad-1730767) | Raj Kumar Goel Institute of Technology (RKGIT), Ghaziabad | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
 
 ## 📖 Interview Preparation
 

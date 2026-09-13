@@ -1,6 +1,6 @@
 # 🏢 Cobuild
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-12*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-13*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Code Build 1.0](https://unstop.com/hackathons/code-build-10-cobuild-1703709) | Cobuild | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
 
 ## 📖 Interview Preparation
 

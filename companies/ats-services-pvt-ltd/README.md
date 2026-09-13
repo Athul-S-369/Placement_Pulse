@@ -1,6 +1,6 @@
 # 🏢 ATS Services Pvt Ltd
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-12*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-13*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [The Trust Economy Challenge: Super App or Super Mess?](https://unstop.com/competitions/the-trust-economy-challenge-super-app-or-super-mess-ats-services-pvt-ltd-1736101) | ATS Services Pvt Ltd | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
 
 ## 📖 Interview Preparation
 

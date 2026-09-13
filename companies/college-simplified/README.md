@@ -1,6 +1,6 @@
 # 🏢 College Simplified
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-12*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-13*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AI-Powered Paper Presentation Challenge](https://unstop.com/competitions/ai-powered-paper-presentation-challenge-college-simplified-1729373) | College Simplified | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
 
 ## 📖 Interview Preparation
 

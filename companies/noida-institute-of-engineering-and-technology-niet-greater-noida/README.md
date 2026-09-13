@@ -1,6 +1,6 @@
 # 🏢 Noida Institute of Engineering And Technology (NIET), Greater Noida
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-12*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-13*
 
 ## Overview
 

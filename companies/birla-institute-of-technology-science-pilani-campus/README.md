@@ -1,6 +1,6 @@
 # 🏢 Birla Institute of Technology & Science, Pilani Campus
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-12*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-13*
 
 ## Overview
 
