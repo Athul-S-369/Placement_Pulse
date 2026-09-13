@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Baltimore, MD, Westminster, CO, Rochester, MI, Dublin, OH, Chicago, IL
+- **Categories:** Fresher Job, Internship
+- **Locations:** Chantilly, VA, Bluemont, VA, Rochester, MI, St. Louis, MO, Alexandria, VA
 
 ## Current Opportunities
 
