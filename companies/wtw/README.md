@@ -1,11 +1,11 @@
 # 🏢 WTW
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-09-13*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-09-14*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Toronto, ON, Canada, Dorking, UK, London, UK, London, UK, Dorking, UK
+- **Locations:** London, UK, Dorking, UK, Toronto, ON, Canada, London, UK, Dorking, UK
 
 ## Current Opportunities
 

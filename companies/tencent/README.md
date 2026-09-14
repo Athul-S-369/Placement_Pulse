@@ -1,16 +1,17 @@
 # 🏢 Tencent
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-09-13*
+**5 active opportunities** | **5 total tracked** | *Last updated: 2026-09-14*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Palo Alto, CA, Bellevue, WA, London, UK, LA
+- **Locations:** Bellevue, WA, London, UK, LA, Palo Alto, CA, Remote / Various
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [NLP Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/NLP-Research-Intern_R106758-1) | Tencent | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Research Internship - Reinforcement Learning for Large Foundation Models](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-Washington-Bellevue/Research-Internship---Reinforcement-Learning-for-Large-Foundation-Models_R106337-1) | Tencent | Bellevue, WA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Hunyuan Multimodal Algorithm Researcher intern - Omni-Modal](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-intern-Omni-Modal---_R106650) | Tencent | Palo Alto, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Game Research & Development Intern - Engine Research](https://tencent.wd1.myworkdayjobs.com/Lightspeed/job/US-California-Los-Angeles/Game-Research---Development-Intern--Engine-Research_R107344) | Tencent | LA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

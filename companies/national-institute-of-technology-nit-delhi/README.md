@@ -1,6 +1,6 @@
 # 🏢 National Institute of Technology (NIT), Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-13*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-14*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Build With Bharat 2.0](https://unstop.com/hackathons/build-with-bharat-40-national-institute-of-technology-nit-delhi-1719203) | National Institute of Technology (NIT), Delhi | India | 🏢 Onsite | — | 2026-09-13 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,6 +1,6 @@
 # 🏢 Pimpri Chinchwad College Of Engineering & Research (PCCOE&R), Ravet, Pimpri-Chinchwad, Pune
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-13*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-14*
 
 ## Overview
 

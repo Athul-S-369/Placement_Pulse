@@ -1,11 +1,11 @@
 # 🏢 Innodata
 
-**12 active opportunities** | **12 total tracked** | *Last updated: 2026-09-13*
+**12 active opportunities** | **12 total tracked** | *Last updated: 2026-09-14*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, Minnesota, West Virginia, Utah, Idaho
+- **Locations:** Mississippi, Wyoming, Remote in USA, Louisiana, South Carolina
 
 ## Current Opportunities
 

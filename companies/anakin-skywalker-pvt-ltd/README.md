@@ -1,6 +1,6 @@
 # 🏢 Anakin Skywalker Pvt. Ltd.
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-13*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-14*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Anakin Forge Hackathon](https://unstop.com/hackathons/anakin-forge-hackathon-anakin-skywalker-pvt-ltd-1742485) | Anakin Skywalker Pvt. Ltd. | India | 🏢 Onsite | — | 2026-09-13 | Unstop |
 
 ## 📖 Interview Preparation
 

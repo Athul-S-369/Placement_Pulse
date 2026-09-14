@@ -1,6 +1,6 @@
 # 🏢 LNM Institute of Information Technology (LNMIIT), Jaipur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-13*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-14*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Quizbotics Season 4](https://unstop.com/quiz/quizbotics-season-4-lnm-institute-of-information-technology-lnmiit-jaipur-1719343) | LNM Institute of Information Technology (LNMIIT), Jaipur | India | 🏢 Onsite | — | 2026-09-13 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,6 +1,6 @@
 # 🏢 SRM Institute of Science and Technology (SRMIST), Kattankulathur, Chennai
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-13*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-14*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [NeuraMorphix HackForge 2026](https://unstop.com/hackathons/neuramorphix-hackforge-2026-srm-institute-of-science-and-technology-kattankulathur-chennai-1708229) | SRM Institute of Science and Technology (SRMIST), Kattankulathur, Chennai | India | 🏢 Onsite | — | 2026-09-13 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,11 +1,11 @@
 # 🏢 Fortinet
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-09-13*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-09-14*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Sunnyvale, CA, Burnaby, BC, Canada, Santa Clara, CA
+- **Locations:** Santa Clara, CA, Sunnyvale, CA, Burnaby, BC, Canada
 
 ## Current Opportunities
 
