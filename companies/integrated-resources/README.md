@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Westborough, MA, Boston, MA, Ambler, PA, Hickory, NC, Cherry Hills Village, CO
+- **Locations:** Elmira, NY, Ambler, PA, Hickory, NC, Westborough, MA, Birmingham, AL
 
 ## Current Opportunities
 

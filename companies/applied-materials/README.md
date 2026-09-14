@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Santa Clara, CA, Austin, TX, Hillsboro, OR, Boise, ID, Albany, NY, Phoenix, AZ
+- **Locations:** Austin, TX, Hillsboro, OR, Boise, ID, Albany, NY, Phoenix, AZ, Santa Clara, CA
 
 ## Current Opportunities
 

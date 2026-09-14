@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** St. Louis, MO, Chantilly, VA, Augusta, ME, Traverse City, MI, Southfield, MI
+- **Locations:** Manassas, VA, Southfield, MI, Augusta, ME, Columbus, OH, California City, CA
 
 ## Current Opportunities
 

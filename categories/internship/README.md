@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**812 active** | **0 expired** | **812 total**
+**813 active** | **0 expired** | **813 total**
 
 *Last updated: 2026-09-14*
 
@@ -9,6 +9,7 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [NLP Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/NLP-Research-Intern_R106758-1) | Tencent | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [Data and Analytics Intern - Multiple Teams](https://careers.principal.com/jobs/52574?icims=1) | Principal Financial Group | Des Moines, IA, Remote in USA, Raleigh, NC, Charlotte, NC | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Research Scientist Intern - Security for AI - 2026 Start](https://jobs.bytedance.com/en/position/7595676762475415861/detail) | ByteDance | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Performance and Reliability Engineering Intern - Summer 2027](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/T-D-Performance-and-Reliability-Engineering-Intern--Summer-2027-_R1064841) | AES | Dayton, OH, Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Financial Analytics & Technology Intern - Financial Analytics Team](https://labcorp.wd1.myworkdayjobs.com/external/job/Remote_United-States/Intern---Financial-Analytics---Technology_2630761) | LabCorp | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [Special Projects Associate - Sustainability Data Monitoring](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/US-Territory-Field-based/Special-Projects-Associate---Sustainability-Data-Monitoring_R0026251) | Elanco | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Data Analyst Intern](https://sedgwick.wd1.myworkdayjobs.com/en-US/Sedgwick/job/Telecommuter-TX/Data-Analyst_R75316) | Sedgwick Claims Management Services | New Mexico, Washington, Kansas, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Texas, Montana, Jackson Township, NJ, Florida, Waterbury, CT, Nevada, South Carolina, South Dakota, Georgia, Arizona, Concord, NH, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, U.S. Virgin Islands, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Data Science AI Intern](https://job-boards.greenhouse.io/pointc/jobs/5236086008) | Point C | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Software Engineer Intern](https://jobs.ashbyhq.com/binance.us/c23e9aa3-0daa-4170-a5a7-b03aaa031895/application) | Binance | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

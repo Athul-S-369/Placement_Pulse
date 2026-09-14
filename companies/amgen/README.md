@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Tampa, FL, Thousand Oaks, CA, Remote in USA, Cambridge, MA, Remote in USA, Thousand Oaks, CA, Holly Springs, NC, New Albany, OH, West Greenwich, RI
+- **Locations:** Remote in USA, Cambridge, MA, Remote in USA, Thousand Oaks, CA, Holly Springs, NC, New Albany, OH, West Greenwich, RI, Tampa, FL, Thousand Oaks, CA
 
 ## Current Opportunities
 

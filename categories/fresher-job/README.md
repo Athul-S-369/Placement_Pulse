@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1362 active** | **0 expired** | **1362 total**
+**1364 active** | **0 expired** | **1364 total**
 
 *Last updated: 2026-09-14*
 
@@ -8,6 +8,8 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Business Associate Analyst](https://stbancorp.wd5.myworkdayjobs.com/ST_Bank_Careers/job/Main-Office/Data---Analytics-Associate-Analyst_R-1580) | S&T Bank | Indiana, PA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
+| [Entry-level Software Developer](https://careers-decisionpointcorp.icims.com/jobs/3766/job?mobile=true&needsRedirect=false) | DecisionPoint | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer 1 - Frontend - Upfunnel](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Affirm | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Solutions Engineer - Early Career](https://ats.rippling.com/nerdio-careers/jobs/0b82e6f3-fd54-40d7-996a-ca02b4c67f67) | Nerdio | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Data Engineer](https://job-boards.greenhouse.io/rackner/jobs/4732844005) | Rackner | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -106,5 +108,3 @@
 | [Associate Engineer](https://jobs.ashbyhq.com/e-source/dff165ad-5cd8-4b5a-9b8b-57998954371b/application?embed=true) | E Source Companies | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer - DevOps/.NET/Azure](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HES/DevOps-Engineer_R-26937-1) | Varian | Knoxville, TN, Hoffman Estates, IL, India, Germany | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [AI Engineer - Data Intelligence](https://jobs.ashbyhq.com/clarium/83332693-7e11-41db-8b62-8225cb818abf/application) | Clarium | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Design Engineer](https://jobs.ashbyhq.com/ashby/85713f4a-ad14-4edd-8c56-0065f5897551/application?embed=true) | Ashby | Montreal, QC, Canada, Toronto, ON, Canada, Remote in Canada, Vancouver, BC, Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Frontend Software Engineer](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Frontend-Software-Engineer_R62283) | Motorola | Leicester, UK, Remote in UK, Glasgow, UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
