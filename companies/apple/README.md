@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Morrisville, NC, United States, Waltham, MA, Seattle, WA, SF
+- **Locations:** SF, Austin, TX, Gloucester, UK, San Jose, CA, Waltham, MA
 
 ## Current Opportunities
 

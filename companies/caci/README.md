@@ -1,16 +1,17 @@
 # 🏢 CACI
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-09-14*
+**5 active opportunities** | **5 total tracked** | *Last updated: 2026-09-14*
 
 ## Overview
 
-- **Categories:** Fresher Job
-- **Locations:** Bethesda, MD, Riverside, CA, Hanover, MD, Fayetteville, NC
+- **Categories:** Fresher Job, Internship
+- **Locations:** Fayetteville, NC, Remote in USA, Sterling, VA, Denver, CO, Hanover, MD, Riverside, CA, Bethesda, MD
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999) | CACI | Remote in USA, Sterling, VA, Denver, CO | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Data Dictionary Software Engineer 1](https://caci.wd1.myworkdayjobs.com/en-US/External/job/US-MD-Hanover/Data-Dictionary-Software-Engineer-1_320288) | CACI | Hanover, MD | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Junior C# Software Engineer](https://caci.wd1.myworkdayjobs.com/en-US/external/job/US-MD-Bethesda/Junior-C--Software-Engineer_324627) | CACI | Bethesda, MD | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Data Analyst](https://caci.wd1.myworkdayjobs.com/external/job/Riverside-CA-US/Data-Analyst_327821) | CACI | Riverside, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |

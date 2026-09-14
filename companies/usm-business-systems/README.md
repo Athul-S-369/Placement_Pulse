@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Manassas, VA, Southfield, MI, Augusta, ME, Columbus, OH, California City, CA
+- **Locations:** Bloomington, MN, NYC, Traverse City, MI, Southfield, MI, Manassas, VA
 
 ## Current Opportunities
 
