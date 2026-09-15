@@ -1,11 +1,11 @@
 # 🏢 Marmon Holdings
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-14*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-15*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Milwaukee, WI, Charlotte, NC
+- **Locations:** Charlotte, NC, Milwaukee, WI
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏢 Zydus Wellness
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-14*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-15*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [WellNXT 2.0 by Zydus Wellness](https://unstop.com/competitions/crp-wellnxt-20-by-zydus-wellness-zydus-wellness-1736783) | Zydus Wellness | India | 🏢 Onsite | — | 2026-09-14 | Unstop |
 
 ## 📖 Interview Preparation
 
