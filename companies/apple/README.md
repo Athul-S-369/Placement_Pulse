@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Seattle, WA, California, Santa Clara, CA, San Diego, CA, Lafayette, KS
+- **Locations:** United States, San Diego, CA, Lafayette, KS, SF, Santa Clara, CA
 
 ## Current Opportunities
 

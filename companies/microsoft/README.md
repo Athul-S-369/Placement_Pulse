@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Student Ambassador, Fresher Job, Internship
-- **Locations:** Remote in USA, Cambridge, MA, Mountain View, CA, Redmond, WA, NYC, Cambridge, MA, NYC, Redmond, WA, Mountain View, CA
+- **Categories:** Fresher Job, Student Ambassador, Internship
+- **Locations:** Vancouver, BC, Canada, Cambridge, MA, Mountain View, CA, NYC, Redmond, WA, NYC, Berkeley, CA, Burlington, MA
 
 ## Current Opportunities
 

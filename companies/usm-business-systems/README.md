@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Augusta, ME, El Segundo, CA, Chicago, IL, Bluemont, VA, NYC
+- **Locations:** Chantilly, VA, Columbus, OH, Traverse City, MI, St. Louis, MO, Alexandria, VA
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Atlanta, GA, Rockford, IL, Princeton, NJ
+- **Locations:** Rockford, IL, Princeton, NJ, Atlanta, GA
 
 ## Current Opportunities
 

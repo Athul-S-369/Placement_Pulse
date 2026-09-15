@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Sunnyvale, CA, Jacksonville, FL, Dallas, TX, St. Louis, MO, Plainview, NY
+- **Locations:** Jacksonville, FL, NYC, Alpharetta, GA, Sunnyvale, CA, St. Louis, MO
 
 ## Current Opportunities
 
