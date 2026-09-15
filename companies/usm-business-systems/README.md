@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Washington, DC, Westminster, CO, Traverse City, MI, Chicago, IL, Bluemont, VA
+- **Locations:** Augusta, ME, El Segundo, CA, Chicago, IL, Bluemont, VA, NYC
 
 ## Current Opportunities
 

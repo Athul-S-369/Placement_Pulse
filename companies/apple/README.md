@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Waltham, MA, Santa Clara, CA, Cambridge, MA, London, UK, Morrisville, NC
+- **Locations:** Seattle, WA, California, Santa Clara, CA, San Diego, CA, Lafayette, KS
 
 ## Current Opportunities
 

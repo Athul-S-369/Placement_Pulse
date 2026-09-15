@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Menlo Park, CA, Princeton, NJ
+- **Locations:** Princeton, NJ, Menlo Park, CA
 
 ## Current Opportunities
 
