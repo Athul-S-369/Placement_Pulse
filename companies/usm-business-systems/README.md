@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Southfield, MI, Jefferson City, MO, Manassas, VA, Chantilly, VA, Augusta, ME
+- **Categories:** Fresher Job, Internship
+- **Locations:** Chicago, IL, Alexandria, VA, El Segundo, CA, Bloomington, MN, Traverse City, MI
 
 ## Current Opportunities
 

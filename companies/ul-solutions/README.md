@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Northbrook, IL, Fremont, CA, Raleigh, NC
+- **Categories:** Fresher Job, Internship
+- **Locations:** Fremont, CA, Raleigh, NC, Northbrook, IL
 
 ## Current Opportunities
 

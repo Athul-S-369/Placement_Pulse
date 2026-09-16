@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** London, UK, Ardmore, PA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Ardmore, PA, London, UK
 
 ## Current Opportunities
 

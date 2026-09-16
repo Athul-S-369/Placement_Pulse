@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Totowa, NJ, Fort Wayne, IN, Greenlawn, NY, Girvan, UK, Cedar Rapids, IA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Nashua, NH, Hudson, NH, Manchester, NH, Merrimack, NH, Fort Worth, TX, Cedar Rapids, IA, Fort Wayne, IN, Girvan, UK
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Madison, WI, Salt Lake City, UT, Princeton, NJ, Waukegan, IL, Eagan, MN
+- **Locations:** Calgary, AB, Canada, Eagan, MN, Radcliff, KY, Madison, WI, Princeton, NJ
 
 ## Current Opportunities
 
