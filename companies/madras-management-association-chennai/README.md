@@ -1,6 +1,6 @@
 # 🏢 Madras Management Association, Chennai
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-15*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-16*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [MMA - Chanakya the Mastermind 2026](https://unstop.com/competitions/mma-chanakya-the-mastermind-2026-madras-management-association-chennai-1738918) | Madras Management Association, Chennai | India | 🏢 Onsite | — | 2026-09-15 | Unstop |
 
 ## 📖 Interview Preparation
 

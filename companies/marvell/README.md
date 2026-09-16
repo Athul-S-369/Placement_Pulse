@@ -1,11 +1,11 @@
 # 🏢 Marvell
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-09-15*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-09-16*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Santa Clara, CA, Remote / Various, Ottawa, ON, Canada, Irvine, CA
+- **Locations:** Ottawa, ON, Canada, Irvine, CA, Remote / Various, Santa Clara, CA
 
 ## Current Opportunities
 

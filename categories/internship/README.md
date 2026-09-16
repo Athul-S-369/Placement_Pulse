@@ -1,13 +1,15 @@
 # 🎓 Internship
 
-**816 active** | **0 expired** | **816 total**
+**818 active** | **0 expired** | **818 total**
 
-*Last updated: 2026-09-15*
+*Last updated: 2026-09-16*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Technology Solutions Analyst Intern](https://careers-cotiviti.icims.com/jobs/20321/job?mobile=true&needsRedirect=false) | Cotiviti | South Jordan, UT, Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [AI Software Developer Intern - Multiple Teams](https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false) | Elire | Remote in USA, Minneapolis, MN | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Development Engineer Co-op](https://job-boards.greenhouse.io/athinkingape/jobs/8203048) | A Thinking Ape | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [NLP Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/NLP-Research-Intern_R106758-1) | Tencent | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Data and Analytics Intern - Multiple Teams](https://careers.principal.com/jobs/52574?icims=1) | Principal Financial Group | Des Moines, IA, Remote in USA, Raleigh, NC, Charlotte, NC | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -106,5 +108,3 @@
 | [Chiplet Security Research Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4955926007) | Tenstorrent | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [China Subject Matter Expert Intern](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004) | Two Six Technologies | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Technical Intern](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Technical-Intern--Masters-or-PhD-_JR105488-1) | Centific | Remote in USA, Redmond, WA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Student Worker](https://cerence.wd5.myworkdayjobs.com/Cerence/job/Remote---Great-Britain/Student-Worker_R0005973) | Cerence | Remote in UK | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Software Engineer Intern - Software Engineer](https://job-boards.greenhouse.io/rise8/jobs/4359623007) | Rise8 | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

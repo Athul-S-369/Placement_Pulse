@@ -1,6 +1,6 @@
 # 🏢 Fr. Conceicao Rodrigues College of Engineering (FRCRCE), Bandra
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-15*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-16*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Idea Competition 2026](https://unstop.com/hackathons/idea-competition-2026-fr-conceicao-rodrigues-college-of-engineering-frcrce-bandra-1736048) | Fr. Conceicao Rodrigues College of Engineering (FRCRCE), Bandra | India | 🏢 Onsite | — | 2026-09-15 | Unstop |
 
 ## 📖 Interview Preparation
 

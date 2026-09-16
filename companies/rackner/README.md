@@ -1,10 +1,10 @@
 # 🏢 Rackner
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-15*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-16*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
+- **Categories:** Internship, Fresher Job
 - **Locations:** Hyattsville, MD, Remote in USA
 
 ## Current Opportunities

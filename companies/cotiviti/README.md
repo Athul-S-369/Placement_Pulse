@@ -1,16 +1,17 @@
 # 🏢 Cotiviti
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-15*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-16*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote in USA
+- **Locations:** Remote in USA, South Jordan, UT, Remote in USA
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Technology Solutions Analyst Intern](https://careers-cotiviti.icims.com/jobs/20321/job?mobile=true&needsRedirect=false) | Cotiviti | South Jordan, UT, Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Generative AI/Agentic AI/Research Intern](https://careers-cotiviti.icims.com/jobs/18929/job?mobile=true&needsRedirect=false) | Cotiviti | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 
 ## 📖 Interview Preparation
