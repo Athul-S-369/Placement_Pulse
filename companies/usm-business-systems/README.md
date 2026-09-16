@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Chicago, IL, Alexandria, VA, El Segundo, CA, Bloomington, MN, Traverse City, MI
+- **Locations:** Westminster, CO, Chicago, IL, Alexandria, VA, Jefferson City, MO, Bloomington, MN
 
 ## Current Opportunities
 

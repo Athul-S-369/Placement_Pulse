@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Hartford, CT, San Jose, CA, Plainview, NY, Alpharetta, GA, Jacksonville, FL
+- **Locations:** Plainview, NY, Chicago, IL, Dallas, TX, NYC, Alpharetta, GA
 
 ## Current Opportunities
 
