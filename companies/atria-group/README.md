@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Sunnyvale, CA, Broomfield, CO, Plainview, NY, St. Louis, MO, San Jose, CA
+- **Locations:** San Jose, CA, Novato, CA, Jacksonville, FL, Plainview, NY, Thousand Oaks, CA
 
 ## Current Opportunities
 

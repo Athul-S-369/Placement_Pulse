@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Bloomington, MN, California City, CA, Westminster, CO, St. Louis, MO, Alexandria, VA
+- **Locations:** St. Louis, MO, Dublin, OH, Baltimore, MD, NYC, Augusta, ME
 
 ## Current Opportunities
 

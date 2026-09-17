@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** LA, London, UK, Palo Alto, CA, Bellevue, WA, Remote / Various
+- **Locations:** London, UK, LA, Palo Alto, CA, Bellevue, WA, Remote / Various
 
 ## Current Opportunities
 
