@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** St. Louis, MO, Dublin, OH, Baltimore, MD, NYC, Augusta, ME
+- **Categories:** Internship, Fresher Job
+- **Locations:** Bloomington, MN, Dublin, OH, NYC, Jefferson City, MO, Westminster, CO
 
 ## Current Opportunities
 

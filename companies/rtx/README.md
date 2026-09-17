@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** McKinney, TX, Indianapolis, IN, Longueuil, QC, Canada, Barrie, ON, Canada, Andover, MA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Longueuil, QC, Canada, Cedar Rapids, IA, Huntsville, AL, Fort Wayne, IN, McKinney, TX
 
 ## Current Opportunities
 
