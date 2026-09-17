@@ -1,11 +1,11 @@
 # 🏢 AG Technologies
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-16*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-17*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Dallas, TX, Chesterfield, MO
+- **Locations:** Chesterfield, MO, Dallas, TX
 
 ## Current Opportunities
 

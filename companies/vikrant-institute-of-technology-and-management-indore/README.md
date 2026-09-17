@@ -1,6 +1,6 @@
 # 🏢 Vikrant Institute of Technology and Management, Indore
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-16*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-17*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Innovik 6.0 – International Hackathon 2026](https://unstop.com/hackathons/innovik-60-international-hackathon-2026-vikrant-institute-of-technology-and-management-indore-1731748) | Vikrant Institute of Technology and Management, Indore | India | 🏢 Onsite | — | 2026-09-16 | Unstop |
 
 ## 📖 Interview Preparation
 

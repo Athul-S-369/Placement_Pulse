@@ -1,13 +1,14 @@
 # 💼 Fresher Job
 
-**1368 active** | **0 expired** | **1368 total**
+**1369 active** | **0 expired** | **1369 total**
 
-*Last updated: 2026-09-16*
+*Last updated: 2026-09-17*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Business Analyst](https://internaljobs.centurylink.com/job/Remote-Business-Analyst/1430579700/?ats=successfactors) | CenturyLink | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Memory Developer](https://jobs.ashbyhq.com/sunday/f92adbe3-da24-4edd-8599-4f60dec7bd5f/application?embed=true) | Sunday Robotics | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer - Entry-Level](https://jobs.ashbyhq.com/withcherry/6cdd7a52-fcbd-4e29-bcf2-00840ee9243f/application?embed=true) | Cherry Technologies | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Business Associate Analyst](https://stbancorp.wd5.myworkdayjobs.com/ST_Bank_Careers/job/Main-Office/Data---Analytics-Associate-Analyst_R-1580) | S&T Bank | Indiana, PA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Applied Scientist - Unsecured Underwriting Machine Learning](https://careers.upstart.com/jobs?gh_jid=7293116) | Upstart | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Data Engineer](https://boards.greenhouse.io/abacusinsights/jobs/8674746002) | Abacus Insights | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Data Scientist](https://dealertire.wd5.myworkdayjobs.com/DealerTireLLC-Careers/job/Remote-Ohio/Associate-Data-Scientist_R13774) | Dealer Tire | Remote in USA, Ohio | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [GIS Specialist](https://xtscareers.applytojob.com/apply/zXuVgWExgU/GIS-Specialist-Entry-Level) | Xcellent Technology Solutions | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

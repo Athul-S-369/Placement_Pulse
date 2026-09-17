@@ -1,11 +1,11 @@
 # 🏢 Uncountable
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-09-16*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-09-17*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** London, UK, SF, NYC, Munich, Germany, San Francisco, New York, London, SF, NYC
+- **Locations:** London, UK, SF, NYC, Munich, Germany, SF, NYC, San Francisco, New York, London
 
 ## Current Opportunities
 

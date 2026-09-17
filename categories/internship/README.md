@@ -1,13 +1,14 @@
 # 🎓 Internship
 
-**819 active** | **0 expired** | **819 total**
+**820 active** | **0 expired** | **820 total**
 
-*Last updated: 2026-09-16*
+*Last updated: 2026-09-17*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Technical Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00192449-1) | Leidos | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Technology Solutions Analyst Intern](https://careers-cotiviti.icims.com/jobs/20321/job?mobile=true&needsRedirect=false) | Cotiviti | South Jordan, UT, Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [AI Software Developer Intern - Multiple Teams](https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false) | Elire | Remote in USA, Minneapolis, MN | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Energy Efficiency & Demand Response Intern](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149873771) | Wabash Valley Power Alliance | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [Firmware Engineer Intern - Bachelor's Degree](https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers/job/Santa-Clara-CA/Firmware-Engineer-Intern---Bachelor-s-Degree_2503452-1) | Marvell | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/ada18/jobs/5180710007) | Ada | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Chiplet Security Research Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4955926007) | Tenstorrent | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
-| [China Subject Matter Expert Intern](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6105290004) | Two Six Technologies | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

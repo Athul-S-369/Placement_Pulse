@@ -1,6 +1,6 @@
 # 🏢 N. L. Dalmia Institute of Management Studies & Research (NLDIMSR), Mumbai
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-16*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-17*
 
 ## Overview
 

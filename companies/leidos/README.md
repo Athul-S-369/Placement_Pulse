@@ -1,16 +1,17 @@
 # 🏢 Leidos
 
-**8 active opportunities** | **8 total tracked** | *Last updated: 2026-09-16*
+**9 active opportunities** | **9 total tracked** | *Last updated: 2026-09-17*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Annapolis Junction, MD, Columbia, MD, Remote in USA, Shiloh, IL, Odenton, MD, Reston, VA, Chesapeake, VA
+- **Locations:** Remote in USA, Indianapolis, IN, Huntsville, AL, Annapolis Junction, MD, Remote in USA, Shiloh, IL, Odenton, MD
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Technical Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00192449-1) | Leidos | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern - Artificial Intelligence](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648) | Leidos | Remote in USA, Shiloh, IL, Odenton, MD | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Application Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1) | Leidos | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [PCBA Soldering Technician](https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/PCBA-Aoldering-Technician_R-00170309) | Leidos | Huntsville, AL | 🏢 Onsite | — | — | SimplifyJobs New Grad |

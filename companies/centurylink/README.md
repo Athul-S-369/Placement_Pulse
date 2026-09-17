@@ -1,16 +1,17 @@
 # 🏢 CenturyLink
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-16*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-17*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Indianapolis, IN
+- **Locations:** Remote in USA, Indianapolis, IN
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Business Analyst](https://internaljobs.centurylink.com/job/Remote-Business-Analyst/1430579700/?ats=successfactors) | CenturyLink | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Field Technician 1](https://internaljobs.centurylink.com/job/INDIANAPOLIS-Field-Technician-I-INDIANAPOLIS,-IN-IN-46225/1422440100/?ats=successfactors) | CenturyLink | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 
 ## 📖 Interview Preparation

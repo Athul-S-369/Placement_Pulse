@@ -1,6 +1,6 @@
 # 🏢 BITS Goa Consulting Club (BGCC)
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-16*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-17*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Case Consilium](https://unstop.com/competitions/case-consilium-bits-goa-consulting-club-bgcc-1734140) | BITS Goa Consulting Club (BGCC) | India | 🏢 Onsite | — | 2026-09-16 | Unstop |
 
 ## 📖 Interview Preparation
 

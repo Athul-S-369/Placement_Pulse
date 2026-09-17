@@ -1,8 +1,8 @@
 # 🏆 Hackathon
 
-**71 active** | **472 expired** | **543 total**
+**69 active** | **474 expired** | **543 total**
 
-*Last updated: 2026-09-16*
+*Last updated: 2026-09-17*
 
 ## Active Opportunities
 
@@ -41,9 +41,7 @@
 | [AIVantage](https://unstop.com/quiz/aivantage-mentozy-1737031) | Mentozy | India | 🏢 Onsite | — | 2026-09-17 | Unstop |
 | [Business on Values](https://unstop.com/competitions/business-on-values-institute-of-rural-management-anand-irma-gujarat-1736892) | Institute of Rural Management Anand (IRMA), Gujarat | India | 🏢 Onsite | — | 2026-09-27 | Unstop |
 | [CodeNeuraX: AlgoRush](https://unstop.com/hackathons/codeneurax-algorush-codeneurax-1737089) | CodeNeuraX | India | 🏢 Onsite | — | 2026-12-18 | Unstop |
-| [Innovik 6.0 – International Hackathon 2026](https://unstop.com/hackathons/innovik-60-international-hackathon-2026-vikrant-institute-of-technology-and-management-indore-1731748) | Vikrant Institute of Technology and Management, Indore | India | 🏢 Onsite | — | 2026-09-16 | Unstop |
 | [Signal Quest – IEEE SPS Hackathon 2026](https://unstop.com/hackathons/signal-quest-ieee-sps-hackathon-2026-cmr-institute-of-technology-1736521) | CMR Institute Of Technology | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
-| [Case Consilium](https://unstop.com/competitions/case-consilium-bits-goa-consulting-club-bgcc-1734140) | BITS Goa Consulting Club (BGCC) | India | 🏢 Onsite | — | 2026-09-16 | Unstop |
 | [Maxim Code challenges](https://unstop.com/competitions/maxim-code-challenges-saveetha-engineering-college-1735971) | Saveetha Engineering College | India | 🏢 Onsite | — | 2026-09-29 | Unstop |
 | [A-1 Launchpad: Launch your Career with Us](https://unstop.com/competitions/a-1-launchpad-launch-your-career-with-us-a-1-fence-products-company-pvt-ltd-1718561) | A-1 Fence Products Company Pvt. Ltd. | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
 | [MHTECHIN Innovation Challenge 2026](https://unstop.com/competitions/mhtechin-innovation-challenge-2026-mhtechin-1715258) | MHTECHIN | India | 🏢 Onsite | — | 2026-10-31 | Unstop |
@@ -84,6 +82,8 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Case Consilium](https://unstop.com/competitions/case-consilium-bits-goa-consulting-club-bgcc-1734140) | BITS Goa Consulting Club (BGCC) | India | 🏢 Onsite | — | 2026-09-16 | Unstop |
+| [Innovik 6.0 – International Hackathon 2026](https://unstop.com/hackathons/innovik-60-international-hackathon-2026-vikrant-institute-of-technology-and-management-indore-1731748) | Vikrant Institute of Technology and Management, Indore | India | 🏢 Onsite | — | 2026-09-16 | Unstop |
 | [Idea Competition 2026](https://unstop.com/hackathons/idea-competition-2026-fr-conceicao-rodrigues-college-of-engineering-frcrce-bandra-1736048) | Fr. Conceicao Rodrigues College of Engineering (FRCRCE), Bandra | India | 🏢 Onsite | — | 2026-09-15 | Unstop |
 | [Code Voyage](https://unstop.com/hackathons/code-voyage-iem-kolkata-1736284) | IEM Kolkata | India | 🏢 Onsite | — | 2026-09-15 | Unstop |
 | [MMA - Chanakya the Mastermind 2026](https://unstop.com/competitions/mma-chanakya-the-mastermind-2026-madras-management-association-chennai-1738918) | Madras Management Association, Chennai | India | 🏢 Onsite | — | 2026-09-15 | Unstop |
@@ -102,5 +102,3 @@
 | [Binary Hacks 4.0](https://unstop.com/hackathons/binary-hacks-40-raj-kumar-goel-institute-of-technology-rkgit-ghaziabad-1730767) | Raj Kumar Goel Institute of Technology (RKGIT), Ghaziabad | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
 | [The Quantum Technology Quiz](https://unstop.com/quiz/the-quantum-technology-quiz-think-loop-community-1730898) | Think Loop Community | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
 | [VELOHACK 2k26: 24 Hour International Hackathon](https://unstop.com/hackathons/velohack-2k26-24-hour-international-hackathon-vel-tech-rangarajan-dr-sagunthala-rd-institute-of-science-and-t-1730386) | Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology, Avadi | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
-| [The Trust Economy Challenge: Super App or Super Mess?](https://unstop.com/competitions/the-trust-economy-challenge-super-app-or-super-mess-ats-services-pvt-ltd-1736101) | ATS Services Pvt Ltd | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
-| [Emerging Founders Program](https://unstop.com/competitions/emerging-founders-program-emerging-founders-program-venturedu-1739314) | VenturEdu | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
