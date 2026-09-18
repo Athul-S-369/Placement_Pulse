@@ -4,7 +4,7 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
+- **Categories:** Internship, Fresher Job
 - **Locations:** Chicago, IL, Austin, TX, Chicago, IL
 
 ## Current Opportunities
