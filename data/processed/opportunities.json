@@ -82202,5 +82202,36 @@
     "verification_status": "unverified",
     "is_duplicate": false,
     "duplicate_of": ""
+  },
+  {
+    "id": "4ae9280d31475f43",
+    "title": "Samiksha September 2026",
+    "company": "Goa Institute of Management (GIM), Goa",
+    "company_slug": "goa-institute-of-management-gim-goa",
+    "category": "hackathon",
+    "domain_tags": [],
+    "tags": [],
+    "location": "India",
+    "work_mode": "onsite",
+    "is_india": true,
+    "apply_link": "https://unstop.com/competitions/samiksha-september-2026-goa-institute-of-management-gim-goa-1758112",
+    "source_url": "https://unstop.com",
+    "source_name": "Unstop",
+    "date_found": "2026-09-18",
+    "date_posted": "",
+    "deadline": "2026-09-22",
+    "last_checked": "2026-09-18",
+    "batch_eligible": [
+      "2026"
+    ],
+    "experience_required": "0",
+    "skills_required": [],
+    "salary": "",
+    "stipend": "",
+    "description": "",
+    "responsibilities": [],
+    "verification_status": "unverified",
+    "is_duplicate": false,
+    "duplicate_of": ""
   }
 ]

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Augusta, ME, Washington, DC, San Antonio, TX, Bloomington, MN, Manassas, VA
+- **Locations:** Southfield, MI, St. Louis, MO, Rochester, MI, El Segundo, CA, Manassas, VA
 
 ## Current Opportunities
 

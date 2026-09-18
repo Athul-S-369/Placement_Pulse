@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Milton Keynes, UK, Yeovil, UK
+- **Locations:** Yeovil, UK, Milton Keynes, UK
 
 ## Current Opportunities
 

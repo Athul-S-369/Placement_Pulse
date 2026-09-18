@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Newport News, VA, Williamsburg, VA
+- **Locations:** Williamsburg, VA, Newport News, VA
 
 ## Current Opportunities
 
