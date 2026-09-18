@@ -1,6 +1,6 @@
 # 🏢 Mentozy
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-17*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-18*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AIVantage](https://unstop.com/quiz/aivantage-mentozy-1737031) | Mentozy | India | 🏢 Onsite | — | 2026-09-17 | Unstop |
 
 ## 📖 Interview Preparation
 

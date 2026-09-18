@@ -1,11 +1,11 @@
 # 🏢 NVIDIA
 
-**7 active opportunities** | **7 total tracked** | *Last updated: 2026-09-17*
+**7 active opportunities** | **7 total tracked** | *Last updated: 2026-09-18*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** California, Santa Clara, CA, United States, Santa Clara, CA, Austin, TX, Remote in USA, Redmond, WA, Santa Clara, CA, Austin, TX, Toronto, ON, Canada, Remote in Canada
+- **Categories:** Fresher Job, Internship
+- **Locations:** California, Santa Clara, CA, United States, Remote in USA, Santa Clara, CA, Austin, TX, Toronto, ON, Canada, Remote in Canada, Austin, TX, Remote in USA, Redmond, WA, Santa Clara, CA
 
 ## Current Opportunities
 

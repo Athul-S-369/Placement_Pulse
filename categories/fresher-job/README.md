@@ -1,13 +1,14 @@
 # 💼 Fresher Job
 
-**1371 active** | **0 expired** | **1371 total**
+**1372 active** | **0 expired** | **1372 total**
 
-*Last updated: 2026-09-17*
+*Last updated: 2026-09-18*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Mobile Developer 1](https://job-boards.greenhouse.io/perfectserve/jobs/6188374004) | PerfectServe | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Business Analyst](https://internaljobs.centurylink.com/job/Remote-Business-Analyst/1430579700/?ats=successfactors) | CenturyLink | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Gujarati Speaker - Freelance - AI Trainer](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4891089101) | Prolific | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Computer Science Specialist - AI Training](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4853457101) | Prolific | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Field Service Technician 2 - Gaming](https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Indiana-US/Field-Service-Tech-II_R321726) | Light & Wonder | Indiana | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Machine Learning & Computer Vision Scientist - R&D - Junior/Associate](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/Indianapolis-IN/Machine-Learning---Computer-Vision-Scientist---R-D--Junior-Associate-_R0026698) | Elanco | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Automation Developer](https://apply.workable.com/saalex/j/B9CC90B5BA/apply) | Saalex | Remote in USA, Lexington Park, MD | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Applied Scientist - Unsecured Underwriting Machine Learning](https://careers.upstart.com/jobs?gh_jid=7293116) | Upstart | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

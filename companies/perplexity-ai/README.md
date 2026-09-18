@@ -1,11 +1,11 @@
 # 🏢 Perplexity AI
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-17*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-18*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Washington, DC, SF, London, UK
+- **Categories:** Fresher Job, Internship
+- **Locations:** London, UK, Washington, DC, SF
 
 ## Current Opportunities
 

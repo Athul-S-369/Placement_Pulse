@@ -1,11 +1,11 @@
 # 🏢 USM Business Systems
 
-**21 active opportunities** | **21 total tracked** | *Last updated: 2026-09-17*
+**21 active opportunities** | **21 total tracked** | *Last updated: 2026-09-18*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Bloomington, MN, Dublin, OH, NYC, Jefferson City, MO, Westminster, CO
+- **Categories:** Fresher Job, Internship
+- **Locations:** Traverse City, MI, Chicago, IL, Bluemont, VA, El Segundo, CA, Bloomington, MN
 
 ## Current Opportunities
 
