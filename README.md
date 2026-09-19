@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**September 19, 2026** &nbsp;—&nbsp; **77** Fresher Job &nbsp;·&nbsp; **64** Internship &nbsp;·&nbsp; **8** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**September 19, 2026** &nbsp;—&nbsp; **77** Fresher Job &nbsp;·&nbsp; **63** Internship &nbsp;·&nbsp; **8** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**155 opportunities** added or updated in the latest run (September 19, 2026).
+**154 opportunities** added or updated in the latest run (September 19, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -125,7 +125,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [QA in the Age of AI: Reimagining Software Quality for the In...](https://unstop.com/workshops-webinars/qa-in-the-age-of-ai-reimagining-software-quality-for-the-intelligent-era-acl-digital-1756600) | ACL Digital | India | Hackathon | Onsite | 2026-10-06 |
 | [Moneyball: The Football Auction (Interface 2026)](https://unstop.com/competitions/moneyball-the-football-auction-interface-2026-department-of-management-dom-birla-institute-of-technology-an-1744520) | Department of Management (Do | India | Hackathon | Onsite | 2026-09-25 |
 | [Samiksha September 2026](https://unstop.com/competitions/samiksha-september-2026-goa-institute-of-management-gim-goa-1758112) | Goa Institute of Management  | India | Hackathon | Onsite | 2026-09-26 |
-| [INVEST 'O' MANIA: The Reverse Shark Tank](https://unstop.com/competitions/invest-o-mania-decoding-deals-driving-decisions-great-lakes-institute-of-management-glim-gurgaon-1755069) | Great Lakes Institute of Man | India | Hackathon | Onsite | 2026-09-30 |
+| [INVEST 'O' MANIA: The Reverse Shark Tank](https://unstop.com/competitions/invest-o-mania-decoding-deals-driving-decisions-great-lakes-institute-of-management-glim-gurgaon-1755069) | Great Lakes Institute of Man | India | Hackathon | Onsite | 2026-10-01 |
 | [Commercio Artikel - Article Writing Competition](https://unstop.com/competitions/commercio-artikel-article-writing-competition-trade-winds-2026-iift-new-delhi-1754500) | Indian Institute of Foreign  | India | Hackathon | Onsite | 2026-10-01 |
 | [Think Tank: The Deal Room](https://unstop.com/quiz/think-tank-the-deal-room-iim-rohtak-1754852) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-09-15 |
 | [HackCelestial 3.0](https://unstop.com/hackathons/hackcelestial-30-pillai-university-navi-mumbai-1737808) | Pillai University, Navi Mumb | India | Hackathon | Onsite | 2026-09-27 |
@@ -167,7 +167,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [AI and Compiler Engineering Graduate Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850) | Intel | Remote in Canada | Internship | Remote | — |
 | [Developer Intern Co-op - Machine Learning](https://careers-kinaxis.icims.com/jobs/35297/job?mobile=true&needsRedirect=false) | Kinaxis | Remote in Canada | Internship | Remote | — |
 | [Financial Analytics & Technology Intern - Financial Analytic...](https://labcorp.wd1.myworkdayjobs.com/external/job/Remote_United-States/Intern---Financial-Analytics---Technology_2630761) | LabCorp | Remote in USA | Internship | Remote | — |
-| [Technical Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00192448) | Leidos | Remote in USA | Internship | Remote | — |
+| [Technical Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00192449-1) | Leidos | Remote in USA | Internship | Remote | — |
 | [Hardware Engineer Co-op - Electrical Engineering](https://masco.wd1.myworkdayjobs.com/Masco/job/US---Indiana---Indianapolis/Hardware-Engineering-Co-op--Electrical-Engineering-_REQ54344-2) | Masco | Indianapolis, IN | Internship | Onsite | — |
 | [AI Product Engineer Intern](https://jobs.gusto.com/postings/myemployment-llc-ai-product-engineer-intern-c08d7fd3-115e-46ad-a46f-6c4be1f77263) | MyEmployment | Remote in US | Internship | Remote | — |
 | [PhD Research Intern - Generalist Embodied Agents Research](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generalist-Embodied-Agents-Research---2027_JR2025103) | NVIDIA | Remote in USA, Santa Clar | Internship | Remote | — |
@@ -176,7 +176,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Research Scientist Intern](https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be/application?embed=true) | Pluralis Research | Remote in USA, Remote in  | Internship | Remote | — |
 | [Data and Analytics Intern - Multiple Teams](https://careers.principal.com/jobs/52574?icims=1) | Principal Financial Group | Des Moines, IA, Remote in | Internship | Remote | — |
 | [System Architecture Intern](https://www.psiquantum.com/apply?gh_jid=7695577003) | PsiQuantum | Palo Alto, CA, Bristol, U | Internship | Remote | — |
-| [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01874145) | RTX | Indianapolis, IN | Internship | Onsite | — |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a/application?embed=true) | Realm | Remote in USA | Internship | Remote | — |
 | [Marketing & Operations Analytics Co-op - Strategy & Analytic...](https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Marketing---Ops-Analytics-Co-Op_JR101345) | Risepoint | Remote in USA | Internship | Remote | — |
 | [Software Engineer Intern](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771) | Salesforce | Palo Alto, CA, Seattle, W | Internship | Onsite | — |
@@ -317,6 +316,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-09-19 12:40 UTC</sub>
+<sub>Last generated: 2026-09-19 18:48 UTC</sub>
 
 </div>

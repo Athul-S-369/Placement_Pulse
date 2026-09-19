@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Scarborough, ON, Canada, Toronto, ON, Canada
+- **Locations:** Toronto, ON, Canada, Scarborough, ON, Canada
 
 ## Current Opportunities
 

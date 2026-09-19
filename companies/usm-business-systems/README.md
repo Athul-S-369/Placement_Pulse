@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** NYC, El Segundo, CA, Rochester, MI, Southfield, MI, San Antonio, TX
+- **Categories:** Internship, Fresher Job
+- **Locations:** Columbus, OH, Bluemont, VA, Chantilly, VA, Dublin, OH, Manassas, VA
 
 ## Current Opportunities
 

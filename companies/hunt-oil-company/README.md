@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Dallas, TX, Houston, TX
+- **Categories:** Internship, Fresher Job
+- **Locations:** Houston, TX, Dallas, TX
 
 ## Current Opportunities
 

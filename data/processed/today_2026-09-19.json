@@ -1486,39 +1486,6 @@
     "duplicate_of": ""
   },
   {
-    "id": "ec3bb41a9fc914f8",
-    "title": "Software Engineer Intern - Summer 2027",
-    "company": "RTX",
-    "company_slug": "rtx",
-    "category": "internship",
-    "domain_tags": [
-      "software-engineering"
-    ],
-    "tags": [],
-    "location": "Indianapolis, IN",
-    "work_mode": "onsite",
-    "is_india": true,
-    "apply_link": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01874145",
-    "source_url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json",
-    "source_name": "SimplifyJobs / PittCSC",
-    "date_found": "2026-09-19",
-    "date_posted": "",
-    "deadline": "",
-    "last_checked": "2026-09-19",
-    "batch_eligible": [
-      "2027"
-    ],
-    "experience_required": "0",
-    "skills_required": [],
-    "salary": "",
-    "stipend": "",
-    "description": "",
-    "responsibilities": [],
-    "verification_status": "unverified",
-    "is_duplicate": false,
-    "duplicate_of": ""
-  },
-  {
     "id": "47d67d823ec1d6b2",
     "title": "Software Engineer Intern - Summer 2027",
     "company": "CACI",
@@ -1713,7 +1680,7 @@
     "location": "Remote in USA",
     "work_mode": "remote",
     "is_india": true,
-    "apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00192448",
+    "apply_link": "https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00192449-1",
     "source_url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json",
     "source_name": "SimplifyJobs / PittCSC",
     "date_found": "2026-09-19",
@@ -4380,7 +4347,7 @@
     "source_name": "Unstop",
     "date_found": "2026-09-19",
     "date_posted": "",
-    "deadline": "2026-09-30",
+    "deadline": "2026-10-01",
     "last_checked": "2026-09-19",
     "batch_eligible": [],
     "experience_required": "0",
