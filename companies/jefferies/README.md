@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Boston, MA, NYC
+- **Locations:** NYC, Boston, MA
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Phoenix, AZ, Hillsboro, OR, Phoenix, AZ, Remote in Canada, Remote in USA, Santa Clara, CA, Hillsboro, OR
+- **Locations:** Remote in Canada, Hillsboro, OR, Santa Clara, CA, Remote in USA, Hillsboro, OR, Phoenix, AZ
 
 ## Current Opportunities
 

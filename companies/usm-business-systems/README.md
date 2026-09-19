@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Augusta, ME, California City, CA, San Antonio, TX, Manassas, VA, NYC
+- **Locations:** NYC, El Segundo, CA, Rochester, MI, Southfield, MI, San Antonio, TX
 
 ## Current Opportunities
 
