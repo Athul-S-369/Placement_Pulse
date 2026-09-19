@@ -1,11 +1,11 @@
 # 🏢 USM Business Systems
 
-**21 active opportunities** | **21 total tracked** | *Last updated: 2026-09-18*
+**21 active opportunities** | **21 total tracked** | *Last updated: 2026-09-19*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Southfield, MI, St. Louis, MO, Rochester, MI, El Segundo, CA, Manassas, VA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Augusta, ME, California City, CA, San Antonio, TX, Manassas, VA, NYC
 
 ## Current Opportunities
 

@@ -1,11 +1,11 @@
 # 🏢 Realm
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-18*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-19*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Remote in USA, Remote in US
+- **Locations:** Remote in US, Remote in USA
 
 ## Current Opportunities
 

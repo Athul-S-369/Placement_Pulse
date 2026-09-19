@@ -1,16 +1,17 @@
 # 🏢 Grow Financial Federal Credit Union
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-18*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-19*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Tampa, FL
+- **Locations:** Tampa, FL, Remote in USA
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Collections Data Analyst Intern](https://careers-growfinancial.icims.com/jobs/2755/job?mobile=true&needsRedirect=false) | Grow Financial Federal Credit Union | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Community Development Intern](https://careers-growfinancial.icims.com/jobs/2674/job?mobile=true&needsRedirect=false) | Grow Financial Federal Credit Union | Tampa, FL | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 
 ## 📖 Interview Preparation
