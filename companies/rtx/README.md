@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Arlington, VA, Indianapolis, IN, Goleta, CA, Andover, MA, McKinney, TX
+- **Locations:** Fort Wayne, IN, McKinney, TX, Longueuil, QC, Canada, Goleta, CA, Huntsville, AL
 
 ## Current Opportunities
 

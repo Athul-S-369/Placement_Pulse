@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Ann Arbor, MI, West Columbia, SC
+- **Locations:** West Columbia, SC, Ann Arbor, MI
 
 ## Current Opportunities
 

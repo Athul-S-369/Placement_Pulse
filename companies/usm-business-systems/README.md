@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** El Segundo, CA, Chantilly, VA, Southfield, MI, Washington, DC, Manassas, VA
+- **Locations:** Columbus, OH, St. Louis, MO, Manassas, VA, Chicago, IL, El Segundo, CA
 
 ## Current Opportunities
 
