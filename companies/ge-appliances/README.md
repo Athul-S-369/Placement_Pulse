@@ -1,16 +1,17 @@
 # 🏢 GE Appliances
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-19*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-20*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Louisville, KY
+- **Locations:** Louisville, KY, Remote / Various
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineering Co-op Spring 2027](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832) | GE Appliances | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Software Engineering Co-op](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Fall-2026_REQ-23563) | GE Appliances | Louisville, KY | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 
 ## 📖 Interview Preparation

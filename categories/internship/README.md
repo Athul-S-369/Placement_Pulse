@@ -1,13 +1,14 @@
 # 🎓 Internship
 
-**824 active** | **0 expired** | **824 total**
+**825 active** | **0 expired** | **825 total**
 
-*Last updated: 2026-09-19*
+*Last updated: 2026-09-20*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineering Co-op Spring 2027](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832) | GE Appliances | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Marketing & Operations Analytics Co-op - Strategy & Analytics](https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Marketing---Ops-Analytics-Co-Op_JR101345) | Risepoint | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Collections Data Analyst Intern](https://careers-growfinancial.icims.com/jobs/2755/job?mobile=true&needsRedirect=false) | Grow Financial Federal Credit Union | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Artificial Intelligence Engineer Intern](https://www.healthesystems.com/unassigned/careers-list?gh_jid=7928315003) | Healthesystems | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [Editorial Data Reporting Intern](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) | LexisNexis Risk Solutions | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Computer Vision Research & Development Engineer](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Berkshire-United-Kingdom/Computer-Vision-R-D-Engineer_R0128079) | Hitachi Energy | Remote in UK | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Associate/Undergraduate Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote/XMLNAME--Associate-Undergraduate--Intern---Carbon-Management-and-Large-Energy-Systems_R14405) | National Laboratory of the Rockies | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Data Engineering Intern](https://job-boards.greenhouse.io/honehealth/jobs/5308958008) | Hone Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

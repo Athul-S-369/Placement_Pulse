@@ -1,6 +1,6 @@
 # 🏢 Technocrats Institute of Technology (Excellence), Bhopal
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-19*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-20*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [P.A.C.E - Where Logic Meets Expression.](https://unstop.com/hackathons/pace-where-logic-meets-expression-technocrats-institute-of-technology-excellence-bhopal-1719528) | Technocrats Institute of Technology (Excellence), Bhopal | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
 
 ## 📖 Interview Preparation
 

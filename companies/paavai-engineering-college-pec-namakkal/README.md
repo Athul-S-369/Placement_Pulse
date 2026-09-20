@@ -1,6 +1,6 @@
 # 🏢 Paavai Engineering College (PEC), Namakkal
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-19*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-20*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [FUSION X 1.0 – 24-Hour Hackathon](https://unstop.com/hackathons/fusion-x-10-24-hour-hackathon-paavai-engineering-college-pec-namakkal-1743196) | Paavai Engineering College (PEC), Namakkal | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
 
 ## 📖 Interview Preparation
 

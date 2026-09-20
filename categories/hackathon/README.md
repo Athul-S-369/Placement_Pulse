@@ -1,8 +1,8 @@
 # 🏆 Hackathon
 
-**67 active** | **478 expired** | **545 total**
+**60 active** | **485 expired** | **545 total**
 
-*Last updated: 2026-09-19*
+*Last updated: 2026-09-20*
 
 ## Active Opportunities
 
@@ -14,7 +14,6 @@
 | [The Nation Builders 2026](https://unstop.com/competitions/the-nation-builders-2026-teachers-day-youthisthan-foundation-1755432) | Youthisthan Foundation | India | 🏢 Onsite | — | 2026-09-25 | Unstop |
 | [Commercio Artikel - Article Writing Competition](https://unstop.com/competitions/commercio-artikel-article-writing-competition-trade-winds-2026-iift-new-delhi-1754500) | Indian Institute of Foreign Trade (IIFT), New Delhi | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
 | [Moneyball: The Football Auction (Interface 2026)](https://unstop.com/competitions/moneyball-the-football-auction-interface-2026-department-of-management-dom-birla-institute-of-technology-an-1744520) | Department of Management (DoM), Birla Institute of Technology and Science (BITS), Pilani | India | 🏢 Onsite | — | 2026-09-25 | Unstop |
-| [Decarbonix 1.0](https://unstop.com/hackathons/decarbonix-10-dr-ss-bhatnagar-university-institute-of-chemical-engineering-technology-panjab-university-chand-1743102) | Dr SS Bhatnagar University Institute of Chemical Engineering & Technology, Panjab University, Chandigarh | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
 | [HackCelestial 3.0](https://unstop.com/hackathons/hackcelestial-30-pillai-university-navi-mumbai-1737808) | Pillai University, Navi Mumbai | India | 🏢 Onsite | — | 2026-09-27 | Unstop |
 | [Relai PropTech Challenge 2026](https://unstop.com/competitions/relai-proptech-challenge-2026-relai-world-1742576) | relai world | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 | [Geeks2Code](https://unstop.com/hackathons/geeks2code-geeksforgeeks-campus-body-miet-1740788) | GeeksForGeeks Campus Body MIET | India | 🏢 Onsite | — | 2026-09-21 | Unstop |
@@ -24,20 +23,16 @@
 | [Stainless Spark – Engineering Innovation, Building Futures](https://unstop.com/competitions/crp-stainless-spark-engineering-innovation-building-futures-stainless-spark-case-study-competition-jindal-stain-1572025) | Jindal Stainless Limited | India | 🏢 Onsite | — | 2026-11-19 | Unstop |
 | [Tata Imagination Challenge 2026](https://unstop.com/competitions/crp-tata-imagination-challenge-2026-tata-group-1740413) | Tata Group | India | 🏢 Onsite | — | 2026-12-06 | Unstop |
 | [Slay Cybersecurity Conference and Workshop](https://unstop.com/workshops-webinars/slay-cybersecurity-conference-and-workshop-jalpaiguri-government-engineering-college-jgec-west-bengal-1743199) | Jalpaiguri Government Engineering College (JGEC), West Bengal | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
-| [FUSION X 1.0 – 24-Hour Hackathon](https://unstop.com/hackathons/fusion-x-10-24-hour-hackathon-paavai-engineering-college-pec-namakkal-1743196) | Paavai Engineering College (PEC), Namakkal | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
 | [St.Jude's Code Arena](https://unstop.com/hackathons/stjudes-code-arena-st-judes-public-schoolsjps-nilgiris-1743110) | St. Jude's Public School(SJPS), Nilgiris | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 | [HackRonyX 2.0](https://unstop.com/hackathons/hackronyx-20-st-vincent-pallotti-college-of-engineering-and-technology-svpcet-nagpur-1741857) | St. Vincent Pallotti College of Engineering and Technology (SVPCET), Nagpur | India | 🏢 Onsite | — | 2026-09-27 | Unstop |
 | [Graviton](https://unstop.com/hackathons/graviton-iste-cgc-university-1742794) | ISTE CGC UNIVERSITY | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 | [The Ken's Case-Build Competition 2026 - The Great Rewiring](https://unstop.com/competitions/crp-the-kens-case-build-competition-2026-the-great-rewiring-the-ken-1737144) | The Ken | India | 🏢 Onsite | — | 2026-10-10 | Unstop |
 | [ELUCode-2](https://unstop.com/hackathons/elucode-2-edulinkup-1740124) | EduLinkUp | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 | [Horizon](https://unstop.com/hackathons/horizon-hoollow-1726596) | Hoollow | India | 🏢 Onsite | — | 2026-10-19 | Unstop |
-| [Go-To-Market Strategy Challenge](https://unstop.com/competitions/go-to-market-strategy-challenge-hawk-and-rare-1735525) | Hawk and Rare | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
 | [AUREX'26 - Classical Tamil's First Lingual Tech Hackathon](https://unstop.com/hackathons/aurex26-classical-tamils-first-lingual-tech-hackathon-central-institute-of-classical-tamil-cict-1736281) | Central Institute of Classical Tamil CICT | India | 🏢 Onsite | — | 2026-09-24 | Unstop |
 | [MOSIP Decode 2026](https://unstop.com/hackathons/mosip-decode-2026-synergy-26-international-institute-of-information-technology-iiit-bangalore-1735221) | International Institute of Information Technology (IIIT), Bangalore | India | 🏢 Onsite | — | 2026-11-06 | Unstop |
 | [CONFLUENCE XIX: Paper Presentation](https://unstop.com/competitions/confluence-xix-paper-presentation-st-xaviers-college-kolkata-1739093) | St Xaviers College Kolkata | India | 🏢 Onsite | — | 2026-09-28 | Unstop |
 | [Matrix 2026](https://unstop.com/hackathons/matrix-2026-government-engineering-college-gec-thrissur-1737241) | Government Engineering College (GEC), Thrissur | India | 🏢 Onsite | — | 2026-09-24 | Unstop |
-| [PAW2026 Nationwide Competition](https://unstop.com/competitions/paw2026-nationwide-competition-animals-water-bowl-project-awbp-trust-1738046) | Animals Water-Bowl Project (AWBP) Trust | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
-| [NIMS MUN 1.0](https://unstop.com/conferences/nims-mun-10-stem-department-nims-university-1737272) | STEM Department, NIMS UNIVERSITY | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
 | [Business on Values](https://unstop.com/competitions/business-on-values-institute-of-rural-management-anand-irma-gujarat-1736892) | Institute of Rural Management Anand (IRMA), Gujarat | India | 🏢 Onsite | — | 2026-09-27 | Unstop |
 | [CodeNeuraX: AlgoRush](https://unstop.com/hackathons/codeneurax-algorush-codeneurax-1737089) | CodeNeuraX | India | 🏢 Onsite | — | 2026-12-18 | Unstop |
 | [Signal Quest – IEEE SPS Hackathon 2026](https://unstop.com/hackathons/signal-quest-ieee-sps-hackathon-2026-cmr-institute-of-technology-1736521) | CMR Institute Of Technology | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
@@ -60,10 +55,8 @@
 | [Flash](https://unstop.com/competitions/flash-college-of-engineering-coep-pune-1726741) | College of Engineering (COEP), Pune | India | 🏢 Onsite | — | 2026-09-29 | Unstop |
 | [PromptX](https://unstop.com/competitions/promptx-s2s-1721995) | S2S | India | 🏢 Onsite | — | 2026-12-10 | Unstop |
 | [Hacker's Gambit 2026](https://unstop.com/hackathons/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293) | Jaihind college of Engineering Kuran | India | 🏢 Onsite | — | 2026-10-04 | Unstop |
-| [Hackfinity 3.0](https://unstop.com/hackathons/hackfinity-30-ramco-institute-of-technology-rit-tamil-nadu-1722654) | Ramco Institute of Technology (RIT), Tamil Nadu | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
 | [Build With Bharat 3.0](https://unstop.com/hackathons/build-with-bharat-30-chitkara-university-cu-himachal-pradesh-1722484) | Chitkara University (CU), Himachal Pradesh | India | 🏢 Onsite | — | 2026-09-22 | Unstop |
 | [13th Interdisciplinary Conference on Health, Humanities, Technology and Management Research (ICHTMR 2026)](https://unstop.com/conferences/13th-interdisciplinary-conference-on-health-humanities-technology-and-management-research-ichtmr-2026-manipa-1722662) | Manipal Academy of Higher Education (MAHE), Karnataka | India | 🏢 Onsite | — | 2026-10-15 | Unstop |
-| [P.A.C.E - Where Logic Meets Expression.](https://unstop.com/hackathons/pace-where-logic-meets-expression-technocrats-institute-of-technology-excellence-bhopal-1719528) | Technocrats Institute of Technology (Excellence), Bhopal | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
 | [Smackathon 2k26](https://unstop.com/hackathons/smackathon-2k26-yeshwantrao-chavan-college-of-engineering-ycce-nagpur-1718448) | Yeshwantrao Chavan College of Engineering (YCCE), Nagpur | India | 🏢 Onsite | — | 2026-10-06 | Unstop |
 | [Segue 3.0 : Global Design Thinking Challenge (Online + Offline)](https://unstop.com/hackathons/segue-30-global-design-thinking-challenge-online-offline-schooloffutureskillscomsegue-3-0-noida-institute-of--1712134) | Noida Institute of Engineering And Technology (NIET), Greater Noida | India | 🏢 Onsite | — | 2026-09-26 | Unstop |
 | [TVS Credit E.P.I.C 8.0 — IT Challenge](https://unstop.com/competitions/crp-tvs-credit-epic-80-it-challenge-epic-season-8-tvs-credit-1701115) | TVS Credit | India | 🏢 Onsite | — | 2026-12-20 | Unstop |
@@ -80,6 +73,13 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [P.A.C.E - Where Logic Meets Expression.](https://unstop.com/hackathons/pace-where-logic-meets-expression-technocrats-institute-of-technology-excellence-bhopal-1719528) | Technocrats Institute of Technology (Excellence), Bhopal | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
+| [Hackfinity 3.0](https://unstop.com/hackathons/hackfinity-30-ramco-institute-of-technology-rit-tamil-nadu-1722654) | Ramco Institute of Technology (RIT), Tamil Nadu | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
+| [PAW2026 Nationwide Competition](https://unstop.com/competitions/paw2026-nationwide-competition-animals-water-bowl-project-awbp-trust-1738046) | Animals Water-Bowl Project (AWBP) Trust | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
+| [NIMS MUN 1.0](https://unstop.com/conferences/nims-mun-10-stem-department-nims-university-1737272) | STEM Department, NIMS UNIVERSITY | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
+| [Go-To-Market Strategy Challenge](https://unstop.com/competitions/go-to-market-strategy-challenge-hawk-and-rare-1735525) | Hawk and Rare | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
+| [FUSION X 1.0 – 24-Hour Hackathon](https://unstop.com/hackathons/fusion-x-10-24-hour-hackathon-paavai-engineering-college-pec-namakkal-1743196) | Paavai Engineering College (PEC), Namakkal | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
+| [Decarbonix 1.0](https://unstop.com/hackathons/decarbonix-10-dr-ss-bhatnagar-university-institute-of-chemical-engineering-technology-panjab-university-chand-1743102) | Dr SS Bhatnagar University Institute of Chemical Engineering & Technology, Panjab University, Chandigarh | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
 | [Aditya Birla Group Engenuity 2026](https://unstop.com/competitions/crp-aditya-birla-group-engenuity-2026-aditya-birla-group-1712136) | Aditya Birla Group | India | 🏢 Onsite | — | 2026-09-18 | Unstop |
 | [Morrow 1.0](https://unstop.com/hackathons/morrow-10-makers-need-more-mnm-1727667) | Makers Need More (MnM) | India | 🏢 Onsite | — | 2026-09-17 | Unstop |
 | [AIVantage](https://unstop.com/quiz/aivantage-mentozy-1737031) | Mentozy | India | 🏢 Onsite | — | 2026-09-17 | Unstop |
@@ -93,10 +93,3 @@
 | [Vision: Idea Pitching](https://unstop.com/competitions/vision-idea-pitching-techvision-2k26-srm-university-1743776) | SRM University | India | 🏢 Onsite | — | 2026-09-15 | Unstop |
 | [WellNXT 2.0 by Zydus Wellness](https://unstop.com/competitions/crp-wellnxt-20-by-zydus-wellness-zydus-wellness-1736783) | Zydus Wellness | India | 🏢 Onsite | — | 2026-09-14 | Unstop |
 | [NeuraMorphix HackForge 2026](https://unstop.com/hackathons/neuramorphix-hackforge-2026-srm-institute-of-science-and-technology-kattankulathur-chennai-1708229) | SRM Institute of Science and Technology (SRMIST), Kattankulathur, Chennai | India | 🏢 Onsite | — | 2026-09-13 | Unstop |
-| [Build With Bharat 2.0](https://unstop.com/hackathons/build-with-bharat-40-national-institute-of-technology-nit-delhi-1719203) | National Institute of Technology (NIT), Delhi | India | 🏢 Onsite | — | 2026-09-13 | Unstop |
-| [Quizbotics Season 4](https://unstop.com/quiz/quizbotics-season-4-lnm-institute-of-information-technology-lnmiit-jaipur-1719343) | LNM Institute of Information Technology (LNMIIT), Jaipur | India | 🏢 Onsite | — | 2026-09-13 | Unstop |
-| [Code Quest 2026 – 21-Day Competitive Coding Challenge](https://unstop.com/hackathons/code-quest-2026-21-day-competitive-coding-challenge-k-j-somaiya-institute-of-technology-kjsit-1743505) | K. J. Somaiya Institute of Technology (KJSIT) | India | 🏢 Onsite | — | 2026-09-13 | Unstop |
-| [Anakin Forge Hackathon](https://unstop.com/hackathons/anakin-forge-hackathon-anakin-skywalker-pvt-ltd-1742485) | Anakin Skywalker Pvt. Ltd. | India | 🏢 Onsite | — | 2026-09-13 | Unstop |
-| [Code Build 1.0](https://unstop.com/hackathons/code-build-10-cobuild-1703709) | Cobuild | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
-| [CraftVerse 2.0](https://unstop.com/hackathons/craftverse-20-pimpri-chinchwad-college-of-engineering-research-pccoer-ravet-pimpri-chinchwad-pune-1719658) | Pimpri Chinchwad College Of Engineering & Research (PCCOE&R), Ravet, Pimpri-Chinchwad, Pune | India | 🏢 Onsite | — | 2026-09-12 | Unstop |
-| [Specathon 2026](https://unstop.com/hackathons/specathon-2026-st-peters-engineering-college-1723868) | St Peters Engineering College | India | 🏢 Onsite | — | 2026-09-12 | Unstop |

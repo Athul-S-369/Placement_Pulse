@@ -1,11 +1,11 @@
 # 🏢 Accenture
 
-**3 active opportunities** | **4 total tracked** | *Last updated: 2026-09-19*
+**3 active opportunities** | **4 total tracked** | *Last updated: 2026-09-20*
 
 ## Overview
 
-- **Categories:** Hackathon, Internship, Fresher Job
-- **Locations:** Ottawa, ON, Canada, Vancouver, BC, Canada, India, Washington, DC, Boston, MA, Seattle, WA, Houston, TX, SF, LA, Arlington, TX, Philadelphia, PA, Las Colinas, Irving, TX, Chicago, IL, Charlotte, NC, Columbus, OH, NYC, Atlanta, GA
+- **Categories:** Fresher Job, Internship, Hackathon
+- **Locations:** India, Boston, MA, Seattle, WA, Houston, TX, SF, LA, Arlington, TX, Philadelphia, PA, Las Colinas, Irving, TX, Chicago, IL, Charlotte, NC, Columbus, OH, NYC, Atlanta, GA, Washington, DC, Ottawa, ON, Canada, Vancouver, BC, Canada
 
 ## Current Opportunities
 

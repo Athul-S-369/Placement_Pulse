@@ -6,11 +6,11 @@
 
 **India's open-source aggregator for software internships, fresher jobs,<br>hackathons, fellowships, and placement opportunities.**
 
-[![Opportunities](https://img.shields.io/badge/Opportunities-2749-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
-[![Active](https://img.shields.io/badge/Active-2270-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
+[![Opportunities](https://img.shields.io/badge/Opportunities-2750-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
+[![Active](https://img.shields.io/badge/Active-2264-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
 [![Companies](https://img.shields.io/badge/Companies-2053-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
-[![Updated](https://img.shields.io/badge/Updated-Sep%2019%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
+[![Updated](https://img.shields.io/badge/Updated-Sep%2020%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
 [Latest Run](#latest-run) &nbsp;·&nbsp;
 [Active Opportunities](#active-opportunities) &nbsp;·&nbsp;
@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**September 19, 2026** &nbsp;—&nbsp; **77** Fresher Job &nbsp;·&nbsp; **63** Internship &nbsp;·&nbsp; **8** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**September 20, 2026** &nbsp;—&nbsp; **77** Fresher Job &nbsp;·&nbsp; **65** Internship &nbsp;·&nbsp; **7** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**154 opportunities** added or updated in the latest run (September 19, 2026).
+**155 opportunities** added or updated in the latest run (September 20, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -124,10 +124,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [C++ Developer](https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4844280101) | think-cell | Remote in UK | Fresher Job | Remote | — |
 | [QA in the Age of AI: Reimagining Software Quality for the In...](https://unstop.com/workshops-webinars/qa-in-the-age-of-ai-reimagining-software-quality-for-the-intelligent-era-acl-digital-1756600) | ACL Digital | India | Hackathon | Onsite | 2026-10-06 |
 | [Moneyball: The Football Auction (Interface 2026)](https://unstop.com/competitions/moneyball-the-football-auction-interface-2026-department-of-management-dom-birla-institute-of-technology-an-1744520) | Department of Management (Do | India | Hackathon | Onsite | 2026-09-25 |
-| [Samiksha September 2026](https://unstop.com/competitions/samiksha-september-2026-goa-institute-of-management-gim-goa-1758112) | Goa Institute of Management  | India | Hackathon | Onsite | 2026-09-26 |
+| [InQuizitive 2026](https://unstop.com/quiz/inquizitive-2026-goa-institute-of-management-gim-goa-1758515) | Goa Institute of Management  | India | Hackathon | Onsite | 2026-09-26 |
 | [INVEST 'O' MANIA: The Reverse Shark Tank](https://unstop.com/competitions/invest-o-mania-decoding-deals-driving-decisions-great-lakes-institute-of-management-glim-gurgaon-1755069) | Great Lakes Institute of Man | India | Hackathon | Onsite | 2026-10-01 |
 | [Commercio Artikel - Article Writing Competition](https://unstop.com/competitions/commercio-artikel-article-writing-competition-trade-winds-2026-iift-new-delhi-1754500) | Indian Institute of Foreign  | India | Hackathon | Onsite | 2026-10-01 |
-| [Think Tank: The Deal Room](https://unstop.com/quiz/think-tank-the-deal-room-iim-rohtak-1754852) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-09-15 |
 | [HackCelestial 3.0](https://unstop.com/hackathons/hackcelestial-30-pillai-university-navi-mumbai-1737808) | Pillai University, Navi Mumb | India | Hackathon | Onsite | 2026-09-27 |
 | [The Nation Builders 2026](https://unstop.com/competitions/the-nation-builders-2026-teachers-day-youthisthan-foundation-1755432) | Youthisthan Foundation | India | Hackathon | Onsite | 2026-09-25 |
 | [Software Development Engineer Co-op](https://job-boards.greenhouse.io/athinkingape/jobs/8203048) | A Thinking Ape | Remote in Canada | Internship | Remote | — |
@@ -158,6 +157,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [AI Software Developer Intern - Multiple Teams](https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false) | Elire | Remote in USA, Minneapoli | Internship | Remote | — |
 | [Engineering Excellence Intern](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Engineering-Excellence-Intern_R048023) | Ensemble Health Partners | Remote in USA | Internship | Remote | — |
 | [Data and Intelligence Delivery Intern - Assurance](https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Ernst & Young | Salt Lake City, UT, India | Internship | Onsite | — |
+| [Software Engineering Co-op Spring 2027](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832) | GE Appliances | Remote / Various | Internship | Remote | — |
 | [Research Intern](https://job-boards.eu.greenhouse.io/gensyn/jobs/4579609101) | Gensyn | Remote in UK | Internship | Remote | — |
 | [Collections Data Analyst Intern](https://careers-growfinancial.icims.com/jobs/2755/job?mobile=true&needsRedirect=false) | Grow Financial Federal Credi | Remote in USA | Internship | Remote | — |
 | [Artificial Intelligence Engineer Intern](https://www.healthesystems.com/unassigned/careers-list?gh_jid=7928315003) | Healthesystems | Remote in USA | Internship | Remote | — |
@@ -174,6 +174,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Graduate Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---LLM-Reliability-and-Uncertainty-for-AI-Science-Assistants_R14416) | National Laboratory of the R | Remote in USA, Golden, CO | Internship | Remote | — |
 | [Monitoring & Insights Intern](https://jobs.lever.co/pentagrp/ec67c4f9-52b9-42b0-bf0b-e6f88c140951/apply) | Penta Group | Remote in USA | Internship | Remote | — |
 | [Research Scientist Intern](https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be/application?embed=true) | Pluralis Research | Remote in USA, Remote in  | Internship | Remote | — |
+| [Fund Flow Quantitative Researcher](https://boards.greenhouse.io/point72/jobs/8389431002) | Point72 | Remote / Various | Internship | Remote | — |
 | [Data and Analytics Intern - Multiple Teams](https://careers.principal.com/jobs/52574?icims=1) | Principal Financial Group | Des Moines, IA, Remote in | Internship | Remote | — |
 | [System Architecture Intern](https://www.psiquantum.com/apply?gh_jid=7695577003) | PsiQuantum | Palo Alto, CA, Bristol, U | Internship | Remote | — |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a/application?embed=true) | Realm | Remote in USA | Internship | Remote | — |
@@ -203,10 +204,11 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 ## Active Opportunities
 
 The 50 most recently added active opportunities across all categories.
-[View all 2749 on the website.](https://athul-s-369.github.io/Placement_Pulse)
+[View all 2750 on the website.](https://athul-s-369.github.io/Placement_Pulse)
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
+| [Software Engineering Co-op Spring 2027](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832) | GE Appliances | Remote / Various | Internship | Remote | Open |
 | [Marketing & Operations Analytics Co-op - Strategy & Analytic...](https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Marketing---Ops-Analytics-Co-Op_JR101345) | Risepoint | Remote in USA | Internship | Remote | Open |
 | [Collections Data Analyst Intern](https://careers-growfinancial.icims.com/jobs/2755/job?mobile=true&needsRedirect=false) | Grow Financial Federal Credi | Remote in USA | Internship | Remote | Open |
 | [Artificial Intelligence Engineer Intern](https://www.healthesystems.com/unassigned/careers-list?gh_jid=7928315003) | Healthesystems | Remote in USA | Internship | Remote | Open |
@@ -256,7 +258,6 @@ The 50 most recently added active opportunities across all categories.
 | [Associate Software Engineer](https://jobs.lever.co/demiurgestudios/85f401d2-5242-4096-b852-2947492d0035/apply) | Demiurge Studios | Remote in USA | Fresher Job | Remote | Open |
 | [Test and Measurement Software Engineer](https://rollsroyce.wd3.myworkdayjobs.com/Intern_Graduate/job/Indianapolis/Test-and-Measurement-Software-Engineer_JR6155467) | Rolls-Royce | Indianapolis, IN | Fresher Job | Onsite | Open |
 | [Hardware Engineer Intern - Advanced Development](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineer--Advanced-Development-_JR37459-1) | Allegion | Indianapolis, IN | Internship | Onsite | Open |
-| [Data and Intelligence Delivery Intern - Assurance](https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Ernst & Young | Salt Lake City, UT, India | Internship | Onsite | Open |
 
 ---
 
@@ -265,7 +266,7 @@ The 50 most recently added active opportunities across all categories.
 | Category | Total |
 |----------|-------|
 | [Fresher Job](categories/fresher-job/) | 1374 |
-| [Internship](categories/internship/) | 824 |
+| [Internship](categories/internship/) | 825 |
 | [Hackathon](categories/hackathon/) | 545 |
 | [Open Source Program](categories/open-source-program/) | 2 |
 | [Fellowship](categories/fellowship/) | 2 |
@@ -291,13 +292,13 @@ The 50 most recently added active opportunities across all categories.
 
 ## Archive
 
-- [September 19, 2026 — Today](daily/2026/September/2026-09-19.md)
+- [September 20, 2026 — Today](daily/2026/September/2026-09-20.md)
+- [September 19, 2026](daily/2026/September/2026-09-19.md)
 - [September 18, 2026](daily/2026/September/2026-09-18.md)
 - [September 17, 2026](daily/2026/September/2026-09-17.md)
 - [September 16, 2026](daily/2026/September/2026-09-16.md)
 - [September 15, 2026](daily/2026/September/2026-09-15.md)
 - [September 14, 2026](daily/2026/September/2026-09-14.md)
-- [September 13, 2026](daily/2026/September/2026-09-13.md)
 
 [Full archive](daily/)
 
@@ -316,6 +317,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-09-19 18:48 UTC</sub>
+<sub>Last generated: 2026-09-20 05:16 UTC</sub>
 
 </div>

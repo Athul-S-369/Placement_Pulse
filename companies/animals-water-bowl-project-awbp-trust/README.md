@@ -1,6 +1,6 @@
 # 🏢 Animals Water-Bowl Project (AWBP) Trust
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-19*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-20*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [PAW2026 Nationwide Competition](https://unstop.com/competitions/paw2026-nationwide-competition-animals-water-bowl-project-awbp-trust-1738046) | Animals Water-Bowl Project (AWBP) Trust | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
 
 ## 📖 Interview Preparation
 

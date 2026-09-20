@@ -1,6 +1,6 @@
 # 🏢 Dr SS Bhatnagar University Institute of Chemical Engineering & Technology, Panjab University, Chandigarh
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-19*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-20*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Decarbonix 1.0](https://unstop.com/hackathons/decarbonix-10-dr-ss-bhatnagar-university-institute-of-chemical-engineering-technology-panjab-university-chand-1743102) | Dr SS Bhatnagar University Institute of Chemical Engineering & Technology, Panjab University, Chandigarh | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
 
 ## 📖 Interview Preparation
 

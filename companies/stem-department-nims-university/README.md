@@ -1,6 +1,6 @@
 # 🏢 STEM Department, NIMS UNIVERSITY
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-19*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-20*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [NIMS MUN 1.0](https://unstop.com/conferences/nims-mun-10-stem-department-nims-university-1737272) | STEM Department, NIMS UNIVERSITY | India | 🏢 Onsite | — | 2026-09-19 | Unstop |
 
 ## 📖 Interview Preparation
 
