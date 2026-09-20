@@ -29,39 +29,6 @@
     "duplicate_of": ""
   },
   {
-    "id": "a8fdbce2829dde16",
-    "title": "Software Engineering Co-op Spring 2027",
-    "company": "GE Appliances",
-    "company_slug": "ge-appliances",
-    "category": "internship",
-    "domain_tags": [
-      "backend"
-    ],
-    "tags": [],
-    "location": "Remote / Various",
-    "work_mode": "remote",
-    "is_india": true,
-    "apply_link": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832",
-    "source_url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json",
-    "source_name": "SimplifyJobs GitHub",
-    "date_found": "2026-09-20",
-    "date_posted": "",
-    "deadline": "",
-    "last_checked": "2026-09-20",
-    "batch_eligible": [
-      "2027"
-    ],
-    "experience_required": "0",
-    "skills_required": [],
-    "salary": "",
-    "stipend": "",
-    "description": "",
-    "responsibilities": [],
-    "verification_status": "unverified",
-    "is_duplicate": false,
-    "duplicate_of": ""
-  },
-  {
     "id": "97b7200e94aa4e33",
     "title": "Fund Flow Quantitative Researcher",
     "company": "Point72",

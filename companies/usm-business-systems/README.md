@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Columbus, OH, St. Louis, MO, Manassas, VA, Chicago, IL, El Segundo, CA
+- **Locations:** Chicago, IL, Jefferson City, MO, Columbus, OH, Traverse City, MI, Alexandria, VA
 
 ## Current Opportunities
 
