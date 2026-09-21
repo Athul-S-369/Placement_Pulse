@@ -1,11 +1,11 @@
 # 🏢 Northrop Grumman
 
-**8 active opportunities** | **8 total tracked** | *Last updated: 2026-09-20*
+**8 active opportunities** | **8 total tracked** | *Last updated: 2026-09-21*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Warner Robins, GA, Wright-Patterson AFB, OH, Northridge, LA, Remote in USA, Aurora, CO, Morrisville, NC, Remote in USA, Linthicum Heights, MD
+- **Categories:** Internship, Fresher Job
+- **Locations:** Warner Robins, GA, Aurora, CO, Morrisville, NC, Annapolis Junction, MD, San Antonio, TX, Melbourne, FL, Northridge, LA, Remote in USA
 
 ## Current Opportunities
 

@@ -1,11 +1,11 @@
 # 🏢 EBSCO
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-20*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-21*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, Ipswich, MA, Remote
+- **Locations:** Ipswich, MA, Remote, Remote in USA
 
 ## Current Opportunities
 

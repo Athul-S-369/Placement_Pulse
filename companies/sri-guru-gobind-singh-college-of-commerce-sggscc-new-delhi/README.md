@@ -1,6 +1,6 @@
 # 🏢 Sri Guru Gobind Singh College of Commerce (SGGSCC), New Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-20*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-21*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Case-ette 7.0 | Case Study Competition](https://unstop.com/competitions/case-ette-70-case-study-competition-sri-guru-gobind-singh-college-of-commerce-sggscc-new-delhi-1732629) | Sri Guru Gobind Singh College of Commerce (SGGSCC), New Delhi | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 
 ## 📖 Interview Preparation
 

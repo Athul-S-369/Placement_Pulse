@@ -1,6 +1,6 @@
 # 🏢 CMR Institute Of Technology
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-20*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-21*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Signal Quest – IEEE SPS Hackathon 2026](https://unstop.com/hackathons/signal-quest-ieee-sps-hackathon-2026-cmr-institute-of-technology-1736521) | CMR Institute Of Technology | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 
 ## 📖 Interview Preparation
 

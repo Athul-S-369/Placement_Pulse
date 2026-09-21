@@ -1,6 +1,6 @@
 # 🏢 relai world
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-20*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-21*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Relai PropTech Challenge 2026](https://unstop.com/competitions/relai-proptech-challenge-2026-relai-world-1742576) | relai world | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 
 ## 📖 Interview Preparation
 

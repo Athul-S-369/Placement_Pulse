@@ -1,11 +1,11 @@
 # 🏢 Grow Financial Federal Credit Union
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-20*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-21*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote in USA, Tampa, FL
+- **Locations:** Tampa, FL, Remote in USA
 
 ## Current Opportunities
 

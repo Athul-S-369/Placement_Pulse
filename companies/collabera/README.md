@@ -1,11 +1,11 @@
 # 🏢 Collabera
 
-**9 active opportunities** | **9 total tracked** | *Last updated: 2026-09-20*
+**9 active opportunities** | **9 total tracked** | *Last updated: 2026-09-21*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Princeton, NJ, Oakland, CA, Calgary, AB, Canada, Madison, WI, Radcliff, KY
+- **Locations:** Alameda, CA, Salt Lake City, UT, Princeton, NJ, Radcliff, KY, Oakland, CA
 
 ## Current Opportunities
 

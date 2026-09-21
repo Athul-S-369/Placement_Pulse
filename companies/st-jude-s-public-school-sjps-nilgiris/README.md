@@ -1,6 +1,6 @@
 # 🏢 St. Jude's Public School(SJPS), Nilgiris
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-20*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-21*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [St.Jude's Code Arena](https://unstop.com/hackathons/stjudes-code-arena-st-judes-public-schoolsjps-nilgiris-1743110) | St. Jude's Public School(SJPS), Nilgiris | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 
 ## 📖 Interview Preparation
 
