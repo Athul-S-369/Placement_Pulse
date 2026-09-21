@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Southfield, MI, Maryville, TN
+- **Locations:** Maryville, TN, Southfield, MI
 
 ## Current Opportunities
 

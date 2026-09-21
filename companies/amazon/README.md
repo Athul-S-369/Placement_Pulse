@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Hackathon, Fresher Job, Internship
-- **Locations:** NYC, Culver City, CA, Santa Clara, CA, Boston, MA, Seattle, WA, Denver, CO, SF, Arlington, VA, Sunnyvale, CA, Brooklyn, NY, Williston Park, NY, London, UK, Seattle, WA, SF, Bellevue, WA, Fredericksburg, VA, Ashburn, VA, Manassas, VA, Reston, VA, Dulles, VA
+- **Locations:** Bellevue, WA, Seattle, WA, Wakefield, MA, Westborough, MA, Winnipeg, MB, Canada, Toronto, ON, Canada, Victoria, BC, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Fredericksburg, VA, Ashburn, VA, Manassas, VA, Reston, VA, Dulles, VA, Indianapolis, IN, Hyderabad, Telangana, India
 
 ## Current Opportunities
 

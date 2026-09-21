@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** St. Louis, MO, San Antonio, TX, Chicago, IL, Jefferson City, MO, Westminster, CO
+- **Locations:** Jefferson City, MO, Augusta, ME, Rochester, MI, Westminster, CO, Chicago, IL
 
 ## Current Opportunities
 

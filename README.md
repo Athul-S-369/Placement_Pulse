@@ -37,7 +37,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**September 21, 2026** &nbsp;—&nbsp; **78** Fresher Job &nbsp;·&nbsp; **67** Internship &nbsp;·&nbsp; **7** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**September 21, 2026** &nbsp;—&nbsp; **78** Fresher Job &nbsp;·&nbsp; **66** Internship &nbsp;·&nbsp; **8** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
 **158 opportunities** added or updated in the latest run (September 21, 2026).
 
@@ -52,7 +52,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Customer Operations Analyst](https://alkami.wd12.myworkdayjobs.com/alkami/job/US-Remote/Customer-Operations-Analyst--Temporay-_JR-000863) | Alkami Technology | Remote in USA | Fresher Job | Remote | — |
 | [Predictive Analytics Fellow - Workforce Intelligence](https://apply.workable.com/alphax/j/0ABEFABB05/apply) | AlphaHire | Remote in USA | Fresher Job | Remote | — |
 | [OneStream Developer](https://andrew-morgan.com/current-openings/?gh_jid=5389586008) | Andrew Morgan | Remote in USA | Fresher Job | Remote | — |
-| [Temporary Specialist - Fundraising Data](https://careers-bgca.icims.com/jobs/8609/job?mobile=true&needsRedirect=false) | Boys & Girls Clubs of Americ | Remote in USA | Fresher Job | Remote | — |
 | [AI Prototyping Engineer](https://apply.workable.com/brady-martz/j/39C6A58F26/apply) | Brady Martz | Remote in USA, St. Louis, | Fresher Job | Remote | — |
 | [Product Manager - Business Banking & Treasury Management](https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Paducah-KY-Corporate/Product-Manager---Business-Banking---Treasury-Management_R-100612) | CSI | Paducah, KY, Remote in US | Fresher Job | Remote | — |
 | [Product Management Trainee - Bilingual Mandarin Required](https://apply.workable.com/cwill-us/j/0AF59B8964/apply) | CWILL | Remote in USA, Cary, NC | Fresher Job | Remote | — |
@@ -114,6 +113,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Applications Development Associate](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Applications-Devt-Associate_R25029948) | United Parcel Service (UPS) | Indiana | Fresher Job | Onsite | — |
 | [Applied Scientist - Unsecured Underwriting Machine Learning](https://careers.upstart.com/jobs?gh_jid=7293116) | Upstart | Remote in USA | Fresher Job | Remote | — |
 | [Software Engineer - DevOps/.NET/Azure](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HES/DevOps-Engineer_R-26937-1) | Varian | Knoxville, TN, Hoffman Es | Fresher Job | Onsite | — |
+| [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailan...](https://www.flexport.com/company/careers/) | Various | India | Fresher Job | Onsite | — |
 | [Agentic Factory Consultant](https://careers2-vistaequitypartners.icims.com/jobs/3017/job?mobile=true&needsRedirect=false) | Vista Equity Partners | Remote in USA | Fresher Job | Remote | — |
 | [Software Engineer](https://vivsofttechnologiesfa.applytojob.com/apply/QLa8RzmXAc/Software-Engineer-Entry-Level) | VivSoft Technologies | Remote in USA | Fresher Job | Remote | — |
 | [Food & Ingredient Analyst](https://jobs.lever.co/wisecode/c29ef6f7-a244-43c5-acf8-09556057fa56/apply) | WISEcode | Remote in USA | Fresher Job | Remote | — |
@@ -128,6 +128,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [InQuizitive 2026](https://unstop.com/quiz/inquizitive-2026-goa-institute-of-management-gim-goa-1758515) | Goa Institute of Management  | India | Hackathon | Onsite | 2026-09-26 |
 | [INVEST 'O' MANIA: The Reverse Shark Tank](https://unstop.com/competitions/invest-o-mania-decoding-deals-driving-decisions-great-lakes-institute-of-management-glim-gurgaon-1755069) | Great Lakes Institute of Man | India | Hackathon | Onsite | 2026-10-01 |
 | [Commercio Artikel - Article Writing Competition](https://unstop.com/competitions/commercio-artikel-article-writing-competition-trade-winds-2026-iift-new-delhi-1754500) | Indian Institute of Foreign  | India | Hackathon | Onsite | 2026-10-01 |
+| [Armageddon: Strategy Case Competition](https://unstop.com/competitions/armageddon-strategy-case-competition-iim-ahmedabad-1759559) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-10-04 |
 | [HackCelestial 3.0](https://unstop.com/hackathons/hackcelestial-30-pillai-university-navi-mumbai-1737808) | Pillai University, Navi Mumb | India | Hackathon | Onsite | 2026-09-27 |
 | [The Nation Builders 2026](https://unstop.com/competitions/the-nation-builders-2026-teachers-day-youthisthan-foundation-1755432) | Youthisthan Foundation | India | Hackathon | Onsite | 2026-09-25 |
 | [Software Development Engineer Co-op](https://job-boards.greenhouse.io/athinkingape/jobs/8203048) | A Thinking Ape | Remote in Canada | Internship | Remote | — |
@@ -138,7 +139,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Software Engineer Co-op - Observability](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Software-Engineer---Observability--Co-op_R003434) | Ancestry | Remote in USA | Internship | Remote | — |
 | [Anthropic Fellows Program - ML Systems & Performance](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | Anthropic | London, UK, SF, Remote in | Internship | Remote | — |
 | [Information Technology AI Intern](https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7/application?embed=true) | Barnes & Thornburg | Indianapolis, IN | Internship | Onsite | — |
-| [AI Engineer Intern - BCG X](https://careers.bcg.com/global/en/job/56635) | Boston Consulting Group | Remote / Various | Internship | Remote | — |
 | [Software Engineer Intern - Waterloo University](https://job-boards.greenhouse.io/brave/jobs/8161945) | Brave | Remote in Canada | Internship | Remote | — |
 | [Software Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999) | CACI | Remote in USA, Sterling,  | Internship | Remote | — |
 | [Speech Intern 4](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Speech-Intern-4_JR107037) | Centific | Remote in USA | Internship | Remote | — |
@@ -320,6 +320,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-09-21 15:18 UTC</sub>
+<sub>Last generated: 2026-09-21 20:33 UTC</sub>
 
 </div>
