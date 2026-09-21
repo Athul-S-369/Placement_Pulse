@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1374 active** | **0 expired** | **1374 total**
+**1375 active** | **0 expired** | **1375 total**
 
 *Last updated: 2026-09-21*
 
@@ -8,6 +8,7 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Go-To-Market Engineer](https://job-boards.greenhouse.io/sironamedical/jobs/4736127005) | Sirona Medical | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Product Manager](https://job-boards.greenhouse.io/tintai/jobs/4736081005) | Tint | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Mobile Developer 1](https://job-boards.greenhouse.io/perfectserve/jobs/6188374004) | PerfectServe | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Prototyping Engineer](https://apply.workable.com/brady-martz/j/39C6A58F26/apply) | Brady Martz | Remote in USA, St. Louis, MO | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Software Engineer College Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) | Salesforce | Palo Alto, CA, Seattle, WA, Indianapolis, IN, SF, Dallas, TX, Bellevue, WA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Research Fellow - Workforce Intelligence](https://apply.workable.com/alphax/j/E8CAD15968/apply) | AlphaHire | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://apply.workable.com/interimage/j/50AEE969C4/apply) | InterImage | Remote in USA, Arlington County, Arlington, VA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Field Service Technician 2 - Gaming](https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Indiana-US/Field-Service-Tech-II_R321726) | Light & Wonder | Indiana | 🏢 Onsite | — | — | SimplifyJobs New Grad |

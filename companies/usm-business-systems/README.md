@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Bloomington, MN, Traverse City, MI, Washington, DC, Columbus, OH, Chantilly, VA
+- **Categories:** Fresher Job, Internship
+- **Locations:** St. Louis, MO, San Antonio, TX, Chicago, IL, Jefferson City, MO, Westminster, CO
 
 ## Current Opportunities
 

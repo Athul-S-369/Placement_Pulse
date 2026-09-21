@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Des Moines, IA, Richmond, VA, Reno, NV, Sioux City, IA, Davenport, IA, Omaha, NE, Davenport, IA, Reno, NV, Salt Lake City, UT, Las Vegas, NV, Des Moines, IA, Richmond, VA, Reno, NV, Portland, OR
+- **Categories:** Fresher Job, Internship
+- **Locations:** Reno, NV, Davenport, IA, Des Moines, IA, Richmond, VA, Reno, NV, Sioux City, IA, Davenport, IA, Omaha, NE, Las Vegas, NV, Des Moines, IA, Sioux City, IA, Portland, OR
 
 ## Current Opportunities
 

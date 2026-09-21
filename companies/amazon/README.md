@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Hackathon, Fresher Job
-- **Locations:** Tennessee, Chennai, Tamil Nadu, India, Indiana, Tempe, AZ, London, UK, Fredericksburg, VA, Ashburn, VA, Manassas, VA, Reston, VA, Dulles, VA, London, UK, Edinburgh, UK, Cambridge, UK
+- **Categories:** Hackathon, Fresher Job, Internship
+- **Locations:** NYC, Culver City, CA, Santa Clara, CA, Boston, MA, Seattle, WA, Denver, CO, SF, Arlington, VA, Sunnyvale, CA, Brooklyn, NY, Williston Park, NY, London, UK, Seattle, WA, SF, Bellevue, WA, Fredericksburg, VA, Ashburn, VA, Manassas, VA, Reston, VA, Dulles, VA
 
 ## Current Opportunities
 

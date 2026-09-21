@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote / Various, Louisville, KY
+- **Locations:** Louisville, KY, Remote / Various
 
 ## Current Opportunities
 

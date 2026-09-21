@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**825 active** | **0 expired** | **825 total**
+**827 active** | **0 expired** | **827 total**
 
 *Last updated: 2026-09-21*
 
@@ -8,6 +8,8 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineering Intern - Spring 2027](https://job-boards.greenhouse.io/mercury/jobs/6199367004) | Mercury | SF, Remote in USA, NYC, Portland, OR, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Research Scientist Intern - Applied Scientist](https://jobs.ashbyhq.com/collinear-ai/ae85fd08-dfd8-42e5-9b3b-9921ba24742b/application?embed=true) | Collinear AI | SF, India, Bengaluru, Karnataka, India, Sunnyvale, CA, United States | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Software Engineering Co-op Spring 2027](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832) | GE Appliances | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Marketing & Operations Analytics Co-op - Strategy & Analytics](https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Marketing---Ops-Analytics-Co-Op_JR101345) | Risepoint | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Collections Data Analyst Intern](https://careers-growfinancial.icims.com/jobs/2755/job?mobile=true&needsRedirect=false) | Grow Financial Federal Credit Union | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -106,5 +108,3 @@
 | [Student Online Data Analytics Eco Rep](https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/Remote/Student---Online-Data-Analytics-Eco-Rep_R0014463) | Southern New Hampshire University | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Student Reporting - Ams](https://avaap.wd501.myworkdayjobs.com/AvaapCareers/job/United-States-of-America/Student-Reporting---AMS_JR1132) | Avaap | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Editorial Data Reporting Intern](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) | LexisNexis Risk Solutions | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Computer Vision Research & Development Engineer](https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Berkshire-United-Kingdom/Computer-Vision-R-D-Engineer_R0128079) | Hitachi Energy | Remote in UK | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Associate/Undergraduate Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Remote/XMLNAME--Associate-Undergraduate--Intern---Carbon-Management-and-Large-Energy-Systems_R14405) | National Laboratory of the Rockies | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
