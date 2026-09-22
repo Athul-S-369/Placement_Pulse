@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** NYC, NYC, Wilmington, DE, Houston, TX, Chicago, IL, Newark, DE, Columbus, OH
+- **Locations:** London, UK, Wilmington, DE, Newark, DE, Columbus, OH, Chicago, IL, Houston, TX
 
 ## Current Opportunities
 

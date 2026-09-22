@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** NYC, Broomfield, CO, Chicago, IL, Thousand Oaks, CA, Hartford, CT
+- **Locations:** St. Louis, MO, Hartford, CT, Dallas, TX, Chicago, IL, Novato, CA
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Vancouver, BC, Canada, Palo Alto, CA, Irvine, CA, Toronto, ON, Canada, Vancouver, BC, Canada
+- **Locations:** Vancouver, BC, Canada, Toronto, ON, Canada, Vancouver, BC, Canada, Palo Alto, CA, Irvine, CA
 
 ## Current Opportunities
 
