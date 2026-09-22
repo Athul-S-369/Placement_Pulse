@@ -1,8 +1,8 @@
 # 🏆 Hackathon
 
-**52 active** | **493 expired** | **545 total**
+**50 active** | **495 expired** | **545 total**
 
-*Last updated: 2026-09-21*
+*Last updated: 2026-09-22*
 
 ## Active Opportunities
 
@@ -15,7 +15,6 @@
 | [Commercio Artikel - Article Writing Competition](https://unstop.com/competitions/commercio-artikel-article-writing-competition-trade-winds-2026-iift-new-delhi-1754500) | Indian Institute of Foreign Trade (IIFT), New Delhi | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
 | [Moneyball: The Football Auction (Interface 2026)](https://unstop.com/competitions/moneyball-the-football-auction-interface-2026-department-of-management-dom-birla-institute-of-technology-an-1744520) | Department of Management (DoM), Birla Institute of Technology and Science (BITS), Pilani | India | 🏢 Onsite | — | 2026-09-25 | Unstop |
 | [HackCelestial 3.0](https://unstop.com/hackathons/hackcelestial-30-pillai-university-navi-mumbai-1737808) | Pillai University, Navi Mumbai | India | 🏢 Onsite | — | 2026-09-27 | Unstop |
-| [Geeks2Code](https://unstop.com/hackathons/geeks2code-geeksforgeeks-campus-body-miet-1740788) | GeeksForGeeks Campus Body MIET | India | 🏢 Onsite | — | 2026-09-21 | Unstop |
 | [KNSIT Tech Community](https://unstop.com/hackathons/knsit-tech-community-kns-institute-of-technology-karnataka-1743721) | KNS Institute of Technology, Karnataka | India | 🏢 Onsite | — | 2026-09-30 | Unstop |
 | [ISB Leadership Delegate Challenge 2026](https://unstop.com/quiz/isb-leadership-delegate-challenge-2026-indian-school-of-business-isb-1743690) | Indian School of Business (ISB) | India | 🏢 Onsite | — | 2026-09-29 | Unstop |
 | [Hack the Hardware India 2.0 (HTH India 2.0) — Build. Innovate. Win.](https://unstop.com/hackathons/hack-the-hardware-india-20-hth-india-20-build-innovate-win-suryodaya-college-of-engineering-technology-nagpur-1730720) | Suryodaya College of Engineering & Technology, Nagpur | India | 🏢 Onsite | — | 2026-09-29 | Unstop |
@@ -39,7 +38,6 @@
 | [Precision Care Challenge 2026](https://unstop.com/hackathons/crp-precision-care-challenge-2026-ge-healthcare-1731208) | GE HealthCare | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
 | [ReLead 9.0](https://unstop.com/competitions/crp-relead-90-renew-1728228) | ReNew | India | 🏢 Onsite | — | 2026-10-08 | Unstop |
 | [Bitmela Launchpad: Ideathon 01](https://unstop.com/hackathons/bitmela-launchpad-ideathon-01-bitmela-1722812) | Bitmela | India | 🏢 Onsite | — | 2026-10-31 | Unstop |
-| [International Conference on AI-Driven Innovation in Engineering and Technology](https://unstop.com/conferences/international-conference-on-ai-driven-innovation-in-engineering-and-technology-sns-college-of-technology-sns-1731025) | SNS College of Technology (SNSCT), Coimbatore, Tamil Nadu | India | 🏢 Onsite | — | 2026-09-21 | Unstop |
 | [Britannia Creatovate 2.0 - Sales and Marketing Track](https://unstop.com/competitions/crp-britannia-creatovate-20-sales-and-marketing-track-britannia-industries-ltd-1730216) | Britannia Industries Ltd. | India | 🏢 Onsite | — | 2026-11-17 | Unstop |
 | [The Governance Challenge 2026 (TGC 2026)](https://unstop.com/competitions/crp-the-governance-challenge-2026-tgc-2026-samagra-1726557) | Samagra | India | 🏢 Onsite | — | 2026-09-30 | Unstop |
 | [Kautilya Colloquy 2026: Niti-in-Quest | National Level Policy Quiz Competition](https://unstop.com/quiz/kautilya-colloquy-2026-niti-in-quest-national-level-policy-quiz-competition-kautilya-school-of-public-policy-gitam--1729809) | Kautilya School of Public Policy, Gitam University, Telangana | India | 🏢 Onsite | — | 2026-09-25 | Unstop |
@@ -65,6 +63,8 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [International Conference on AI-Driven Innovation in Engineering and Technology](https://unstop.com/conferences/international-conference-on-ai-driven-innovation-in-engineering-and-technology-sns-college-of-technology-sns-1731025) | SNS College of Technology (SNSCT), Coimbatore, Tamil Nadu | India | 🏢 Onsite | — | 2026-09-21 | Unstop |
+| [Geeks2Code](https://unstop.com/hackathons/geeks2code-geeksforgeeks-campus-body-miet-1740788) | GeeksForGeeks Campus Body MIET | India | 🏢 Onsite | — | 2026-09-21 | Unstop |
 | [Hack Synthesis 3.0 - 2026](https://unstop.com/hackathons/hack-synthesis-30-2026-university-of-engineering-and-management-kolkata-1710631) | University of Engineering and Management Kolkata | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 | [Orvix Hackathon](https://unstop.com/hackathons/orvix-hackathon-nimblux-1730437) | NIMBLUX | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
 | [Case-ette 7.0 | Case Study Competition](https://unstop.com/competitions/case-ette-70-case-study-competition-sri-guru-gobind-singh-college-of-commerce-sggscc-new-delhi-1732629) | Sri Guru Gobind Singh College of Commerce (SGGSCC), New Delhi | India | 🏢 Onsite | — | 2026-09-20 | Unstop |
@@ -83,5 +83,3 @@
 | [Aditya Birla Group Engenuity 2026](https://unstop.com/competitions/crp-aditya-birla-group-engenuity-2026-aditya-birla-group-1712136) | Aditya Birla Group | India | 🏢 Onsite | — | 2026-09-18 | Unstop |
 | [Morrow 1.0](https://unstop.com/hackathons/morrow-10-makers-need-more-mnm-1727667) | Makers Need More (MnM) | India | 🏢 Onsite | — | 2026-09-17 | Unstop |
 | [AIVantage](https://unstop.com/quiz/aivantage-mentozy-1737031) | Mentozy | India | 🏢 Onsite | — | 2026-09-17 | Unstop |
-| [EC-Council HackAI Challenge: RACEx360](https://unstop.com/hackathons/ec-council-hackai-challenge-racex360-reva-academy-for-corporate-excellence-bangalore-karnataka-1739884) | REVA Academy for Corporate Excellence, Bangalore, Karnataka | India | 🏢 Onsite | — | 2026-09-17 | Unstop |
-| [Case Consilium](https://unstop.com/competitions/case-consilium-bits-goa-consulting-club-bgcc-1734140) | BITS Goa Consulting Club (BGCC) | India | 🏢 Onsite | — | 2026-09-16 | Unstop |

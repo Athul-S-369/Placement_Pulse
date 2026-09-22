@@ -1,11 +1,11 @@
 # 🏢 Vertiv
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-09-21*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-09-22*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Kansas City, MO, Elyria, OH, Ashland, KY, Austin, TX, San Antonio, TX
+- **Locations:** Austin, TX, San Antonio, TX, Elyria, OH, Kansas City, MO, Ashland, KY
 
 ## Current Opportunities
 

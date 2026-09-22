@@ -1,11 +1,11 @@
 # 🏢 TSC
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-09-21*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-09-22*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Plymouth, MA, Dahlgren, VA, Silver Spring, MD
+- **Locations:** Dahlgren, VA, Plymouth, MA, Silver Spring, MD
 
 ## Current Opportunities
 

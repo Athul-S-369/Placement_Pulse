@@ -1,11 +1,11 @@
 # 🏢 Atria Group
 
-**13 active opportunities** | **13 total tracked** | *Last updated: 2026-09-21*
+**13 active opportunities** | **13 total tracked** | *Last updated: 2026-09-22*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Chicago, IL, Plainview, NY, Dallas, TX, San Jose, CA, Novato, CA
+- **Locations:** Broomfield, CO, Plainview, NY, Thousand Oaks, CA, Jacksonville, FL, San Jose, CA
 
 ## Current Opportunities
 

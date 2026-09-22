@@ -1,13 +1,15 @@
 # 🎓 Internship
 
-**827 active** | **0 expired** | **827 total**
+**829 active** | **0 expired** | **829 total**
 
-*Last updated: 2026-09-21*
+*Last updated: 2026-09-22*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Data & Analytics Consultant Intern - Summer 2027](https://jobs.smartrecruiters.com/Resultant/744000150785390) | Resultant | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Product Management Intern - Artificial Intelligence Product Management](https://careers.zimmerbiomet.com/us/en/job/12745) | Zimmer Biomet Holdings | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineering Intern - Spring 2027](https://job-boards.greenhouse.io/mercury/jobs/6199367004) | Mercury | SF, Remote in USA, NYC, Portland, OR, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Research Scientist Intern - Applied Scientist](https://jobs.ashbyhq.com/collinear-ai/ae85fd08-dfd8-42e5-9b3b-9921ba24742b/application?embed=true) | Collinear AI | SF, India, Bengaluru, Karnataka, India, Sunnyvale, CA, United States | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Software Engineering Co-op Spring 2027](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832) | GE Appliances | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
@@ -106,5 +108,3 @@
 | [Hardware Engineer 2](https://careers.cisco.com/global/en/job/2000128) | Cisco | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Software Engineer Intern](https://jobs.lever.co/nextgenfed/54d1576e-c3d9-454a-b1a2-dac0b2fe5920/apply) | NextGen Federal Systems | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Student Online Data Analytics Eco Rep](https://snhu.wd503.myworkdayjobs.com/External_Career_Site/job/Remote/Student---Online-Data-Analytics-Eco-Rep_R0014463) | Southern New Hampshire University | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Student Reporting - Ams](https://avaap.wd501.myworkdayjobs.com/AvaapCareers/job/United-States-of-America/Student-Reporting---AMS_JR1132) | Avaap | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Editorial Data Reporting Intern](https://relx.wd3.myworkdayjobs.com/LexisNexisLegal/job/Home-based-Washington-DC/Editorial-Data-Reporting-Intern_R112971-1) | LexisNexis Risk Solutions | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

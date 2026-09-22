@@ -1,6 +1,6 @@
 # 🏢 STEM Department, NIMS UNIVERSITY
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-21*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-22*
 
 ## Overview
 

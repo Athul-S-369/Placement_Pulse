@@ -1,11 +1,11 @@
 # 🏢 Rivian and Volkswagen Group Technologies
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-09-21*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-09-22*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Vancouver, BC, Canada, Toronto, ON, Canada, Vancouver, BC, Canada, Palo Alto, CA, Irvine, CA
+- **Locations:** Toronto, ON, Canada, Vancouver, BC, Canada, Vancouver, BC, Canada, Palo Alto, CA, Irvine, CA
 
 ## Current Opportunities
 
