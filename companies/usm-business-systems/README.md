@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Westminster, CO, Dublin, OH, San Antonio, TX, Chicago, IL, Baltimore, MD
+- **Locations:** NYC, Jefferson City, MO, Bloomington, MN, Rochester, MI, Alexandria, VA
 
 ## Current Opportunities
 
