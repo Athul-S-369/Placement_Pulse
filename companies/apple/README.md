@@ -1,11 +1,11 @@
 # 🏢 Apple
 
-**17 active opportunities** | **17 total tracked** | *Last updated: 2026-09-22*
+**17 active opportunities** | **17 total tracked** | *Last updated: 2026-09-23*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** London, UK, Lafayette, KS, California, Austin, TX, Morrisville, NC
+- **Locations:** Morrisville, NC, London, UK, Cupertino, CA, Austin, TX, SF
 
 ## Current Opportunities
 

@@ -1,11 +1,11 @@
 # 🏢 Cotiviti
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-22*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-23*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** South Jordan, UT, Remote in USA, Remote in USA
+- **Locations:** Remote in USA, South Jordan, UT, Remote in USA
 
 ## Current Opportunities
 

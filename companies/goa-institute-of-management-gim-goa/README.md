@@ -1,6 +1,6 @@
 # 🏢 Goa Institute of Management (GIM), Goa
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-22*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-23*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Samiksha September 2026](https://unstop.com/competitions/samiksha-september-2026-goa-institute-of-management-gim-goa-1758112) | Goa Institute of Management (GIM), Goa | India | 🏢 Onsite | — | 2026-09-22 | Unstop |
 
 ## 📖 Interview Preparation
 
