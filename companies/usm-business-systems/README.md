@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Columbus, OH, Baltimore, MD, NYC, Jefferson City, MO, Washington, DC
+- **Categories:** Internship, Fresher Job
+- **Locations:** Columbus, OH, Southfield, MI, Westminster, CO, St. Louis, MO, Traverse City, MI
 
 ## Current Opportunities
 

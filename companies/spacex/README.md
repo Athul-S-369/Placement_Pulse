@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** West Athens, CA, Bastrop, TX, Irvine, CA, Cape Canaveral, FL, Brownsville, TX, Redmond, WA, McGregor, TX, West Athens, CA, Sunnyvale, CA, Brownsville, TX, Bothell, WA, Redmond, WA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Sunnyvale, CA, Bastrop, TX, Texas, Palo Alto, CA, Bothell, WA
 
 ## Current Opportunities
 
