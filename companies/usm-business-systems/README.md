@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Columbus, OH, Southfield, MI, Westminster, CO, St. Louis, MO, Traverse City, MI
+- **Categories:** Fresher Job, Internship
+- **Locations:** Southfield, MI, St. Louis, MO, Alexandria, VA, Dublin, OH, Augusta, ME
 
 ## Current Opportunities
 

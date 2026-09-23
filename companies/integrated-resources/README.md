@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Birmingham, AL, Cherry Hills Village, CO, Boston, MA, Milwaukee, WI, Westborough, MA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Birmingham, AL, Cherry Hills Village, CO, Boston, MA, Hickory, NC, Cambridge, MA
 
 ## Current Opportunities
 
