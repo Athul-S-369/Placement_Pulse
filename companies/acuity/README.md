@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Wheat Ridge, CO, West Lafayette, IN
+- **Locations:** West Lafayette, IN, Wheat Ridge, CO
 
 ## Current Opportunities
 

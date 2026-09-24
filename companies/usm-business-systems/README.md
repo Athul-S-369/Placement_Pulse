@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Chicago, IL, Washington, DC, Bluemont, VA, Augusta, ME, Manassas, VA
+- **Locations:** Bluemont, VA, Manassas, VA, Washington, DC, Chantilly, VA, Rochester, MI
 
 ## Current Opportunities
 
