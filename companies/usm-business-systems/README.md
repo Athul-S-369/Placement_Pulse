@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Southfield, MI, Traverse City, MI, Chicago, IL, NYC, El Segundo, CA
+- **Locations:** Chicago, IL, Washington, DC, Bluemont, VA, Augusta, ME, Manassas, VA
 
 ## Current Opportunities
 

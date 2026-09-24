@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Pleasanton, CA, San Carlos, CA, Santa Clara, CA, Allen, TX, Kitchener, ON, Canada, Seattle, WA, Santa Clara, CA, Nashville, TN
+- **Locations:** Kitchener, ON, Canada, Kansas City, MO, Kansas City, KS, Seattle, WA, Santa Clara, CA, Ashburn, VA, Allen, TX
 
 ## Current Opportunities
 
