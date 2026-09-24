@@ -1,11 +1,11 @@
 # 🏢 Hermeus
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-23*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-24*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Atlanta, GA, LA
+- **Locations:** LA, Atlanta, GA
 
 ## Current Opportunities
 

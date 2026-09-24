@@ -1,11 +1,11 @@
 # 🏢 General Dynamics Information Technology
 
-**5 active opportunities** | **5 total tracked** | *Last updated: 2026-09-23*
+**5 active opportunities** | **5 total tracked** | *Last updated: 2026-09-24*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Florida, Annapolis Junction, MD, Seattle, WA, Shreveport, LA, Hanover, MD
+- **Locations:** Florida, Seattle, WA, Hanover, MD, Annapolis Junction, MD, Shreveport, LA
 
 ## Current Opportunities
 
