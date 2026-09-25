@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Cincinnati, OH, Melbourne, FL, Ottawa, ON, Canada, El Dorado, AR, Waco, TX
+- **Locations:** Philadelphia, PA, Waco, TX, Ottawa, ON, Canada, El Dorado, AR, Melbourne, FL
 
 ## Current Opportunities
 

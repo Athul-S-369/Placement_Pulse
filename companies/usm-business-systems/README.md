@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Bluemont, VA, Manassas, VA, Dublin, OH, Columbus, OH, Westminster, CO
+- **Categories:** Fresher Job, Internship
+- **Locations:** NYC, Bluemont, VA, Southfield, MI, Traverse City, MI, Alexandria, VA
 
 ## Current Opportunities
 

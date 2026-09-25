@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**836 active** | **0 expired** | **836 total**
+**837 active** | **0 expired** | **837 total**
 
 *Last updated: 2026-09-25*
 
@@ -12,6 +12,7 @@
 | [Application Developer Intern](https://job-boards.greenhouse.io/geocgi/jobs/4420076009) | Geospatial Consulting Group International | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Data Science & AI Co-op - Portfolio Data & Digital Innovation](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209) | Biogen | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Quantitative Developer Intern](https://revantage.wd1.myworkdayjobs.com/Revantage/job/Remote---Illinois/Quantitative-Developer-Intern_JR104315) | Revantage Corporate Services | Remote in USA, Illinois | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Commercial Analytics Intern - ED/Chemistry Solutions Commercial Analytics Team](https://labcorp.wd1.myworkdayjobs.com/external/job/USA----WI---Milwaukee---3727-W-Wisconsin-Avenue/Intern---Commercial-Analytics_2633615) | LabCorp | Remote in USA, Milwaukee, WI | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern](https://careers-nasco.icims.com/jobs/4402/job?mobile=true&needsRedirect=false) | NASCO | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Data Science Intern](https://job-boards.greenhouse.io/wurljobs/jobs/4716249006) | Wurl | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [AI Engineer Intern](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/AI-Engineer-Intern_R24605) | Vantor | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [Research Assistant - College of Engineering - Department of Chemical Engineering](https://cmu.wd5.myworkdayjobs.com/cmu/job/Remote/Research-Assistant---College-of-Engineering---Department-of-Chemical-Engineering_2024265) | Carnegie Mellon University | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Cloud Developer Intern](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-2) | Autodesk | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1/application?embed=true) | Deepgram | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Software Development Data Analytics Intern](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Home-Office-USA/SW-Development-Intern-Data-Analytics_260004919-1) | Viavi Solutions | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
