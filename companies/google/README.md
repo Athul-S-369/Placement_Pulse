@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Open Source Program, Fresher Job
-- **Locations:** Remote, London, UK, Mountain View, CA, Seattle, WA, Sunnyvale, CA
+- **Categories:** Fresher Job, Open Source Program
+- **Locations:** Remote, Seattle, WA, Irvine, CA, London, UK, Mountain View, CA
 
 ## Current Opportunities
 

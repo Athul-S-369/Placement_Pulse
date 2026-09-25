@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** NYC, Bluemont, VA, Southfield, MI, Traverse City, MI, Alexandria, VA
+- **Categories:** Internship, Fresher Job
+- **Locations:** California City, CA, Bloomington, MN, Washington, DC, NYC, Bluemont, VA
 
 ## Current Opportunities
 

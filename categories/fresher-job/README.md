@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1378 active** | **0 expired** | **1378 total**
+**1379 active** | **0 expired** | **1379 total**
 
 *Last updated: 2026-09-25*
 
@@ -8,6 +8,7 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Audio Rater - Generalist - English](https://jobs.lever.co/weloglobal/a359138d-45e6-4e40-8818-9ea8c05c516f/apply) | Welo Global | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Advanced Analytics Developer Associate - Enterprise Advanced Analytics](https://aah.wd5.myworkdayjobs.com/External/job/Remote/IT-Advanced-Analytics-Developer-Associate_R271506) | Advocate Health Care | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer Early Career - Cloud](https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679) | CACI | Remote in USA, Hanover, MD | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Software Engineer](https://jobs.lever.co/fiscalnote/c76e748f-6e25-42cf-bf26-ebae44280ffd/apply) | FiscalNote | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Junior Full Stack Developer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4121413) | Meyer Distributing | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Food & Ingredient Analyst](https://jobs.lever.co/wisecode/c29ef6f7-a244-43c5-acf8-09556057fa56/apply) | WISEcode | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Integrating Firmware Engineer - Mesh](https://careers-lmi.icims.com/jobs/14396/job?mobile=true&needsRedirect=false) | LMI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Quantitative Developer](https://apply.workable.com/wallstreetquants/j/AA3FB20456/apply) | WallStreetQuants | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
