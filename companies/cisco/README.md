@@ -1,11 +1,11 @@
 # 🏢 Cisco
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-09-24*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-09-25*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Austin, TX, San Jose, CA, Alpharetta, GA, Atlanta, GA, Boston, MA, Dallas, TX, Fulton, MD, Hillsboro, OR, Knoxville, TN, Maynard, MA, Milpitas, CA, New York, NY, Research Triangle Park, NC, Holmdel, NJ, Remote / Various
+- **Locations:** Holmdel, NJ, Remote / Various, Austin, TX, San Jose, CA, Alpharetta, GA, Atlanta, GA, Boston, MA, Dallas, TX, Fulton, MD, Hillsboro, OR, Knoxville, TN, Maynard, MA, Milpitas, CA, New York, NY, Research Triangle Park, NC
 
 ## Current Opportunities
 

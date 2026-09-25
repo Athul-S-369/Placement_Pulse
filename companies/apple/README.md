@@ -1,11 +1,11 @@
 # 🏢 Apple
 
-**17 active opportunities** | **17 total tracked** | *Last updated: 2026-09-24*
+**17 active opportunities** | **17 total tracked** | *Last updated: 2026-09-25*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** San Jose, CA, Lafayette, KS, Beaverton, OR, Waltham, MA, Cambridge, MA
+- **Locations:** Santa Clara, CA, Seattle, WA, Waltham, MA, Cupertino, CA, Austin, TX
 
 ## Current Opportunities
 

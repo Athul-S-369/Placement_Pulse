@@ -1,11 +1,11 @@
 # 🏢 Voltus
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-24*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-25*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Remote / Various, Remote in USA, Remote in Canada
+- **Locations:** Remote in USA, Remote in Canada, Remote / Various
 
 ## Current Opportunities
 

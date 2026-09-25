@@ -1,6 +1,6 @@
 # 🏢 Central Institute of Classical Tamil CICT
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-24*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-25*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AUREX'26 - Classical Tamil's First Lingual Tech Hackathon](https://unstop.com/hackathons/aurex26-classical-tamils-first-lingual-tech-hackathon-central-institute-of-classical-tamil-cict-1736281) | Central Institute of Classical Tamil CICT | India | 🏢 Onsite | — | 2026-09-24 | Unstop |
 
 ## 📖 Interview Preparation
 

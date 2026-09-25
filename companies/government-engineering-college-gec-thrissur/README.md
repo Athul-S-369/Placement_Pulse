@@ -1,6 +1,6 @@
 # 🏢 Government Engineering College (GEC), Thrissur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-24*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-25*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Matrix 2026](https://unstop.com/hackathons/matrix-2026-government-engineering-college-gec-thrissur-1737241) | Government Engineering College (GEC), Thrissur | India | 🏢 Onsite | — | 2026-09-24 | Unstop |
 
 ## 📖 Interview Preparation
 

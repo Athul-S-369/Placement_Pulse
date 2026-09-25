@@ -1,6 +1,6 @@
 # 🏢 Ramco Institute of Technology (RIT), Tamil Nadu
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-24*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-25*
 
 ## Overview
 
