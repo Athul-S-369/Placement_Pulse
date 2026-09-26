@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Chicago, IL, Chicago, IL, NYC
+- **Locations:** Chicago, IL, NYC, Chicago, IL
 
 ## Current Opportunities
 

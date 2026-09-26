@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Waltham, MA, Santa Clara, CA, Gloucester, UK, San Diego, CA, London, UK, Cambridge, UK, Welwyn Garden City, UK
+- **Locations:** London, UK, Cambridge, UK, Welwyn Garden City, UK, Beaverton, OR, Morrisville, NC, SF, Santa Clara, CA
 
 ## Current Opportunities
 

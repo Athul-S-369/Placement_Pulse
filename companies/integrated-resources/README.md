@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Hickory, NC, Elmira, NY, Santa Clara, CA, Exton, PA, Boston, MA
+- **Locations:** Westborough, MA, Elmira, NY, Santa Clara, CA, Exton, PA, Hickory, NC
 
 ## Current Opportunities
 

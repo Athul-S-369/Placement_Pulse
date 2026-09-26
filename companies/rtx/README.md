@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Cedar Rapids, IA, Huntsville, AL, Indianapolis, IN, Goleta, CA, Longueuil, QC, Canada
+- **Locations:** Arlington, VA, Longueuil, QC, Canada, Barrie, ON, Canada, Andover, MA, Cedar Rapids, IA
 
 ## Current Opportunities
 
