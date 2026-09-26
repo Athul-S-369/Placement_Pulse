@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Sunnyvale, CA, Pittsburgh, PA
+- **Locations:** Pittsburgh, PA, Sunnyvale, CA
 
 ## Current Opportunities
 

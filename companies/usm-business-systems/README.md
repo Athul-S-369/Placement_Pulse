@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Baltimore, MD, Augusta, ME, Columbus, OH, Dublin, OH, Chicago, IL
+- **Locations:** Chantilly, VA, Alexandria, VA, St. Louis, MO, Traverse City, MI, El Segundo, CA
 
 ## Current Opportunities
 

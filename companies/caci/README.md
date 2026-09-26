@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Bethesda, MD, Riverside, CA, Remote in USA, Hanover, MD, Hanover, MD, Fayetteville, NC
+- **Categories:** Internship, Fresher Job
+- **Locations:** Hanover, MD, Riverside, CA, Bethesda, MD, Fayetteville, NC, Remote in USA, Sterling, VA, Denver, CO
 
 ## Current Opportunities
 

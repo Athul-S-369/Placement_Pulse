@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Barrie, ON, Canada, McKinney, TX, Andover, MA, Indianapolis, IN, Goleta, CA
+- **Locations:** Cedar Rapids, IA, Huntsville, AL, Indianapolis, IN, Goleta, CA, Longueuil, QC, Canada
 
 ## Current Opportunities
 

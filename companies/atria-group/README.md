@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Sunnyvale, CA, NYC, Thousand Oaks, CA, Hartford, CT, St. Louis, MO
+- **Locations:** Thousand Oaks, CA, Jacksonville, FL, St. Louis, MO, Hartford, CT, San Jose, CA
 
 ## Current Opportunities
 
