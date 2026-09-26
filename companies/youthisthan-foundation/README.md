@@ -1,6 +1,6 @@
 # 🏢 Youthisthan Foundation
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-25*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-26*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [The Nation Builders 2026](https://unstop.com/competitions/the-nation-builders-2026-teachers-day-youthisthan-foundation-1755432) | Youthisthan Foundation | India | 🏢 Onsite | — | 2026-09-25 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,16 +1,17 @@
 # 🏢 Varsity Brands
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-25*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-26*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA
+- **Locations:** Kansas, Texas, Indiana, Remote in USA
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Front End Developer](https://careers.varsitybrands.com/global/en/job/JR114521) | Varsity Brands | Kansas, Texas, Indiana | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Software Engineer 1](https://careers.varsitybrands.com/global/en/job/JR114172) | Varsity Brands | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 
 ## 📖 Interview Preparation

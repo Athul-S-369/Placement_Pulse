@@ -1,6 +1,6 @@
 # 🏢 Kautilya School of Public Policy, Gitam University, Telangana
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-25*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-26*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Kautilya Colloquy 2026: Niti-in-Quest | National Level Policy Quiz Competition](https://unstop.com/quiz/kautilya-colloquy-2026-niti-in-quest-national-level-policy-quiz-competition-kautilya-school-of-public-policy-gitam--1729809) | Kautilya School of Public Policy, Gitam University, Telangana | India | 🏢 Onsite | — | 2026-09-25 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,11 +1,11 @@
 # 🏢 Apple
 
-**17 active opportunities** | **17 total tracked** | *Last updated: 2026-09-25*
+**17 active opportunities** | **17 total tracked** | *Last updated: 2026-09-26*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Waltham, MA, Lafayette, KS, California, United States, San Diego, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** London, UK, Beaverton, OR, Cupertino, CA, Seattle, WA, United States
 
 ## Current Opportunities
 
