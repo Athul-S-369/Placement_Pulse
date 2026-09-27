@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Jacksonville, FL, Plainview, NY, Dallas, TX, Broomfield, CO, NYC
+- **Categories:** Fresher Job, Internship
+- **Locations:** Sunnyvale, CA, NYC, St. Louis, MO, Jacksonville, FL, Novato, CA
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Augusta, ME, Traverse City, MI, California City, CA, Jefferson City, MO, Dublin, OH
+- **Categories:** Fresher Job, Internship
+- **Locations:** Dublin, OH, Bloomington, MN, Rochester, MI, Columbus, OH, Westminster, CO
 
 ## Current Opportunities
 

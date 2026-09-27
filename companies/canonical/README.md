@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in UK, La Ronge, SK, Canada, London, UK
+- **Locations:** London, UK, Remote in UK, La Ronge, SK, Canada
 
 ## Current Opportunities
 

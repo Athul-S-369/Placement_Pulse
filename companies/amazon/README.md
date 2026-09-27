@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job, Hackathon
-- **Locations:** Tempe, AZ, Seattle, WA, SF, India, NYC, Indianapolis, IN, Hyderabad, Telangana, India
+- **Categories:** Fresher Job, Hackathon, Internship
+- **Locations:** Sunnyvale, CA, India, Seattle, WA, Fredericksburg, VA, Ashburn, VA, Manassas, VA, Reston, VA, Dulles, VA, Tennessee, Chennai, Tamil Nadu, India, Indiana
 
 ## Current Opportunities
 

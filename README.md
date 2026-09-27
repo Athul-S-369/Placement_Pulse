@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**September 27, 2026** &nbsp;—&nbsp; **77** Internship &nbsp;·&nbsp; **76** Fresher Job &nbsp;·&nbsp; **4** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**September 27, 2026** &nbsp;—&nbsp; **76** Fresher Job &nbsp;·&nbsp; **76** Internship &nbsp;·&nbsp; **2** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**163 opportunities** added or updated in the latest run (September 27, 2026).
+**160 opportunities** added or updated in the latest run (September 27, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -121,9 +121,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Robotics Engineer - All levels](https://ats.rippling.com/eternal/jobs/439a23ae-8691-48df-8f8c-35ab8ee71e6c) | eternal.ag | Charlotte, NC, Cologne, G | Fresher Job | Onsite | — |
 | [Full Stack Engineer](https://jobs.lever.co/hhaexchange/37711e74-f9e9-42c5-9c4f-66df2afab2e2/apply) | hhaexchange | Remote in USA | Fresher Job | Remote | — |
 | [C++ Developer](https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4844280101) | think-cell | Remote in UK | Fresher Job | Remote | — |
-| [QA in the Age of AI: Reimagining Software Quality for the In...](https://unstop.com/workshops-webinars/qa-in-the-age-of-ai-reimagining-software-quality-for-the-intelligent-era-acl-digital-1756600) | ACL Digital | India | Hackathon | Onsite | 2026-10-06 |
-| [Commercio Artikel - Article Writing Competition](https://unstop.com/competitions/commercio-artikel-article-writing-competition-trade-winds-2026-iift-new-delhi-1754500) | Indian Institute of Foreign  | India | Hackathon | Onsite | 2026-10-01 |
-| [Portfolio Management](https://unstop.com/workshops-webinars/portfolio-management-the-red-brick-summit-2026-iim-ahmedabad-1760741) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-10-02 |
+| [Legal 101 on Term Sheets for Future Founders and New Venture...](https://unstop.com/workshops-webinars/legal-101-on-term-sheets-for-future-founders-and-new-ventures-the-red-brick-summit-2026-iim-ahmedabad-1761130) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-10-02 |
 | [The Great Heist](https://unstop.com/quiz/the-great-heist-iim-rohtak-1761834) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-09-26 |
 | [Software Development Engineer Co-op](https://job-boards.greenhouse.io/athinkingape/jobs/8203048) | A Thinking Ape | Remote in Canada | Internship | Remote | — |
 | [Performance and Reliability Engineering Intern - Summer 2027](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/T-D-Performance-and-Reliability-Engineering-Intern--Summer-2027-_R1064841) | AES | Dayton, OH, Indianapolis, | Internship | Onsite | — |
@@ -179,7 +177,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Research Scientist Intern](https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be/application?embed=true) | Pluralis Research | Remote in USA, Remote in  | Internship | Remote | — |
 | [Data and Analytics Intern - Multiple Teams](https://careers.principal.com/jobs/52574?icims=1) | Principal Financial Group | Des Moines, IA, Remote in | Internship | Remote | — |
 | [System Architecture Intern](https://www.psiquantum.com/apply?gh_jid=7695577003) | PsiQuantum | Palo Alto, CA, Bristol, U | Internship | Remote | — |
-| [Software Engineer Intern](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a/application?embed=true) | Realm | Remote in USA | Internship | Remote | — |
 | [Data & Analytics Consultant Intern - Summer 2027](https://jobs.smartrecruiters.com/Resultant/744000150785390) | Resultant | Indianapolis, IN | Internship | Onsite | — |
 | [Quantitative Developer Intern](https://revantage.wd1.myworkdayjobs.com/Revantage/job/Remote---Illinois/Quantitative-Developer-Intern_JR104315) | Revantage Corporate Services | Remote in USA, Illinois | Internship | Remote | — |
 | [Marketing & Operations Analytics Co-op - Strategy & Analytic...](https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Marketing---Ops-Analytics-Co-Op_JR101345) | Risepoint | Remote in USA | Internship | Remote | — |
@@ -325,6 +322,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-09-27 05:38 UTC</sub>
+<sub>Last generated: 2026-09-27 14:14 UTC</sub>
 
 </div>
