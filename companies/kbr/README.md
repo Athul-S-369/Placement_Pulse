@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Huntsville, AL, Beavercreek, OH, Silver Spring, MD
+- **Locations:** Beavercreek, OH, Silver Spring, MD, Huntsville, AL
 
 ## Current Opportunities
 

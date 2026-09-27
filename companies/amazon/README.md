@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Hackathon, Internship
-- **Locations:** Sunnyvale, CA, India, Seattle, WA, Fredericksburg, VA, Ashburn, VA, Manassas, VA, Reston, VA, Dulles, VA, Tennessee, Chennai, Tamil Nadu, India, Indiana
+- **Categories:** Hackathon, Fresher Job, Internship
+- **Locations:** Indianapolis, IN, Hyderabad, Telangana, India, India, London, UK, Edinburgh, UK, Cambridge, UK, London, UK, Sunnyvale, CA
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Dublin, OH, Bloomington, MN, Rochester, MI, Columbus, OH, Westminster, CO
+- **Locations:** El Segundo, CA, Rochester, MI, Bloomington, MN, Columbus, OH, Baltimore, MD
 
 ## Current Opportunities
 
