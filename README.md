@@ -7,10 +7,10 @@
 **India's open-source aggregator for software internships, fresher jobs,<br>hackathons, fellowships, and placement opportunities.**
 
 [![Opportunities](https://img.shields.io/badge/Opportunities-2774-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
-[![Active](https://img.shields.io/badge/Active-2271-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
+[![Active](https://img.shields.io/badge/Active-2269-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
 [![Companies](https://img.shields.io/badge/Companies-2072-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
-[![Updated](https://img.shields.io/badge/Updated-Sep%2026%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
+[![Updated](https://img.shields.io/badge/Updated-Sep%2027%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
 [Latest Run](#latest-run) &nbsp;·&nbsp;
 [Active Opportunities](#active-opportunities) &nbsp;·&nbsp;
@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**September 26, 2026** &nbsp;—&nbsp; **77** Internship &nbsp;·&nbsp; **76** Fresher Job &nbsp;·&nbsp; **4** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**September 27, 2026** &nbsp;—&nbsp; **77** Internship &nbsp;·&nbsp; **76** Fresher Job &nbsp;·&nbsp; **4** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**163 opportunities** added or updated in the latest run (September 26, 2026).
+**163 opportunities** added or updated in the latest run (September 27, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -122,7 +122,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Full Stack Engineer](https://jobs.lever.co/hhaexchange/37711e74-f9e9-42c5-9c4f-66df2afab2e2/apply) | hhaexchange | Remote in USA | Fresher Job | Remote | — |
 | [C++ Developer](https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4844280101) | think-cell | Remote in UK | Fresher Job | Remote | — |
 | [QA in the Age of AI: Reimagining Software Quality for the In...](https://unstop.com/workshops-webinars/qa-in-the-age-of-ai-reimagining-software-quality-for-the-intelligent-era-acl-digital-1756600) | ACL Digital | India | Hackathon | Onsite | 2026-10-06 |
-| [InQuizitive 2026](https://unstop.com/quiz/inquizitive-2026-goa-institute-of-management-gim-goa-1758515) | Goa Institute of Management  | India | Hackathon | Onsite | 2026-09-26 |
+| [Commercio Artikel - Article Writing Competition](https://unstop.com/competitions/commercio-artikel-article-writing-competition-trade-winds-2026-iift-new-delhi-1754500) | Indian Institute of Foreign  | India | Hackathon | Onsite | 2026-10-01 |
 | [Portfolio Management](https://unstop.com/workshops-webinars/portfolio-management-the-red-brick-summit-2026-iim-ahmedabad-1760741) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-10-02 |
 | [The Great Heist](https://unstop.com/quiz/the-great-heist-iim-rohtak-1761834) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-09-26 |
 | [Software Development Engineer Co-op](https://job-boards.greenhouse.io/athinkingape/jobs/8203048) | A Thinking Ape | Remote in Canada | Internship | Remote | — |
@@ -300,13 +300,13 @@ The 50 most recently added active opportunities across all categories.
 
 ## Archive
 
-- [September 26, 2026 — Today](daily/2026/September/2026-09-26.md)
+- [September 27, 2026 — Today](daily/2026/September/2026-09-27.md)
+- [September 26, 2026](daily/2026/September/2026-09-26.md)
 - [September 25, 2026](daily/2026/September/2026-09-25.md)
 - [September 24, 2026](daily/2026/September/2026-09-24.md)
 - [September 23, 2026](daily/2026/September/2026-09-23.md)
 - [September 22, 2026](daily/2026/September/2026-09-22.md)
 - [September 21, 2026](daily/2026/September/2026-09-21.md)
-- [September 20, 2026](daily/2026/September/2026-09-20.md)
 
 [Full archive](daily/)
 
@@ -325,6 +325,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-09-26 19:21 UTC</sub>
+<sub>Last generated: 2026-09-27 05:38 UTC</sub>
 
 </div>

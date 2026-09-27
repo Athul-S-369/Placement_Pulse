@@ -1,11 +1,11 @@
 # 🏢 Canonical
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-09-26*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-09-27*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in UK, London, UK, La Ronge, SK, Canada
+- **Locations:** Remote in UK, La Ronge, SK, Canada, London, UK
 
 ## Current Opportunities
 

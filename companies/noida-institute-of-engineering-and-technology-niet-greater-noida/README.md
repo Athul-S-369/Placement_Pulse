@@ -1,6 +1,6 @@
 # 🏢 Noida Institute of Engineering And Technology (NIET), Greater Noida
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-26*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-27*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Segue 3.0 : Global Design Thinking Challenge (Online + Offline)](https://unstop.com/hackathons/segue-30-global-design-thinking-challenge-online-offline-schooloffutureskillscomsegue-3-0-noida-institute-of--1712134) | Noida Institute of Engineering And Technology (NIET), Greater Noida | India | 🏢 Onsite | — | 2026-09-26 | Unstop |
 
 ## 📖 Interview Preparation
 
