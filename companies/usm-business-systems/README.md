@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** California City, CA, Chicago, IL, Washington, DC, Chantilly, VA, Augusta, ME
+- **Locations:** Columbus, OH, Bluemont, VA, Jefferson City, MO, Alexandria, VA, Washington, DC
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Northridge, LA, Remote in USA, Escondido, CA, Palmdale, CA, Aurora, CO, Morrisville, NC, Remote in USA, Linthicum Heights, MD, Melbourne, FL
+- **Locations:** Melbourne, FL, Warner Robins, GA, Northridge, LA, Escondido, CA, Palmdale, CA, Wright-Patterson AFB, OH
 
 ## Current Opportunities
 
