@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Columbia, SC, Winona, MN
+- **Locations:** Winona, MN, Columbia, SC
 
 ## Current Opportunities
 
