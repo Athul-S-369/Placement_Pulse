@@ -1,11 +1,11 @@
 # 🏢 Rogers Behavioral Health
 
-**5 active opportunities** | **5 total tracked** | *Last updated: 2026-09-27*
+**5 active opportunities** | **5 total tracked** | *Last updated: 2026-09-28*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** St Paul, MN, Woodbury, MN, Morton Grove, IL, Atlanta, GA, Madison, WI, Brown Deer, WI
+- **Locations:** St Paul, MN, Woodbury, MN, Morton Grove, IL, Brown Deer, WI, Madison, WI, Atlanta, GA
 
 ## Current Opportunities
 

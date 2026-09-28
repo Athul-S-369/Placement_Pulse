@@ -1,6 +1,6 @@
 # 🏢 Pillai University, Navi Mumbai
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-27*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-28*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [HackCelestial 3.0](https://unstop.com/hackathons/hackcelestial-30-pillai-university-navi-mumbai-1737808) | Pillai University, Navi Mumbai | India | 🏢 Onsite | — | 2026-09-27 | Unstop |
 
 ## 📖 Interview Preparation
 

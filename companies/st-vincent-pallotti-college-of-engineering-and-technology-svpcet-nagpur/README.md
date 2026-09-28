@@ -1,6 +1,6 @@
 # 🏢 St. Vincent Pallotti College of Engineering and Technology (SVPCET), Nagpur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-27*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-28*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [HackRonyX 2.0](https://unstop.com/hackathons/hackronyx-20-st-vincent-pallotti-college-of-engineering-and-technology-svpcet-nagpur-1741857) | St. Vincent Pallotti College of Engineering and Technology (SVPCET), Nagpur | India | 🏢 Onsite | — | 2026-09-27 | Unstop |
 
 ## 📖 Interview Preparation
 

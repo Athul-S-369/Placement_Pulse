@@ -1,6 +1,6 @@
 # 🏢 Institute of Rural Management Anand (IRMA), Gujarat
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-27*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-28*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Business on Values](https://unstop.com/competitions/business-on-values-institute-of-rural-management-anand-irma-gujarat-1736892) | Institute of Rural Management Anand (IRMA), Gujarat | India | 🏢 Onsite | — | 2026-09-27 | Unstop |
 
 ## 📖 Interview Preparation
 
