@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Southfield, MI, California City, CA, Columbus, OH, Traverse City, MI, Rochester, MI
+- **Categories:** Fresher Job, Internship
+- **Locations:** Baltimore, MD, Westminster, CO, Traverse City, MI, Southfield, MI, Chantilly, VA
 
 ## Current Opportunities
 
