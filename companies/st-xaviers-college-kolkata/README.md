@@ -1,6 +1,6 @@
 # 🏢 St Xaviers College Kolkata
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-28*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-29*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [CONFLUENCE XIX: Paper Presentation](https://unstop.com/competitions/confluence-xix-paper-presentation-st-xaviers-college-kolkata-1739093) | St Xaviers College Kolkata | India | 🏢 Onsite | — | 2026-09-28 | Unstop |
 
 ## 📖 Interview Preparation
 
