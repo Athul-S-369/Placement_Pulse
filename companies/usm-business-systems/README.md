@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Baltimore, MD, Westminster, CO, Traverse City, MI, Southfield, MI, Chantilly, VA
+- **Locations:** Rochester, MI, Bluemont, VA, Jefferson City, MO, Manassas, VA, Alexandria, VA
 
 ## Current Opportunities
 
