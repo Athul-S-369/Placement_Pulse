@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Appleton, WI, Norwood, MA
+- **Locations:** Norwood, MA, Appleton, WI
 
 ## Current Opportunities
 

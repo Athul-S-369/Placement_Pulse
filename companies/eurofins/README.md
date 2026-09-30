@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Lancaster, PA, Santa Clara, CA, Hayward, CA, Irvine, CA, Austin, TX
+- **Locations:** Hayward, CA, Irvine, CA, Santa Clara, CA, Lancaster, PA, Austin, TX
 
 ## Current Opportunities
 
