@@ -1,6 +1,6 @@
 # 🏢 Saveetha Engineering College
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-29*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-30*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Maxim Code challenges](https://unstop.com/competitions/maxim-code-challenges-saveetha-engineering-college-1735971) | Saveetha Engineering College | India | 🏢 Onsite | — | 2026-09-29 | Unstop |
 
 ## 📖 Interview Preparation
 

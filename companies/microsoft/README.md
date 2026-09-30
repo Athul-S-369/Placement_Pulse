@@ -1,11 +1,11 @@
 # 🏢 Microsoft
 
-**15 active opportunities** | **15 total tracked** | *Last updated: 2026-09-29*
+**15 active opportunities** | **15 total tracked** | *Last updated: 2026-09-30*
 
 ## Overview
 
-- **Categories:** Student Ambassador, Fresher Job, Internship
-- **Locations:** Redmond, WA, India (Campus), NYC, Berkeley, CA, Burlington, MA, Annapolis Junction, MD, Reston, VA
+- **Categories:** Internship, Fresher Job, Student Ambassador
+- **Locations:** Cambridge, MA, Kitsap County, WA, Redmond, WA, Redmond, WA, Mountain View, CA, Berkeley, CA, Burlington, MA, Kitsap County, WA, Redmond, WA, Cambridge, MA, NYC
 
 ## Current Opportunities
 

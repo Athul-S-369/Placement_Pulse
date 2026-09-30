@@ -1,6 +1,6 @@
 # 🏢 Suryodaya College of Engineering & Technology, Nagpur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-29*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-30*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Hack the Hardware India 2.0 (HTH India 2.0) — Build. Innovate. Win.](https://unstop.com/hackathons/hack-the-hardware-india-20-hth-india-20-build-innovate-win-suryodaya-college-of-engineering-technology-nagpur-1730720) | Suryodaya College of Engineering & Technology, Nagpur | India | 🏢 Onsite | — | 2026-09-29 | Unstop |
 
 ## 📖 Interview Preparation
 

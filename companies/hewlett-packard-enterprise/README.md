@@ -1,11 +1,11 @@
 # 🏢 Hewlett Packard Enterprise
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-09-29*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-09-30*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Spring, TX, San Jose, CA, Remote / Various
+- **Categories:** Internship, Fresher Job
+- **Locations:** Remote / Various, Spring, TX, San Jose, CA
 
 ## Current Opportunities
 

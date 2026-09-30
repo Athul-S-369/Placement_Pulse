@@ -1,6 +1,6 @@
 # 🏢 pony.ai
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-29*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-30*
 
 ## Overview
 

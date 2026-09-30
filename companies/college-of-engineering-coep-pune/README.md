@@ -1,6 +1,6 @@
 # 🏢 College of Engineering (COEP), Pune
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-29*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-30*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Flash](https://unstop.com/competitions/flash-college-of-engineering-coep-pune-1726741) | College of Engineering (COEP), Pune | India | 🏢 Onsite | — | 2026-09-29 | Unstop |
 
 ## 📖 Interview Preparation
 

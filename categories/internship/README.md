@@ -1,13 +1,14 @@
 # 🎓 Internship
 
-**841 active** | **0 expired** | **841 total**
+**842 active** | **0 expired** | **842 total**
 
-*Last updated: 2026-09-29*
+*Last updated: 2026-09-30*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [ADISE Digital Innovation Intern - Cross-functional](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/XMLNAME-2026-2027-Campus-Internship---ADISE-Digital-Innovation---Cross-functional--PhD-_R2068777) | Dow Chemical Company | Collegeville, PA, Houston, TX, Carrollton, KY, Remote in USA, Freeport, TX, South Charleston, WV, Wilmington, DE, Plaquemine, LA, Auburn, MI, Midland, MI | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Data Scientist Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252) | ICF International | Remote in USA, Reston, VA, Denver, CO | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Intern](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Software-Intern_R2613763) | Cencora | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Analyst Student](https://careers-daktronics.icims.com/jobs/7577/job?mobile=true&needsRedirect=false) | Daktronics | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [Product Intern](https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true) | Hubs.is | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Summer Associate - Enterprise AI & Insights - 8 Week Program](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Remote-USA/Summer-Associate--Enterprise-AI---Insights--8-10-Week-Program-_R100119581) | ASM Global | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Development Intern](https://cisive.wd108.myworkdayjobs.com/Cisive/job/Remote---Maryland/Software-Development-Intern_JR100290) | Cisive | New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Texas, Montana, Jackson Township, NJ, Florida, Waterbury, CT, Nevada, South Carolina, South Dakota, Georgia, Arizona, Concord, NH, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Hawaii, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, Indiana, Louisiana, Alaska, Michigan, Illinois, Alabama, Idaho | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Grid Automation & Software Intern](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Remote/Grid-Automation---Software-Intern_R5041706) | GE Vernova | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

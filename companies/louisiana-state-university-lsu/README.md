@@ -1,11 +1,11 @@
 # 🏢 Louisiana State University (LSU)
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-29*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-30*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Woodridge, IL, Baton Rouge, LA
+- **Locations:** Baton Rouge, LA, Woodridge, IL
 
 ## Current Opportunities
 

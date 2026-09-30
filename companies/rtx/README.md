@@ -1,11 +1,11 @@
 # 🏢 RTX
 
-**10 active opportunities** | **10 total tracked** | *Last updated: 2026-09-29*
+**10 active opportunities** | **10 total tracked** | *Last updated: 2026-09-30*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Arlington, VA, Indianapolis, IN, Huntsville, AL, Barrie, ON, Canada, Fort Wayne, IN
+- **Categories:** Internship, Fresher Job
+- **Locations:** Andover, MA, Arlington, VA, Huntsville, AL, Goleta, CA, Indianapolis, IN
 
 ## Current Opportunities
 

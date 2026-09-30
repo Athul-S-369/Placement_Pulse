@@ -1,6 +1,6 @@
 # 🏢 COEP MindSpark
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-29*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-09-30*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Webscape](https://unstop.com/competitions/webscape-coep-mindspark-1733306) | COEP MindSpark | India | 🏢 Onsite | — | 2026-09-29 | Unstop |
 
 ## 📖 Interview Preparation
 
