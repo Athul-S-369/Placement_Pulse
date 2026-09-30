@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Westminster, CO, El Segundo, CA, Rochester, MI, Traverse City, MI, Columbus, OH
+- **Locations:** Columbus, OH, Washington, DC, El Segundo, CA, Dublin, OH, Chantilly, VA
 
 ## Current Opportunities
 

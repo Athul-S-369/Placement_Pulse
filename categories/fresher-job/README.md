@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1384 active** | **0 expired** | **1384 total**
+**1385 active** | **0 expired** | **1385 total**
 
 *Last updated: 2026-09-30*
 
@@ -10,6 +10,7 @@
 |------|---------|----------|------|----------------|----------|--------|
 | [Student Worker](https://viatris.wd5.myworkdayjobs.com/External/job/United-States-Remote-Office/Student-Worker_R5674339) | Viatris | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Developer - NAVSUP Programs](https://itcdefense.applytojob.com/apply/2nW7Oe2sf0/Software-Developer-NETC-NAVSUP-Programs) | ITC Defense | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [ASIC Design Engineer](https://ats.rippling.com/positron/jobs/4238837d-83e8-4bab-996e-0702fecb4337) | Positron | Canada, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Front End Developer](https://careers.varsitybrands.com/global/en/job/JR114521) | Varsity Brands | Kansas, Texas, Indiana | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Analytic Developer](https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/Market-Street---4411/Analytic-Developer_JR155338) | Cone Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate GTM Engineer](https://jobs.lever.co/leantaas/c15b6de5-c2bf-4499-9b53-b41960551719/apply) | LeanTaaS | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [AI Training Contributor - French](https://jobs.ashbyhq.com/lilt-production/1819d958-1eb4-4f5c-b5f2-eba8c1a9da55/application?embed=true) | Lilt | Remote in Canada, Québec City, QC, Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Product Manager](https://jobs.ashbyhq.com/n8n/42e72645-d99a-4545-97b7-53ba3a699893/application?embed=true) | n8n | Remote in Germany, Remote in UK, Remote in Ireland, Remote in Spain, Berlin, Germany | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Junior Data Engineer](https://careers-knowledgeservices.icims.com/jobs/31209/job?mobile=true&needsRedirect=false) | Knowledge Services | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Partner Trading and AI Merchandising Executive](https://apply.workable.com/swoon-editions/j/3438545340/apply) | Swoon Editions | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |

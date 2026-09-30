@@ -6,9 +6,9 @@
 
 **India's open-source aggregator for software internships, fresher jobs,<br>hackathons, fellowships, and placement opportunities.**
 
-[![Opportunities](https://img.shields.io/badge/Opportunities-2777-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
-[![Active](https://img.shields.io/badge/Active-2263-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
-[![Companies](https://img.shields.io/badge/Companies-2075-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
+[![Opportunities](https://img.shields.io/badge/Opportunities-2778-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
+[![Active](https://img.shields.io/badge/Active-2264-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
+[![Companies](https://img.shields.io/badge/Companies-2076-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
 [![Updated](https://img.shields.io/badge/Updated-Sep%2030%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**September 30, 2026** &nbsp;—&nbsp; **73** Fresher Job &nbsp;·&nbsp; **69** Internship &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador &nbsp;·&nbsp; **1** Hackathon
+**September 30, 2026** &nbsp;—&nbsp; **74** Fresher Job &nbsp;·&nbsp; **69** Internship &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador &nbsp;·&nbsp; **1** Hackathon
 
-**149 opportunities** added or updated in the latest run (September 30, 2026).
+**150 opportunities** added or updated in the latest run (September 30, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -90,6 +90,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Outcome Engineer - Early in Career Professional](https://jobs.ashbyhq.com/onebrief/a88e10d4-66d8-4911-99e3-3d20351e73d9/application) | One Brief | Remote in USA | Fresher Job | Remote | — |
 | [Software Engineer](https://legalshieldcorp.wd1.myworkdayjobs.com/en-US/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820) | PPLSI | Remote in USA | Fresher Job | Remote | — |
 | [Mobile Developer 1](https://job-boards.greenhouse.io/perfectserve/jobs/6188374004) | PerfectServe | Remote in USA | Fresher Job | Remote | — |
+| [ASIC Design Engineer](https://ats.rippling.com/positron/jobs/4238837d-83e8-4bab-996e-0702fecb4337) | Positron | Canada, Remote in USA | Fresher Job | Remote | — |
 | [Computer Science Specialist - AI Training](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4853457101) | Prolific | Remote in USA | Fresher Job | Remote | — |
 | [Gujarati Speaker](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4891088101) | Prolific | Remote in UK | Fresher Job | Remote | — |
 | [Gujarati Speaker - Freelance - AI Trainer](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4891089101) | Prolific | Remote in Canada | Fresher Job | Remote | — |
@@ -118,7 +119,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Maps Personalization Relevance Rater - English](https://jobs.lever.co/weloglobal/0157c8d2-ccef-4760-89c2-cd874506955f/apply) | Welo Global | Remote in USA | Fresher Job | Remote | — |
 | [Full Stack Engineer](https://jobs.lever.co/hhaexchange/37711e74-f9e9-42c5-9c4f-66df2afab2e2/apply) | hhaexchange | Remote in USA | Fresher Job | Remote | — |
 | [C++ Developer](https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4844280101) | think-cell | Remote in UK | Fresher Job | Remote | — |
-| [Beyond The Pitch-Register for Free](https://unstop.com/workshops-webinars/beyond-the-pitch-the-red-brick-summit-2026-iim-ahmedabad-1762918) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-10-06 |
+| [Day at IIMA](https://unstop.com/workshops-webinars/day-at-iima-the-red-brick-summit-2026-iim-ahmedabad-1761536) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-10-02 |
 | [Performance and Reliability Engineering Intern - Summer 2027](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/T-D-Performance-and-Reliability-Engineering-Intern--Summer-2027-_R1064841) | AES | Dayton, OH, Indianapolis, | Internship | Onsite | — |
 | [Careers at Adobe](https://careers.adobe.com/us/en/) | Adobe | India | Internship | Onsite | — |
 | [Hardware Engineer Intern - Advanced Development](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineer--Advanced-Development-_JR37459-1) | Allegion | Indianapolis, IN | Internship | Onsite | — |
@@ -198,13 +199,14 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 ## Active Opportunities
 
 The 50 most recently added active opportunities across all categories.
-[View all 2777 on the website.](https://athul-s-369.github.io/Placement_Pulse)
+[View all 2778 on the website.](https://athul-s-369.github.io/Placement_Pulse)
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
 | [ADISE Digital Innovation Intern - Cross-functional](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/XMLNAME-2026-2027-Campus-Internship---ADISE-Digital-Innovation---Cross-functional--PhD-_R2068777) | Dow Chemical Company | Collegeville, PA, Houston | Internship | Remote | Open |
 | [Student Worker](https://viatris.wd5.myworkdayjobs.com/External/job/United-States-Remote-Office/Student-Worker_R5674339) | Viatris | Remote in USA | Fresher Job | Remote | Open |
 | [Software Developer - NAVSUP Programs](https://itcdefense.applytojob.com/apply/2nW7Oe2sf0/Software-Developer-NETC-NAVSUP-Programs) | ITC Defense | Remote in USA | Fresher Job | Remote | Open |
+| [ASIC Design Engineer](https://ats.rippling.com/positron/jobs/4238837d-83e8-4bab-996e-0702fecb4337) | Positron | Canada, Remote in USA | Fresher Job | Remote | Open |
 | [Data Scientist Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252) | ICF International | Remote in USA, Reston, VA | Internship | Remote | Open |
 | [Software Intern](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Software-Intern_R2613763) | Cencora | Remote in USA | Internship | Remote | Open |
 | [Analyst Student](https://careers-daktronics.icims.com/jobs/7577/job?mobile=true&needsRedirect=false) | Daktronics | Remote in USA | Internship | Remote | Open |
@@ -251,7 +253,6 @@ The 50 most recently added active opportunities across all categories.
 | [Armageddon: Strategy Case Competition](https://unstop.com/competitions/armageddon-strategy-case-competition-the-red-brick-summit-2026-iim-ahmedabad-1755420) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-10-04 |
 | [NLP Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/NLP-Research-Intern_R106758-1) | Tencent | Remote / Various | Internship | Remote | Open |
 | [Data and Analytics Intern - Multiple Teams](https://careers.principal.com/jobs/52574?icims=1) | Principal Financial Group | Des Moines, IA, Remote in | Internship | Remote | Open |
-| [Business Associate Analyst](https://stbancorp.wd5.myworkdayjobs.com/ST_Bank_Careers/job/Main-Office/Data---Analytics-Associate-Analyst_R-1580) | S&T Bank | Indiana, PA | Fresher Job | Onsite | Open |
 
 ---
 
@@ -259,7 +260,7 @@ The 50 most recently added active opportunities across all categories.
 
 | Category | Total |
 |----------|-------|
-| [Fresher Job](categories/fresher-job/) | 1384 |
+| [Fresher Job](categories/fresher-job/) | 1385 |
 | [Internship](categories/internship/) | 842 |
 | [Hackathon](categories/hackathon/) | 545 |
 | [Open Source Program](categories/open-source-program/) | 2 |
@@ -311,6 +312,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-09-30 05:52 UTC</sub>
+<sub>Last generated: 2026-09-30 15:10 UTC</sub>
 
 </div>

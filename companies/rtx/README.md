@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Andover, MA, Arlington, VA, Huntsville, AL, Goleta, CA, Indianapolis, IN
+- **Locations:** Andover, MA, McKinney, TX, Fort Wayne, IN, Indianapolis, IN, Huntsville, AL
 
 ## Current Opportunities
 
