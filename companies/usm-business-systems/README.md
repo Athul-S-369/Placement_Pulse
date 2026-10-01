@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** El Segundo, CA, Jefferson City, MO, Manassas, VA, Augusta, ME, Westminster, CO
+- **Locations:** Bloomington, MN, Manassas, VA, Westminster, CO, Chantilly, VA, Bluemont, VA
 
 ## Current Opportunities
 

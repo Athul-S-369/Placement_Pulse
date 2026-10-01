@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Fremont, CA, Fremont, CA, Austin, TX
+- **Locations:** Fremont, CA, Austin, TX, Fremont, CA
 
 ## Current Opportunities
 
