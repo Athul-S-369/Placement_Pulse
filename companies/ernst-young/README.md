@@ -1,11 +1,11 @@
 # 🏢 Ernst & Young
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-09-30*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-01*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Nashville, TN, Austin, TX, Atlanta, GA, Salt Lake City, UT, Indianapolis, IN, Houston, TX, Des Moines, IA, Detroit, MI, Tampa, FL, Dallas, TX, Greenville, SC, St. Louis, MO, Alpharetta, GA, Phoenix, AZ, Grandview Heights, OH
+- **Categories:** Fresher Job, Internship
+- **Locations:** Salt Lake City, UT, Indianapolis, IN, Houston, TX, Des Moines, IA, Detroit, MI, Tampa, FL, Dallas, TX, Greenville, SC, St. Louis, MO, Alpharetta, GA, Phoenix, AZ, Grandview Heights, OH, Nashville, TN, Austin, TX, Atlanta, GA
 
 ## Current Opportunities
 

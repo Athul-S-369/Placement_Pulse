@@ -1,6 +1,6 @@
 # 🏢 PepsiCo
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-30*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-10-01*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Pep Sales Stars](https://unstop.com/workshops-webinars/crp-pep-sales-stars-pep-stars-2026-pepsico-1687498) | PepsiCo | India | 🏢 Onsite | — | 2026-09-30 | Unstop |
 
 ## 📖 Interview Preparation
 

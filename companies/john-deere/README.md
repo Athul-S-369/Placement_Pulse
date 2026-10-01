@@ -1,11 +1,11 @@
 # 🏢 John Deere
 
-**7 active opportunities** | **7 total tracked** | *Last updated: 2026-09-30*
+**7 active opportunities** | **7 total tracked** | *Last updated: 2026-10-01*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Urbana, IL, Davenport, IA, Waterloo, IA, Grimes, IA, Sioux Falls, SD
+- **Categories:** Fresher Job, Internship
+- **Locations:** Urbana, IL, Davenport, IA, Grimes, IA, Davenport, IA, Grimes, IA, Ames, IA
 
 ## Current Opportunities
 

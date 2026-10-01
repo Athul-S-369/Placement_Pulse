@@ -1,11 +1,11 @@
 # 🏢 Vanguard
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-09-30*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-01*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Malvern, PA, Dallas, TX, Malvern, PA, Charlotte, NC, Scottsdale, AZ
+- **Locations:** Dallas, TX, Malvern, PA, Charlotte, NC, Malvern, PA, Scottsdale, AZ
 
 ## Current Opportunities
 

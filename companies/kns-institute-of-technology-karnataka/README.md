@@ -1,6 +1,6 @@
 # 🏢 KNS Institute of Technology, Karnataka
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-30*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-10-01*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [KNSIT Tech Community](https://unstop.com/hackathons/knsit-tech-community-kns-institute-of-technology-karnataka-1743721) | KNS Institute of Technology, Karnataka | India | 🏢 Onsite | — | 2026-09-30 | Unstop |
 
 ## 📖 Interview Preparation
 

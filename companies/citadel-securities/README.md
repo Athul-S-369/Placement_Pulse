@@ -1,11 +1,11 @@
 # 🏢 Citadel Securities
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-09-30*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-01*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** London, UK, Miami, FL, NYC, Paris, France, London, UK
+- **Categories:** Fresher Job, Internship
+- **Locations:** Paris, France, London, UK, Miami, FL, NYC, London, UK
 
 ## Current Opportunities
 

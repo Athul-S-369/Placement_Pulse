@@ -1,6 +1,6 @@
 # 🏢 Samagra
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-09-30*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-10-01*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [The Governance Challenge 2026 (TGC 2026)](https://unstop.com/competitions/crp-the-governance-challenge-2026-tgc-2026-samagra-1726557) | Samagra | India | 🏢 Onsite | — | 2026-09-30 | Unstop |
 
 ## 📖 Interview Preparation
 
