@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Jacksonville, FL, Dallas, TX, NYC, St. Louis, MO, Alpharetta, GA
+- **Locations:** San Jose, CA, Novato, CA, St. Louis, MO, Alpharetta, GA, NYC
 
 ## Current Opportunities
 

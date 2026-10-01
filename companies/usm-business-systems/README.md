@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Bloomington, MN, Manassas, VA, Westminster, CO, Chantilly, VA, Bluemont, VA
+- **Locations:** Bloomington, MN, Dublin, OH, Baltimore, MD, Chicago, IL, Augusta, ME
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** United States, SF, Cambridge, MA, Waltham, MA, California
+- **Locations:** SF, Austin, TX, London, UK, Cambridge, UK, Welwyn Garden City, UK, San Jose, CA, Santa Clara, CA
 
 ## Current Opportunities
 

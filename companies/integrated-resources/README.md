@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Birmingham, AL, Cherry Hills Village, CO, Exton, PA, Westborough, MA, Boston, MA
+- **Locations:** Santa Clara, CA, Birmingham, AL, Exton, PA, Cherry Hills Village, CO, Ambler, PA
 
 ## Current Opportunities
 

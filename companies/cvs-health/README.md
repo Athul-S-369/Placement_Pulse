@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Richardson, TX, Smithfield, RI, Hartford, CT, Irving, TX
+- **Locations:** Hartford, CT, Irving, TX, Smithfield, RI, Richardson, TX
 
 ## Current Opportunities
 
