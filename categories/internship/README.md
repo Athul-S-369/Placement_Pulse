@@ -1,13 +1,16 @@
 # 🎓 Internship
 
-**843 active** | **0 expired** | **843 total**
+**846 active** | **0 expired** | **846 total**
 
-*Last updated: 2026-10-01*
+*Last updated: 2026-10-02*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Quant Research Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-Office/Quant-Research-Intern--Summer-2026---London-_JR100353-1) | Jain Global | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [Data Science Intern - Summer 2027 - Program](https://job-boards.greenhouse.io/datacor/jobs/5242412007) | Datacor | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Software Development/Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1) | CACI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Product Analyst Intern - Housing](https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/United-States-Virtual/Summer-2027-Intern--Product-Analyst-Intern---Housing_R-115659) | Assurant | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [ADISE Digital Innovation Intern - Cross-functional](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/XMLNAME-2026-2027-Campus-Internship---ADISE-Digital-Innovation---Cross-functional--PhD-_R2068777) | Dow Chemical Company | Collegeville, PA, Houston, TX, Carrollton, KY, Remote in USA, Freeport, TX, South Charleston, WV, Wilmington, DE, Plaquemine, LA, Auburn, MI, Midland, MI | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Data Scientist Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252) | ICF International | Remote in USA, Reston, VA, Denver, CO | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -105,6 +108,3 @@
 | [Research Scientist Intern - Monetization GenAI - 2026 Start](https://lifeattiktok.com/search/7535623435700766984) | TikTok | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Senior Data Governance Professional](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Nationwide/Data-Governance-Sr-Professional_R-423585) | Humana | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Graduate Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---LLM-Reliability-and-Uncertainty-for-AI-Science-Assistants_R14416) | National Laboratory of the Rockies | Remote in USA, Golden, CO | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Product Manager Intern](https://ats.rippling.com/pendulum-intelligence-jobs/jobs/301a1742-46fd-4489-b410-6fdcac0dbe27) | Pendulum Intelligence | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Product Intern](https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true) | Hubs.is | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Summer Associate - Enterprise AI & Insights - 8 Week Program](https://asmglobal.wd1.myworkdayjobs.com/careers/job/Remote-USA/Summer-Associate--Enterprise-AI---Insights--8-10-Week-Program-_R100119581) | ASM Global | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

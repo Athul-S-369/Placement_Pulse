@@ -1,8 +1,8 @@
 # 🏆 Hackathon
 
-**28 active** | **517 expired** | **545 total**
+**24 active** | **521 expired** | **545 total**
 
-*Last updated: 2026-10-01*
+*Last updated: 2026-10-02*
 
 ## Active Opportunities
 
@@ -10,7 +10,6 @@
 |------|---------|----------|------|----------------|----------|--------|
 | [QA in the Age of AI: Reimagining Software Quality for the Intelligent Era](https://unstop.com/workshops-webinars/qa-in-the-age-of-ai-reimagining-software-quality-for-the-intelligent-era-acl-digital-1756600) | ACL Digital | India | 🏢 Onsite | — | 2026-10-06 | Unstop |
 | [Armageddon: Strategy Case Competition](https://unstop.com/competitions/armageddon-strategy-case-competition-the-red-brick-summit-2026-iim-ahmedabad-1755420) | Indian Institute of Management (IIM), Ahmedabad | India | 🏢 Onsite | — | 2026-10-04 | Unstop |
-| [Commercio Artikel - Article Writing Competition](https://unstop.com/competitions/commercio-artikel-article-writing-competition-trade-winds-2026-iift-new-delhi-1754500) | Indian Institute of Foreign Trade (IIFT), New Delhi | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
 | [Stainless Spark – Engineering Innovation, Building Futures](https://unstop.com/competitions/crp-stainless-spark-engineering-innovation-building-futures-stainless-spark-case-study-competition-jindal-stain-1572025) | Jindal Stainless Limited | India | 🏢 Onsite | — | 2026-11-19 | Unstop |
 | [Tata Imagination Challenge 2026](https://unstop.com/competitions/crp-tata-imagination-challenge-2026-tata-group-1740413) | Tata Group | India | 🏢 Onsite | — | 2026-12-06 | Unstop |
 | [Slay Cybersecurity Conference and Workshop](https://unstop.com/workshops-webinars/slay-cybersecurity-conference-and-workshop-jalpaiguri-government-engineering-college-jgec-west-bengal-1743199) | Jalpaiguri Government Engineering College (JGEC), West Bengal | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
@@ -18,10 +17,8 @@
 | [Horizon](https://unstop.com/hackathons/horizon-hoollow-1726596) | Hoollow | India | 🏢 Onsite | — | 2026-10-19 | Unstop |
 | [MOSIP Decode 2026](https://unstop.com/hackathons/mosip-decode-2026-synergy-26-international-institute-of-information-technology-iiit-bangalore-1735221) | International Institute of Information Technology (IIIT), Bangalore | India | 🏢 Onsite | — | 2026-11-06 | Unstop |
 | [CodeNeuraX: AlgoRush](https://unstop.com/hackathons/codeneurax-algorush-codeneurax-1737089) | CodeNeuraX | India | 🏢 Onsite | — | 2026-12-18 | Unstop |
-| [A-1 Launchpad: Launch your Career with Us](https://unstop.com/competitions/a-1-launchpad-launch-your-career-with-us-a-1-fence-products-company-pvt-ltd-1718561) | A-1 Fence Products Company Pvt. Ltd. | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
 | [MHTECHIN Innovation Challenge 2026](https://unstop.com/competitions/mhtechin-innovation-challenge-2026-mhtechin-1715258) | MHTECHIN | India | 🏢 Onsite | — | 2026-10-31 | Unstop |
 | [Edge AI Hackathon 2026](https://unstop.com/hackathons/edge-ai-hackathon-2026-parala-maharaja-engineering-college-berhampur-1720578) | Parala Maharaja Engineering College, Berhampur | India | 🏢 Onsite | — | 2026-10-06 | Unstop |
-| [Precision Care Challenge 2026](https://unstop.com/hackathons/crp-precision-care-challenge-2026-ge-healthcare-1731208) | GE HealthCare | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
 | [ReLead 9.0](https://unstop.com/competitions/crp-relead-90-renew-1728228) | ReNew | India | 🏢 Onsite | — | 2026-10-08 | Unstop |
 | [Bitmela Launchpad: Ideathon 01](https://unstop.com/hackathons/bitmela-launchpad-ideathon-01-bitmela-1722812) | Bitmela | India | 🏢 Onsite | — | 2026-10-31 | Unstop |
 | [Britannia Creatovate 2.0 - Sales and Marketing Track](https://unstop.com/competitions/crp-britannia-creatovate-20-sales-and-marketing-track-britannia-industries-ltd-1730216) | Britannia Industries Ltd. | India | 🏢 Onsite | — | 2026-11-17 | Unstop |
@@ -35,12 +32,15 @@
 | [Indradhanu: PCCOE International Grand Challenge 2026](https://unstop.com/hackathons/indradhanu-pccoe-international-grand-challenge-2026-pimpri-chinchwad-college-of-engineering-pccoe-pune-1710779) | Pimpri Chinchwad College of Engineering (PCCOE), Pune | India | 🏢 Onsite | — | 2027-02-15 | Unstop |
 | [Can you solve what 4100+ professionals were struggling with?](https://unstop.com/competitions/can-you-solve-what-4100-professionals-were-struggling-with-generally-critical-1710246) | Generally Critical | India | 🏢 Onsite | — | 2026-12-31 | Unstop |
 | [Students' Research Conclave 4.0](https://unstop.com/competitions/students-research-conclave-40-symbiosis-centre-for-management-studies-scms-pune-1709716) | Symbiosis Centre for Management Studies (SCMS), Pune | India | 🏢 Onsite | — | 2026-11-15 | Unstop |
-| [Campus Ambassador - Asian Paints Alchemy 2026](https://unstop.com/competitions/crp-campus-ambassador-asian-paints-alchemy-2026-asian-paints-1708823) | Asian Paints | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
 
 ## Recently Expired
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Campus Ambassador - Asian Paints Alchemy 2026](https://unstop.com/competitions/crp-campus-ambassador-asian-paints-alchemy-2026-asian-paints-1708823) | Asian Paints | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
+| [Precision Care Challenge 2026](https://unstop.com/hackathons/crp-precision-care-challenge-2026-ge-healthcare-1731208) | GE HealthCare | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
+| [A-1 Launchpad: Launch your Career with Us](https://unstop.com/competitions/a-1-launchpad-launch-your-career-with-us-a-1-fence-products-company-pvt-ltd-1718561) | A-1 Fence Products Company Pvt. Ltd. | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
+| [Commercio Artikel - Article Writing Competition](https://unstop.com/competitions/commercio-artikel-article-writing-competition-trade-winds-2026-iift-new-delhi-1754500) | Indian Institute of Foreign Trade (IIFT), New Delhi | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
 | [Pep Sales Stars](https://unstop.com/workshops-webinars/crp-pep-sales-stars-pep-stars-2026-pepsico-1687498) | PepsiCo | India | 🏢 Onsite | — | 2026-09-30 | Unstop |
 | [AlgoSprint 2026 – Online Coding Challenge](https://unstop.com/hackathons/algosprint-2026-online-coding-challenge-gyan-ganga-college-of-technology-ggct-1710621) | Gyan Ganga College Of Technology (GGCT) | India | 🏢 Onsite | — | 2026-09-30 | Unstop |
 | [The Governance Challenge 2026 (TGC 2026)](https://unstop.com/competitions/crp-the-governance-challenge-2026-tgc-2026-samagra-1726557) | Samagra | India | 🏢 Onsite | — | 2026-09-30 | Unstop |
@@ -57,7 +57,3 @@
 | [Segue 3.0 : Global Design Thinking Challenge (Online + Offline)](https://unstop.com/hackathons/segue-30-global-design-thinking-challenge-online-offline-schooloffutureskillscomsegue-3-0-noida-institute-of--1712134) | Noida Institute of Engineering And Technology (NIET), Greater Noida | India | 🏢 Onsite | — | 2026-09-26 | Unstop |
 | [InnoVenture 2026 – International Innovation & Technology Challenge](https://unstop.com/hackathons/innoventure-2026-international-innovation-technology-challenge-amity-university-au-noida-1726797) | Amity University (AU), Noida | India | 🏢 Onsite | — | 2026-09-26 | Unstop |
 | [Kautilya Colloquy 2026: Niti-in-Quest | National Level Policy Quiz Competition](https://unstop.com/quiz/kautilya-colloquy-2026-niti-in-quest-national-level-policy-quiz-competition-kautilya-school-of-public-policy-gitam--1729809) | Kautilya School of Public Policy, Gitam University, Telangana | India | 🏢 Onsite | — | 2026-09-25 | Unstop |
-| [Moneyball: The Football Auction (Interface 2026)](https://unstop.com/competitions/moneyball-the-football-auction-interface-2026-department-of-management-dom-birla-institute-of-technology-an-1744520) | Department of Management (DoM), Birla Institute of Technology and Science (BITS), Pilani | India | 🏢 Onsite | — | 2026-09-25 | Unstop |
-| [The Nation Builders 2026](https://unstop.com/competitions/the-nation-builders-2026-teachers-day-youthisthan-foundation-1755432) | Youthisthan Foundation | India | 🏢 Onsite | — | 2026-09-25 | Unstop |
-| [Matrix 2026](https://unstop.com/hackathons/matrix-2026-government-engineering-college-gec-thrissur-1737241) | Government Engineering College (GEC), Thrissur | India | 🏢 Onsite | — | 2026-09-24 | Unstop |
-| [AUREX'26 - Classical Tamil's First Lingual Tech Hackathon](https://unstop.com/hackathons/aurex26-classical-tamils-first-lingual-tech-hackathon-central-institute-of-classical-tamil-cict-1736281) | Central Institute of Classical Tamil CICT | India | 🏢 Onsite | — | 2026-09-24 | Unstop |

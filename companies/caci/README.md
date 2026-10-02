@@ -1,16 +1,17 @@
 # 🏢 CACI
 
-**6 active opportunities** | **6 total tracked** | *Last updated: 2026-10-01*
+**7 active opportunities** | **7 total tracked** | *Last updated: 2026-10-02*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Riverside, CA, Hanover, MD, Bethesda, MD, Remote in USA, Sterling, VA, Denver, CO, Remote in USA, Hanover, MD
+- **Categories:** Internship, Fresher Job
+- **Locations:** Fayetteville, NC, Remote in USA, Hanover, MD, Riverside, CA, Bethesda, MD, Remote in USA
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Development/Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1) | CACI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Early Career - Cloud](https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679) | CACI | Remote in USA, Hanover, MD | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999) | CACI | Remote in USA, Sterling, VA, Denver, CO | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Data Dictionary Software Engineer 1](https://caci.wd1.myworkdayjobs.com/en-US/External/job/US-MD-Hanover/Data-Dictionary-Software-Engineer-1_320288) | CACI | Hanover, MD | 🏢 Onsite | — | — | SimplifyJobs New Grad |

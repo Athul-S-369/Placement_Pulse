@@ -1,11 +1,11 @@
 # 🏢 Honeywell
 
-**5 active opportunities** | **5 total tracked** | *Last updated: 2026-10-01*
+**5 active opportunities** | **5 total tracked** | *Last updated: 2026-10-02*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** St. Charles, IL, Mason, OH, Clearwater, FL, Minneapolis, MN, Phoenix, AZ, North Haven, CT
+- **Locations:** Mason, OH, North Haven, CT, St. Charles, IL, Clearwater, FL, Minneapolis, MN, Phoenix, AZ
 
 ## Current Opportunities
 

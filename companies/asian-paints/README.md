@@ -1,6 +1,6 @@
 # 🏢 Asian Paints
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-01*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-10-02*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Campus Ambassador - Asian Paints Alchemy 2026](https://unstop.com/competitions/crp-campus-ambassador-asian-paints-alchemy-2026-asian-paints-1708823) | Asian Paints | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
 
 ## 📖 Interview Preparation
 
