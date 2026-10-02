@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Dublin, OH, Jefferson City, MO, Columbus, OH, Augusta, ME, Bluemont, VA
+- **Locations:** Dublin, OH, Traverse City, MI, San Antonio, TX, Rochester, MI, Augusta, ME
 
 ## Current Opportunities
 

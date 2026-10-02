@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** London, UK, Gloucester, UK, San Diego, CA, Beaverton, OR, SF
+- **Locations:** United States, California, Austin, TX, Santa Clara, CA, London, UK
 
 ## Current Opportunities
 

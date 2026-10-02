@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** State College, PA, Remote in USA
+- **Locations:** Remote in USA, State College, PA
 
 ## Current Opportunities
 
