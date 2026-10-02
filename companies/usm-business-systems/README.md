@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Dublin, OH, Traverse City, MI, San Antonio, TX, Rochester, MI, Augusta, ME
+- **Categories:** Fresher Job, Internship
+- **Locations:** Alexandria, VA, Rochester, MI, NYC, Westminster, CO, Dublin, OH
 
 ## Current Opportunities
 

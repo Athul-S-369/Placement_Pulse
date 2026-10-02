@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** United States, California, Austin, TX, Santa Clara, CA, London, UK
+- **Categories:** Fresher Job, Internship
+- **Locations:** London, UK, United States, Cupertino, CA, Cambridge, MA, San Jose, CA
 
 ## Current Opportunities
 

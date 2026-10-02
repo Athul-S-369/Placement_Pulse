@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** NYC, Thousand Oaks, CA, Hartford, CT, Plainview, NY, Dallas, TX
+- **Categories:** Fresher Job, Internship
+- **Locations:** Broomfield, CO, Dallas, TX, Sunnyvale, CA, San Jose, CA, Jacksonville, FL
 
 ## Current Opportunities
 
