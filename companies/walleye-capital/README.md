@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Miami, FL, NYC, Boston, MA
+- **Locations:** Miami, FL, Boston, MA, NYC
 
 ## Current Opportunities
 

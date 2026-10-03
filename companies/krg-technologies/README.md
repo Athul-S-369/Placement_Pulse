@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Bellevue, WA, Hillsboro, OR, Phoenix, AZ, Redmond, WA, Tampa, FL
+- **Locations:** Tampa, FL, Folsom, CA, Hillsboro, OR, Redmond, WA, Bellevue, WA
 
 ## Current Opportunities
 

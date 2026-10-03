@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Ashburn, VA, Nashville, TN, Austin, TX, United States, Pleasanton, CA, San Carlos, CA, Santa Clara, CA, Kitchener, ON, Canada, United States
+- **Locations:** Ashburn, VA, United States, Santa Clara, CA, Nashville, TN, Kitchener, ON, Canada
 
 ## Current Opportunities
 

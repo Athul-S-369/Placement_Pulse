@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Washington, DC, Bluemont, VA, Dublin, OH, El Segundo, CA, Columbus, OH
+- **Locations:** Dublin, OH, Manassas, VA, Traverse City, MI, Rochester, MI, Chicago, IL
 
 ## Current Opportunities
 
