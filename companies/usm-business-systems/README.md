@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Bluemont, VA, Jefferson City, MO, Chantilly, VA, California City, CA, St. Louis, MO
+- **Locations:** Washington, DC, Bluemont, VA, Dublin, OH, El Segundo, CA, Columbus, OH
 
 ## Current Opportunities
 

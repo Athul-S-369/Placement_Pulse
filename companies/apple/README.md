@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Beaverton, OR, Austin, TX, United States, San Diego, CA, Morrisville, NC
+- **Locations:** California, Gloucester, UK, Cupertino, CA, Austin, TX, San Diego, CA
 
 ## Current Opportunities
 
