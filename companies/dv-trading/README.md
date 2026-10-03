@@ -1,11 +1,11 @@
 # 🏢 DV Trading
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-02*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-03*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** NYC, London, UK, Chicago, IL
+- **Locations:** London, UK, NYC, Chicago, IL
 
 ## Current Opportunities
 

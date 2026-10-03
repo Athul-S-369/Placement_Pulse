@@ -1,11 +1,11 @@
 # 🏢 Scale AI
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-02*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-03*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** SF, SF, NYC
+- **Locations:** SF, NYC, SF
 
 ## Current Opportunities
 
