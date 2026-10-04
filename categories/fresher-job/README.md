@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1386 active** | **0 expired** | **1386 total**
+**1387 active** | **0 expired** | **1387 total**
 
 *Last updated: 2026-10-04*
 
@@ -9,6 +9,7 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [Associate Product Manager](https://jobs.ashbyhq.com/highlightta/e9cbe4ec-16d4-4734-8a80-bbb66ef95752/application?embed=true) | HighlightTA | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Data Scientist 1](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Data-Scientist-I_R13840) | CareSource | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Student Worker](https://viatris.wd5.myworkdayjobs.com/External/job/United-States-Remote-Office/Student-Worker_R5674339) | Viatris | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Developer - NAVSUP Programs](https://itcdefense.applytojob.com/apply/2nW7Oe2sf0/Software-Developer-NETC-NAVSUP-Programs) | ITC Defense | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [ASIC Design Engineer](https://ats.rippling.com/positron/jobs/4238837d-83e8-4bab-996e-0702fecb4337) | Positron | Canada, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Field Technician](https://binsentry.bamboohr.com/careers/273/) | BinSentry | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [GIS Specialist - Multiple Levels](https://careers-nv5.icims.com/jobs/12490/job?mobile=true&needsRedirect=false) | NV5 Global | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Training Contributor - French](https://jobs.ashbyhq.com/lilt-production/1819d958-1eb4-4f5c-b5f2-eba8c1a9da55/application?embed=true) | Lilt | Remote in Canada, Québec City, QC, Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [AI Product Manager](https://jobs.ashbyhq.com/n8n/42e72645-d99a-4545-97b7-53ba3a699893/application?embed=true) | n8n | Remote in Germany, Remote in UK, Remote in Ireland, Remote in Spain, Berlin, Germany | 🌐 Remote | — | — | SimplifyJobs New Grad |

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Jefferson City, MO, Bloomington, MN, Dublin, OH, Chantilly, VA, Alexandria, VA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Traverse City, MI, NYC, Bloomington, MN, Augusta, ME, Columbus, OH
 
 ## Current Opportunities
 

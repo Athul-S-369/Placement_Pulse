@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**848 active** | **0 expired** | **848 total**
+**849 active** | **0 expired** | **849 total**
 
 *Last updated: 2026-10-04*
 
@@ -8,6 +8,7 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Firmware Intern - Firmware](https://jobs.ashbyhq.com/Etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc/application) | Etched.ai | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Engineering Graduate Intern](https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Graduate-Intern---Summer-2027_JR209082) | Elevance Health | Indianapolis, IN, Richmond, VA, Chicago, IL, Atlanta, GA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Co-op - Agents](https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application?embed=true) | Solink | Ottawa, ON, Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Quant Research Intern](https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/London-Office/Quant-Research-Intern--Summer-2026---London-_JR100353-1) | Jain Global | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
@@ -107,4 +108,3 @@
 | [ServiceNow Developer Associate](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/Cyber-ServiceNow-Developer-Associate---Summer-2027_JR117288) | RSM | Indianapolis, IN, Chicago, IL | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100107) | Ambarella | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Data Analytics Intern](https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005) | Golden Pet Brands | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Research Scientist Intern - Monetization GenAI - 2026 Start](https://lifeattiktok.com/search/7535623435700766984) | TikTok | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |

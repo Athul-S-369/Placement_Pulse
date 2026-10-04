@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Chicago, IL, NYC, London, UK, Chicago, IL
+- **Categories:** Fresher Job, Internship
+- **Locations:** London, UK, Chicago, IL, Chicago, IL, NYC
 
 ## Current Opportunities
 
