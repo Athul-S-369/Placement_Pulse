@@ -1,11 +1,11 @@
 # 🏢 Super
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-03*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-04*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote in Canada, Toronto, ON, Canada, Remote in Canada, Toronto, ON, Canada
+- **Locations:** Remote in Canada, Toronto, ON, Canada, Toronto, ON, Canada, Remote in Canada
 
 ## Current Opportunities
 

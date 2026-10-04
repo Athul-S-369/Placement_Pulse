@@ -1,11 +1,11 @@
 # 🏢 Welo Global
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-03*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-04*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in Canada, Remote in UK, Remote in USA
+- **Locations:** Remote in USA, Remote in Canada, Remote in UK
 
 ## Current Opportunities
 

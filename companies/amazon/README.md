@@ -1,11 +1,11 @@
 # 🏢 Amazon
 
-**15 active opportunities** | **16 total tracked** | *Last updated: 2026-10-03*
+**15 active opportunities** | **16 total tracked** | *Last updated: 2026-10-04*
 
 ## Overview
 
-- **Categories:** Hackathon, Fresher Job, Internship
-- **Locations:** India, Indianapolis, IN, Hyderabad, Telangana, India, Sunnyvale, CA, London, UK, Winnipeg, MB, Canada, Toronto, ON, Canada, Victoria, BC, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada
+- **Categories:** Fresher Job, Hackathon, Internship
+- **Locations:** Seattle, WA, SF, London, UK, Edinburgh, UK, Cambridge, UK, Tempe, AZ, London, UK, NYC, Culver City, CA, Santa Clara, CA, Boston, MA, Seattle, WA, Denver, CO, SF, Arlington, VA, Sunnyvale, CA, Brooklyn, NY, Williston Park, NY
 
 ## Current Opportunities
 

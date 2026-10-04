@@ -1,11 +1,11 @@
 # 🏢 Infojini
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-03*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-04*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Columbia, SC, Battle Creek, MI, Atlanta, GA
+- **Locations:** Columbia, SC, Atlanta, GA, Battle Creek, MI
 
 ## Current Opportunities
 

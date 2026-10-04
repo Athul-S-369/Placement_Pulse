@@ -10,7 +10,7 @@
 [![Active](https://img.shields.io/badge/Active-2262-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
 [![Companies](https://img.shields.io/badge/Companies-2080-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
-[![Updated](https://img.shields.io/badge/Updated-Oct%2003%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
+[![Updated](https://img.shields.io/badge/Updated-Oct%2004%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
 [Latest Run](#latest-run) &nbsp;·&nbsp;
 [Active Opportunities](#active-opportunities) &nbsp;·&nbsp;
@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**October 03, 2026** &nbsp;—&nbsp; **73** Internship &nbsp;·&nbsp; **69** Fresher Job &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador &nbsp;·&nbsp; **1** Hackathon
+**October 04, 2026** &nbsp;—&nbsp; **73** Internship &nbsp;·&nbsp; **68** Fresher Job &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador &nbsp;·&nbsp; **1** Hackathon
 
-**149 opportunities** added or updated in the latest run (October 03, 2026).
+**148 opportunities** added or updated in the latest run (October 04, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -60,7 +60,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Creator Circle - Dipper](https://jobs.ashbyhq.com/dipper/ce3c338e-73e8-47ce-8c16-eafc331f6b16/application?embed=true) | Dipper | Remote in USA | Fresher Job | Remote | — |
 | [Associate Software Engineer](https://jobs.lever.co/fiscalnote/c76e748f-6e25-42cf-bf26-ebae44280ffd/apply) | FiscalNote | Remote in USA | Fresher Job | Remote | — |
 | [Software Engineer](https://jobs.ashbyhq.com/foundationhealthcareers/e5a46260-f26d-4c62-a641-defcc04db137/application?embed=true) | Foundation Health | Orlando, FL, Remote in US | Fresher Job | Remote | — |
-| [Product Manager - Inventory & Orders](https://job-boards.greenhouse.io/fourkites/jobs/7984869) | FourKites | Remote in USA, Chicago, I | Fresher Job | Remote | — |
 | [Feed Integrations Associate](https://job-boards.greenhouse.io/garnerhealth/jobs/6112552004) | Garner Health | Remote in USA | Fresher Job | Remote | — |
 | [Analyst 1](https://jobs.lever.co/hsag/2937f26a-3e66-4d42-ba61-c26e5b52f488/apply) | Health Services Advisory Gro | Remote in USA | Fresher Job | Remote | — |
 | [Data Analyst](https://ats.rippling.com/hunterstrategy/jobs/ed17a8a3-821b-472b-912a-ef4c91ea45ec) | Hunter Strategy | Remote in USA | Fresher Job | Remote | — |
@@ -286,13 +285,13 @@ The 50 most recently added active opportunities across all categories.
 
 ## Archive
 
-- [October 03, 2026 — Today](daily/2026/October/2026-10-03.md)
+- [October 04, 2026 — Today](daily/2026/October/2026-10-04.md)
+- [October 03, 2026](daily/2026/October/2026-10-03.md)
 - [October 02, 2026](daily/2026/October/2026-10-02.md)
 - [October 01, 2026](daily/2026/October/2026-10-01.md)
 - [September 30, 2026](daily/2026/September/2026-09-30.md)
 - [September 29, 2026](daily/2026/September/2026-09-29.md)
 - [September 28, 2026](daily/2026/September/2026-09-28.md)
-- [September 27, 2026](daily/2026/September/2026-09-27.md)
 
 [Full archive](daily/)
 
@@ -311,6 +310,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-10-03 19:22 UTC</sub>
+<sub>Last generated: 2026-10-04 06:14 UTC</sub>
 
 </div>

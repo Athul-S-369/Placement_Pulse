@@ -1,11 +1,11 @@
 # 🏢 Western Digital
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-03*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-04*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Fremont, CA, San Jose, CA
+- **Locations:** San Jose, CA, Fremont, CA
 
 ## Current Opportunities
 
