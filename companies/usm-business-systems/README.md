@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** St. Louis, MO, Westminster, CO, NYC, Southfield, MI, Baltimore, MD
+- **Categories:** Internship, Fresher Job
+- **Locations:** Jefferson City, MO, Bloomington, MN, Dublin, OH, Chantilly, VA, Alexandria, VA
 
 ## Current Opportunities
 

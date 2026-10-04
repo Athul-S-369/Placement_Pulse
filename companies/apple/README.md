@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** SF, Cambridge, MA, Beaverton, OR, Gloucester, UK, Lafayette, KS
+- **Categories:** Internship, Fresher Job
+- **Locations:** Lafayette, KS, Morrisville, NC, United States, Austin, TX, San Jose, CA
 
 ## Current Opportunities
 

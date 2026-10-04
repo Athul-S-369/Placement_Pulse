@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Jacksonville, FL, St. Louis, MO, Hartford, CT, Novato, CA, Plainview, NY
+- **Categories:** Internship, Fresher Job
+- **Locations:** Broomfield, CO, Novato, CA, Alpharetta, GA, San Jose, CA, Plainview, NY
 
 ## Current Opportunities
 
