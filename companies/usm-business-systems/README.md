@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Manassas, VA, Dublin, OH, Chicago, IL, Alexandria, VA, Traverse City, MI
+- **Locations:** NYC, Bloomington, MN, Washington, DC, Chantilly, VA, Columbus, OH
 
 ## Current Opportunities
 

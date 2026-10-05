@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**849 active** | **0 expired** | **849 total**
+**851 active** | **0 expired** | **851 total**
 
 *Last updated: 2026-10-05*
 
@@ -8,6 +8,8 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [HubSpot Software Engineer Intern - Co-op Placement & Industrial Placement Program](https://www.hubspot.com/careers/jobs/7283239?gh_jid=7283239) | HubSpot | Remote in UK | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Intelligence Transformation Intern](https://jobs.jobvite.com/sikichcareers/job/oGOPAfwD?nl=1&nl=1&fr=false) | Sikich | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Firmware Intern - Firmware](https://jobs.ashbyhq.com/Etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc/application) | Etched.ai | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Engineering Graduate Intern](https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Graduate-Intern---Summer-2027_JR209082) | Elevance Health | Indianapolis, IN, Richmond, VA, Chicago, IL, Atlanta, GA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Co-op - Agents](https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application?embed=true) | Solink | Ottawa, ON, Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -106,5 +108,3 @@
 | [Application Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1) | Leidos | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Marketing Analytics Intern](https://careers.kodak.com/job/USA-Marketing-Analytics-Intern-CA/1412894200/?ats=successfactors) | Kodak | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [ServiceNow Developer Associate](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/Cyber-ServiceNow-Developer-Associate---Summer-2027_JR117288) | RSM | Indianapolis, IN, Chicago, IL | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Software Engineer Intern](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100107) | Ambarella | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
-| [Data Analytics Intern](https://job-boards.greenhouse.io/goldenpetbrands/jobs/4713182005) | Golden Pet Brands | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

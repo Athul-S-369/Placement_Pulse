@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**22 active** | **523 expired** | **545 total**
+**22 active** | **525 expired** | **547 total**
 
 *Last updated: 2026-10-05*
 
