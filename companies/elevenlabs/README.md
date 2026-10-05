@@ -1,16 +1,17 @@
 # 🏢 ElevenLabs
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-04*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-05*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, Remote in UK
+- **Locations:** Remote in USA, Remote in UK, London, UK, Remote in UK
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Forward Deployed Engineer - Software Engineer](https://jobs.ashbyhq.com/elevenlabs/2d0016e0-3cc2-4ec7-b164-bc2b83990fb6/application?embed=true) | ElevenLabs | London, UK, Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Full-Stack Growth Engineer](https://jobs.ashbyhq.com/elevenlabs/5881bc5d-765a-430e-9d28-7d598a0e1a03/application) | ElevenLabs | Remote in USA, Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 
 ## 📖 Interview Preparation

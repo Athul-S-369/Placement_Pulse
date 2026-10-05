@@ -1,11 +1,11 @@
 # 🏢 RTX
 
-**10 active opportunities** | **10 total tracked** | *Last updated: 2026-10-04*
+**10 active opportunities** | **10 total tracked** | *Last updated: 2026-10-05*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** McKinney, TX, Cedar Rapids, IA, Arlington, VA, Indianapolis, IN, Longueuil, QC, Canada
+- **Categories:** Internship, Fresher Job
+- **Locations:** Longueuil, QC, Canada, Goleta, CA, Barrie, ON, Canada, McKinney, TX, Fort Wayne, IN
 
 ## Current Opportunities
 

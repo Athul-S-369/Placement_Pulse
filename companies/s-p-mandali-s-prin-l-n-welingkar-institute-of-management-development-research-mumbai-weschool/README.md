@@ -1,6 +1,6 @@
 # 🏢 S.P. Mandali's, Prin. L. N. Welingkar Institute of Management Development & Research, Mumbai (WeSchool)
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-10-04*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-10-05*
 
 ## Overview
 
