@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** San Jose, CA, Waltham, MA, Cupertino, CA, Santa Clara, CA, California
+- **Categories:** Fresher Job, Internship
+- **Locations:** SF, Cambridge, MA, London, UK, Cambridge, UK, Welwyn Garden City, UK, London, UK, Cupertino, CA
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** NYC, Bloomington, MN, Washington, DC, Chantilly, VA, Columbus, OH
+- **Categories:** Fresher Job, Internship
+- **Locations:** Chantilly, VA, Augusta, ME, Bloomington, MN, St. Louis, MO, Chicago, IL
 
 ## Current Opportunities
 
