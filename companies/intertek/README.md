@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Lake Forest, CA, York, PA
+- **Locations:** York, PA, Lake Forest, CA
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote / Various, Dallas, TX
+- **Locations:** Dallas, TX, Remote / Various
 
 ## Current Opportunities
 
