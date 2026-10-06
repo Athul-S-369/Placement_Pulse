@@ -1,11 +1,11 @@
 # 🏢 Atria Group
 
-**13 active opportunities** | **13 total tracked** | *Last updated: 2026-10-05*
+**13 active opportunities** | **13 total tracked** | *Last updated: 2026-10-06*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Broomfield, CO, Alpharetta, GA, Plainview, NY, Hartford, CT, Thousand Oaks, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** NYC, Plainview, NY, Alpharetta, GA, Broomfield, CO, Jacksonville, FL
 
 ## Current Opportunities
 

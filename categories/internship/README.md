@@ -1,13 +1,16 @@
 # 🎓 Internship
 
-**851 active** | **0 expired** | **851 total**
+**854 active** | **0 expired** | **854 total**
 
-*Last updated: 2026-10-05*
+*Last updated: 2026-10-06*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer Intern](https://job-boards.greenhouse.io/khanacademy/jobs/8250259) | Khan Academy | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Software Engineer Intern: Agent Commerce](https://ats.rippling.com/joinroot/jobs/845e02f9-86ee-41f9-a9ad-730ed08fca3b) | Root Insurance | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Electronics Hardware Systems Engineer Co-op](https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4432) | Rheem | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [HubSpot Software Engineer Intern - Co-op Placement & Industrial Placement Program](https://www.hubspot.com/careers/jobs/7283239?gh_jid=7283239) | HubSpot | Remote in UK | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Intelligence Transformation Intern](https://jobs.jobvite.com/sikichcareers/job/oGOPAfwD?nl=1&nl=1&fr=false) | Sikich | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Firmware Intern - Firmware](https://jobs.ashbyhq.com/Etched/699f3ab2-07e4-466c-9d76-3d4a3abb4ebc/application) | Etched.ai | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
@@ -105,6 +108,3 @@
 | [Data Analysis Intern](https://jobs.lever.co/calstart/39565f0d-d10f-458b-b72d-d807420059b8/apply) | CALSTART | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Product Developer Intern](https://jobs.ashbyhq.com/colonist/b9285b46-6972-4443-b34f-8d74631a0dbd/application?embed=true) | Colonist | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Engineering Co-op](https://clearesult.wd1.myworkdayjobs.com/CLEAResult_External_Careers/job/Remote---Canada---ON/Engineering-Co-op_R0017831) | CLEAResult | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Application Developer Intern](https://leidos.wd5.myworkdayjobs.com/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1) | Leidos | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Marketing Analytics Intern](https://careers.kodak.com/job/USA-Marketing-Analytics-Intern-CA/1412894200/?ats=successfactors) | Kodak | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [ServiceNow Developer Associate](https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/Chicago/Cyber-ServiceNow-Developer-Associate---Summer-2027_JR117288) | RSM | Indianapolis, IN, Chicago, IL | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

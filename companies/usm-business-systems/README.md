@@ -1,11 +1,11 @@
 # 🏢 USM Business Systems
 
-**21 active opportunities** | **21 total tracked** | *Last updated: 2026-10-05*
+**21 active opportunities** | **21 total tracked** | *Last updated: 2026-10-06*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Chantilly, VA, Augusta, ME, Bloomington, MN, St. Louis, MO, Chicago, IL
+- **Categories:** Internship, Fresher Job
+- **Locations:** Rochester, MI, Bluemont, VA, Traverse City, MI, Southfield, MI, Alexandria, VA
 
 ## Current Opportunities
 

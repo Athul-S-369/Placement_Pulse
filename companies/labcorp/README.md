@@ -1,11 +1,11 @@
 # 🏢 LabCorp
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-05*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-06*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote in USA, Milwaukee, WI, Remote in USA
+- **Locations:** Remote in USA, Remote in USA, Milwaukee, WI
 
 ## Current Opportunities
 

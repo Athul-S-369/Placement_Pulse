@@ -1,6 +1,6 @@
 # 🏢 Department of Management (DoM), Birla Institute of Technology and Science (BITS), Pilani
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-10-05*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-10-06*
 
 ## Overview
 
