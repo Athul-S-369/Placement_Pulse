@@ -1,11 +1,11 @@
 # 🏢 Paramount Global
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-06*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-07*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Burbank, CA, Hollywood, LA, NYC, Hollywood, LA, NYC
+- **Locations:** Hollywood, LA, NYC, Burbank, CA, Hollywood, LA, NYC
 
 ## Current Opportunities
 

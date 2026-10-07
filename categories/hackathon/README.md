@@ -1,15 +1,14 @@
 # 🏆 Hackathon
 
-**23 active** | **525 expired** | **548 total**
+**20 active** | **528 expired** | **548 total**
 
-*Last updated: 2026-10-06*
+*Last updated: 2026-10-07*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [Barter Mania- " The Ultimate Barter Challenge"](https://unstop.com/competitions/barter-mania-the-ultimate-barter-challenge-atma-ram-sanatan-dharma-college-arsd-du-new-delhi-1766643) | Atma Ram Sanatan Dharma College (ARSD), University of Delhi (DU), New Delhi | India | 🏢 Onsite | — | 2026-10-14 | Unstop |
-| [QA in the Age of AI: Reimagining Software Quality for the Intelligent Era](https://unstop.com/workshops-webinars/qa-in-the-age-of-ai-reimagining-software-quality-for-the-intelligent-era-acl-digital-1756600) | ACL Digital | India | 🏢 Onsite | — | 2026-10-06 | Unstop |
 | [Stainless Spark – Engineering Innovation, Building Futures](https://unstop.com/competitions/crp-stainless-spark-engineering-innovation-building-futures-stainless-spark-case-study-competition-jindal-stain-1572025) | Jindal Stainless Limited | India | 🏢 Onsite | — | 2026-11-19 | Unstop |
 | [Tata Imagination Challenge 2026](https://unstop.com/competitions/crp-tata-imagination-challenge-2026-tata-group-1740413) | Tata Group | India | 🏢 Onsite | — | 2026-12-06 | Unstop |
 | [Slay Cybersecurity Conference and Workshop](https://unstop.com/workshops-webinars/slay-cybersecurity-conference-and-workshop-jalpaiguri-government-engineering-college-jgec-west-bengal-1743199) | Jalpaiguri Government Engineering College (JGEC), West Bengal | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
@@ -18,14 +17,12 @@
 | [MOSIP Decode 2026](https://unstop.com/hackathons/mosip-decode-2026-synergy-26-international-institute-of-information-technology-iiit-bangalore-1735221) | International Institute of Information Technology (IIIT), Bangalore | India | 🏢 Onsite | — | 2026-11-06 | Unstop |
 | [CodeNeuraX: AlgoRush](https://unstop.com/hackathons/codeneurax-algorush-codeneurax-1737089) | CodeNeuraX | India | 🏢 Onsite | — | 2026-12-18 | Unstop |
 | [MHTECHIN Innovation Challenge 2026](https://unstop.com/competitions/mhtechin-innovation-challenge-2026-mhtechin-1715258) | MHTECHIN | India | 🏢 Onsite | — | 2026-10-31 | Unstop |
-| [Edge AI Hackathon 2026](https://unstop.com/hackathons/edge-ai-hackathon-2026-parala-maharaja-engineering-college-berhampur-1720578) | Parala Maharaja Engineering College, Berhampur | India | 🏢 Onsite | — | 2026-10-06 | Unstop |
 | [ReLead 9.0](https://unstop.com/competitions/crp-relead-90-renew-1728228) | ReNew | India | 🏢 Onsite | — | 2026-10-08 | Unstop |
 | [Bitmela Launchpad: Ideathon 01](https://unstop.com/hackathons/bitmela-launchpad-ideathon-01-bitmela-1722812) | Bitmela | India | 🏢 Onsite | — | 2026-10-31 | Unstop |
 | [Britannia Creatovate 2.0 - Sales and Marketing Track](https://unstop.com/competitions/crp-britannia-creatovate-20-sales-and-marketing-track-britannia-industries-ltd-1730216) | Britannia Industries Ltd. | India | 🏢 Onsite | — | 2026-11-17 | Unstop |
 | [Marico Over The Wall Season 14](https://unstop.com/competitions/crp-marico-over-the-wall-season-14-marico-1727644) | Marico | India | 🏢 Onsite | — | 2027-01-16 | Unstop |
 | [PromptX](https://unstop.com/competitions/promptx-s2s-1721995) | S2S | India | 🏢 Onsite | — | 2026-12-10 | Unstop |
 | [13th Interdisciplinary Conference on Health, Humanities, Technology and Management Research (ICHTMR 2026)](https://unstop.com/conferences/13th-interdisciplinary-conference-on-health-humanities-technology-and-management-research-ichtmr-2026-manipa-1722662) | Manipal Academy of Higher Education (MAHE), Karnataka | India | 🏢 Onsite | — | 2026-10-15 | Unstop |
-| [Smackathon 2k26](https://unstop.com/hackathons/smackathon-2k26-yeshwantrao-chavan-college-of-engineering-ycce-nagpur-1718448) | Yeshwantrao Chavan College of Engineering (YCCE), Nagpur | India | 🏢 Onsite | — | 2026-10-06 | Unstop |
 | [TVS Credit E.P.I.C 8.0 — IT Challenge](https://unstop.com/competitions/crp-tvs-credit-epic-80-it-challenge-epic-season-8-tvs-credit-1701115) | TVS Credit | India | 🏢 Onsite | — | 2026-12-20 | Unstop |
 | [Unstop Quizverse 2026](https://unstop.com/quiz/unstop-quizverse-2026-unstop-1710459) | Unstop | India | 🏢 Onsite | — | 2026-11-28 | Unstop |
 | [Indradhanu: PCCOE International Grand Challenge 2026](https://unstop.com/hackathons/indradhanu-pccoe-international-grand-challenge-2026-pimpri-chinchwad-college-of-engineering-pccoe-pune-1710779) | Pimpri Chinchwad College of Engineering (PCCOE), Pune | India | 🏢 Onsite | — | 2027-02-15 | Unstop |
@@ -36,6 +33,9 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Smackathon 2k26](https://unstop.com/hackathons/smackathon-2k26-yeshwantrao-chavan-college-of-engineering-ycce-nagpur-1718448) | Yeshwantrao Chavan College of Engineering (YCCE), Nagpur | India | 🏢 Onsite | — | 2026-10-06 | Unstop |
+| [Edge AI Hackathon 2026](https://unstop.com/hackathons/edge-ai-hackathon-2026-parala-maharaja-engineering-college-berhampur-1720578) | Parala Maharaja Engineering College, Berhampur | India | 🏢 Onsite | — | 2026-10-06 | Unstop |
+| [QA in the Age of AI: Reimagining Software Quality for the Intelligent Era](https://unstop.com/workshops-webinars/qa-in-the-age-of-ai-reimagining-software-quality-for-the-intelligent-era-acl-digital-1756600) | ACL Digital | India | 🏢 Onsite | — | 2026-10-06 | Unstop |
 | [Hacker's Gambit 2026](https://unstop.com/hackathons/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293) | Jaihind college of Engineering Kuran | India | 🏢 Onsite | — | 2026-10-04 | Unstop |
 | [Armageddon: Strategy Case Competition](https://unstop.com/competitions/armageddon-strategy-case-competition-the-red-brick-summit-2026-iim-ahmedabad-1755420) | Indian Institute of Management (IIM), Ahmedabad | India | 🏢 Onsite | — | 2026-10-04 | Unstop |
 | [Campus Ambassador - Asian Paints Alchemy 2026](https://unstop.com/competitions/crp-campus-ambassador-asian-paints-alchemy-2026-asian-paints-1708823) | Asian Paints | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
@@ -53,6 +53,3 @@
 | [Hack the Hardware India 2.0 (HTH India 2.0) — Build. Innovate. Win.](https://unstop.com/hackathons/hack-the-hardware-india-20-hth-india-20-build-innovate-win-suryodaya-college-of-engineering-technology-nagpur-1730720) | Suryodaya College of Engineering & Technology, Nagpur | India | 🏢 Onsite | — | 2026-09-29 | Unstop |
 | [CONFLUENCE XIX: Paper Presentation](https://unstop.com/competitions/confluence-xix-paper-presentation-st-xaviers-college-kolkata-1739093) | St Xaviers College Kolkata | India | 🏢 Onsite | — | 2026-09-28 | Unstop |
 | [Business on Values](https://unstop.com/competitions/business-on-values-institute-of-rural-management-anand-irma-gujarat-1736892) | Institute of Rural Management Anand (IRMA), Gujarat | India | 🏢 Onsite | — | 2026-09-27 | Unstop |
-| [HackRonyX 2.0](https://unstop.com/hackathons/hackronyx-20-st-vincent-pallotti-college-of-engineering-and-technology-svpcet-nagpur-1741857) | St. Vincent Pallotti College of Engineering and Technology (SVPCET), Nagpur | India | 🏢 Onsite | — | 2026-09-27 | Unstop |
-| [HackCelestial 3.0](https://unstop.com/hackathons/hackcelestial-30-pillai-university-navi-mumbai-1737808) | Pillai University, Navi Mumbai | India | 🏢 Onsite | — | 2026-09-27 | Unstop |
-| [Segue 3.0 : Global Design Thinking Challenge (Online + Offline)](https://unstop.com/hackathons/segue-30-global-design-thinking-challenge-online-offline-schooloffutureskillscomsegue-3-0-noida-institute-of--1712134) | Noida Institute of Engineering And Technology (NIET), Greater Noida | India | 🏢 Onsite | — | 2026-09-26 | Unstop |

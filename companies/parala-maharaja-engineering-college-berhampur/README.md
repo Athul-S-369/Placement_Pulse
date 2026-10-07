@@ -1,6 +1,6 @@
 # 🏢 Parala Maharaja Engineering College, Berhampur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-06*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-10-07*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Edge AI Hackathon 2026](https://unstop.com/hackathons/edge-ai-hackathon-2026-parala-maharaja-engineering-college-berhampur-1720578) | Parala Maharaja Engineering College, Berhampur | India | 🏢 Onsite | — | 2026-10-06 | Unstop |
 
 ## 📖 Interview Preparation
 

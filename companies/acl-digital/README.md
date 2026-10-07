@@ -1,6 +1,6 @@
 # 🏢 ACL Digital
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-06*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-10-07*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [QA in the Age of AI: Reimagining Software Quality for the Intelligent Era](https://unstop.com/workshops-webinars/qa-in-the-age-of-ai-reimagining-software-quality-for-the-intelligent-era-acl-digital-1756600) | ACL Digital | India | 🏢 Onsite | — | 2026-10-06 | Unstop |
 
 ## 📖 Interview Preparation
 

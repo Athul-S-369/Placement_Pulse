@@ -1,6 +1,6 @@
 # 🏢 Yeshwantrao Chavan College of Engineering (YCCE), Nagpur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-06*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-10-07*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Smackathon 2k26](https://unstop.com/hackathons/smackathon-2k26-yeshwantrao-chavan-college-of-engineering-ycce-nagpur-1718448) | Yeshwantrao Chavan College of Engineering (YCCE), Nagpur | India | 🏢 Onsite | — | 2026-10-06 | Unstop |
 
 ## 📖 Interview Preparation
 

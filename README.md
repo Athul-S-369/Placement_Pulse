@@ -7,10 +7,10 @@
 **India's open-source aggregator for software internships, fresher jobs,<br>hackathons, fellowships, and placement opportunities.**
 
 [![Opportunities](https://img.shields.io/badge/Opportunities-2800-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
-[![Active](https://img.shields.io/badge/Active-2274-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
+[![Active](https://img.shields.io/badge/Active-2271-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
 [![Companies](https://img.shields.io/badge/Companies-2093-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
-[![Updated](https://img.shields.io/badge/Updated-Oct%2006%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
+[![Updated](https://img.shields.io/badge/Updated-Oct%2007%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
 [Latest Run](#latest-run) &nbsp;·&nbsp;
 [Active Opportunities](#active-opportunities) &nbsp;·&nbsp;
@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**October 06, 2026** &nbsp;—&nbsp; **76** Internship &nbsp;·&nbsp; **64** Fresher Job &nbsp;·&nbsp; **6** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**October 07, 2026** &nbsp;—&nbsp; **76** Internship &nbsp;·&nbsp; **66** Fresher Job &nbsp;·&nbsp; **6** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**152 opportunities** added or updated in the latest run (October 06, 2026).
+**154 opportunities** added or updated in the latest run (October 07, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -55,6 +55,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Product Management Trainee - Bilingual Mandarin Required](https://apply.workable.com/cwill-us/j/0AF59B8964/apply) | CWILL | Remote in USA, Cary, NC | Fresher Job | Remote | — |
 | [Web Frontend Engineer - Multiple Teams](https://job-boards.greenhouse.io/canonical/jobs/5150422) | Canonical | Remote in UK | Fresher Job | Remote | — |
 | [Analytic Developer](https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/Market-Street---4411/Analytic-Developer_JR155338) | Cone Health | Remote in USA | Fresher Job | Remote | — |
+| [Associate Data Scientist](https://dealertire.wd5.myworkdayjobs.com/DealerTireLLC-Careers/job/Remote-Ohio/Associate-Data-Scientist_R13774) | Dealer Tire | Remote in USA, Ohio | Fresher Job | Remote | — |
 | [Entry-level Software Developer](https://careers-decisionpointcorp.icims.com/jobs/3766/job?mobile=true&needsRedirect=false) | DecisionPoint | Remote in USA | Fresher Job | Remote | — |
 | [People AI & Automation Engineer](https://jobs.ashbyhq.com/deepgram/bf8ea79f-f380-467e-8349-ea1ea8281316/application?embed=true) | Deepgram | California, Remote in USA | Fresher Job | Remote | — |
 | [Associate Software Engineer](https://jobs.lever.co/demiurgestudios/85f401d2-5242-4096-b852-2947492d0035/apply) | Demiurge Studios | Remote in USA | Fresher Job | Remote | — |
@@ -103,6 +104,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Machine Learning Engineer - MLOps Framework](https://job-boards.greenhouse.io/torcrobotics/jobs/8728723002) | Torc Robotics | Remote in USA | Fresher Job | Remote | — |
 | [Applications Development Associate](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Applications-Devt-Associate_R25029948) | United Parcel Service (UPS) | Indiana | Fresher Job | Onsite | — |
 | [Software Engineer - DevOps/.NET/Azure](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HES/DevOps-Engineer_R-26937-1) | Varian | Knoxville, TN, Hoffman Es | Fresher Job | Onsite | — |
+| [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailan...](https://www.flexport.com/company/careers/) | Various | India | Fresher Job | Onsite | — |
 | [Front End Developer](https://careers.varsitybrands.com/global/en/job/JR114521) | Varsity Brands | Kansas, Texas, Indiana | Fresher Job | Onsite | — |
 | [Student Worker](https://viatris.wd5.myworkdayjobs.com/External/job/United-States-Remote-Office/Student-Worker_R5674339) | Viatris | Remote in USA | Fresher Job | Remote | — |
 | [Maps Personalization Relevance Rater](https://jobs.lever.co/weloglobal/93094a81-c521-4e5a-a4e0-31a95c2c2ed1/apply) | Welo Global | Remote in Canada | Fresher Job | Remote | — |
@@ -289,13 +291,13 @@ The 50 most recently added active opportunities across all categories.
 
 ## Archive
 
-- [October 06, 2026 — Today](daily/2026/October/2026-10-06.md)
+- [October 07, 2026 — Today](daily/2026/October/2026-10-07.md)
+- [October 06, 2026](daily/2026/October/2026-10-06.md)
 - [October 05, 2026](daily/2026/October/2026-10-05.md)
 - [October 04, 2026](daily/2026/October/2026-10-04.md)
 - [October 03, 2026](daily/2026/October/2026-10-03.md)
 - [October 02, 2026](daily/2026/October/2026-10-02.md)
 - [October 01, 2026](daily/2026/October/2026-10-01.md)
-- [September 30, 2026](daily/2026/September/2026-09-30.md)
 
 [Full archive](daily/)
 
@@ -314,6 +316,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-10-06 21:11 UTC</sub>
+<sub>Last generated: 2026-10-07 06:21 UTC</sub>
 
 </div>

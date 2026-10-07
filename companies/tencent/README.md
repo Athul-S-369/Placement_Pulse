@@ -1,11 +1,11 @@
 # 🏢 Tencent
 
-**5 active opportunities** | **5 total tracked** | *Last updated: 2026-10-06*
+**5 active opportunities** | **5 total tracked** | *Last updated: 2026-10-07*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** London, UK, LA, Bellevue, WA, Palo Alto, CA, Remote / Various
+- **Locations:** Palo Alto, CA, Remote / Various, Bellevue, WA, London, UK, LA
 
 ## Current Opportunities
 

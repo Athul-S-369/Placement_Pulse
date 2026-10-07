@@ -1,11 +1,11 @@
 # 🏢 Integrated Resources
 
-**12 active opportunities** | **12 total tracked** | *Last updated: 2026-10-06*
+**12 active opportunities** | **12 total tracked** | *Last updated: 2026-10-07*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Cambridge, MA, Exton, PA, Hickory, NC, Ambler, PA, North Haven, CT
+- **Locations:** Hickory, NC, Westborough, MA, Ambler, PA, Cherry Hills Village, CO, Exton, PA
 
 ## Current Opportunities
 
