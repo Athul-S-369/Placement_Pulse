@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Wyoming, Ohio, Louisiana, South Carolina, West Virginia
+- **Locations:** Remote in USA, Wisconsin, South Carolina, Minnesota, West Virginia
 
 ## Current Opportunities
 
