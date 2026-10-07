@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Remote in USA, Warner Robins, GA, Aurora, CO, Morrisville, NC, Annapolis Junction, MD, San Antonio, TX, Northridge, LA, Melbourne, FL
+- **Categories:** Internship, Fresher Job
+- **Locations:** Wright-Patterson AFB, OH, Aurora, CO, Morrisville, NC, Remote in USA, Linthicum Heights, MD, Melbourne, FL, Aurora, CO, Morrisville, NC, Annapolis Junction, MD, San Antonio, TX, Warner Robins, GA
 
 ## Current Opportunities
 

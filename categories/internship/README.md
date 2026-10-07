@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**856 active** | **0 expired** | **856 total**
+**857 active** | **0 expired** | **857 total**
 
 *Last updated: 2026-10-07*
 
@@ -8,6 +8,7 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer Intern](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16/application) | Exa Labs | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/khanacademy/jobs/8250259) | Khan Academy | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern: Agent Commerce](https://ats.rippling.com/joinroot/jobs/845e02f9-86ee-41f9-a9ad-730ed08fca3b) | Root Insurance | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Electronics Hardware Systems Engineer Co-op](https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4432) | Rheem | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [Product Manager Intern - Host Squad](https://jobs.ashbyhq.com/sweatpals/be2f5fa7-2542-40e6-873f-778322bb0522/application?embed=true) | Sweatpals | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Product Manager Intern](https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544/application?embed=true) | Tessera Labs | San Jose, CA, Remote in USA, NYC | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Travel Supply Analyst Intern](https://jobs.ashbyhq.com/super.com/d12fc858-e930-4f43-9c92-da2f02dd2cd2/application?embed=true) | Super | Toronto, ON, Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Data Analysis Intern](https://jobs.lever.co/calstart/39565f0d-d10f-458b-b72d-d807420059b8/apply) | CALSTART | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

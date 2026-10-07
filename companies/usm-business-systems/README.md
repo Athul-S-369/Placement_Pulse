@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Bloomington, MN, Dublin, OH, El Segundo, CA, NYC, Baltimore, MD
+- **Categories:** Internship, Fresher Job
+- **Locations:** Chantilly, VA, Washington, DC, Chicago, IL, California City, CA, Alexandria, VA
 
 ## Current Opportunities
 
