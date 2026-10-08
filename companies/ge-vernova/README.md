@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Greenville, SC, Bengaluru, Karnataka, India, Remote in USA, Schenectady, NY, Remote in USA
+- **Locations:** Remote in USA, Schenectady, NY, Greenville, SC, Bengaluru, Karnataka, India, Remote in USA
 
 ## Current Opportunities
 

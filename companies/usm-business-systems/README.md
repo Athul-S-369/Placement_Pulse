@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Columbus, OH, El Segundo, CA, St. Louis, MO, Traverse City, MI, Dublin, OH
+- **Locations:** Baltimore, MD, Jefferson City, MO, California City, CA, Westminster, CO, Columbus, OH
 
 ## Current Opportunities
 

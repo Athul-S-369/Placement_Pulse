@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** London, UK, SF
+- **Locations:** SF, London, UK
 
 ## Current Opportunities
 

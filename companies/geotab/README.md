@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Oakville, ON, Canada, Toronto, ON, Canada, Oakville, ON, Canada, Kitchener, ON, Canada
+- **Locations:** Toronto, ON, Canada, Oakville, ON, Canada, Kitchener, ON, Canada, Oakville, ON, Canada
 
 ## Current Opportunities
 
