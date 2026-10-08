@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Indianapolis, IN, Andover, MA, Longueuil, QC, Canada, Cedar Rapids, IA, Goleta, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Andover, MA, Arlington, VA, Huntsville, AL, Goleta, CA, Fort Wayne, IN
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** SF, NYC, SF, NYC
+- **Locations:** NYC, SF, SF, NYC
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Pittsburgh, PA, Remote in USA
+- **Locations:** Remote in USA, Pittsburgh, PA
 
 ## Current Opportunities
 

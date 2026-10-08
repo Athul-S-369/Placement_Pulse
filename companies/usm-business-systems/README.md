@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Washington, DC, Traverse City, MI, Chicago, IL, St. Louis, MO, Westminster, CO
+- **Categories:** Internship, Fresher Job
+- **Locations:** Columbus, OH, El Segundo, CA, St. Louis, MO, Traverse City, MI, Dublin, OH
 
 ## Current Opportunities
 
