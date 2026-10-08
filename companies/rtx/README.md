@@ -1,11 +1,11 @@
 # 🏢 RTX
 
-**10 active opportunities** | **10 total tracked** | *Last updated: 2026-10-07*
+**10 active opportunities** | **10 total tracked** | *Last updated: 2026-10-08*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Huntsville, AL, Andover, MA, Cedar Rapids, IA, Fort Wayne, IN, Barrie, ON, Canada
+- **Categories:** Fresher Job, Internship
+- **Locations:** Indianapolis, IN, Andover, MA, Longueuil, QC, Canada, Cedar Rapids, IA, Goleta, CA
 
 ## Current Opportunities
 

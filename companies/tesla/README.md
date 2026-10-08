@@ -1,11 +1,11 @@
 # 🏢 Tesla
 
-**10 active opportunities** | **10 total tracked** | *Last updated: 2026-10-07*
+**10 active opportunities** | **10 total tracked** | *Last updated: 2026-10-08*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Orlando, FL, Austin, TX, Palo Alto, CA, Palo Alto, CA, Fremont, CA, United States, Bellevue, WA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Draper, UT, Palo Alto, CA, Fremont, CA, Austin, TX, Orlando, FL, Palo Alto, CA, Fremont, CA, United States, Austin, TX
 
 ## Current Opportunities
 

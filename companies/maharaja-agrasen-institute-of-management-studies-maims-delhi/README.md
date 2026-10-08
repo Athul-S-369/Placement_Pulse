@@ -1,6 +1,6 @@
 # 🏢 Maharaja Agrasen Institute of Management Studies (MAIMS), Delhi
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-10-07*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-10-08*
 
 ## Overview
 

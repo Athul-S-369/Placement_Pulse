@@ -1,11 +1,11 @@
 # 🏢 Point72
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-10-07*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-10-08*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** NYC, Stamford, CT, NYC, SF, Florida, Chicago, IL, NYC, London, UK
+- **Locations:** London, UK, Stamford, CT, NYC, NYC, SF, Florida, Chicago, IL, NYC
 
 ## Current Opportunities
 

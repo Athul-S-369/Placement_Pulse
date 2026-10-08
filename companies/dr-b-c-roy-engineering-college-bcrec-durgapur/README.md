@@ -1,6 +1,6 @@
 # 🏢 Dr. B.C. Roy Engineering College (BCREC), Durgapur
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-10-07*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-10-08*
 
 ## Overview
 

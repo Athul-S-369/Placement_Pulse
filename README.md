@@ -6,11 +6,11 @@
 
 **India's open-source aggregator for software internships, fresher jobs,<br>hackathons, fellowships, and placement opportunities.**
 
-[![Opportunities](https://img.shields.io/badge/Opportunities-2801-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
-[![Active](https://img.shields.io/badge/Active-2272-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
-[![Companies](https://img.shields.io/badge/Companies-2094-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
+[![Opportunities](https://img.shields.io/badge/Opportunities-2805-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
+[![Active](https://img.shields.io/badge/Active-2276-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
+[![Companies](https://img.shields.io/badge/Companies-2098-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
-[![Updated](https://img.shields.io/badge/Updated-Oct%2007%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
+[![Updated](https://img.shields.io/badge/Updated-Oct%2008%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
 [Latest Run](#latest-run) &nbsp;·&nbsp;
 [Active Opportunities](#active-opportunities) &nbsp;·&nbsp;
@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**October 07, 2026** &nbsp;—&nbsp; **75** Internship &nbsp;·&nbsp; **65** Fresher Job &nbsp;·&nbsp; **6** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**October 08, 2026** &nbsp;—&nbsp; **77** Internship &nbsp;·&nbsp; **66** Fresher Job &nbsp;·&nbsp; **6** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**152 opportunities** added or updated in the latest run (October 07, 2026).
+**155 opportunities** added or updated in the latest run (October 08, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -48,7 +48,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Software Engineer 1 - Frontend - Upfunnel](https://job-boards.greenhouse.io/affirm/jobs/7985907003) | Affirm | Remote in Canada | Fresher Job | Remote | — |
 | [Data Engineer Associate](https://job-boards.greenhouse.io/affirmedrxpbc/jobs/5372829008) | AffirmedRx | Remote in USA | Fresher Job | Remote | — |
 | [OneStream Developer](https://andrew-morgan.com/current-openings/?gh_jid=5389586008) | Andrew Morgan | Remote in USA | Fresher Job | Remote | — |
-| [AI Prototyping Engineer](https://apply.workable.com/brady-martz/j/39C6A58F26/apply) | Brady Martz | Remote in USA, St. Louis, | Fresher Job | Remote | — |
 | [Product Manager - Business Banking & Treasury Management](https://csiweb.wd1.myworkdayjobs.com/CSI_Careers/job/Paducah-KY-Corporate/Product-Manager---Business-Banking---Treasury-Management_R-100612) | CSI | Paducah, KY, Remote in US | Fresher Job | Remote | — |
 | [Reporting Analyst](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Arizona/Reporting-Analyst_R1051672-1) | CVS Health | New Mexico, Washington, K | Fresher Job | Onsite | — |
 | [Product Management Trainee - Bilingual Mandarin Required](https://apply.workable.com/cwill-us/j/0AF59B8964/apply) | CWILL | Remote in USA, Cary, NC | Fresher Job | Remote | — |
@@ -58,6 +57,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Entry-level Software Developer](https://careers-decisionpointcorp.icims.com/jobs/3766/job?mobile=true&needsRedirect=false) | DecisionPoint | Remote in USA | Fresher Job | Remote | — |
 | [People AI & Automation Engineer](https://jobs.ashbyhq.com/deepgram/bf8ea79f-f380-467e-8349-ea1ea8281316/application?embed=true) | Deepgram | California, Remote in USA | Fresher Job | Remote | — |
 | [Associate Software Engineer](https://jobs.lever.co/demiurgestudios/85f401d2-5242-4096-b852-2947492d0035/apply) | Demiurge Studios | Remote in USA | Fresher Job | Remote | — |
+| [Software Development Engineer 1](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540) | Dexcom | Remote in USA | Fresher Job | Remote | — |
 | [Creator Circle - Dipper](https://jobs.ashbyhq.com/dipper/ce3c338e-73e8-47ce-8c16-eafc331f6b16/application?embed=true) | Dipper | Remote in USA | Fresher Job | Remote | — |
 | [Forward Deployed Engineer - Software Engineer](https://jobs.ashbyhq.com/elevenlabs/2d0016e0-3cc2-4ec7-b164-bc2b83990fb6/application?embed=true) | ElevenLabs | London, UK, Remote in UK | Fresher Job | Remote | — |
 | [Feed Integrations Associate](https://job-boards.greenhouse.io/garnerhealth/jobs/6112552004) | Garner Health | Remote in USA | Fresher Job | Remote | — |
@@ -95,6 +95,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Business Associate Analyst](https://stbancorp.wd5.myworkdayjobs.com/ST_Bank_Careers/job/Main-Office/Data---Analytics-Associate-Analyst_R-1580) | S&T Bank | Indiana, PA | Fresher Job | Onsite | — |
 | [Software Engineer College Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) | Salesforce | Palo Alto, CA, Seattle, W | Fresher Job | Onsite | — |
 | [Software Developer - Services](https://slice.careers/careers-listing?gh_jid=7228671) | Slice (slicelife.com) | Remote in UK, Remote in C | Fresher Job | Remote | — |
+| [Full-Stack Software Engineer New Grad](https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e/application?embed=true) | SpruceID | Remote in USA | Fresher Job | Remote | — |
 | [Memory Developer](https://jobs.ashbyhq.com/sunday/f92adbe3-da24-4edd-8599-4f60dec7bd5f/application?embed=true) | Sunday Robotics | Remote in USA | Fresher Job | Remote | — |
 | [AI Operations Engineer](https://jobs.ashbyhq.com/surge-ai/73c5fe8d-0cb6-40e1-a634-d46928702f85/application?embed=true) | Surge AI | Remote in USA | Fresher Job | Remote | — |
 | [Graduate Software Engineer - AI](https://job-boards.greenhouse.io/synack/jobs/8165010) | Synack | Remote in UK | Fresher Job | Remote | — |
@@ -124,7 +125,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Anthropic Fellows Program - ML Systems & Performance](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | Anthropic | London, UK, SF, Remote in | Internship | Remote | — |
 | [Product Analyst Intern - Housing](https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/United-States-Virtual/Summer-2027-Intern--Product-Analyst-Intern---Housing_R-115659) | Assurant | Remote in USA | Internship | Remote | — |
 | [Information Technology AI Intern](https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7/application?embed=true) | Barnes & Thornburg | Indianapolis, IN | Internship | Onsite | — |
-| [Machine Learning Engineering Co-op](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310) | Biogen | Remote in USA | Internship | Remote | — |
 | [Software Engineer Intern - Waterloo University](https://job-boards.greenhouse.io/brave/jobs/8161945) | Brave | Remote in Canada | Internship | Remote | — |
 | [Software Development/Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1) | CACI | Remote in USA | Internship | Remote | — |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/solutions/jobs/4711210006) | Cadence Solutions | Remote in USA | Internship | Remote | — |
@@ -148,6 +148,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Engineering Excellence Intern](https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Engineering-Excellence-Intern_R048023) | Ensemble Health Partners | Remote in USA | Internship | Remote | — |
 | [Data and Intelligence Delivery Intern - Assurance](https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Ernst & Young | Salt Lake City, UT, India | Internship | Onsite | — |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16/application) | Exa Labs | Remote / Various | Internship | Remote | — |
+| [Model Risk Intern](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Long-Term-Model-Risk-Intern_R623) | Federal Home Loan Bank of In | Indianapolis, IN | Internship | Onsite | — |
 | [Research Intern](https://job-boards.eu.greenhouse.io/gensyn/jobs/4579609101) | Gensyn | Remote in UK | Internship | Remote | — |
 | [Engineering Intern](https://jobs.ashbyhq.com/GovSignals/e894290c-3263-424e-b7a4-8dcc32ca8ca9/application?embed=true) | GovSignals | Remote in USA | Internship | Remote | — |
 | [Collections Data Analyst Intern](https://careers-growfinancial.icims.com/jobs/2755/job?mobile=true&needsRedirect=false) | Grow Financial Federal Credi | Remote in USA | Internship | Remote | — |
@@ -167,20 +168,22 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Research Intern - Efficient Deep Learning](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Efficient-Deep-Learning---2027_JR2025478) | NVIDIA | Remote in USA, Santa Clar | Internship | Remote | — |
 | [Graduate Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---LLM-Reliability-and-Uncertainty-for-AI-Science-Assistants_R14416) | National Laboratory of the R | Remote in USA, Golden, CO | Internship | Remote | — |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770/application?embed=true) | ONE Finance | Remote in USA | Internship | Remote | — |
+| [Monitoring & Insights Intern](https://jobs.lever.co/pentagrp/f3d7a9a9-fa1a-40c2-86be-4d650f7da8fe/apply) | Penta Group | Remote in USA | Internship | Remote | — |
 | [Software Engineer Intern](https://www.pinterestcareers.com/jobs/?gh_jid=7838577) | Pinterest | SF, Remote in USA | Internship | Remote | — |
 | [Research Scientist Intern](https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be/application?embed=true) | Pluralis Research | Remote in USA, Remote in  | Internship | Remote | — |
+| [Healthcare Informatics Intern](https://job-boards.greenhouse.io/pointc/jobs/5282758008) | Point C | Remote in USA | Internship | Remote | — |
 | [System Architecture Intern](https://www.psiquantum.com/apply?gh_jid=7695577003) | PsiQuantum | Palo Alto, CA, Bristol, U | Internship | Remote | — |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a/application?embed=true) | Realm | Remote in USA | Internship | Remote | — |
 | [Data & Analytics Consultant Intern - Summer 2027](https://jobs.smartrecruiters.com/Resultant/744000150785390) | Resultant | Indianapolis, IN | Internship | Onsite | — |
 | [Electronics Hardware Systems Engineer Co-op](https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4432) | Rheem | Indianapolis, IN | Internship | Onsite | — |
 | [Marketing & Operations Analytics Co-op - Strategy & Analytic...](https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Marketing---Ops-Analytics-Co-Op_JR101345) | Risepoint | Remote in USA | Internship | Remote | — |
+| [Software Engineer Intern - Platform Engines](https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164) | SailPoint | Remote in UK | Internship | Remote | — |
 | [Software Engineer Intern](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771) | Salesforce | Palo Alto, CA, Seattle, W | Internship | Onsite | — |
 | [Front End Developer Intern](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975) | Simon Property Group | Indianapolis, IN | Internship | Onsite | — |
-| [Software Engineer Co-op - Agents](https://jobs.ashbyhq.com/solink/8493613d-ea47-4182-ac0b-f5f24d11f49e/application?embed=true) | Solink | Ottawa, ON, Canada, Remot | Internship | Remote | — |
+| [Research Fellow](https://job-boards.greenhouse.io/snorkelai/jobs/6175199004) | Snorkel AI | SF, Remote in USA, NYC | Internship | Remote | — |
 | [Software Engineer Backend Intern](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386552009) | StackAdapt | Remote in Canada | Internship | Remote | — |
 | [Product Manager Intern - Host Squad](https://jobs.ashbyhq.com/sweatpals/be2f5fa7-2542-40e6-873f-778322bb0522/application?embed=true) | Sweatpals | Remote in USA | Internship | Remote | — |
 | [AI Data Science Intern - AI/ML Center of Excellence](https://apply.workable.com/twgai/j/1206BF981C/apply) | TWG Global | London, UK, Remote in UK | Internship | Remote | — |
-| [Product Manager Intern](https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544/application?embed=true) | Tessera Labs | San Jose, CA, Remote in U | Internship | Remote | — |
 | [Agentic AI Engineer Co-op](https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015) | The Campbell's Company | Remote in USA | Internship | Remote | — |
 | [Applied Scientist Intern](https://careers.upstart.com/jobs?gh_jid=8213476) | Upstart | Remote in USA | Internship | Remote | — |
 | [Electrical Engineer Intern - Hardware Engineering](https://careers.gov2x.com/jobs/62685?icims=1) | V2X | Indianapolis, IN | Internship | Onsite | — |
@@ -201,10 +204,14 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 ## Active Opportunities
 
 The 50 most recently added active opportunities across all categories.
-[View all 2801 on the website.](https://athul-s-369.github.io/Placement_Pulse)
+[View all 2805 on the website.](https://athul-s-369.github.io/Placement_Pulse)
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
+| [Software Engineer Intern - Platform Engines](https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164) | SailPoint | Remote in UK | Internship | Remote | Open |
+| [Model Risk Intern](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Long-Term-Model-Risk-Intern_R623) | Federal Home Loan Bank of In | Indianapolis, IN | Internship | Onsite | Open |
+| [Research Fellow](https://job-boards.greenhouse.io/snorkelai/jobs/6175199004) | Snorkel AI | SF, Remote in USA, NYC | Internship | Remote | Open |
+| [Full-Stack Software Engineer New Grad](https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e/application?embed=true) | SpruceID | Remote in USA | Fresher Job | Remote | Open |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16/application) | Exa Labs | Remote / Various | Internship | Remote | Open |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/khanacademy/jobs/8250259) | Khan Academy | Remote in USA, Remote in  | Internship | Remote | Open |
 | [Software Engineer Intern: Agent Commerce](https://ats.rippling.com/joinroot/jobs/845e02f9-86ee-41f9-a9ad-730ed08fca3b) | Root Insurance | Remote in USA | Internship | Remote | Open |
@@ -251,10 +258,6 @@ The 50 most recently added active opportunities across all categories.
 | [Data & Analytics Consultant Intern - Summer 2027](https://jobs.smartrecruiters.com/Resultant/744000150785390) | Resultant | Indianapolis, IN | Internship | Onsite | Open |
 | [Product Management Intern - Artificial Intelligence Product ...](https://careers.zimmerbiomet.com/us/en/job/12745) | Zimmer Biomet Holdings | Remote in USA | Internship | Remote | Open |
 | [Associate Software Engineer](https://jobs.lever.co/fiscalnote/c76e748f-6e25-42cf-bf26-ebae44280ffd/apply) | FiscalNote | Remote in USA | Fresher Job | Remote | Open |
-| [Software Engineering Intern - Spring 2027](https://job-boards.greenhouse.io/mercury/jobs/6199367004) | Mercury | SF, Remote in USA, NYC, P | Internship | Remote | Open |
-| [Research Scientist Intern - Applied Scientist](https://jobs.ashbyhq.com/collinear-ai/ae85fd08-dfd8-42e5-9b3b-9921ba24742b/application?embed=true) | Collinear AI | SF, India, Bengaluru, Kar | Internship | Onsite | Open |
-| [Go-To-Market Engineer](https://job-boards.greenhouse.io/sironamedical/jobs/4736127005) | Sirona Medical | Remote in USA | Fresher Job | Remote | Open |
-| [Software Engineering Co-op Spring 2027](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832) | GE Appliances | Remote / Various | Internship | Remote | Open |
 
 ---
 
@@ -262,8 +265,8 @@ The 50 most recently added active opportunities across all categories.
 
 | Category | Total |
 |----------|-------|
-| [Fresher Job](categories/fresher-job/) | 1390 |
-| [Internship](categories/internship/) | 857 |
+| [Fresher Job](categories/fresher-job/) | 1391 |
+| [Internship](categories/internship/) | 860 |
 | [Hackathon](categories/hackathon/) | 548 |
 | [Open Source Program](categories/open-source-program/) | 2 |
 | [Fellowship](categories/fellowship/) | 2 |
@@ -289,13 +292,13 @@ The 50 most recently added active opportunities across all categories.
 
 ## Archive
 
-- [October 07, 2026 — Today](daily/2026/October/2026-10-07.md)
+- [October 08, 2026 — Today](daily/2026/October/2026-10-08.md)
+- [October 07, 2026](daily/2026/October/2026-10-07.md)
 - [October 06, 2026](daily/2026/October/2026-10-06.md)
 - [October 05, 2026](daily/2026/October/2026-10-05.md)
 - [October 04, 2026](daily/2026/October/2026-10-04.md)
 - [October 03, 2026](daily/2026/October/2026-10-03.md)
 - [October 02, 2026](daily/2026/October/2026-10-02.md)
-- [October 01, 2026](daily/2026/October/2026-10-01.md)
 
 [Full archive](daily/)
 
@@ -314,6 +317,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-10-07 21:31 UTC</sub>
+<sub>Last generated: 2026-10-08 06:33 UTC</sub>
 
 </div>

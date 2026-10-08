@@ -1,13 +1,16 @@
 # 🎓 Internship
 
-**857 active** | **0 expired** | **857 total**
+**860 active** | **0 expired** | **860 total**
 
-*Last updated: 2026-10-07*
+*Last updated: 2026-10-08*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer Intern - Platform Engines](https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164) | SailPoint | Remote in UK | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Model Risk Intern](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Long-Term-Model-Risk-Intern_R623) | Federal Home Loan Bank of Indianapolis | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Research Fellow](https://job-boards.greenhouse.io/snorkelai/jobs/6175199004) | Snorkel AI | SF, Remote in USA, NYC | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16/application) | Exa Labs | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Software Engineer Intern](https://job-boards.greenhouse.io/khanacademy/jobs/8250259) | Khan Academy | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern: Agent Commerce](https://ats.rippling.com/joinroot/jobs/845e02f9-86ee-41f9-a9ad-730ed08fca3b) | Root Insurance | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -105,6 +108,3 @@
 | [AI Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) | Intel | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true) | Yotta Labs | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Digital & Technology Extern - Digital & Technology](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US--REMOTE/Start-Your-Legacy-HBCU-Externship-----Digital---Technology_R-144386) | The Coca-Cola Company | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Product Manager Intern - Host Squad](https://jobs.ashbyhq.com/sweatpals/be2f5fa7-2542-40e6-873f-778322bb0522/application?embed=true) | Sweatpals | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Product Manager Intern](https://jobs.ashbyhq.com/tessera-labs/3b2d45b8-9881-41fe-b103-7bbc400e1544/application?embed=true) | Tessera Labs | San Jose, CA, Remote in USA, NYC | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Travel Supply Analyst Intern](https://jobs.ashbyhq.com/super.com/d12fc858-e930-4f43-9c92-da2f02dd2cd2/application?embed=true) | Super | Toronto, ON, Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

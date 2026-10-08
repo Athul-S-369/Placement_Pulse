@@ -1,11 +1,11 @@
 # 🏢 Randstad
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-07*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-08*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Franklin, TN, Charlotte, NC
+- **Locations:** Charlotte, NC, Franklin, TN
 
 ## Current Opportunities
 

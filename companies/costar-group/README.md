@@ -1,11 +1,11 @@
 # 🏢 CoStar Group
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-07*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-08*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Richmond, VA, Arlington, VA, London, UK
+- **Categories:** Fresher Job, Internship
+- **Locations:** Arlington, VA, London, UK, Richmond, VA
 
 ## Current Opportunities
 
