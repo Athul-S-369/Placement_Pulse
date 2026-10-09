@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Alexandria, VA, Rochester, MI, Augusta, ME, St. Louis, MO, Traverse City, MI
+- **Categories:** Fresher Job, Internship
+- **Locations:** Southfield, MI, Washington, DC, Bluemont, VA, Bloomington, MN, California City, CA
 
 ## Current Opportunities
 

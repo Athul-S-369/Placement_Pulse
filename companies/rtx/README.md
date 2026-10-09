@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Longueuil, QC, Canada, Goleta, CA, Fort Wayne, IN, McKinney, TX, Indianapolis, IN
+- **Categories:** Fresher Job, Internship
+- **Locations:** Longueuil, QC, Canada, Huntsville, AL, Arlington, VA, Fort Wayne, IN, Andover, MA
 
 ## Current Opportunities
 

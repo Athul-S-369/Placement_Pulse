@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Hackathon, Fresher Job
-- **Locations:** Indianapolis, IN, Hyderabad, Telangana, India, Sunnyvale, CA, Bellevue, WA, Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington, VA, NYC, Bellevue, WA, San Diego, CA, London, UK, Edinburgh, UK, Cambridge, UK
+- **Categories:** Hackathon, Fresher Job, Internship
+- **Locations:** Seattle, WA, Wakefield, MA, Westborough, MA, Tempe, AZ, London, UK, Edinburgh, UK, Cambridge, UK, Sunnyvale, CA, India
 
 ## Current Opportunities
 
