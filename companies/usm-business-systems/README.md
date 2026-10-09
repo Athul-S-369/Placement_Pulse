@@ -1,11 +1,11 @@
 # 🏢 USM Business Systems
 
-**21 active opportunities** | **21 total tracked** | *Last updated: 2026-10-08*
+**21 active opportunities** | **21 total tracked** | *Last updated: 2026-10-09*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Baltimore, MD, Jefferson City, MO, California City, CA, Westminster, CO, Columbus, OH
+- **Locations:** Alexandria, VA, Rochester, MI, Augusta, ME, St. Louis, MO, Traverse City, MI
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏢 Motilal Nehru College (MNC), University of Delhi (DU), Delhi
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-10-08*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-10-09*
 
 ## Overview
 

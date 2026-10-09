@@ -1,11 +1,11 @@
 # 🏢 GE Vernova
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-08*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-09*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Remote in USA, Schenectady, NY, Greenville, SC, Bengaluru, Karnataka, India, Remote in USA
+- **Locations:** Remote in USA, Remote in USA, Schenectady, NY, Greenville, SC, Bengaluru, Karnataka, India
 
 ## Current Opportunities
 

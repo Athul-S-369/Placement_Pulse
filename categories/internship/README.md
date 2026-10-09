@@ -1,13 +1,14 @@
 # 🎓 Internship
 
-**860 active** | **0 expired** | **860 total**
+**861 active** | **0 expired** | **861 total**
 
-*Last updated: 2026-10-08*
+*Last updated: 2026-10-09*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [AI & Data Science Intern - GPSU](https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004) | GuidePoint Security | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern - Platform Engines](https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164) | SailPoint | Remote in UK | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Model Risk Intern](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Long-Term-Model-Risk-Intern_R623) | Federal Home Loan Bank of Indianapolis | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Research Fellow](https://job-boards.greenhouse.io/snorkelai/jobs/6175199004) | Snorkel AI | SF, Remote in USA, NYC | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [People Analytics Intern](https://usacs.wd1.myworkdayjobs.com/usacscareers/job/Virtual-OH/People-Analytics-Intern_R0002363) | US Acute Care Solutions | Remote in USA, Ohio | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [AI Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) | Intel | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true) | Yotta Labs | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Digital & Technology Extern - Digital & Technology](https://coke.wd1.myworkdayjobs.com/coca-cola-careers/job/US--REMOTE/Start-Your-Legacy-HBCU-Externship-----Digital---Technology_R-144386) | The Coca-Cola Company | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

@@ -1,11 +1,11 @@
 # 🏢 Zebra Technologies
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-08*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-09*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Blackpool, UK, Lake Grove, NY, Bentonville, AR
+- **Locations:** Bentonville, AR, Lake Grove, NY, Blackpool, UK
 
 ## Current Opportunities
 
