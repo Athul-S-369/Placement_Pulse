@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Southfield, MI, Washington, DC, Bluemont, VA, Bloomington, MN, California City, CA
+- **Locations:** Manassas, VA, Washington, DC, San Antonio, TX, Southfield, MI, Augusta, ME
 
 ## Current Opportunities
 

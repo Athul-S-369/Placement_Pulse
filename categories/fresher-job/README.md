@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1392 active** | **0 expired** | **1392 total**
+**1393 active** | **0 expired** | **1393 total**
 
 *Last updated: 2026-10-09*
 
@@ -9,6 +9,7 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [3D & LiDAR Data Annotation Analyst](https://jobs.lever.co/appen-2/b66cbdf1-684b-449b-8779-5859fa4419fa/apply) | Appen | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Global Portfolio Associate - Food Safety](https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Remote/Global-Portfolio-Associate---Food-Safety_REQ-11141) | Neogen | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Full-Stack Software Engineer New Grad](https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e/application?embed=true) | SpruceID | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Forward Deployed Engineer - Software Engineer](https://jobs.ashbyhq.com/elevenlabs/2d0016e0-3cc2-4ec7-b164-bc2b83990fb6/application?embed=true) | ElevenLabs | London, UK, Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Reporting Analyst](https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/Work-At-Home-Arizona/Reporting-Analyst_R1051672-1) | CVS Health | New Mexico, Washington, Kansas, Pennsylvania, North Dakota, Oregon, Delaware, Iowa, California, Washington, DC, Vermont, Wyoming, Connecticut, Texas, Montana, Florida, New Hampshire, Nevada, South Carolina, South Dakota, Georgia, Arizona, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Colorado, Nebraska, Rhode Island, Utah, Kentucky, West Virginia, NYC, Maryland, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Michigan, Illinois, Alabama, Idaho | 🏢 Onsite | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Master Data Management Specialist - MDM Team](https://jobs.ascension.org/us/en/job/456522) | Ascension | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [IT & Artificial Intelligence Fundamentals - Academy](https://specialisterne.applytojob.com/apply/l7VrTDSZmZ/Specialisterne-USA-Academy) | Specialisterne | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Full Stack Developer](https://www.t2systems.com/jobs?gh_jid=4675527006) | T2 Systems | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Public Health Data Engineer](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---TX-San-Antonio/Public-Health-Data-Engineer_43271-1) | Guidehouse | Houston, TX, Remote in USA, San Antonio, TX, Atlanta, GA | 🌐 Remote | — | — | SimplifyJobs New Grad |

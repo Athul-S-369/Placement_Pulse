@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Charlotte, NC, Franklin, TN
+- **Locations:** Franklin, TN, Charlotte, NC
 
 ## Current Opportunities
 

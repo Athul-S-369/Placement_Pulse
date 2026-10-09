@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Santa Clara, CA, Seattle, WA, Santa Clara, CA, Nashville, TN, Allen, TX, United States
+- **Locations:** Allen, TX, United States, Nashville, TN, Ashburn, VA, Seattle, WA, Santa Clara, CA
 
 ## Current Opportunities
 
