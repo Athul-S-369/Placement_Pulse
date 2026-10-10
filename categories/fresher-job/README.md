@@ -1,13 +1,16 @@
 # 💼 Fresher Job
 
-**1393 active** | **0 expired** | **1393 total**
+**1396 active** | **0 expired** | **1396 total**
 
-*Last updated: 2026-10-09*
+*Last updated: 2026-10-10*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Flexible Work - Help Improve AI - English Speakers](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990016021726) | Lifted Solutions | London, UK, Remote in USA, Remote in Ireland, Remote in Australia, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Mathematical Modeling and Simulation Analyst](https://mantech.avature.net/en_US/careers/JobDetail/66499) | ManTech | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Data Annotation Specialist - Computer Vision](https://jobs.ashbyhq.com/bobyard/5df8467f-53d5-497f-98df-ae01886cc9ed/application?embed=true) | Bobyard | SF, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [3D & LiDAR Data Annotation Analyst](https://jobs.lever.co/appen-2/b66cbdf1-684b-449b-8779-5859fa4419fa/apply) | Appen | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Global Portfolio Associate - Food Safety](https://neogen.wd5.myworkdayjobs.com/neogencareers/job/Remote/Global-Portfolio-Associate---Food-Safety_REQ-11141) | Neogen | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Full-Stack Software Engineer New Grad](https://jobs.ashbyhq.com/spruceid/3d182b7f-482e-45b2-8668-f04f0b5fda8e/application?embed=true) | SpruceID | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -105,6 +108,3 @@
 | [Junior Power Platform Developer](https://careers-ita-intl.icims.com/jobs/4470/job?mobile=true&needsRedirect=false) | ITA International | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Vibe Coding Engineer](https://careers.ctg.com/jobs/17347?icims=1) | CTG | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Entry-level Software Developer](https://careers-decisionpointcorp.icims.com/jobs/3685/job?mobile=true&needsRedirect=false) | DecisionPoint Corporation | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Master Data Management Specialist - MDM Team](https://jobs.ascension.org/us/en/job/456522) | Ascension | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [IT & Artificial Intelligence Fundamentals - Academy](https://specialisterne.applytojob.com/apply/l7VrTDSZmZ/Specialisterne-USA-Academy) | Specialisterne | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Full Stack Developer](https://www.t2systems.com/jobs?gh_jid=4675527006) | T2 Systems | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |

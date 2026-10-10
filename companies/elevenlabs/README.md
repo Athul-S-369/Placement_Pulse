@@ -1,11 +1,11 @@
 # 🏢 ElevenLabs
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-09*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-10*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** London, UK, Remote in UK, Remote in USA, Remote in UK
+- **Locations:** Remote in USA, Remote in UK, London, UK, Remote in UK
 
 ## Current Opportunities
 

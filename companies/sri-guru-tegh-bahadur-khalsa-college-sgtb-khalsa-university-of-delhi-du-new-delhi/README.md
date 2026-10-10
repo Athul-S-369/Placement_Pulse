@@ -1,6 +1,6 @@
 # 🏢 Sri Guru Tegh Bahadur Khalsa College (SGTB Khalsa), University of Delhi (DU), New Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-09*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-10*
 
 ## Overview
 
