@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** SF, SF, NYC
+- **Locations:** SF, NYC, SF
 
 ## Current Opportunities
 

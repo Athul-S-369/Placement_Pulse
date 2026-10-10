@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** SF, Chicago, IL, NYC, Mountain View, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Mountain View, CA, SF, Chicago, IL, NYC
 
 ## Current Opportunities
 

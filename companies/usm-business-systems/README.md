@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Baltimore, MD, Columbus, OH, Alexandria, VA, Chantilly, VA, Rochester, MI
+- **Categories:** Fresher Job, Internship
+- **Locations:** Augusta, ME, Traverse City, MI, Southfield, MI, Rochester, MI, El Segundo, CA
 
 ## Current Opportunities
 
