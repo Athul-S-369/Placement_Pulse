@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Augusta, ME, Traverse City, MI, Southfield, MI, Rochester, MI, El Segundo, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Rochester, MI, Augusta, ME, Columbus, OH, Bloomington, MN, California City, CA
 
 ## Current Opportunities
 

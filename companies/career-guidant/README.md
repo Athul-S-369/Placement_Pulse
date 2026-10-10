@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Minneapolis, MN, Princeton, NJ, NYC
+- **Locations:** NYC, Minneapolis, MN, Princeton, NJ
 
 ## Current Opportunities
 
