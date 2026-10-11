@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Washington, DC, California City, CA, Westminster, CO, El Segundo, CA, Manassas, VA
+- **Categories:** Internship, Fresher Job
+- **Locations:** California City, CA, Manassas, VA, Dublin, OH, Baltimore, MD, Chicago, IL
 
 ## Current Opportunities
 

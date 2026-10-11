@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Sunnyvale, CA, Hartford, CT, Alpharetta, GA, Dallas, TX, Broomfield, CO
+- **Categories:** Internship, Fresher Job
+- **Locations:** Alpharetta, GA, Broomfield, CO, Jacksonville, FL, Novato, CA, Plainview, NY
 
 ## Current Opportunities
 

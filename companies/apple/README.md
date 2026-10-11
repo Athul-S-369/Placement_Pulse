@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Cupertino, CA, Gloucester, UK, Beaverton, OR, SF, Seattle, WA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Waltham, MA, London, UK, California, London, UK, Cambridge, UK, Welwyn Garden City, UK, United States
 
 ## Current Opportunities
 

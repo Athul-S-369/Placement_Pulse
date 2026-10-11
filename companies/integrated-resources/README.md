@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** North Haven, CT, Ambler, PA, Milwaukee, WI, Birmingham, AL, Hickory, NC
+- **Categories:** Internship, Fresher Job
+- **Locations:** Ambler, PA, Milwaukee, WI, Exton, PA, North Haven, CT, Westborough, MA
 
 ## Current Opportunities
 
