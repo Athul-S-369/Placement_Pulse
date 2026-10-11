@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** California City, CA, Manassas, VA, Dublin, OH, Baltimore, MD, Chicago, IL
+- **Categories:** Fresher Job, Internship
+- **Locations:** Jefferson City, MO, El Segundo, CA, Chantilly, VA, Baltimore, MD, Bloomington, MN
 
 ## Current Opportunities
 
