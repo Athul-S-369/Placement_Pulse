@@ -1,13 +1,14 @@
 # 💼 Fresher Job
 
-**1396 active** | **0 expired** | **1396 total**
+**1397 active** | **0 expired** | **1397 total**
 
-*Last updated: 2026-10-11*
+*Last updated: 2026-10-12*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Data Analyst - Measurement](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26228) | Pearson | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Flexible Work - Help Improve AI - English Speakers](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990016021726) | Lifted Solutions | London, UK, Remote in USA, Remote in Ireland, Remote in Australia, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Mathematical Modeling and Simulation Analyst](https://mantech.avature.net/en_US/careers/JobDetail/66499) | ManTech | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Annotation Specialist - Computer Vision](https://jobs.ashbyhq.com/bobyard/5df8467f-53d5-497f-98df-ae01886cc9ed/application?embed=true) | Bobyard | SF, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Electronics Worker 1](https://careers.gov2x.com/jobs/59672?icims=1) | V2X | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Junior Power Platform Developer](https://careers-ita-intl.icims.com/jobs/4470/job?mobile=true&needsRedirect=false) | ITA International | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Vibe Coding Engineer](https://careers.ctg.com/jobs/17347?icims=1) | CTG | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Entry-level Software Developer](https://careers-decisionpointcorp.icims.com/jobs/3685/job?mobile=true&needsRedirect=false) | DecisionPoint Corporation | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

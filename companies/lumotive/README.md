@@ -1,11 +1,11 @@
 # 🏢 Lumotive
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-11*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-12*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** San Jose, CA, Redmond, WA
+- **Locations:** Redmond, WA, San Jose, CA
 
 ## Current Opportunities
 

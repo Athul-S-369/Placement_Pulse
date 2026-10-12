@@ -1,11 +1,11 @@
 # 🏢 BlackRock
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-11*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-12*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** SF, NYC
+- **Locations:** NYC, SF
 
 ## Current Opportunities
 
