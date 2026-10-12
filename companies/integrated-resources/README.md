@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Cherry Hills Village, CO, Hickory, NC, Boston, MA, North Haven, CT, Santa Clara, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Westborough, MA, Boston, MA, Exton, PA, Hickory, NC, Cherry Hills Village, CO
 
 ## Current Opportunities
 

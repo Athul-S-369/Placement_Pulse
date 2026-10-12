@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** California City, CA, Traverse City, MI, Augusta, ME, Westminster, CO, San Antonio, TX
+- **Categories:** Internship, Fresher Job
+- **Locations:** St. Louis, MO, Jefferson City, MO, San Antonio, TX, Columbus, OH, Alexandria, VA
 
 ## Current Opportunities
 

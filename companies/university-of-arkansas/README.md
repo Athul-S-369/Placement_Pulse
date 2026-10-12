@@ -4,7 +4,7 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
+- **Categories:** Internship, Fresher Job
 - **Locations:** Pine Bluff, AR, Fayetteville, AR, Little Rock, AR
 
 ## Current Opportunities

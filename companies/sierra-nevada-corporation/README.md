@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Lone Tree, CO, Sparks, NV, Reston, VA
+- **Locations:** Reston, VA, Lone Tree, CO, Sparks, NV
 
 ## Current Opportunities
 
