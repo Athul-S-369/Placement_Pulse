@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Auburn Hills, MI, Newmarket, ON, Canada, Vaughan, ON, Canada, Oakville, ON, Canada, Grand Rapids, MI
+- **Locations:** Oakville, ON, Canada, Troy, MI, Vaughan, ON, Canada, Auburn Hills, MI, Grand Rapids, MI
 
 ## Current Opportunities
 
