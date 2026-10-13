@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote in USA, San Jose, CA, Remote in USA, NYC
+- **Locations:** San Jose, CA, Remote in USA, NYC, Remote in USA
 
 ## Current Opportunities
 

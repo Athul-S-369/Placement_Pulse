@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Chantilly, VA, Rochester, MI, Manassas, VA, Alexandria, VA, Bloomington, MN
+- **Locations:** Columbus, OH, Augusta, ME, Dublin, OH, Manassas, VA, Alexandria, VA
 
 ## Current Opportunities
 

@@ -84466,5 +84466,36 @@
     "verification_status": "unverified",
     "is_duplicate": false,
     "duplicate_of": ""
+  },
+  {
+    "id": "dd79166b16ecd922",
+    "title": "Machine Learning Scientist",
+    "company": "GoodPower",
+    "company_slug": "goodpower",
+    "category": "fresher-job",
+    "domain_tags": [
+      "ai-ml"
+    ],
+    "tags": [],
+    "location": "Remote in USA",
+    "work_mode": "remote",
+    "is_india": true,
+    "apply_link": "https://goodpower.applytojob.com/apply/HK1iqPLsBu/Machine-Learning-Scientist",
+    "source_url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json",
+    "source_name": "SimplifyJobs New Grad",
+    "date_found": "2026-10-13",
+    "date_posted": "",
+    "deadline": "",
+    "last_checked": "2026-10-13",
+    "batch_eligible": [],
+    "experience_required": "0",
+    "skills_required": [],
+    "salary": "",
+    "stipend": "",
+    "description": "",
+    "responsibilities": [],
+    "verification_status": "unverified",
+    "is_duplicate": false,
+    "duplicate_of": ""
   }
 ]

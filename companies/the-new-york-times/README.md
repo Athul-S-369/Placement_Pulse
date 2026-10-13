@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote / Various, New York, NY
+- **Locations:** New York, NY, Remote / Various
 
 ## Current Opportunities
 
