@@ -10,7 +10,7 @@
 [![Active](https://img.shields.io/badge/Active-2288-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
 [![Companies](https://img.shields.io/badge/Companies-2110-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
-[![Updated](https://img.shields.io/badge/Updated-Oct%2012%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
+[![Updated](https://img.shields.io/badge/Updated-Oct%2013%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
 [Latest Run](#latest-run) &nbsp;·&nbsp;
 [Active Opportunities](#active-opportunities) &nbsp;·&nbsp;
@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**October 12, 2026** &nbsp;—&nbsp; **77** Internship &nbsp;·&nbsp; **71** Fresher Job &nbsp;·&nbsp; **4** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**October 13, 2026** &nbsp;—&nbsp; **77** Internship &nbsp;·&nbsp; **70** Fresher Job &nbsp;·&nbsp; **4** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**158 opportunities** added or updated in the latest run (October 12, 2026).
+**157 opportunities** added or updated in the latest run (October 13, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -57,7 +57,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Entry-level Software Developer](https://careers-decisionpointcorp.icims.com/jobs/3766/job?mobile=true&needsRedirect=false) | DecisionPoint | Remote in USA | Fresher Job | Remote | — |
 | [People AI & Automation Engineer](https://jobs.ashbyhq.com/deepgram/bf8ea79f-f380-467e-8349-ea1ea8281316/application?embed=true) | Deepgram | California, Remote in USA | Fresher Job | Remote | — |
 | [Associate Software Engineer](https://jobs.lever.co/demiurgestudios/85f401d2-5242-4096-b852-2947492d0035/apply) | Demiurge Studios | Remote in USA | Fresher Job | Remote | — |
-| [Software Development Engineer 1](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540) | Dexcom | Remote in USA | Fresher Job | Remote | — |
 | [Creator Circle - Dipper](https://jobs.ashbyhq.com/dipper/ce3c338e-73e8-47ce-8c16-eafc331f6b16/application?embed=true) | Dipper | Remote in USA | Fresher Job | Remote | — |
 | [Forward Deployed Engineer - Software Engineer](https://jobs.ashbyhq.com/elevenlabs/2d0016e0-3cc2-4ec7-b164-bc2b83990fb6/application?embed=true) | ElevenLabs | London, UK, Remote in UK | Fresher Job | Remote | — |
 | [Feed Integrations Associate](https://job-boards.greenhouse.io/garnerhealth/jobs/6112552004) | Garner Health | Remote in USA | Fresher Job | Remote | — |
@@ -295,13 +294,13 @@ The 50 most recently added active opportunities across all categories.
 
 ## Archive
 
-- [October 12, 2026 — Today](daily/2026/October/2026-10-12.md)
+- [October 13, 2026 — Today](daily/2026/October/2026-10-13.md)
+- [October 12, 2026](daily/2026/October/2026-10-12.md)
 - [October 11, 2026](daily/2026/October/2026-10-11.md)
 - [October 10, 2026](daily/2026/October/2026-10-10.md)
 - [October 09, 2026](daily/2026/October/2026-10-09.md)
 - [October 08, 2026](daily/2026/October/2026-10-08.md)
 - [October 07, 2026](daily/2026/October/2026-10-07.md)
-- [October 06, 2026](daily/2026/October/2026-10-06.md)
 
 [Full archive](daily/)
 
@@ -320,6 +319,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-10-12 23:11 UTC</sub>
+<sub>Last generated: 2026-10-13 07:02 UTC</sub>
 
 </div>

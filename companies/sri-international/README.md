@@ -1,11 +1,11 @@
 # 🏢 SRI International
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-12*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-13*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Menlo Park, CA, Princeton, NJ
+- **Locations:** Princeton, NJ, Menlo Park, CA
 
 ## Current Opportunities
 

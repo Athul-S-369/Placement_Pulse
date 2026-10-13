@@ -1,6 +1,6 @@
 # 🏢 Leggett & Platt
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-12*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-13*
 
 ## Overview
 
