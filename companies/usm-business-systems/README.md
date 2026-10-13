@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Columbus, OH, Augusta, ME, Dublin, OH, Manassas, VA, Alexandria, VA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Bluemont, VA, Baltimore, MD, California City, CA, Alexandria, VA, Westminster, CO
 
 ## Current Opportunities
 
