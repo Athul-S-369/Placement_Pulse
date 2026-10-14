@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Remote in USA, Shiloh, IL, Odenton, MD, Columbia, MD, Chesapeake, VA, Indianapolis, IN, Remote in USA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Indianapolis, IN, Remote in USA, Aurora, CO, Annapolis Junction, MD, Alexandria, VA, San Diego, CA, Huntsville, AL, Columbia, MD
 
 ## Current Opportunities
 

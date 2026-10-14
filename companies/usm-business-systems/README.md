@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Bluemont, VA, Chicago, IL, Westminster, CO, Southfield, MI, Washington, DC
+- **Locations:** Rochester, MI, Chicago, IL, Westminster, CO, Dublin, OH, Traverse City, MI
 
 ## Current Opportunities
 

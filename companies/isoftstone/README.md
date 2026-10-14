@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Palo Alto, CA, Seattle, WA, Dallas, TX, White Plains, NY
+- **Locations:** Seattle, WA, Dallas, TX, White Plains, NY, Palo Alto, CA
 
 ## Current Opportunities
 
