@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-13T21:30:22.759019Z",
-  "date": "2026-10-13",
-  "total": 2820,
-  "active": 2289,
-  "new_today": 159,
-  "companies": 2111,
+  "generated_at": "2026-10-14T05:16:13.905840Z",
+  "date": "2026-10-14",
+  "total": 2822,
+  "active": 2291,
+  "new_today": 157,
+  "companies": 2113,
   "categories": {
-    "fresher-job": 1400,
+    "fresher-job": 1402,
     "internship": 863,
     "hackathon": 551,
     "open-source-program": 2,
@@ -109,7 +109,7 @@
     "cloud": 27
   },
   "work_modes": {
-    "remote": 498,
+    "remote": 500,
     "onsite": 2322
   }
 }

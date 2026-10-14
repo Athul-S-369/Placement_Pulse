@@ -1,11 +1,11 @@
 # 🏢 Amazon
 
-**15 active opportunities** | **16 total tracked** | *Last updated: 2026-10-13*
+**15 active opportunities** | **16 total tracked** | *Last updated: 2026-10-14*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job, Hackathon
-- **Locations:** Winnipeg, MB, Canada, Toronto, ON, Canada, Victoria, BC, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Seattle, WA, SF, India, Tennessee, Chennai, Tamil Nadu, India, Indiana, Indianapolis, IN, Hyderabad, Telangana, India
+- **Locations:** Fredericksburg, VA, Ashburn, VA, Manassas, VA, Reston, VA, Dulles, VA, London, UK, Indianapolis, IN, Hyderabad, Telangana, India, India, Seattle, WA, Wakefield, MA, Westborough, MA
 
 ## Current Opportunities
 

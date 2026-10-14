@@ -1,13 +1,15 @@
 # 💼 Fresher Job
 
-**1400 active** | **0 expired** | **1400 total**
+**1402 active** | **0 expired** | **1402 total**
 
-*Last updated: 2026-10-13*
+*Last updated: 2026-10-14*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Product Owner 1](https://jobs.lever.co/pditechnologies/ba03923d-fb60-4203-b85e-5e18bc046a04/apply) | PDI Technologies | Remote in USA, Alpharetta, GA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Associate Product Manager](https://clarioclinical.wd1.myworkdayjobs.com/en-US/clarioclinical_careers/job/Canada-Remote/Associate-Product-Manager_R18374) | Clairo | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Machine Learning Scientist](https://goodpower.applytojob.com/apply/HK1iqPLsBu/Machine-Learning-Scientist) | GoodPower | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Analyst - Measurement](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26228) | Pearson | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004087) | TriNet | Remote in USA, Atlanta, GA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -106,5 +108,3 @@
 | [Forward Deployed Engineer New Grad](https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3/application?embed=true) | LiteLLM | India, United States | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Software Developer](https://autodesk.wd1.myworkdayjobs.com/Ext/job/Toronto-ON-CAN/Software-Developer_26WD100537) | Autodesk | Toronto, ON, Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Data Analyst](https://pureinsurance.wd5.myworkdayjobs.com/pure/job/Boston/Associate-Data-Analyst_R2727) | PURE Insurance | Boston, MA, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Software Development Engineer 1](https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote---United-States/Software-Development-Engineer-1_JR120540) | Dexcom | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Agentic Factory Consultant](https://careers2-vistaequitypartners.icims.com/jobs/3017/job?mobile=true&needsRedirect=false) | Vista Equity Partners | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

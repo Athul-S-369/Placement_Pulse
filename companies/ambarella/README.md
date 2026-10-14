@@ -1,11 +1,11 @@
 # 🏢 Ambarella
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-13*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-14*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote / Various, United States
+- **Locations:** United States, Remote / Various
 
 ## Current Opportunities
 
