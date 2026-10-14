@@ -84555,5 +84555,37 @@
     "verification_status": "unverified",
     "is_duplicate": false,
     "duplicate_of": ""
+  },
+  {
+    "id": "3fe8de90c1da24e1",
+    "title": "Software Engineer – Machine Learning Intern/Co-op",
+    "company": "Bree",
+    "company_slug": "bree",
+    "category": "internship",
+    "domain_tags": [
+      "ai-ml",
+      "software-engineering"
+    ],
+    "tags": [],
+    "location": "Remote / Various",
+    "work_mode": "remote",
+    "is_india": true,
+    "apply_link": "http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application",
+    "source_url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json",
+    "source_name": "SimplifyJobs GitHub",
+    "date_found": "2026-10-14",
+    "date_posted": "",
+    "deadline": "",
+    "last_checked": "2026-10-14",
+    "batch_eligible": [],
+    "experience_required": "0",
+    "skills_required": [],
+    "salary": "",
+    "stipend": "",
+    "description": "",
+    "responsibilities": [],
+    "verification_status": "unverified",
+    "is_duplicate": false,
+    "duplicate_of": ""
   }
 ]

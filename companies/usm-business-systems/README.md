@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Augusta, ME, California City, CA, Chicago, IL, NYC, Manassas, VA
+- **Locations:** Bluemont, VA, Chicago, IL, Westminster, CO, Southfield, MI, Washington, DC
 
 ## Current Opportunities
 
