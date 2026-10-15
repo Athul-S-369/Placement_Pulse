@@ -1,6 +1,6 @@
 # 🏢 Atma Ram Sanatan Dharma College (ARSD), University of Delhi (DU), New Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-14*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-10-15*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Barter Mania- " The Ultimate Barter Challenge"](https://unstop.com/competitions/barter-mania-the-ultimate-barter-challenge-atma-ram-sanatan-dharma-college-arsd-du-new-delhi-1766643) | Atma Ram Sanatan Dharma College (ARSD), University of Delhi (DU), New Delhi | India | 🏢 Onsite | — | 2026-10-14 | Unstop |
 
 ## 📖 Interview Preparation
 

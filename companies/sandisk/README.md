@@ -1,11 +1,11 @@
 # 🏢 Sandisk
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-14*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-15*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Milpitas, CA, Edinburgh, UK
+- **Categories:** Fresher Job, Internship
+- **Locations:** Edinburgh, UK, Milpitas, CA
 
 ## Current Opportunities
 

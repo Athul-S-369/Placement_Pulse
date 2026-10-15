@@ -1,11 +1,11 @@
 # 🏢 Illinois Tool Works
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-14*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-15*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Norwood, MA, Appleton, WI
+- **Categories:** Fresher Job, Internship
+- **Locations:** Appleton, WI, Norwood, MA
 
 ## Current Opportunities
 

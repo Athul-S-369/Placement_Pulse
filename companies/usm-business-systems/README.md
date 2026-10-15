@@ -1,11 +1,11 @@
 # 🏢 USM Business Systems
 
-**21 active opportunities** | **21 total tracked** | *Last updated: 2026-10-14*
+**21 active opportunities** | **21 total tracked** | *Last updated: 2026-10-15*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Rochester, MI, Chicago, IL, Westminster, CO, Dublin, OH, Traverse City, MI
+- **Categories:** Fresher Job, Internship
+- **Locations:** Columbus, OH, Bluemont, VA, Manassas, VA, Dublin, OH, Southfield, MI
 
 ## Current Opportunities
 

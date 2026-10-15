@@ -1,10 +1,10 @@
 # 🏢 GitHub
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-14*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-15*
 
 ## Overview
 
-- **Categories:** Internship, Student Ambassador
+- **Categories:** Student Ambassador, Internship
 - **Locations:** Remote / Various, India (Campus)
 
 ## Current Opportunities
