@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Cupertino, CA, United States, California, Santa Clara, CA, Beaverton, OR
+- **Locations:** San Diego, CA, Beaverton, OR, California, Cupertino, CA, San Jose, CA
 
 ## Current Opportunities
 

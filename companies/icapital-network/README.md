@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Salt Lake City, UT, Boca Raton, FL
+- **Locations:** Boca Raton, FL, Salt Lake City, UT
 
 ## Current Opportunities
 
