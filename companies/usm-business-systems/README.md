@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Columbus, OH, Bluemont, VA, Manassas, VA, Dublin, OH, Southfield, MI
+- **Categories:** Internship, Fresher Job
+- **Locations:** Bluemont, VA, Southfield, MI, St. Louis, MO, Dublin, OH, El Segundo, CA
 
 ## Current Opportunities
 
