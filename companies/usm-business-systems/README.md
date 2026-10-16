@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Traverse City, MI, Chantilly, VA, St. Louis, MO, Jefferson City, MO, Washington, DC
+- **Locations:** Westminster, CO, Southfield, MI, St. Louis, MO, El Segundo, CA, Manassas, VA
 
 ## Current Opportunities
 

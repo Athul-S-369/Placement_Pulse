@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote in USA, Remote in USA, Milwaukee, WI
+- **Locations:** Remote in USA, Milwaukee, WI, Remote in USA
 
 ## Current Opportunities
 

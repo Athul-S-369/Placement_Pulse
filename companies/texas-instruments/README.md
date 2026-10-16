@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Richardson, TX, United States, Dallas, TX, Tucson, AZ, Toronto, ON, Canada, Knoxville, TN
+- **Locations:** United States, Richardson, TX, Dallas, TX, Tucson, AZ, Toronto, ON, Canada, Dallas, TX
 
 ## Current Opportunities
 
