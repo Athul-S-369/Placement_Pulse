@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Irvine, CA, Ottawa, ON, Canada, Remote / Various, Santa Clara, CA
+- **Locations:** Ottawa, ON, Canada, Irvine, CA, Remote / Various, Santa Clara, CA
 
 ## Current Opportunities
 

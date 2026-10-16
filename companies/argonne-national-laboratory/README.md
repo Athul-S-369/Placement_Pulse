@@ -4,7 +4,7 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
+- **Categories:** Fresher Job, Internship
 - **Locations:** Woodridge, IL, Remote in USA, Woodridge, IL
 
 ## Current Opportunities

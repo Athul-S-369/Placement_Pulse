@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Chicago, IL, St. Louis, MO, Novato, CA, Broomfield, CO, Jacksonville, FL
+- **Categories:** Fresher Job, Internship
+- **Locations:** Novato, CA, Dallas, TX, Alpharetta, GA, Plainview, NY, Chicago, IL
 
 ## Current Opportunities
 
