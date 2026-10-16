@@ -1,11 +1,11 @@
 # 🏢 Vermeer
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-15*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-16*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Remote in USA, Remote / Various
+- **Locations:** Remote / Various, Remote in USA
 
 ## Current Opportunities
 

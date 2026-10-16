@@ -1,6 +1,6 @@
 # 🏢 Manipal Academy of Higher Education (MAHE), Karnataka
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-15*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-10-16*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [13th Interdisciplinary Conference on Health, Humanities, Technology and Management Research (ICHTMR 2026)](https://unstop.com/conferences/13th-interdisciplinary-conference-on-health-humanities-technology-and-management-research-ichtmr-2026-manipa-1722662) | Manipal Academy of Higher Education (MAHE), Karnataka | India | 🏢 Onsite | — | 2026-10-15 | Unstop |
 
 ## 📖 Interview Preparation
 
