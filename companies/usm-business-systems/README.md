@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Bloomington, MN, Dublin, OH, St. Louis, MO, Traverse City, MI, California City, CA
+- **Locations:** NYC, Columbus, OH, Augusta, ME, Washington, DC, El Segundo, CA
 
 ## Current Opportunities
 

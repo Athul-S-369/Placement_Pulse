@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Baton Rouge, LA, Woodridge, IL
+- **Locations:** Woodridge, IL, Baton Rouge, LA
 
 ## Current Opportunities
 

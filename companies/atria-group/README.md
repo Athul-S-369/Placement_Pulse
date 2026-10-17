@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Plainview, NY, Broomfield, CO, Thousand Oaks, CA, San Jose, CA, Chicago, IL
+- **Locations:** Alpharetta, GA, Dallas, TX, NYC, Thousand Oaks, CA, San Jose, CA
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** San Diego, CA, Santa Clara, CA, Morrisville, NC, Beaverton, OR, California
+- **Locations:** San Diego, CA, SF, California, London, UK, London, UK, Cambridge, UK, Welwyn Garden City, UK
 
 ## Current Opportunities
 

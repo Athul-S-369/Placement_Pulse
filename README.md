@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**October 17, 2026** &nbsp;—&nbsp; **79** Internship &nbsp;·&nbsp; **66** Fresher Job &nbsp;·&nbsp; **4** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**October 17, 2026** &nbsp;—&nbsp; **76** Internship &nbsp;·&nbsp; **65** Fresher Job &nbsp;·&nbsp; **5** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**155 opportunities** added or updated in the latest run (October 17, 2026).
+**152 opportunities** added or updated in the latest run (October 17, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -69,7 +69,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Content Evaluator - Bilingual, Vietnamese and English](https://job-boards.greenhouse.io/innodatainc/jobs/4384507009) | Innodata | Remote in USA | Fresher Job | Remote | — |
 | [Generative AI Associate](https://job-boards.greenhouse.io/innodatainc/jobs/4248787009) | Innodata | Remote in Canada | Fresher Job | Remote | — |
 | [Senior Machine Learning Engineer - Economist](https://instacart.careers/job/?gh_jid=8157736) | Instacart | Remote in USA | Fresher Job | Remote | — |
-| [Software Engineer](https://apply.workable.com/interimage/j/50AEE969C4/apply) | InterImage | Remote in USA, Arlington  | Fresher Job | Remote | — |
 | [English Language Specialist - Freelance AI Trainer Project](https://job-boards.eu.greenhouse.io/agency/jobs/4738026101) | Invisible Technologies | Remote in USA | Fresher Job | Remote | — |
 | [Corporate & Markets Specialist - Freelance AI Trainer Projec...](https://job-boards.eu.greenhouse.io/agency/jobs/4784905101) | Invisible Technologies AI | Remote in UK | Fresher Job | Remote | — |
 | [English - Language Specialist - Freelance AI Trainer Project](https://job-boards.eu.greenhouse.io/agency/jobs/4844613101) | Invisible Technologies AI | Remote in Canada | Fresher Job | Remote | — |
@@ -113,6 +112,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [C++ Developer](https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4844280101) | think-cell | Remote in UK | Fresher Job | Remote | — |
 | [The Hidden Cost of AI Amnesia in Enterprise Software Deliver...](https://unstop.com/workshops-webinars/the-hidden-cost-of-ai-amnesia-in-enterprise-software-delivery-acl-digital-1768481) | ACL Digital | India | Hackathon | Onsite | 2026-10-13 |
 | [Kaun Banega Kotler 4.0](https://unstop.com/competitions/kaun-banega-kotler-40-marketing-fest-2026-iim-amritsar-1769123) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-10-22 |
+| [Samvad: Call For Article](https://unstop.com/competitions/samvad-call-for-article-sp-mandalis-prin-l-n-welingkar-institute-of-management-development-research-mumbai--1771544) | S.P. Mandali's, Prin. L. N.  | India | Hackathon | Onsite | 2026-10-23 |
 | [Market Maze: Treasure Hunt & Escape Room](https://unstop.com/competitions/market-maze-treasure-hunt-escape-room-blisspoint-2026-27-sri-venkateswara-college-svc-du-delhi-1768905) | Sri Venkateswara College (SV | India | Hackathon | Onsite | 2026-11-03 |
 | [Call for Research Articles for The Economics Association (20...](https://unstop.com/competitions/call-for-research-articles-for-the-economics-association-2026-27-sri-venkateswara-collegedu-1769108) | Sri Venkateswara College(DU) | India | Hackathon | Onsite | 2026-10-20 |
 | [Data Intern - Product Analytics](https://jobs.ashbyhq.com/1password/412c1aac-13ce-4cc9-9c81-90a9a7a2ee48/application?embed=true) | 1Password | Remote in USA, Remote in  | Internship | Remote | — |
@@ -123,11 +123,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Machine Learning Engineer Co-op](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377) | Ancestry | Remote in USA | Internship | Remote | — |
 | [Anthropic Fellows Program - ML Systems & Performance](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) | Anthropic | London, UK, SF, Remote in | Internship | Remote | — |
 | [Product Analyst Intern - Housing](https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/United-States-Virtual/Summer-2027-Intern--Product-Analyst-Intern---Housing_R-115659) | Assurant | Remote in USA | Internship | Remote | — |
-| [Software Intern](https://jobs.smartrecruiters.com/barkbackLlc/90864007) | Barkback | Remote / Various | Internship | Remote | — |
 | [Information Technology Data Intern](https://jobs.ashbyhq.com/barnes/1881dbc0-846e-4805-968f-4e27d663f7b0/application?embed=true) | Barnes & Thornburg | Indianapolis, IN | Internship | Onsite | — |
 | [Hardware Engineering Intern](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101533) | Bio-Techne | Remote / Various | Internship | Remote | — |
 | [Data Science & AI Co-op - Portfolio Data & Digital Innovatio...](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209) | Biogen | Remote in USA | Internship | Remote | — |
-| [Java Web Development Intern](https://jobs.smartrecruiters.com/Blinqlabs/743999734120603) | BlinqLABS | Remote / Various | Internship | Remote | — |
 | [Software Engineer Intern - Waterloo University](https://job-boards.greenhouse.io/brave/jobs/8161945) | Brave | Remote in Canada | Internship | Remote | — |
 | [Business Intelligence Analyst Intern - Innovation & Data Sci...](https://www.businessolver.com/careers/openings/?gh_jid=8281727) | Businessolver | Remote in USA | Internship | Remote | — |
 | [Software Development/Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1) | CACI | Remote in USA | Internship | Remote | — |
@@ -161,7 +159,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Data Scientist Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252) | ICF International | Remote in USA, Reston, VA | Internship | Remote | — |
 | [Research Scientist Intern - Graphics - ML](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525) | Intel | Remote in USA | Internship | Remote | — |
 | [Data Analysis Intern](https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Indianapolis-IN/Data-Analysis-Intern_JR0000109676) | Ivy Tech Community College | Indianapolis, IN | Internship | Onsite | — |
-| [Software Engineer Intern](https://job-boards.greenhouse.io/khanacademy/jobs/8250259) | Khan Academy | Remote in USA, Remote in  | Internship | Remote | — |
 | [AI/ML Researcher Intern](https://careers-kinaxis.icims.com/jobs/35465/job?mobile=true&needsRedirect=false) | Kinaxis | Remote in Canada | Internship | Remote | — |
 | [Commercial Analytics Intern - ED/Chemistry Solutions Commerc...](https://labcorp.wd1.myworkdayjobs.com/external/job/USA----WI---Milwaukee---3727-W-Wisconsin-Avenue/Intern---Commercial-Analytics_2633615) | LabCorp | Remote in USA, Milwaukee, | Internship | Remote | — |
 | [Business Systems AI Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770) | Leidos | Remote in USA | Internship | Remote | — |
@@ -317,6 +314,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-10-17 04:53 UTC</sub>
+<sub>Last generated: 2026-10-17 12:21 UTC</sub>
 
 </div>
