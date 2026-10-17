@@ -1,13 +1,14 @@
 # 🎓 Internship
 
-**866 active** | **0 expired** | **866 total**
+**867 active** | **0 expired** | **867 total**
 
-*Last updated: 2026-10-16*
+*Last updated: 2026-10-17*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Hardware Engineering Intern](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101533) | Bio-Techne | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Software Engineering Intern](https://job-boards.greenhouse.io/wikimedia/jobs/8268853) | Wikimedia Foundation | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Business Intelligence Analyst Intern - Innovation & Data Science](https://www.businessolver.com/careers/openings/?gh_jid=8281727) | Businessolver | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer – Machine Learning Intern/Co-op](http://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a/application) | Bree | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
@@ -107,4 +108,3 @@
 | [Software Engineering Intern](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334-2) | Cadence Design Systems | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Software Engineer Intern](https://apply.workable.com/pronexus-1/j/AF8C34AC6D/apply) | ProNexus | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Clinical Product Strategy Intern - Clinical Technology](https://jobs.lever.co/ekohealth/ff0ee63d-4733-4c97-b3c5-0a6f1e303f1d/apply) | Eko Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Monitoring & Evaluation Intern](https://apply.workable.com/healthcorpsorg/j/DD52981B55/apply) | HealthCorps | Remote in USA, Phoenix, AZ | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

@@ -1,11 +1,11 @@
 # 🏢 Twitch
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-16*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-17*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Seattle, WA, SF, Irvine, CA, SF
+- **Locations:** Seattle, WA, SF, SF, Irvine, CA
 
 ## Current Opportunities
 

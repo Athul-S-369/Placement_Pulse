@@ -1,11 +1,11 @@
 # 🏢 Radix Trading
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-16*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-17*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Chicago, IL, NYC, Chicago, IL
+- **Locations:** Chicago, IL, Chicago, IL, NYC
 
 ## Current Opportunities
 
