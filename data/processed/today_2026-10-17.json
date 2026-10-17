@@ -391,8 +391,8 @@
     "duplicate_of": "7ce5ece1e65ed9a1"
   },
   {
-    "id": "9201912aadb1ce28",
-    "title": "Engineering Excellence Intern",
+    "id": "12a9494205c32b56",
+    "title": "Data Scientist Intern",
     "company": "Ensemble Health Partners",
     "company_slug": "ensemble-health-partners",
     "category": "internship",
@@ -401,7 +401,7 @@
     "location": "Remote in USA",
     "work_mode": "remote",
     "is_india": true,
-    "apply_link": "https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Engineering-Excellence-Intern_R048023",
+    "apply_link": "https://ensemblehp.wd5.myworkdayjobs.com/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "source_url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json",
     "source_name": "SimplifyJobs / PittCSC",
     "date_found": "2026-10-17",
@@ -1564,37 +1564,6 @@
     "verification_status": "unverified",
     "is_duplicate": false,
     "duplicate_of": ""
-  },
-  {
-    "id": "8b110e72228f1a1e",
-    "title": "Business Analytics Intern",
-    "company": "Cencora",
-    "company_slug": "cencora",
-    "category": "internship",
-    "domain_tags": [
-      "data-science"
-    ],
-    "tags": [],
-    "location": "Texas, Remote in USA",
-    "work_mode": "remote",
-    "is_india": true,
-    "apply_link": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Business-Analytics-Intern_R2616423",
-    "source_url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2026-Internships/dev/.github/scripts/listings.json",
-    "source_name": "SimplifyJobs / PittCSC",
-    "date_found": "2026-10-17",
-    "date_posted": "",
-    "deadline": "",
-    "last_checked": "2026-10-17",
-    "batch_eligible": [],
-    "experience_required": "0",
-    "skills_required": [],
-    "salary": "",
-    "stipend": "",
-    "description": "",
-    "responsibilities": [],
-    "verification_status": "unverified",
-    "is_duplicate": true,
-    "duplicate_of": "bac0d957d284286d"
   },
   {
     "id": "e85e78fbd540f043",

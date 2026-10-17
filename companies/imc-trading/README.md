@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Chicago, IL, Miami, FL, NYC, Philadelphia, PA, SF, Chicago, IL, London, UK
+- **Categories:** Internship, Fresher Job
+- **Locations:** Miami, FL, NYC, Philadelphia, PA, SF, Chicago, IL, London, UK, Chicago, IL
 
 ## Current Opportunities
 

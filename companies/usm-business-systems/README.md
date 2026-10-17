@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** NYC, Columbus, OH, Augusta, ME, Washington, DC, El Segundo, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Rochester, MI, Baltimore, MD, Manassas, VA, Augusta, ME, San Antonio, TX
 
 ## Current Opportunities
 
