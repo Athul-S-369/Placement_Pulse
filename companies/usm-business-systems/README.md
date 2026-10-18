@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Rochester, MI, St. Louis, MO, Alexandria, VA, Southfield, MI, San Antonio, TX
+- **Locations:** Augusta, ME, Baltimore, MD, El Segundo, CA, Alexandria, VA, Traverse City, MI
 
 ## Current Opportunities
 

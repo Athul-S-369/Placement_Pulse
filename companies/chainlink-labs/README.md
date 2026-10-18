@@ -1,16 +1,17 @@
 # 🏢 Chainlink Labs
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-18*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-18*
 
 ## Overview
 
-- **Categories:** Fresher Job
-- **Locations:** Las Vegas, NV, Tampa, FL, Remote in UK, Remote in Ireland, Charlotte, NC, Phoenix, AZ, Remote in Spain, Remote in Canada
+- **Categories:** Internship, Fresher Job
+- **Locations:** Boston, MA, Seattle, WA, Remote in USA, NYC, Remote in Canada, Remote in Switzerland, Las Vegas, NV, Tampa, FL, Remote in UK, Remote in Ireland, Charlotte, NC, Phoenix, AZ, Remote in Spain, Remote in Canada
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Research Intern](https://jobs.ashbyhq.com/chainlink-labs/c71ed144-8eb4-4acf-9bf3-137b1b067ed8/application?embed=true) | Chainlink Labs | Boston, MA, Seattle, WA, Remote in USA, NYC, Remote in Canada, Remote in Switzerland | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer 1](https://jobs.ashbyhq.com/chainlink-labs/8485e325-111f-4370-b3c6-0ed95872144f/application?embed=true) | Chainlink Labs | Las Vegas, NV, Tampa, FL, Remote in UK, Remote in Ireland, Charlotte, NC, Phoenix, AZ, Remote in Spain, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 
 ## 📖 Interview Preparation

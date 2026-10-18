@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote / Various, United States
+- **Locations:** United States, Remote / Various
 
 ## Current Opportunities
 

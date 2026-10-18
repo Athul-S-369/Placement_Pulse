@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Clarksburg, WV, Houston, TX, Tulsa, OK
+- **Locations:** Houston, TX, Tulsa, OK, Clarksburg, WV
 
 ## Current Opportunities
 

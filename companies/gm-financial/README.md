@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Arlington, TX, Irving, TX, Fort Worth, TX, Detroit, MI, Fort Worth, TX
+- **Locations:** Arlington, TX, Irving, TX, Detroit, MI, Fort Worth, TX, Fort Worth, TX
 
 ## Current Opportunities
 
