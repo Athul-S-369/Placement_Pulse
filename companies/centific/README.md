@@ -1,11 +1,11 @@
 # 🏢 Centific
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-17*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-18*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Remote in USA, Remote in USA, Redmond, WA
+- **Locations:** Remote in USA, Redmond, WA, Remote in USA
 
 ## Current Opportunities
 

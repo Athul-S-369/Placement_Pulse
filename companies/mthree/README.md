@@ -1,11 +1,11 @@
 # 🏢 mthree
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-10-17*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-10-18*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Letchworth Garden City, UK, United States, United Kingdom, Montreal, QC, Canada
+- **Locations:** United Kingdom, Montreal, QC, Canada, Letchworth Garden City, UK, United States
 
 ## Current Opportunities
 

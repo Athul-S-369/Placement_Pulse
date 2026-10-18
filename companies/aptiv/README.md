@@ -1,16 +1,17 @@
 # 🏢 Aptiv
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-17*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-18*
 
 ## Overview
 
-- **Categories:** Fresher Job
-- **Locations:** Kanata, Ottawa, ON, Canada
+- **Categories:** Internship, Fresher Job
+- **Locations:** Remote / Various, Kanata, Ottawa, ON, Canada
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000691719) | Aptiv | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Embedded Software Engineer - Next RTOS](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Embedded-Software-Engineer---Wind-River-Next-RTOS_J000699519) | Aptiv | Kanata, Ottawa, ON, Canada | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 
 ## 📖 Interview Preparation

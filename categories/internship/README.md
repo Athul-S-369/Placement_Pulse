@@ -1,13 +1,14 @@
 # 🎓 Internship
 
-**867 active** | **0 expired** | **867 total**
+**868 active** | **0 expired** | **868 total**
 
-*Last updated: 2026-10-17*
+*Last updated: 2026-10-18*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Engineering Intern](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/CAN-Kanata-2-ON---WR/Engineering-Intern_J000691719) | Aptiv | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Hardware Engineering Intern](https://biotechne.wd5.myworkdayjobs.com/en-US/Biotechne/job/San-Jose-CA/Hardware-Engineering-Intern_JR101533) | Bio-Techne | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Software Engineering Intern](https://job-boards.greenhouse.io/wikimedia/jobs/8268853) | Wikimedia Foundation | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Business Intelligence Analyst Intern - Innovation & Data Science](https://www.businessolver.com/careers/openings/?gh_jid=8281727) | Businessolver | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [Insights - Project Extension Team - Cohort](https://apply.workable.com/generation-west-virginia-1/j/315616F917/apply) | Generation West Virginia | Remote in USA, West Virginia | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineering Intern](https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/PITTSBURGH-03/Software-Engineering-Intern_R52334-2) | Cadence Design Systems | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Software Engineer Intern](https://apply.workable.com/pronexus-1/j/AF8C34AC6D/apply) | ProNexus | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Clinical Product Strategy Intern - Clinical Technology](https://jobs.lever.co/ekohealth/ff0ee63d-4733-4c97-b3c5-0a6f1e303f1d/apply) | Eko Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
