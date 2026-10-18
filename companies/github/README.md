@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Student Ambassador
-- **Locations:** India (Campus), Remote / Various
+- **Locations:** Remote / Various, India (Campus)
 
 ## Current Opportunities
 

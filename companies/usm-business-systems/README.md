@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Augusta, ME, Baltimore, MD, El Segundo, CA, Alexandria, VA, Traverse City, MI
+- **Locations:** California City, CA, Rochester, MI, Westminster, CO, Columbus, OH, St. Louis, MO
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Gloucester, UK, Lafayette, KS, California, Cupertino, CA, Austin, TX
+- **Locations:** United States, San Jose, CA, Seattle, WA, Gloucester, UK, Waltham, MA
 
 ## Current Opportunities
 
