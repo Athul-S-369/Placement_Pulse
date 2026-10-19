@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Alexandria, VA, Manassas, VA, California City, CA, Jefferson City, MO, Washington, DC
+- **Locations:** Alexandria, VA, Chicago, IL, Chantilly, VA, San Antonio, TX, Jefferson City, MO
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Jacksonville, FL, Plainview, NY, Chicago, IL, Hartford, CT, Dallas, TX
+- **Locations:** Hartford, CT, Dallas, TX, San Jose, CA, Jacksonville, FL, Thousand Oaks, CA
 
 ## Current Opportunities
 
