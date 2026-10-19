@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Alexandria, VA, Chicago, IL, Chantilly, VA, San Antonio, TX, Jefferson City, MO
+- **Locations:** El Segundo, CA, Alexandria, VA, Traverse City, MI, Southfield, MI, Chicago, IL
 
 ## Current Opportunities
 

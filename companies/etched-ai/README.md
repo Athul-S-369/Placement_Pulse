@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** San Jose, CA, Remote / Various
+- **Locations:** Remote / Various, San Jose, CA
 
 ## Current Opportunities
 

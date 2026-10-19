@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** London, UK, Morrisville, NC, United States, California, Lafayette, KS
+- **Locations:** San Jose, CA, Cambridge, MA, Waltham, MA, Beaverton, OR, Morrisville, NC
 
 ## Current Opportunities
 
