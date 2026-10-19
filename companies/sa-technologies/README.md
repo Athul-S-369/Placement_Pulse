@@ -1,11 +1,11 @@
 # 🏢 SA Technologies
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-18*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-19*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** NYC, Coppell, TX, Wayzata, MN
+- **Categories:** Fresher Job, Internship
+- **Locations:** NYC, Wayzata, MN, Coppell, TX
 
 ## Current Opportunities
 
