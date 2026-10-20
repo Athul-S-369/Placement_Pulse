@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Calgary, AB, Canada, Oakland, CA, Eagan, MN, Radcliff, KY, Madison, WI
+- **Locations:** Calgary, AB, Canada, Radcliff, KY, Salt Lake City, UT, Madison, WI, Waukegan, IL
 
 ## Current Opportunities
 

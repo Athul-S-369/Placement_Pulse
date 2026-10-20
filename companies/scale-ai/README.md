@@ -1,16 +1,17 @@
 # 🏢 Scale AI
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-20*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-20*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** SF, SF, NYC
+- **Locations:** SF, Remote in USA, SF, NYC
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Safety Research Scholar Intern](https://job-boards.greenhouse.io/scaleai/jobs/4744402005) | Scale AI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Technical Advisor Specialist – Part-Time Intern](https://job-boards.greenhouse.io/scaleai/jobs/4611533005) | Scale AI | SF | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [AI Builder Intern](https://job-boards.greenhouse.io/scaleai/jobs/4703343005) | Scale AI | SF, NYC | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 

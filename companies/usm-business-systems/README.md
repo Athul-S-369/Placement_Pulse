@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Chicago, IL, Chantilly, VA, Bloomington, MN, Traverse City, MI, Dublin, OH
+- **Categories:** Fresher Job, Internship
+- **Locations:** Washington, DC, Chicago, IL, Southfield, MI, Jefferson City, MO, Dublin, OH
 
 ## Current Opportunities
 
