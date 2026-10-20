@@ -1,11 +1,11 @@
 # 🏢 Varian
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-19*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-20*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Gulfport, MS, Knoxville, TN, Hoffman Estates, IL, India, Germany
+- **Locations:** Knoxville, TN, Hoffman Estates, IL, India, Germany, Gulfport, MS
 
 ## Current Opportunities
 

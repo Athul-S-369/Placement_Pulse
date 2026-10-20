@@ -1,11 +1,11 @@
 # 🏢 Reply
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-19*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-20*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Detroit, MI, Michigan
+- **Locations:** Michigan, Detroit, MI
 
 ## Current Opportunities
 

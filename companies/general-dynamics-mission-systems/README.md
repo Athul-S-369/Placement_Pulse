@@ -1,6 +1,6 @@
 # 🏢 General Dynamics Mission Systems
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-19*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-20*
 
 ## Overview
 

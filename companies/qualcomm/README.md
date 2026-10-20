@@ -1,11 +1,11 @@
 # 🏢 Qualcomm
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-19*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-20*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Boxborough, MA, San Diego, CA
+- **Locations:** San Diego, CA, Boxborough, MA
 
 ## Current Opportunities
 

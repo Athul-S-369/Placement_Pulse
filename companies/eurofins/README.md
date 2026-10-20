@@ -1,11 +1,11 @@
 # 🏢 Eurofins
 
-**5 active opportunities** | **5 total tracked** | *Last updated: 2026-10-19*
+**5 active opportunities** | **5 total tracked** | *Last updated: 2026-10-20*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Santa Clara, CA, Austin, TX, Irvine, CA, Hayward, CA, Lancaster, PA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Hayward, CA, Irvine, CA, Austin, TX, Lancaster, PA, Santa Clara, CA
 
 ## Current Opportunities
 

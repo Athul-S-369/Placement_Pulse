@@ -1,6 +1,6 @@
 # 🏢 Hoollow
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-19*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-10-20*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Horizon](https://unstop.com/hackathons/horizon-hoollow-1726596) | Hoollow | India | 🏢 Onsite | — | 2026-10-19 | Unstop |
 
 ## 📖 Interview Preparation
 
