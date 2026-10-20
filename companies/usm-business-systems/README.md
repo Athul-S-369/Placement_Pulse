@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Washington, DC, Chicago, IL, Southfield, MI, Jefferson City, MO, Dublin, OH
+- **Categories:** Internship, Fresher Job
+- **Locations:** Chicago, IL, San Antonio, TX, Westminster, CO, Southfield, MI, Manassas, VA
 
 ## Current Opportunities
 

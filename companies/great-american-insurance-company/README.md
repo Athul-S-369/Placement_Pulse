@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, Cincinnati, OH
+- **Locations:** Cincinnati, OH, Remote in USA
 
 ## Current Opportunities
 

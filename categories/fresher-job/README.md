@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1406 active** | **0 expired** | **1406 total**
+**1408 active** | **0 expired** | **1408 total**
 
 *Last updated: 2026-10-20*
 
@@ -8,6 +8,8 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer Entry to Mid-Level](https://apply.workable.com/funnel-leasing/j/1B817A4D38/apply) | Funnel Leasing | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Graduate Hardware Engineer](https://jobs.lever.co/octoenergy/e8a3afb6-dad5-4820-a601-f1a549b1f827/apply) | Octopus Energy | Remote in UK, Slough, UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Engineer 1](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Engineer-I_R26_000476) | Sallie Mae | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Data Scientist - Project Success and Innovation](https://job-boards.greenhouse.io/americaninstitutesforresearch/jobs/5454172008) | American Institutes for Research | Austin, TX, Remote in USA, Chicago, IL, Arlington County, Arlington, VA, Sacramento, CA, Chapel Hill, NC | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer 1 - Fullstack - Search](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | Affirm | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -106,5 +108,3 @@
 | [Software Engineer Associate - Tempus](https://pnc.wd5.myworkdayjobs.com/External/job/ZZ---Remote-Location/Software-Engineer-Associate---Tempus_R231402-1) | PNC Financial Services | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Customer Insights Engineer](https://apply.workable.com/seeq/j/6F40FF632B/apply) | Seeq | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Machine Learning Engineer](https://jobs.ashbyhq.com/deeter-analytics/2c12339b-d302-427c-9a73-d825b4b942b0/application?embed=true) | Deeter Analytics | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Product Manager - AI Exchange](https://careers-ebscoind.icims.com/jobs/2065/job?mobile=true&needsRedirect=false) | EBSCO | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Wireless Field Technician & Coordinator](https://circetusa-kgpco.icims.com/jobs/3746/job?mobile=true&needsRedirect=false) | Circet USA | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
