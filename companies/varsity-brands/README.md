@@ -1,11 +1,11 @@
 # 🏢 Varsity Brands
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-20*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-21*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, Kansas, Texas, Indiana
+- **Locations:** Kansas, Texas, Indiana, Remote in USA
 
 ## Current Opportunities
 

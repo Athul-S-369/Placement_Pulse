@@ -1,6 +1,6 @@
 # 🏢 Sri Venkateswara College(DU)
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-20*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-10-21*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Call for Research Articles for The Economics Association (2026-27)](https://unstop.com/competitions/call-for-research-articles-for-the-economics-association-2026-27-sri-venkateswara-collegedu-1769108) | Sri Venkateswara College(DU) | India | 🏢 Onsite | — | 2026-10-20 | Unstop |
 
 ## 📖 Interview Preparation
 

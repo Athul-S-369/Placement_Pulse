@@ -1,11 +1,11 @@
 # 🏢 Deloitte
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-20*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-21*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Huntsville, AL, Atlanta, GA
+- **Locations:** Atlanta, GA, Huntsville, AL
 
 ## Current Opportunities
 

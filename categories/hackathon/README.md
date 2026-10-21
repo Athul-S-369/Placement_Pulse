@@ -1,14 +1,13 @@
 # 🏆 Hackathon
 
-**17 active** | **534 expired** | **551 total**
+**16 active** | **535 expired** | **551 total**
 
-*Last updated: 2026-10-20*
+*Last updated: 2026-10-21*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Call for Research Articles for The Economics Association (2026-27)](https://unstop.com/competitions/call-for-research-articles-for-the-economics-association-2026-27-sri-venkateswara-collegedu-1769108) | Sri Venkateswara College(DU) | India | 🏢 Onsite | — | 2026-10-20 | Unstop |
 | [Adaptonomics: The Paper Presentation Competition](https://unstop.com/competitions/adaptonomics-the-paper-presentation-competition-sri-venkateswara-college-svc-du-delhi-1768879) | Sri Venkateswara College (SVC), Delhi University, Delhi | India | 🏢 Onsite | — | 2026-11-02 | Unstop |
 | [Stainless Spark – Engineering Innovation, Building Futures](https://unstop.com/competitions/crp-stainless-spark-engineering-innovation-building-futures-stainless-spark-case-study-competition-jindal-stain-1572025) | Jindal Stainless Limited | India | 🏢 Onsite | — | 2026-11-19 | Unstop |
 | [Tata Imagination Challenge 2026](https://unstop.com/competitions/crp-tata-imagination-challenge-2026-tata-group-1740413) | Tata Group | India | 🏢 Onsite | — | 2026-12-06 | Unstop |
@@ -30,6 +29,7 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Call for Research Articles for The Economics Association (2026-27)](https://unstop.com/competitions/call-for-research-articles-for-the-economics-association-2026-27-sri-venkateswara-collegedu-1769108) | Sri Venkateswara College(DU) | India | 🏢 Onsite | — | 2026-10-20 | Unstop |
 | [Horizon](https://unstop.com/hackathons/horizon-hoollow-1726596) | Hoollow | India | 🏢 Onsite | — | 2026-10-19 | Unstop |
 | [13th Interdisciplinary Conference on Health, Humanities, Technology and Management Research (ICHTMR 2026)](https://unstop.com/conferences/13th-interdisciplinary-conference-on-health-humanities-technology-and-management-research-ichtmr-2026-manipa-1722662) | Manipal Academy of Higher Education (MAHE), Karnataka | India | 🏢 Onsite | — | 2026-10-15 | Unstop |
 | [Comverse: Comstox 3.0 - Mock Stock Competition](https://unstop.com/competitions/comverse-comstox-30-mock-stock-competition-sri-guru-tegh-bahadur-khalsa-college-sgtb-khalsa-du-new-delhi-1767798) | Sri Guru Tegh Bahadur Khalsa College (SGTB Khalsa), University of Delhi (DU), New Delhi | India | 🏢 Onsite | — | 2026-10-15 | Unstop |
@@ -49,4 +49,3 @@
 | [AlgoSprint 2026 – Online Coding Challenge](https://unstop.com/hackathons/algosprint-2026-online-coding-challenge-gyan-ganga-college-of-technology-ggct-1710621) | Gyan Ganga College Of Technology (GGCT) | India | 🏢 Onsite | — | 2026-09-30 | Unstop |
 | [The Governance Challenge 2026 (TGC 2026)](https://unstop.com/competitions/crp-the-governance-challenge-2026-tgc-2026-samagra-1726557) | Samagra | India | 🏢 Onsite | — | 2026-09-30 | Unstop |
 | [KNSIT Tech Community](https://unstop.com/hackathons/knsit-tech-community-kns-institute-of-technology-karnataka-1743721) | KNS Institute of Technology, Karnataka | India | 🏢 Onsite | — | 2026-09-30 | Unstop |
-| [Flash](https://unstop.com/competitions/flash-college-of-engineering-coep-pune-1726741) | College of Engineering (COEP), Pune | India | 🏢 Onsite | — | 2026-09-29 | Unstop |

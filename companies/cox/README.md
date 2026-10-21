@@ -1,11 +1,11 @@
 # 🏢 Cox
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-20*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-21*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Burlington, VT, Atlanta, GA
+- **Locations:** Atlanta, GA, Burlington, VT
 
 ## Current Opportunities
 
