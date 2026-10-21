@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Colorado Springs, CO, Quantico, VA, Lakewood, CO
+- **Locations:** Quantico, VA, Lakewood, CO, Colorado Springs, CO
 
 ## Current Opportunities
 

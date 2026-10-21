@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** NYC, Durham, NC, Merrimack, NH, Smithfield, RI, Westlake, TX
+- **Categories:** Fresher Job, Internship
+- **Locations:** Durham, NC, Merrimack, NH, Smithfield, RI, Westlake, TX, NYC
 
 ## Current Opportunities
 

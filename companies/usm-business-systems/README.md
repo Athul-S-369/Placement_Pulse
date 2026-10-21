@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** NYC, Chantilly, VA, Bloomington, MN, Rochester, MI, Manassas, VA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Traverse City, MI, Bloomington, MN, Alexandria, VA, Rochester, MI, California City, CA
 
 ## Current Opportunities
 
