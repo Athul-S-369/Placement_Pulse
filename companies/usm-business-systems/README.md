@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Traverse City, MI, Bloomington, MN, Alexandria, VA, Rochester, MI, California City, CA
+- **Locations:** Rochester, MI, San Antonio, TX, California City, CA, Traverse City, MI, Bluemont, VA
 
 ## Current Opportunities
 

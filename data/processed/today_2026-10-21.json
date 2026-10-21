@@ -2923,37 +2923,6 @@
     "duplicate_of": ""
   },
   {
-    "id": "17a7d47808d1468a",
-    "title": "Data Analyst",
-    "company": "Hunter Strategy",
-    "company_slug": "hunter-strategy",
-    "category": "fresher-job",
-    "domain_tags": [
-      "data-science"
-    ],
-    "tags": [],
-    "location": "Remote in USA",
-    "work_mode": "remote",
-    "is_india": true,
-    "apply_link": "https://ats.rippling.com/hunterstrategy/jobs/ed17a8a3-821b-472b-912a-ef4c91ea45ec",
-    "source_url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json",
-    "source_name": "SimplifyJobs New Grad",
-    "date_found": "2026-10-21",
-    "date_posted": "",
-    "deadline": "",
-    "last_checked": "2026-10-21",
-    "batch_eligible": [],
-    "experience_required": "0",
-    "skills_required": [],
-    "salary": "",
-    "stipend": "",
-    "description": "",
-    "responsibilities": [],
-    "verification_status": "unverified",
-    "is_duplicate": false,
-    "duplicate_of": ""
-  },
-  {
     "id": "9760d3c208461b8f",
     "title": "AI Engineer Graduate Level",
     "company": "NewRocket",
