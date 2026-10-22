@@ -1,6 +1,6 @@
 # 🏢 RELX
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-21*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-22*
 
 ## Overview
 

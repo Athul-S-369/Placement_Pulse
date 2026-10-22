@@ -1,11 +1,11 @@
 # 🏢 Emerson Electric
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-21*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-22*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Houston, TX, Iowa, Austin, TX
+- **Locations:** Iowa, Houston, TX, Austin, TX
 
 ## Current Opportunities
 

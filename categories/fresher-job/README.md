@@ -1,13 +1,16 @@
 # 💼 Fresher Job
 
-**1408 active** | **0 expired** | **1408 total**
+**1411 active** | **0 expired** | **1411 total**
 
-*Last updated: 2026-10-21*
+*Last updated: 2026-10-22*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Business Intelligence Developer Associate](https://primetherapeutics.wd1.myworkdayjobs.com/PrimeTherapeuticsCareers/job/Home/Business-Intelligence-Developer-Associate---Remote_R-17456) | Prime Therapeutics | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Technical Product Manager](https://apply.workable.com/fmx/j/D5C8EEABC3/apply) | Facilities Management Express | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Analyst – Early Career - Full Stack](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | Affirm | SF, Remote in USA, NYC | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer Entry to Mid-Level](https://apply.workable.com/funnel-leasing/j/1B817A4D38/apply) | Funnel Leasing | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Graduate Hardware Engineer](https://jobs.lever.co/octoenergy/e8a3afb6-dad5-4820-a601-f1a549b1f827/apply) | Octopus Energy | Remote in UK, Slough, UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Engineer 1](https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Engineer-I_R26_000476) | Sallie Mae | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
@@ -105,6 +108,3 @@
 | [Data Quality Assistant - Quality Systems and Credentialling](https://wd3.myworkdaysite.com/recruiting/hcahealthcare/hcacareers/job/Corporate/Data-Quality-Assistant_0053610) | HCA Healthcare UK | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Junior Data Scientist](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Remote-USA/Junior-Data-Scientist_R9395) | Great American Insurance Company | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://vivsofttechnologiesfa.applytojob.com/apply/QLa8RzmXAc/Software-Engineer-Entry-Level) | VivSoft Technologies | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Software Engineer Associate - Tempus](https://pnc.wd5.myworkdayjobs.com/External/job/ZZ---Remote-Location/Software-Engineer-Associate---Tempus_R231402-1) | PNC Financial Services | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [AI Customer Insights Engineer](https://apply.workable.com/seeq/j/6F40FF632B/apply) | Seeq | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Machine Learning Engineer](https://jobs.ashbyhq.com/deeter-analytics/2c12339b-d302-427c-9a73-d825b4b942b0/application?embed=true) | Deeter Analytics | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

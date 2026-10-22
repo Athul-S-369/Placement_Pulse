@@ -1,11 +1,11 @@
 # 🏢 Marsh
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-21*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-22*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Toronto, ON, Canada, Newcastle upon Tyne, UK
+- **Locations:** Newcastle upon Tyne, UK, Toronto, ON, Canada
 
 ## Current Opportunities
 

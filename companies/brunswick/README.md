@@ -1,11 +1,11 @@
 # 🏢 Brunswick
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-21*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-22*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Oshkosh, WI, Urbana, IL
+- **Locations:** Urbana, IL, Oshkosh, WI
 
 ## Current Opportunities
 

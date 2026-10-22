@@ -1,16 +1,17 @@
 # 🏢 ICF International
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-21*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-22*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote in USA, Reston, VA, Denver, CO
+- **Locations:** Remote in USA, Reston, VA, Denver, CO, Remote in USA
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Seasonal Associate Intern - Full Stack Developer](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Seasonal-Associate--Full-Stack-Developer--Remote-_R2603571) | ICF International | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Data Scientist Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252) | ICF International | Remote in USA, Reston, VA, Denver, CO | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 
 ## 📖 Interview Preparation
