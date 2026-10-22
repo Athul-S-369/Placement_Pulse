@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**October 22, 2026** &nbsp;—&nbsp; **81** Internship &nbsp;·&nbsp; **70** Fresher Job &nbsp;·&nbsp; **7** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**October 22, 2026** &nbsp;—&nbsp; **79** Internship &nbsp;·&nbsp; **71** Fresher Job &nbsp;·&nbsp; **7** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**164 opportunities** added or updated in the latest run (October 22, 2026).
+**163 opportunities** added or updated in the latest run (October 22, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -80,7 +80,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [AI Training Contributor - French](https://jobs.ashbyhq.com/lilt-production/1819d958-1eb4-4f5c-b5f2-eba8c1a9da55/application?embed=true) | Lilt | Remote in Canada, Québec  | Fresher Job | Remote | — |
 | [Associate Product Engineer](https://mjhlifesciences.wd1.myworkdayjobs.com/Careers/job/United-States/Associate-Product-Engineer_JR102409-1) | MJH Life Sciences | Remote in USA | Fresher Job | Remote | — |
 | [Junior Full Stack Developer](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4121413) | Meyer Distributing | Indianapolis, IN | Fresher Job | Onsite | — |
-| [Product Manager](https://apply.careers.microsoft.com/careers/job/1970393557027388) | Microsoft | Remote in USA | Fresher Job | Remote | — |
 | [Motion Planning Engineer - Trajectory Generation](https://motional.com/open-positions/?gh_jid=7980363003#/7980363003) | Motional | Boston, MA, Las Vegas, NV | Fresher Job | Remote | — |
 | [Junior Software Engineer - AI Agent Platform](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300) | Motorola | Remote in Canada | Fresher Job | Remote | — |
 | [Software Engineer - Firefox Desktop Integrations](https://job-boards.greenhouse.io/mozilla/jobs/8268333) | Mozilla | Remote in Canada | Fresher Job | Remote | — |
@@ -96,6 +95,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Gujarati Speaker](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4891088101) | Prolific | Remote in UK | Fresher Job | Remote | — |
 | [Gujarati Speaker - Freelance - AI Trainer](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4891089101) | Prolific | Remote in Canada | Fresher Job | Remote | — |
 | [Software Engineer New Grad - Machine Learning Platform](https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0/application?embed=true) | Quora | Remote in USA, Remote in  | Fresher Job | Remote | — |
+| [Machine Learning Engineer](https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Remote-USA/ML-Engineer--R37-_R260000007540) | R1 RCM | Remote in USA, NYC | Fresher Job | Remote | — |
 | [Speech AI Evaluation Specialist - Chinese Simplified](https://jobs.lever.co/rws/b6ae34f4-57e5-4bb8-8f29-4c69cf25ecbd/apply) | RWS | Remote in USA | Fresher Job | Remote | — |
 | [Software Engineer - New Grad](https://jobs.ashbyhq.com/realmalliance/56d8b433-31ad-43a2-997e-b8538f5f2c9f) | Realm | Remote in US | Fresher Job | Remote | — |
 | [Software Engineer College Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Software-Engineering-AMTS--College-Grad-_JR355250-1) | Salesforce | Palo Alto, CA, Seattle, W | Fresher Job | Onsite | — |
@@ -109,6 +109,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Applications Development Associate](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Applications-Devt-Associate_R25029948) | United Parcel Service (UPS) | Indiana | Fresher Job | Onsite | — |
 | [Embedded Firmware Engineer 1](https://careers.gov2x.com/jobs/62490?icims=1) | V2X | Indianapolis, IN | Fresher Job | Onsite | — |
 | [Software Engineer - DevOps/.NET/Azure](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HES/DevOps-Engineer_R-26937-1) | Varian | Knoxville, TN, Hoffman Es | Fresher Job | Onsite | — |
+| [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailan...](https://www.flexport.com/company/careers/) | Various | India | Fresher Job | Onsite | — |
 | [Front End Developer](https://careers.varsitybrands.com/global/en/job/JR114521) | Varsity Brands | Kansas, Texas, Indiana | Fresher Job | Onsite | — |
 | [Student Worker](https://viatris.wd5.myworkdayjobs.com/External/job/United-States-Remote-Office/Student-Worker_R5674339) | Viatris | Remote in USA | Fresher Job | Remote | — |
 | [Front-End Developer](https://vivsofttechnologiesfa.applytojob.com/apply/B29sOighJr/Front-End-Developer) | VivSoft Technologies | Remote in USA | Fresher Job | Remote | — |
@@ -159,7 +160,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Engineering Intern](https://jobs.ashbyhq.com/GovSignals/e894290c-3263-424e-b7a4-8dcc32ca8ca9/application?embed=true) | GovSignals | Remote in USA | Internship | Remote | — |
 | [Collections Data Analyst Intern](https://careers-growfinancial.icims.com/jobs/2755/job?mobile=true&needsRedirect=false) | Grow Financial Federal Credi | Remote in USA | Internship | Remote | — |
 | [AI & Data Science Intern - GPSU](https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004) | GuidePoint Security | Remote in USA | Internship | Remote | — |
-| [Research Scientist Intern - Model Team](https://jobs.ashbyhq.com/hcompany/856b1025-791f-46ed-9ea0-a88bb2f32ce5/application) | HCompany | Remote / Various | Internship | Remote | — |
 | [Software Engineer Intern](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027455) | Hearst | Indianapolis, IN | Internship | Onsite | — |
 | [Population Health Analytics Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Population-Health-Analytics-Graduate-Intern_J287150) | Highmark Health | New Mexico, Washington, K | Internship | Onsite | — |
 | [Product Intern](https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true) | Hubs.is | Remote in USA | Internship | Remote | — |
@@ -170,7 +170,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Data Analysis Intern](https://ivytech.wd1.myworkdayjobs.com/ivy_tech_careers/job/Indianapolis-IN/Data-Analysis-Intern_JR0000109676) | Ivy Tech Community College | Indianapolis, IN | Internship | Onsite | — |
 | [Performance and Marketing Communications Analyst Intern](https://careers.kentro.us/jobs/4562?icims=1) | Kentro | Remote in USA | Internship | Remote | — |
 | [AI/ML Researcher Intern](https://careers-kinaxis.icims.com/jobs/35465/job?mobile=true&needsRedirect=false) | Kinaxis | Remote in Canada | Internship | Remote | — |
-| [Junior Full-Stack Engineer](https://jobs.smartrecruiters.com/Laxir1/743999834183955) | LAXIR | Remote / Various | Internship | Remote | — |
 | [Commercial Analytics Intern - ED/Chemistry Solutions Commerc...](https://labcorp.wd1.myworkdayjobs.com/external/job/USA----WI---Milwaukee---3727-W-Wisconsin-Avenue/Intern---Commercial-Analytics_2633615) | LabCorp | Remote in USA, Milwaukee, | Internship | Remote | — |
 | [Business Systems AI Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770) | Leidos | Remote in USA | Internship | Remote | — |
 | [AI Workflow Intern](https://mantech.avature.net/en_US/careers/JobDetail/66705) | ManTech | Remote in USA, Stafford,  | Internship | Remote | — |
@@ -326,6 +325,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-10-22 05:16 UTC</sub>
+<sub>Last generated: 2026-10-22 14:02 UTC</sub>
 
 </div>

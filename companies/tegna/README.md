@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Harrisburg, PA, Dallas, TX
+- **Locations:** Dallas, TX, Harrisburg, PA
 
 ## Current Opportunities
 

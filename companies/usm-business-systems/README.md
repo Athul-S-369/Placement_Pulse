@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Baltimore, MD, Alexandria, VA, Columbus, OH, Manassas, VA, Jefferson City, MO
+- **Locations:** Rochester, MI, Chantilly, VA, Chicago, IL, Baltimore, MD, Dublin, OH
 
 ## Current Opportunities
 

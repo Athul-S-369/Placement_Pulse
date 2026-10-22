@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Ohio, Mississippi, Idaho, Wyoming, Remote in USA
+- **Locations:** Utah, Wyoming, Idaho, Remote in USA, West Virginia
 
 ## Current Opportunities
 
