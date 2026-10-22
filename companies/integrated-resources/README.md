@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Hickory, NC, Exton, PA, Boston, MA, Ambler, PA, Milwaukee, WI
+- **Locations:** North Haven, CT, Hickory, NC, Birmingham, AL, Santa Clara, CA, Milwaukee, WI
 
 ## Current Opportunities
 
