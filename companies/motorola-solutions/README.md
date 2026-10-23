@@ -1,16 +1,17 @@
 # 🏢 Motorola Solutions
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-23*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-23*
 
 ## Overview
 
-- **Categories:** Internship
-- **Locations:** Remote in USA, Chicago, IL
+- **Categories:** Internship, Fresher Job
+- **Locations:** Remote in UK, Remote in USA, Chicago, IL
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Back End Developer](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/C--Software-Engineer---Temporary-from-01-01-2027-for-12-months_R67751) | Motorola Solutions | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineering Co-op](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering---2026-Spring-Co-Op_R67662) | Motorola Solutions | Remote in USA, Chicago, IL | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 
 ## 📖 Interview Preparation

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** North Haven, CT, Cherry Hills Village, CO, Elmira, NY, Milwaukee, WI, Westborough, MA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Elmira, NY, Cambridge, MA, Birmingham, AL, Cherry Hills Village, CO, Hickory, NC
 
 ## Current Opportunities
 

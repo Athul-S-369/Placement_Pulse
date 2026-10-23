@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Hackathon, Internship
-- **Locations:** London, UK, Edinburgh, UK, Cambridge, UK, Winnipeg, MB, Canada, Toronto, ON, Canada, Victoria, BC, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, India, Indianapolis, IN, Hyderabad, Telangana, India, Fredericksburg, VA, Ashburn, VA, Manassas, VA, Reston, VA, Dulles, VA
+- **Categories:** Internship, Hackathon, Fresher Job
+- **Locations:** Seattle, WA, Wakefield, MA, Westborough, MA, Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington, VA, NYC, Bellevue, WA, San Diego, CA, Tempe, AZ, Winnipeg, MB, Canada, Toronto, ON, Canada, Victoria, BC, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, London, UK, Edinburgh, UK, Cambridge, UK
 
 ## Current Opportunities
 

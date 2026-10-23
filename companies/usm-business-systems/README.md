@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Jefferson City, MO, California City, CA, Washington, DC, Augusta, ME, Chantilly, VA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Columbus, OH, Southfield, MI, San Antonio, TX, Washington, DC, Alexandria, VA
 
 ## Current Opportunities
 
