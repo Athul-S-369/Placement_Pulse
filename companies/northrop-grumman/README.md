@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Wright-Patterson AFB, OH, Escondido, CA, Palmdale, CA, Remote in USA, Warner Robins, GA, Northridge, LA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Remote in USA, Escondido, CA, Palmdale, CA, Aurora, CO, Morrisville, NC, Remote in USA, Linthicum Heights, MD, Aurora, CO, Morrisville, NC, Annapolis Junction, MD, San Antonio, TX, Northridge, LA
 
 ## Current Opportunities
 

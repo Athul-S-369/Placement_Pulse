@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Goleta, CA, Arlington, VA, Remote in USA, Richardson, TX, Indianapolis, IN, Longueuil, QC, Canada
+- **Categories:** Fresher Job, Internship
+- **Locations:** McKinney, TX, Longueuil, QC, Canada, Cedar Rapids, IA, Remote in USA, Richardson, TX, Goleta, CA
 
 ## Current Opportunities
 

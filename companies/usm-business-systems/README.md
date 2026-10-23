@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Columbus, OH, Southfield, MI, San Antonio, TX, Washington, DC, Alexandria, VA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Chicago, IL, El Segundo, CA, Rochester, MI, Chantilly, VA, Traverse City, MI
 
 ## Current Opportunities
 
