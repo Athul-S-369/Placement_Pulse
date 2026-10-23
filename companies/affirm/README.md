@@ -1,11 +1,11 @@
 # 🏢 Affirm
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-10-22*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-10-23*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** SF, Remote in USA, NYC, Remote in USA, San Francisco, CA, Remote in Canada
+- **Locations:** Remote in USA, SF, Remote in USA, NYC, Remote in Canada, San Francisco, CA
 
 ## Current Opportunities
 

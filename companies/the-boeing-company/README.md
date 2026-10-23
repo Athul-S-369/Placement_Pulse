@@ -1,11 +1,11 @@
 # 🏢 The Boeing Company
 
-**7 active opportunities** | **7 total tracked** | *Last updated: 2026-10-22*
+**7 active opportunities** | **7 total tracked** | *Last updated: 2026-10-23*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Mesa, AZ, Bristol, UK, Fleet, UK, Camberley, UK, Seal Beach, CA, St. Louis, MO, Hazelwood, MO, Mesa, AZ, Hazelwood, MO
+- **Locations:** Hazelwood, MO, Bristol, UK, Fleet, UK, Camberley, UK, Seal Beach, CA, Huntsville, AL, Mesa, AZ, Hazelwood, MO
 
 ## Current Opportunities
 

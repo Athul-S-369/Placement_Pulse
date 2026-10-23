@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-22T20:17:31.309082Z",
-  "date": "2026-10-22",
-  "total": 2847,
-  "active": 2311,
-  "new_today": 162,
-  "companies": 2128,
+  "generated_at": "2026-10-23T05:14:53.648774Z",
+  "date": "2026-10-23",
+  "total": 2852,
+  "active": 2316,
+  "new_today": 168,
+  "companies": 2130,
   "categories": {
-    "fresher-job": 1411,
-    "internship": 879,
+    "fresher-job": 1414,
+    "internship": 881,
     "hackathon": 551,
     "open-source-program": 2,
     "fellowship": 2,
@@ -51,11 +51,11 @@
       "count": 11
     },
     {
-      "name": "Oracle",
-      "count": 10
+      "name": "RTX",
+      "count": 11
     },
     {
-      "name": "RTX",
+      "name": "Oracle",
       "count": 10
     },
     {
@@ -96,9 +96,9 @@
     }
   ],
   "domain_tags": {
-    "ai-ml": 370,
+    "ai-ml": 371,
     "data-science": 198,
-    "software-engineering": 462,
+    "software-engineering": 464,
     "backend": 22,
     "embedded": 49,
     "cybersecurity": 21,
@@ -109,7 +109,7 @@
     "cloud": 27
   },
   "work_modes": {
-    "remote": 524,
+    "remote": 529,
     "onsite": 2323
   }
 }

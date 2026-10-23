@@ -1,11 +1,11 @@
 # 🏢 Fidelity Investments
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-22*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-23*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Durham, NC, NYC, Merrimack, NH, Smithfield, RI, Westlake, TX
+- **Locations:** Merrimack, NH, Smithfield, RI, Westlake, TX, Durham, NC, NYC
 
 ## Current Opportunities
 

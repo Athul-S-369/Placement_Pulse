@@ -1,11 +1,11 @@
 # 🏢 Collabera
 
-**9 active opportunities** | **9 total tracked** | *Last updated: 2026-10-22*
+**9 active opportunities** | **9 total tracked** | *Last updated: 2026-10-23*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Eagan, MN, Oakland, CA, Princeton, NJ, Waukegan, IL, Salt Lake City, UT
+- **Locations:** Oakland, CA, Salt Lake City, UT, Calgary, AB, Canada, Eagan, MN, Madison, WI
 
 ## Current Opportunities
 

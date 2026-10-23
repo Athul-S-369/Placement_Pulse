@@ -1,16 +1,17 @@
 # 🏢 Cleveland Clinic
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-22*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-23*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Florida, Nevada, Ohio
+- **Locations:** Remote in USA, Florida, Nevada, Ohio
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Healthcare Reporting Analyst 1](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Healthcare-Reporting-Analyst-I_351300) | Cleveland Clinic | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Research Data Scientist 1](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Research-Data-Scientist-I_344534) | Cleveland Clinic | Florida, Nevada, Ohio | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 
 ## 📖 Interview Preparation

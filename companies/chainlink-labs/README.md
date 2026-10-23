@@ -1,11 +1,11 @@
 # 🏢 Chainlink Labs
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-22*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-23*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Las Vegas, NV, Tampa, FL, Remote in UK, Remote in Ireland, Charlotte, NC, Phoenix, AZ, Remote in Spain, Remote in Canada, Boston, MA, Seattle, WA, Remote in USA, NYC, Remote in Canada, Remote in Switzerland
+- **Locations:** Boston, MA, Seattle, WA, Remote in USA, NYC, Remote in Canada, Remote in Switzerland, Las Vegas, NV, Tampa, FL, Remote in UK, Remote in Ireland, Charlotte, NC, Phoenix, AZ, Remote in Spain, Remote in Canada
 
 ## Current Opportunities
 

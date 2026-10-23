@@ -1,13 +1,16 @@
 # 💼 Fresher Job
 
-**1411 active** | **0 expired** | **1411 total**
+**1414 active** | **0 expired** | **1414 total**
 
-*Last updated: 2026-10-22*
+*Last updated: 2026-10-23*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Senior Software Engineer](https://flexerasoftware.wd1.myworkdayjobs.com/FlexeraSoftware/job/Home-United-States/Senior-AI-Augmented-Software-Engineer_17762) | Flexera | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Healthcare Reporting Analyst 1](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Healthcare-Reporting-Analyst-I_351300) | Cleveland Clinic | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Product Owner](https://tracsis.careers.hibob.com/jobs/559886fe-8004-4ef8-870b-dc1879c57053) | Tracsis | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Business Intelligence Developer Associate](https://primetherapeutics.wd1.myworkdayjobs.com/PrimeTherapeuticsCareers/job/Home/Business-Intelligence-Developer-Associate---Remote_R-17456) | Prime Therapeutics | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Technical Product Manager](https://apply.workable.com/fmx/j/D5C8EEABC3/apply) | Facilities Management Express | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Analyst – Early Career - Full Stack](https://job-boards.greenhouse.io/affirm/jobs/8039471003) | Affirm | SF, Remote in USA, NYC | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -105,6 +108,3 @@
 | [Software Developer - Distributed Simulation Technology](https://onearc.bamboohr.com/careers/402/) | BAE Systems OneArc USA, Inc | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Analyst](https://ats.rippling.com/hunterstrategy/jobs/ed17a8a3-821b-472b-912a-ef4c91ea45ec) | Hunter Strategy | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://legalshieldcorp.wd1.myworkdayjobs.com/en-US/lsc/job/Remote-Job-Posting/Software-Engineer_R0002820) | PPLSI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Data Quality Assistant - Quality Systems and Credentialling](https://wd3.myworkdaysite.com/recruiting/hcahealthcare/hcacareers/job/Corporate/Data-Quality-Assistant_0053610) | HCA Healthcare UK | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Junior Data Scientist](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Remote-USA/Junior-Data-Scientist_R9395) | Great American Insurance Company | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Software Engineer](https://vivsofttechnologiesfa.applytojob.com/apply/QLa8RzmXAc/Software-Engineer-Entry-Level) | VivSoft Technologies | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
