@@ -1,6 +1,6 @@
 # 🏢 TikTok
 
-**5 active opportunities** | **5 total tracked** | *Last updated: 2026-10-23*
+**5 active opportunities** | **5 total tracked** | *Last updated: 2026-10-24*
 
 ## Overview
 

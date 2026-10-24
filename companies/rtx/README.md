@@ -1,11 +1,11 @@
 # 🏢 RTX
 
-**11 active opportunities** | **11 total tracked** | *Last updated: 2026-10-23*
+**11 active opportunities** | **11 total tracked** | *Last updated: 2026-10-24*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** McKinney, TX, Longueuil, QC, Canada, Cedar Rapids, IA, Remote in USA, Richardson, TX, Goleta, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Cedar Rapids, IA, Remote in USA, Richardson, TX, Goleta, CA, Andover, MA, Indianapolis, IN
 
 ## Current Opportunities
 

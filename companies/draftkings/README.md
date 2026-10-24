@@ -1,16 +1,17 @@
 # 🏢 DraftKings
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-23*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-24*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Boston, MA, Remote in USA
+- **Locations:** Boston, MA, Remote in Canada, Remote in USA
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Remote---Canada/Software-Engineer--December-2026-Grads-_JR15324) | DraftKings | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Coordinator Associate](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Remote---US/Data-Coordinator-Associate_JR14672-3) | DraftKings | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Analyst 1 - Casino Analytics](https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Analyst-I_JR14374) | DraftKings | Boston, MA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 

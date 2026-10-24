@@ -1,11 +1,11 @@
 # 🏢 Physical Intelligence
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-23*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-24*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote / Various, SF
+- **Locations:** SF, Remote / Various
 
 ## Current Opportunities
 

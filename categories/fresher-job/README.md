@@ -1,13 +1,14 @@
 # 💼 Fresher Job
 
-**1420 active** | **0 expired** | **1420 total**
+**1421 active** | **0 expired** | **1421 total**
 
-*Last updated: 2026-10-23*
+*Last updated: 2026-10-24*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Remote---Canada/Software-Engineer--December-2026-Grads-_JR15324) | DraftKings | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Senior Software Engineer](https://flexerasoftware.wd1.myworkdayjobs.com/FlexeraSoftware/job/Home-United-States/Senior-AI-Augmented-Software-Engineer_17762) | Flexera | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Healthcare Reporting Analyst 1](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Remote-Location/Healthcare-Reporting-Analyst-I_351300) | Cleveland Clinic | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Product Owner](https://tracsis.careers.hibob.com/jobs/559886fe-8004-4ef8-870b-dc1879c57053) | Tracsis | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Data Analyst](https://careers.aflac.com/job/Remote-Data-Analyst-31999/1423406100/?ats=successfactors) | Aflac | Remote in USA, Georgia | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Development Engineer - Software Engineering/AI Track](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004983-1) | Viavi Solutions | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Data Scientist](https://careers-libertymutual.icims.com/jobs/77179/job?mobile=true&needsRedirect=false) | Liberty Mutual | Boston, MA, Seattle, WA, Remote in USA, Plano, TX | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Data Backend Engineer - Trust & Safety](https://www.yelp.careers/us/en/job/14018) | Yelp | Montreal, QC, Canada, Toronto, ON, Canada, Calgary, AB, Canada, Remote in Canada, Vancouver, BC, Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |

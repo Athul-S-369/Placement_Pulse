@@ -1,11 +1,11 @@
 # 🏢 KRG Technologies
 
-**6 active opportunities** | **6 total tracked** | *Last updated: 2026-10-23*
+**6 active opportunities** | **6 total tracked** | *Last updated: 2026-10-24*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Folsom, CA, Phoenix, AZ, Hillsboro, OR, Tampa, FL, Bellevue, WA
+- **Locations:** Phoenix, AZ, Tampa, FL, Folsom, CA, Hillsboro, OR, Redmond, WA
 
 ## Current Opportunities
 
