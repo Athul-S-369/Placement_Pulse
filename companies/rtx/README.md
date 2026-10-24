@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Cedar Rapids, IA, Remote in USA, Richardson, TX, Goleta, CA, Andover, MA, Indianapolis, IN
+- **Categories:** Fresher Job, Internship
+- **Locations:** Indianapolis, IN, Huntsville, AL, Fort Wayne, IN, Andover, MA, Longueuil, QC, Canada
 
 ## Current Opportunities
 

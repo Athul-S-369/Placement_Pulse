@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Arlington, VA, Austin, TX, Remote in USA, Chicago, IL, Arlington County, Arlington, VA, Sacramento, CA, Chapel Hill, NC
+- **Locations:** Austin, TX, Remote in USA, Chicago, IL, Arlington County, Arlington, VA, Sacramento, CA, Chapel Hill, NC, Arlington, VA
 
 ## Current Opportunities
 

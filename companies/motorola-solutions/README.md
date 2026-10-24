@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Remote in USA, Chicago, IL, Remote in UK
+- **Categories:** Fresher Job, Internship
+- **Locations:** Remote in UK, Remote in USA, Chicago, IL
 
 ## Current Opportunities
 

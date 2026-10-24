@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Santa Clara, CA, Austin, TX, Cupertino, CA, Waltham, MA, Morrisville, NC
+- **Categories:** Fresher Job, Internship
+- **Locations:** Austin, TX, Santa Clara, CA, Cambridge, MA, Morrisville, NC, London, UK
 
 ## Current Opportunities
 
