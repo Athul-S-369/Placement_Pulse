@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Jefferson City, MO, Dublin, OH, Traverse City, MI, Bloomington, MN, Columbus, OH
+- **Categories:** Internship, Fresher Job
+- **Locations:** Southfield, MI, Columbus, OH, Jefferson City, MO, Baltimore, MD, Manassas, VA
 
 ## Current Opportunities
 

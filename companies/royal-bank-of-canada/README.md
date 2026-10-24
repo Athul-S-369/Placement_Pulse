@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Charlotte, NC, Toronto, ON, Canada
+- **Locations:** Toronto, ON, Canada, Charlotte, NC
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship, Hackathon
-- **Locations:** Tennessee, Chennai, Tamil Nadu, India, Indiana, London, UK, Edinburgh, UK, Cambridge, UK, Indianapolis, IN, Hyderabad, Telangana, India, Seattle, WA, Wakefield, MA, Westborough, MA, NYC, Culver City, CA, Santa Clara, CA, Boston, MA, Seattle, WA, Denver, CO, SF, Arlington, VA, Sunnyvale, CA, Brooklyn, NY, Williston Park, NY
+- **Categories:** Hackathon, Internship, Fresher Job
+- **Locations:** Seattle, WA, India, Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington, VA, NYC, Bellevue, WA, San Diego, CA, Seattle, WA, SF, Indianapolis, IN, Hyderabad, Telangana, India
 
 ## Current Opportunities
 

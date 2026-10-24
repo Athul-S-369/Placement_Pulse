@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Palo Alto, CA, Brownsville, TX, Bothell, WA, Texas, Bastrop, TX
+- **Categories:** Internship, Fresher Job
+- **Locations:** Brownsville, TX, Texas, Bothell, WA, Palo Alto, CA, Bastrop, TX
 
 ## Current Opportunities
 
