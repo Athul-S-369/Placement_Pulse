@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Birmingham, AL, Santa Clara, CA, Cambridge, MA, Boston, MA, Cherry Hills Village, CO
+- **Categories:** Fresher Job, Internship
+- **Locations:** Ambler, PA, Exton, PA, Boston, MA, Cambridge, MA, Cherry Hills Village, CO
 
 ## Current Opportunities
 
