@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Southfield, MI, Augusta, ME, Chicago, IL, Rochester, MI, NYC
+- **Locations:** Bloomington, MN, Augusta, ME, Traverse City, MI, Manassas, VA, Columbus, OH
 
 ## Current Opportunities
 

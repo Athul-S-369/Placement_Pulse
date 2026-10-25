@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** McKinney, TX, Barrie, ON, Canada, Arlington, VA, Goleta, CA, Fort Wayne, IN
+- **Locations:** Remote in USA, Richardson, TX, Goleta, CA, Barrie, ON, Canada, Arlington, VA, Huntsville, AL
 
 ## Current Opportunities
 

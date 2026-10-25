@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** San Diego, CA, Boxborough, MA
+- **Locations:** Boxborough, MA, San Diego, CA
 
 ## Current Opportunities
 

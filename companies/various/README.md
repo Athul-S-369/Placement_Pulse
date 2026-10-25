@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote, India
+- **Locations:** India, Remote
 
 ## Current Opportunities
 
