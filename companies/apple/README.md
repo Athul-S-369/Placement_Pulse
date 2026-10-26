@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Cupertino, CA, United States, London, UK, Cambridge, UK, Welwyn Garden City, UK, San Jose, CA, San Diego, CA
+- **Locations:** Austin, TX, Seattle, WA, Beaverton, OR, Lafayette, KS, Waltham, MA
 
 ## Current Opportunities
 

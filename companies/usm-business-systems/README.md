@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** California City, CA, Bluemont, VA, Rochester, MI, Westminster, CO, Chantilly, VA
+- **Locations:** Washington, DC, Chicago, IL, Traverse City, MI, Augusta, ME, Manassas, VA
 
 ## Current Opportunities
 
