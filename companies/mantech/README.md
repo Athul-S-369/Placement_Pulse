@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Remote in USA, Stafford, VA, Remote in USA
+- **Locations:** Remote in USA, Remote in USA, Stafford, VA
 
 ## Current Opportunities
 

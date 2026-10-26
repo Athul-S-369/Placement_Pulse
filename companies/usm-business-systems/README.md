@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Bloomington, MN, Southfield, MI, NYC, Rochester, MI, Augusta, ME
+- **Locations:** California City, CA, Bluemont, VA, Rochester, MI, Westminster, CO, Chantilly, VA
 
 ## Current Opportunities
 

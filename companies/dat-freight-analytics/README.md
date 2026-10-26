@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Denver, CO, Seattle, WA
+- **Locations:** Seattle, WA, Denver, CO
 
 ## Current Opportunities
 

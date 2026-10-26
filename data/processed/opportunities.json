@@ -85725,5 +85725,36 @@
     "verification_status": "unverified",
     "is_duplicate": false,
     "duplicate_of": ""
+  },
+  {
+    "id": "803687ef0439e726",
+    "title": "Associate Software Engineer",
+    "company": "Evolent",
+    "company_slug": "evolent",
+    "category": "fresher-job",
+    "domain_tags": [
+      "software-engineering"
+    ],
+    "tags": [],
+    "location": "Remote in USA",
+    "work_mode": "remote",
+    "is_india": true,
+    "apply_link": "https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Associate-Software-Engineer_JR-916896",
+    "source_url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json",
+    "source_name": "SimplifyJobs New Grad",
+    "date_found": "2026-10-26",
+    "date_posted": "",
+    "deadline": "",
+    "last_checked": "2026-10-26",
+    "batch_eligible": [],
+    "experience_required": "0",
+    "skills_required": [],
+    "salary": "",
+    "stipend": "",
+    "description": "",
+    "responsibilities": [],
+    "verification_status": "unverified",
+    "is_duplicate": false,
+    "duplicate_of": ""
   }
 ]

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Vancouver, BC, Canada, United States, California, Ottawa, ON, Canada, Sunnyvale, CA
+- **Locations:** Vancouver, BC, Canada, United States, Ottawa, ON, Canada, San Jose, CA, Sunnyvale, CA
 
 ## Current Opportunities
 
