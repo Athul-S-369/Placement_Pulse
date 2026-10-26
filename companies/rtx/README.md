@@ -1,11 +1,11 @@
 # 🏢 RTX
 
-**11 active opportunities** | **11 total tracked** | *Last updated: 2026-10-25*
+**11 active opportunities** | **11 total tracked** | *Last updated: 2026-10-26*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Remote in USA, Richardson, TX, Goleta, CA, Barrie, ON, Canada, Arlington, VA, Huntsville, AL
+- **Locations:** Andover, MA, Huntsville, AL, Indianapolis, IN, Arlington, VA, Goleta, CA
 
 ## Current Opportunities
 

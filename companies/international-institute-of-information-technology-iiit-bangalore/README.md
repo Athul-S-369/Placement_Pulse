@@ -1,6 +1,6 @@
 # 🏢 International Institute of Information Technology (IIIT), Bangalore
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-25*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-26*
 
 ## Overview
 
