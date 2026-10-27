@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Parowan, UT, Santa Clara, CA
+- **Locations:** Santa Clara, CA, Parowan, UT
 
 ## Current Opportunities
 

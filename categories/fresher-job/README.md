@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1424 active** | **0 expired** | **1424 total**
+**1425 active** | **0 expired** | **1425 total**
 
 *Last updated: 2026-10-27*
 
@@ -10,6 +10,7 @@
 |------|---------|----------|------|----------------|----------|--------|
 | [AI-Generated Images Found in the Wild](https://jobs.ashbyhq.com/kled-ai/9eb333fc-9443-47b8-b7c7-3bc36f9376c1/application?embed=true) | Kled AI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Annotator](https://job-boards.greenhouse.io/torcrobotics/jobs/8916771002) | Torc Robotics | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Data Annotator](https://expedock.bamboohr.com/careers/220/) | Expedock | Remote in Bolivia, Remote in Martinique, Remote in Guadeloupe, Remote in Puerto Rico, Remote in Panama, Remote in Aruba, Remote in Bahamas, Remote in Venezuela, Remote in Uruguay, Remote in Barbados, Remote in Nicaragua, Remote in Ecuador, Remote in El Salvador, Remote in Falkland Islands (Malvinas), Remote in Turks and Caicos Islands, Remote in Virgin Islands, British, Remote in Saint Martin (French part), Remote in Saint Barthélemy, Remote in Saint Kitts and Nevis, Remote in Bouvet Island, Remote in USA, Remote in Grenada, Remote in Trinidad and Tobago, Remote in Guyana, Remote in Paraguay, Remote in Cayman Islands, Remote in Mexico, Remote in Peru, Remote in Chile, Remote in Honduras, Remote in Bonaire, Sint Eustatius and Saba, Remote in Saint Lucia, Remote in Belize, Remote in Sint Maarten (Dutch part), Remote in Dominican Republic, Remote in South Georgia and the South Sandwich Islands, Remote in Colombia, Remote in Virgin Islands, U.S., Remote in Antigua and Barbuda, Remote in Argentina, Remote in Jamaica, Remote in French Guiana, Remote in Saint Vincent and the Grenadines, Remote in Dominica, Remote in Cuba, Remote in Haiti, Remote in Curaçao, Remote in Montserrat, Remote in Guatemala, Remote in Suriname, Remote in Brazil, Remote in Anguilla, Remote in Costa Rica | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Software Engineer](https://evolent.wd1.myworkdayjobs.com/External/job/Work-at-Home/Associate-Software-Engineer_JR-916896) | Evolent | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Remote---Canada/Software-Engineer--December-2026-Grads-_JR15324) | DraftKings | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Senior Software Engineer](https://flexerasoftware.wd1.myworkdayjobs.com/FlexeraSoftware/job/Home-United-States/Senior-AI-Augmented-Software-Engineer_17762) | Flexera | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Audio-Visual Support Technician](https://careers.avispl.com/jobs/11987?icims=1) | AVI-SPL | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [C++ Developer](https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4844280101) | think-cell | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Field Service Engineer](https://careers.ocadogroup.com/jobs/details?gh_jid=4960695101&gh_jid=4960695101) | Ocado Group | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [AI Engineer Graduate Level](https://www.newrocket.com/careers/job?gh_jid=6163544004&gh_jid=6163544004) | NewRocket | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

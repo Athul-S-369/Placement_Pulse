@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Augusta, ME, Baltimore, MD, Columbus, OH, Chantilly, VA, Jefferson City, MO
+- **Locations:** Southfield, MI, Rochester, MI, Baltimore, MD, Jefferson City, MO, Columbus, OH
 
 ## Current Opportunities
 

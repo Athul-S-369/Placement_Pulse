@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Arlington, VA, Cedar Rapids, IA, Indianapolis, IN, Remote in USA, Richardson, TX, Barrie, ON, Canada
+- **Locations:** Goleta, CA, Huntsville, AL, Longueuil, QC, Canada, Remote in USA, Richardson, TX, Fort Wayne, IN
 
 ## Current Opportunities
 

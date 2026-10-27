@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-27T05:26:38.838509Z",
+  "generated_at": "2026-10-27T14:51:38.817720Z",
   "date": "2026-10-27",
-  "total": 2866,
-  "active": 2330,
-  "new_today": 161,
-  "companies": 2136,
+  "total": 2868,
+  "active": 2332,
+  "new_today": 163,
+  "companies": 2137,
   "categories": {
-    "fresher-job": 1424,
-    "internship": 885,
+    "fresher-job": 1425,
+    "internship": 886,
     "hackathon": 551,
     "open-source-program": 2,
     "fellowship": 2,
@@ -83,33 +83,33 @@
       "count": 8
     },
     {
+      "name": "NVIDIA",
+      "count": 8
+    },
+    {
       "name": "Intel",
       "count": 8
     },
     {
       "name": "Tenstorrent",
       "count": 7
-    },
-    {
-      "name": "BAE Systems",
-      "count": 7
     }
   ],
   "domain_tags": {
-    "ai-ml": 374,
+    "ai-ml": 375,
     "data-science": 199,
-    "software-engineering": 470,
-    "backend": 23,
+    "software-engineering": 471,
+    "backend": 24,
     "embedded": 49,
     "cybersecurity": 21,
     "frontend": 22,
     "mobile": 10,
     "design": 2,
     "devops": 18,
-    "cloud": 27
+    "cloud": 28
   },
   "work_modes": {
-    "remote": 542,
+    "remote": 544,
     "onsite": 2324
   }
 }

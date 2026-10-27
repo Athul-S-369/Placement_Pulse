@@ -1,16 +1,17 @@
 # 🏢 NVIDIA
 
-**7 active opportunities** | **7 total tracked** | *Last updated: 2026-10-27*
+**8 active opportunities** | **8 total tracked** | *Last updated: 2026-10-27*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Austin, TX, Remote in USA, Redmond, WA, Santa Clara, CA, Austin, TX, Remote in Germany, Remote in UK, Remote in Spain, Remote in France, Santa Clara, CA, California, Santa Clara, CA, United States
+- **Locations:** Austin, TX, Austin, TX, Remote in USA, Redmond, WA, Santa Clara, CA, Santa Clara, CA, Toronto, ON, Canada, Remote in Canada, Remote in Germany, Remote in UK, Remote in Spain, Remote in France
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer Intern - AI Agents and Backend Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939) | NVIDIA | Bristol, UK, Belfast, UK, Remote in UK, Reading, UK | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Systems Software Engineer - Kubernetes Scale - DGX Cloud](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Remote/Systems-Software-Engineer--Kubernetes-Scale---DGX-Cloud_JR2020236) | NVIDIA | Remote in Germany, Remote in UK, Remote in Spain, Remote in France | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Compiler Engineer New Grad - Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Compiler-Engineer--Infrastructure----New-College-Grad-2026_JR2021228) | NVIDIA | Austin, TX, Remote in USA, Redmond, WA, Santa Clara, CA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Machine Learning Applications and Compiler Engineer](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Canada-Toronto/Machine-Learning-Applications-and-Compiler-Engineer--LPX---New-College-Grad-2026_JR2016937) | NVIDIA | Toronto, ON, Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |

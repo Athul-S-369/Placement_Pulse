@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Boston, MA, Westborough, MA, North Haven, CT, Birmingham, AL, Cambridge, MA
+- **Locations:** Milwaukee, WI, Cherry Hills Village, CO, Westborough, MA, Santa Clara, CA, North Haven, CT
 
 ## Current Opportunities
 
