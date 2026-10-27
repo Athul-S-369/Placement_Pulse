@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Indiana, Indianapolis, IN
+- **Locations:** Indianapolis, IN, Indiana
 
 ## Current Opportunities
 

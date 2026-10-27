@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Southfield, MI, Rochester, MI, Baltimore, MD, Jefferson City, MO, Columbus, OH
+- **Locations:** Jefferson City, MO, Chantilly, VA, Rochester, MI, Chicago, IL, Westminster, CO
 
 ## Current Opportunities
 
