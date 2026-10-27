@@ -1,13 +1,15 @@
 # 🎓 Internship
 
-**883 active** | **0 expired** | **883 total**
+**885 active** | **0 expired** | **885 total**
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Provider Delivery Software Engineer Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Provider-Delivery-Software-Engineer-enGen-Undergraduate-Intern_J290026) | Highmark Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Supply Chain AI Co-op](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Indianapolis---Multiple-OpCo/Computer-Science-Data-AI-Co-op-Supply-Chain_R1320599) | Danaher | Indiana | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/Serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b/application) | Serval | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Machine Learning Science Intern](https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Machine-Learning-Science-Intern---PhD---2026---Austin--San-Jose_R-98585) | Expedia Group | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Software Engineer Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451) | RTX | Remote in USA, Richardson, TX | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -106,5 +108,3 @@
 | [Software Engineer Intern](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a/application?embed=true) | Realm | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern - Artificial Intelligence](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Software-Engineering---AI-Intern_R-00190648) | Leidos | Remote in USA, Shiloh, IL, Odenton, MD | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Applied AI Engineer Intern - Government Healthcare Solutions](https://egua.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25529) | Conduent | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Surgery Field Engineer Apprentice](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Salt-Lake-City--Utah-_R4044898-1) | GE Healthcare | Salt Lake City, UT, Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [AI Prototyper Resident](https://jobs.ashbyhq.com/the%20browser%20company/abaefc4c-b229-431c-bec3-dd3e07ae0e09/application?embed=true) | The Browser Company | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

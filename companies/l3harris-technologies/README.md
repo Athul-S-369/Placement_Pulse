@@ -1,11 +1,11 @@
 # 🏢 L3Harris Technologies
 
-**7 active opportunities** | **7 total tracked** | *Last updated: 2026-10-26*
+**7 active opportunities** | **7 total tracked** | *Last updated: 2026-10-27*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Melbourne, FL, Cincinnati, OH, El Dorado, AR, Rochester, NY, Philadelphia, PA
+- **Locations:** Rochester, NY, Ottawa, ON, Canada, Waco, TX, Cincinnati, OH, El Dorado, AR
 
 ## Current Opportunities
 

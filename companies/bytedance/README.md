@@ -1,11 +1,11 @@
 # 🏢 ByteDance
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-10-26*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-10-27*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote / Various, Seattle, WA, San Diego, CA, San Jose, CA
+- **Locations:** Remote / Various, Seattle, WA, San Jose, CA, San Diego, CA
 
 ## Current Opportunities
 
