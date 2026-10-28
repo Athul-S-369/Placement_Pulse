@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Traverse City, MI, Bluemont, VA, San Antonio, TX, Jefferson City, MO, Chicago, IL
+- **Categories:** Fresher Job, Internship
+- **Locations:** California City, CA, Bluemont, VA, Augusta, ME, Alexandria, VA, Manassas, VA
 
 ## Current Opportunities
 

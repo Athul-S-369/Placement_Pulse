@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Alpharetta, GA, NYC, Plainview, NY, Chicago, IL, St. Louis, MO
+- **Categories:** Fresher Job, Internship
+- **Locations:** Thousand Oaks, CA, St. Louis, MO, Sunnyvale, CA, Chicago, IL, Broomfield, CO
 
 ## Current Opportunities
 

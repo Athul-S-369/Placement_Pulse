@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Elmira, NY, Santa Clara, CA, Ambler, PA, Boston, MA, Exton, PA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Ambler, PA, Boston, MA, Milwaukee, WI, Birmingham, AL, North Haven, CT
 
 ## Current Opportunities
 
