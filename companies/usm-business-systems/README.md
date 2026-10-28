@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** St. Louis, MO, Westminster, CO, Baltimore, MD, Traverse City, MI, Washington, DC
+- **Locations:** Traverse City, MI, Bluemont, VA, San Antonio, TX, Jefferson City, MO, Chicago, IL
 
 ## Current Opportunities
 

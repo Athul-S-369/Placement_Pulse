@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**16 active** | **535 expired** | **551 total**
+**19 active** | **535 expired** | **554 total**
 
 *Last updated: 2026-10-28*
 
@@ -8,6 +8,9 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Product Verse Hackathon](https://unstop.com/hackathons/product-verse-hackathon-product-space-1782516) | Product Space | India | 🏢 Onsite | — | 2026-10-31 | Unstop |
+| [TEJAS UDBHAV - Tribal Innovation & Impact Programme](https://unstop.com/competitions/tejas-udbhav-tribal-innovation-impact-programme-iim-mumbai-1782680) | Indian Institute of Management (IIM), Mumbai | India | 🏢 Onsite | — | 2026-11-22 | Unstop |
+| [Chakravyuh - The Flagship Business Event](https://unstop.com/competitions/chakravyuh-the-flagship-business-event-xaviesta-50-kaalchakra-xavier-business-school-xbs-st-xaviers-univers-1782462) | Xavier Business School (XBS), St. Xavier's University, Kolkata | India | 🏢 Onsite | — | 2026-11-11 | Unstop |
 | [Adaptonomics: The Paper Presentation Competition](https://unstop.com/competitions/adaptonomics-the-paper-presentation-competition-sri-venkateswara-college-svc-du-delhi-1768879) | Sri Venkateswara College (SVC), Delhi University, Delhi | India | 🏢 Onsite | — | 2026-11-02 | Unstop |
 | [Stainless Spark – Engineering Innovation, Building Futures](https://unstop.com/competitions/crp-stainless-spark-engineering-innovation-building-futures-stainless-spark-case-study-competition-jindal-stain-1572025) | Jindal Stainless Limited | India | 🏢 Onsite | — | 2026-11-19 | Unstop |
 | [Tata Imagination Challenge 2026](https://unstop.com/competitions/crp-tata-imagination-challenge-2026-tata-group-1740413) | Tata Group | India | 🏢 Onsite | — | 2026-12-06 | Unstop |

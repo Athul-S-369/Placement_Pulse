@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Ottawa, ON, Canada, Vancouver, BC, Canada, Allentown, PA, California, Canada
+- **Locations:** Naperville, IL, Vancouver, BC, Canada, Canada, California, Allentown, PA
 
 ## Current Opportunities
 

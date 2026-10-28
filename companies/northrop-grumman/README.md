@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Escondido, CA, Palmdale, CA, Melbourne, FL, Wright-Patterson AFB, OH, Aurora, CO, Morrisville, NC, Remote in USA, Linthicum Heights, MD, Remote in USA
+- **Locations:** Aurora, CO, Morrisville, NC, Annapolis Junction, MD, San Antonio, TX, Aurora, CO, Morrisville, NC, Remote in USA, Linthicum Heights, MD, Wright-Patterson AFB, OH, Escondido, CA, Palmdale, CA, Melbourne, FL
 
 ## Current Opportunities
 

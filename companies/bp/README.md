@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Chicago, IL, Houston, TX
+- **Locations:** Houston, TX, Chicago, IL
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Seattle, WA, Austin, TX, SF, Morrisville, NC, Beaverton, OR
+- **Locations:** Waltham, MA, Seattle, WA, Beaverton, OR, Santa Clara, CA, United States
 
 ## Current Opportunities
 

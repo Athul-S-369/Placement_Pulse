@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Hackathon, Fresher Job
-- **Locations:** Winnipeg, MB, Canada, Toronto, ON, Canada, Victoria, BC, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Seattle, WA, Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington, VA, NYC, Bellevue, WA, San Diego, CA, London, UK, Edinburgh, UK, Cambridge, UK, Fredericksburg, VA, Ashburn, VA, Manassas, VA, Reston, VA, Dulles, VA
+- **Locations:** Seattle, WA, NYC, India, NYC, Culver City, CA, Santa Clara, CA, Boston, MA, Seattle, WA, Denver, CO, SF, Arlington, VA, Sunnyvale, CA, Brooklyn, NY, Williston Park, NY, Indianapolis, IN, Hyderabad, Telangana, India
 
 ## Current Opportunities
 

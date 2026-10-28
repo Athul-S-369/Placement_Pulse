@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Edinburgh, UK, Milpitas, CA
+- **Locations:** Milpitas, CA, Edinburgh, UK
 
 ## Current Opportunities
 

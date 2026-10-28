@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Huntsville, AL, McKinney, TX, Arlington, VA, Remote in USA, Richardson, TX, Indianapolis, IN
+- **Locations:** Huntsville, AL, Indianapolis, IN, Goleta, CA, Andover, MA, Fort Wayne, IN
 
 ## Current Opportunities
 

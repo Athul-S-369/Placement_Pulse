@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**887 active** | **0 expired** | **887 total**
+**890 active** | **0 expired** | **890 total**
 
 *Last updated: 2026-10-28*
 
@@ -9,6 +9,9 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [Data Associate Intern](https://lumerate.breezy.hr/p/baf2283496ad/apply) | Lumerate | Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Software Engineer Intern](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068) | VSP Vision | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Research Intern](https://jobs.ashbyhq.com/pramaana-labs/83f179da-9bc8-4146-b217-817b79e78fa0/application?embed=true) | Pramaana Labs | Palo Alto, CA, Bengaluru, Karnataka, India | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Frontend Engineer Intern](https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e/application?embed=true) | Certa | London, UK, Remote in India, SF, Jaipur, Rajasthan, India | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Provider Delivery Software Engineer Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Provider-Delivery-Software-Engineer-enGen-Undergraduate-Intern_J290026) | Highmark Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Supply Chain AI Co-op](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/USA---Indianapolis---Multiple-OpCo/Computer-Science-Data-AI-Co-op-Supply-Chain_R1320599) | Danaher | Indiana | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern - AI Agents and Backend Infrastructure](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939) | NVIDIA | Bristol, UK, Belfast, UK, Remote in UK, Reading, UK | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -105,6 +108,3 @@
 | [Developer Intern Co-op - Machine Learning](https://careers-kinaxis.icims.com/jobs/35297/job?mobile=true&needsRedirect=false) | Kinaxis | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [AI Data Science Intern - AI/ML Center of Excellence](https://apply.workable.com/twgai/j/1206BF981C/apply) | TWG Global | London, UK, Remote in UK | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Research Scientist Intern](https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be/application?embed=true) | Pluralis Research | Remote in USA, Remote in Australia | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Software Engineer Intern](https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771) | Salesforce | Palo Alto, CA, Seattle, WA, Indianapolis, IN, SF, NYC, Bellevue, WA, Atlanta, GA, Burlington, MA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Energy Markets Intern](https://jobs.lever.co/voltus/b7833dd8-d742-44d8-aae2-2e7de7541ce4/apply) | Voltus | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
-| [Software Engineer Intern](https://jobs.ashbyhq.com/realmalliance/a8a2f78e-1c28-4b52-a77a-c2b2ad9b7a8a/application?embed=true) | Realm | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
