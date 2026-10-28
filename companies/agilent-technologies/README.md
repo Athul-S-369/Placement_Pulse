@@ -1,11 +1,11 @@
 # 🏢 Agilent Technologies
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-27*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-28*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Wilmington, DE, Remote in Canada
+- **Categories:** Internship, Fresher Job
+- **Locations:** Remote in Canada, Wilmington, DE
 
 ## Current Opportunities
 

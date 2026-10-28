@@ -1,11 +1,11 @@
 # 🏢 Motorola Solutions
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-27*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-28*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Remote in USA, Chicago, IL, Remote in UK
+- **Categories:** Internship, Fresher Job
+- **Locations:** Remote in UK, Remote in USA, Chicago, IL
 
 ## Current Opportunities
 

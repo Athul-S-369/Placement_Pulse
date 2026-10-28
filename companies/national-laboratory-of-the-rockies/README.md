@@ -1,6 +1,6 @@
 # 🏢 National Laboratory of the Rockies
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-27*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-28*
 
 ## Overview
 
