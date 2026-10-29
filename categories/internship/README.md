@@ -1,13 +1,14 @@
 # 🎓 Internship
 
-**890 active** | **0 expired** | **890 total**
+**891 active** | **0 expired** | **891 total**
 
-*Last updated: 2026-10-28*
+*Last updated: 2026-10-29*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer Intern](https://jobs.ashbyhq.com/subtotal/3891929c-0ee6-46ea-a833-4efba2862801/application?embed=true) | Subtotal | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Data Associate Intern](https://lumerate.breezy.hr/p/baf2283496ad/apply) | Lumerate | Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068) | VSP Vision | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Research Intern](https://jobs.ashbyhq.com/pramaana-labs/83f179da-9bc8-4146-b217-817b79e78fa0/application?embed=true) | Pramaana Labs | Palo Alto, CA, Bengaluru, Karnataka, India | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [Artificial Intelligence Engineer Intern - Artificial Intelligence](https://www.pindrop.com/careers/job-title/?gh_jid=7899137) | Pindrop | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Developer Intern Co-op - Machine Learning](https://careers-kinaxis.icims.com/jobs/35297/job?mobile=true&needsRedirect=false) | Kinaxis | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [AI Data Science Intern - AI/ML Center of Excellence](https://apply.workable.com/twgai/j/1206BF981C/apply) | TWG Global | London, UK, Remote in UK | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Research Scientist Intern](https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be/application?embed=true) | Pluralis Research | Remote in USA, Remote in Australia | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

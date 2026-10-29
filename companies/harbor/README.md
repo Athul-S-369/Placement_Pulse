@@ -1,11 +1,11 @@
 # 🏢 Harbor
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-28*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-29*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, Remote in UK, Remote in Canada
+- **Locations:** Remote in UK, Remote in Canada, Remote in USA
 
 ## Current Opportunities
 

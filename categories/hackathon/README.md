@@ -1,13 +1,17 @@
 # 🏆 Hackathon
 
-**21 active** | **535 expired** | **556 total**
+**25 active** | **535 expired** | **560 total**
 
-*Last updated: 2026-10-28*
+*Last updated: 2026-10-29*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Mega Monthly Quiz 32](https://unstop.com/quiz/mega-monthly-quiz-32-netclan-explorer-1783637) | Netclan Explorer | India | 🏢 Onsite | — | 2026-11-12 | Unstop |
+| [AGENTX 2.0](https://unstop.com/hackathons/agentx-20-hackqube-1783256) | HackQube | India | 🏢 Onsite | — | 2026-11-10 | Unstop |
+| [Immuno Case Files](https://unstop.com/competitions/immuno-case-files-indian-institute-of-technology-iit-chennai-1783236) | Indian Institute of Technology (IIT), Chennai | India | 🏢 Onsite | — | 2026-12-06 | Unstop |
+| [WebClone Mania](https://unstop.com/hackathons/webclone-mania-nit-rourkela-1783135) | National Institute of Technology (NIT), Rourkela | India | 🏢 Onsite | — | 2026-11-14 | Unstop |
 | [Product Verse Hackathon](https://unstop.com/hackathons/product-verse-hackathon-product-space-1782516) | Product Space | India | 🏢 Onsite | — | 2026-10-31 | Unstop |
 | [TEJAS UDBHAV - Tribal Innovation & Impact Programme](https://unstop.com/competitions/tejas-udbhav-tribal-innovation-impact-programme-iim-mumbai-1782680) | Indian Institute of Management (IIM), Mumbai | India | 🏢 Onsite | — | 2026-11-22 | Unstop |
 | [Chakravyuh - The Flagship Business Event](https://unstop.com/competitions/chakravyuh-the-flagship-business-event-xaviesta-50-kaalchakra-xavier-business-school-xbs-st-xaviers-univers-1782462) | Xavier Business School (XBS), St. Xavier's University, Kolkata | India | 🏢 Onsite | — | 2026-11-11 | Unstop |

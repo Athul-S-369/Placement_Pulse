@@ -1,13 +1,15 @@
 # 💼 Fresher Job
 
-**1430 active** | **0 expired** | **1430 total**
+**1432 active** | **0 expired** | **1432 total**
 
-*Last updated: 2026-10-28*
+*Last updated: 2026-10-29*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Associate Software Engineer](https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Remote-Nationwide/AI-Software-Engineer_R0021417) | Ascensus | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Assistant Data Analyst](https://cw.wd1.myworkdayjobs.com/external/job/Leeds-West-Yorkshire-United-Kingdom/Assistant-Data-Analyst_R337647) | Cushman & Wakefield | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Junior UI Developer](https://jobs.lever.co/rainfocus/ae4ee26f-6b97-4e15-9072-433d92a82798/apply) | RainFocus | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Trainer - Voice and Speech Evaluation](https://jobs.ashbyhq.com/inworld-ai/c8308fd9-36a4-482e-8516-c1901603da94/application?embed=true) | Inworld AI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI-Generated Images Found in the Wild - Paid Data Task](https://jobs.ashbyhq.com/kled-ai/b7185462-9760-4c36-aa11-121a7e1c3f66/application?embed=true) | Kled AI | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -106,5 +108,3 @@
 | [High Voltage Technician](https://jobs.constellationenergy.com/jobs/138345?icims=1) | Constellation Energy | Indiana, PA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Fullstack Software Engineer - Core](https://job-boards.greenhouse.io/dataiku/jobs/5420293004) | Dataiku | Remote in Germany, Remote in UK, Remote in Spain, Remote in France | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Application Engineer Grid Code Compliance and Testing](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Application-Engineer-Grid-Code-Compliance-and-Testing_R5049947) | GE Vernova | Remote in USA, Schenectady, NY | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Analytics & Data Products Analyst](https://oneoncology.wd1.myworkdayjobs.com/OneOncology/job/United-States/Analyst--Analytics---Data-Products_R-0000021867) | OneOncology | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Technical Product Development Engineer 1](https://flsmidth.wd3.myworkdayjobs.com/FLS_Global/job/Tucson/Technical-Product-Development-Engineer-I_R30971) | FLSmidth | Chennai, Tamil Nadu, India, Tucson, AZ | 🏢 Onsite | — | — | SimplifyJobs New Grad |

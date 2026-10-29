@@ -1,11 +1,11 @@
 # 🏢 Nokia
 
-**13 active opportunities** | **13 total tracked** | *Last updated: 2026-10-28*
+**13 active opportunities** | **13 total tracked** | *Last updated: 2026-10-29*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Naperville, IL, Dallas, TX, Long Island City, Queens, NY, Canada, Sunnyvale, CA, Jackson Township, NJ
+- **Locations:** NYC, Sunnyvale, CA, Jackson Township, NJ, San Jose, CA, Long Island City, Queens, NY, California
 
 ## Current Opportunities
 
