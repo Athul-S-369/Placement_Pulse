@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Baltimore, MD, San Antonio, TX, Alexandria, VA, NYC, California City, CA
+- **Locations:** Rochester, MI, Baltimore, MD, Columbus, OH, Chicago, IL, Washington, DC
 
 ## Current Opportunities
 

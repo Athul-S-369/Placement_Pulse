@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** San Jose, CA, Ann Arbor, MI
+- **Locations:** Ann Arbor, MI, San Jose, CA
 
 ## Current Opportunities
 

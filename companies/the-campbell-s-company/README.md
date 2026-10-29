@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Philadelphia, PA, Remote in USA
+- **Locations:** Remote in USA, Philadelphia, PA
 
 ## Current Opportunities
 
