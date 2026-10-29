@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-29T06:18:31.306586Z",
+  "generated_at": "2026-10-29T15:28:40.162817Z",
   "date": "2026-10-29",
-  "total": 2889,
-  "active": 2353,
-  "new_today": 171,
-  "companies": 2157,
+  "total": 2896,
+  "active": 2360,
+  "new_today": 172,
+  "companies": 2163,
   "categories": {
-    "fresher-job": 1432,
-    "internship": 891,
-    "hackathon": 560,
+    "fresher-job": 1435,
+    "internship": 893,
+    "hackathon": 562,
     "open-source-program": 2,
     "fellowship": 2,
     "student-ambassador": 2
@@ -91,25 +91,25 @@
       "count": 8
     },
     {
-      "name": "Tenstorrent",
+      "name": "Salesforce",
       "count": 7
     }
   ],
   "domain_tags": {
     "ai-ml": 378,
-    "data-science": 200,
-    "software-engineering": 476,
+    "data-science": 201,
+    "software-engineering": 478,
     "backend": 24,
     "embedded": 49,
-    "cybersecurity": 21,
+    "cybersecurity": 22,
     "frontend": 24,
     "mobile": 10,
     "design": 2,
-    "devops": 18,
-    "cloud": 28
+    "devops": 19,
+    "cloud": 29
   },
   "work_modes": {
-    "remote": 555,
-    "onsite": 2334
+    "remote": 558,
+    "onsite": 2338
   }
 }

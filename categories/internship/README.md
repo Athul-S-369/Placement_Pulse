@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**891 active** | **0 expired** | **891 total**
+**893 active** | **0 expired** | **893 total**
 
 *Last updated: 2026-10-29*
 
@@ -9,6 +9,8 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [Software Engineer Intern](https://jobs.ashbyhq.com/subtotal/3891929c-0ee6-46ea-a833-4efba2862801/application?embed=true) | Subtotal | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Research and Development Intern](https://job-boards.greenhouse.io/oneethos/jobs/4459193009) | OneEthos | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Gameplay Engineer Intern](https://job-boards.greenhouse.io/crystaldynamics/jobs/4746848005) | Crystal Dynamics | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Data Associate Intern](https://lumerate.breezy.hr/p/baf2283496ad/apply) | Lumerate | Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern](https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10068) | VSP Vision | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Research Intern](https://jobs.ashbyhq.com/pramaana-labs/83f179da-9bc8-4146-b217-817b79e78fa0/application?embed=true) | Pramaana Labs | Palo Alto, CA, Bengaluru, Karnataka, India | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
@@ -106,5 +108,3 @@
 | [Front End Developer Intern](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975) | Simon Property Group | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Operations Graduate Program Intern - Operations](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Operations-Graduate-Program---Summer-2027-Internship_R-254659) | Amgen | Cambridge, MA, Remote in USA, Thousand Oaks, CA, Holly Springs, NC, New Albany, OH, West Greenwich, RI | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Artificial Intelligence Engineer Intern - Artificial Intelligence](https://www.pindrop.com/careers/job-title/?gh_jid=7899137) | Pindrop | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Developer Intern Co-op - Machine Learning](https://careers-kinaxis.icims.com/jobs/35297/job?mobile=true&needsRedirect=false) | Kinaxis | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [AI Data Science Intern - AI/ML Center of Excellence](https://apply.workable.com/twgai/j/1206BF981C/apply) | TWG Global | London, UK, Remote in UK | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

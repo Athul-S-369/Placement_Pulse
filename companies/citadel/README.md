@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Paris, France, London, UK, Miami, FL, Greenwich, CT, NYC, London, UK, NYC
+- **Locations:** Paris, France, London, UK, NYC, London, UK, Miami, FL, Greenwich, CT, NYC
 
 ## Current Opportunities
 

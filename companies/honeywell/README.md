@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** St. Charles, IL, North Haven, CT, Mason, OH, Clearwater, FL, Minneapolis, MN, Phoenix, AZ
+- **Locations:** Phoenix, AZ, North Haven, CT, St. Charles, IL, Clearwater, FL, Minneapolis, MN, Mason, OH
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Cincinnati, OH, Baton Rouge, LA
+- **Locations:** Baton Rouge, LA, Cincinnati, OH
 
 ## Current Opportunities
 

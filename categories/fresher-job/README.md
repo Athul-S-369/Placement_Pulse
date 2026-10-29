@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1432 active** | **0 expired** | **1432 total**
+**1435 active** | **0 expired** | **1435 total**
 
 *Last updated: 2026-10-29*
 
@@ -10,6 +10,9 @@
 |------|---------|----------|------|----------------|----------|--------|
 | [Associate Software Engineer](https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Remote-Nationwide/AI-Software-Engineer_R0021417) | Ascensus | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Assistant Data Analyst](https://cw.wd1.myworkdayjobs.com/external/job/Leeds-West-Yorkshire-United-Kingdom/Assistant-Data-Analyst_R337647) | Cushman & Wakefield | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Engineer New Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-MTS_JR363598) | Salesforce | Indianapolis, IN, Dallas, TX | 🏢 Onsite | — | — | SimplifyJobs New Grad |
+| [Cloud Security Software Engineer](https://job-boards.greenhouse.io/localitymediallcdbafirstdue/jobs/4364212009) | First Due | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Data Analyst 1](https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Data-Analyst--I_1659018-1) | Centene | Kansas, Pennsylvania, North Dakota, Delaware, Iowa, Washington, DC, Vermont, Connecticut, Texas, Florida, New Hampshire, South Carolina, South Dakota, Georgia, Mississippi, Tennessee, Virginia, Arkansas, Minnesota, Nebraska, Rhode Island, Kentucky, West Virginia, NYC, Maryland, Wisconsin, Maine, Massachusetts, North Carolina, Oklahoma, Missouri, Ohio, New Jersey, Indiana, Louisiana, Michigan, Illinois, Alabama | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Junior UI Developer](https://jobs.lever.co/rainfocus/ae4ee26f-6b97-4e15-9072-433d92a82798/apply) | RainFocus | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Trainer - Voice and Speech Evaluation](https://jobs.ashbyhq.com/inworld-ai/c8308fd9-36a4-482e-8516-c1901603da94/application?embed=true) | Inworld AI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI-Generated Images Found in the Wild - Paid Data Task](https://jobs.ashbyhq.com/kled-ai/b7185462-9760-4c36-aa11-121a7e1c3f66/application?embed=true) | Kled AI | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -105,6 +108,3 @@
 | [Site Reliability Engineer - Site Reliability Engineering](https://jobs.lever.co/pointclickcare/e56d6df3-16fb-4652-9d97-c6140700d2e0/apply) | PointClickCare | Mississauga, ON, Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer 1 - Back-End](https://job-boards.greenhouse.io/tebra/jobs/4726985005) | Tebra | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Java Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Northrop-Grumman--SkillBridge--Java-Software-Engineer-Level-1-or-2_R10248772) | Northrop Grumman | Aurora, CO, Morrisville, NC, Remote in USA, Linthicum Heights, MD | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [High Voltage Technician](https://jobs.constellationenergy.com/jobs/138345?icims=1) | Constellation Energy | Indiana, PA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Fullstack Software Engineer - Core](https://job-boards.greenhouse.io/dataiku/jobs/5420293004) | Dataiku | Remote in Germany, Remote in UK, Remote in Spain, Remote in France | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Application Engineer Grid Code Compliance and Testing](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Remote/Application-Engineer-Grid-Code-Compliance-and-Testing_R5049947) | GE Vernova | Remote in USA, Schenectady, NY | 🌐 Remote | — | — | SimplifyJobs New Grad |

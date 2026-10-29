@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Madison, WI, Brown Deer, WI, Atlanta, GA, St Paul, MN, Woodbury, MN, Morton Grove, IL
+- **Locations:** Atlanta, GA, Brown Deer, WI, St Paul, MN, Woodbury, MN, Madison, WI, Morton Grove, IL
 
 ## Current Opportunities
 

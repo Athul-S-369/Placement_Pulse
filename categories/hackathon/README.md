@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**25 active** | **535 expired** | **560 total**
+**27 active** | **535 expired** | **562 total**
 
 *Last updated: 2026-10-29*
 
@@ -12,6 +12,8 @@
 | [AGENTX 2.0](https://unstop.com/hackathons/agentx-20-hackqube-1783256) | HackQube | India | 🏢 Onsite | — | 2026-11-10 | Unstop |
 | [Immuno Case Files](https://unstop.com/competitions/immuno-case-files-indian-institute-of-technology-iit-chennai-1783236) | Indian Institute of Technology (IIT), Chennai | India | 🏢 Onsite | — | 2026-12-06 | Unstop |
 | [WebClone Mania](https://unstop.com/hackathons/webclone-mania-nit-rourkela-1783135) | National Institute of Technology (NIT), Rourkela | India | 🏢 Onsite | — | 2026-11-14 | Unstop |
+| [Breakfree-North Zonals](https://unstop.com/events/breakfree-north-zonals-elan-nvision-2027-elan-nvision-iit-hyderabad-1772450) | Elan & nVision, IIT Hyderabad | India | 🏢 Onsite | — | 2026-11-01 | Unstop |
+| [Volleyball (Male)](https://unstop.com/events/volleyball-male-aaveg-xvii-institute-of-chartered-financial-analysts-of-india-icfai-hyderabad-telangana-1784012) | Institute of Chartered Financial Analysts of India (ICFAI), Hyderabad, Telangana | India | 🏢 Onsite | — | 2026-11-22 | Unstop |
 | [Product Verse Hackathon](https://unstop.com/hackathons/product-verse-hackathon-product-space-1782516) | Product Space | India | 🏢 Onsite | — | 2026-10-31 | Unstop |
 | [TEJAS UDBHAV - Tribal Innovation & Impact Programme](https://unstop.com/competitions/tejas-udbhav-tribal-innovation-impact-programme-iim-mumbai-1782680) | Indian Institute of Management (IIM), Mumbai | India | 🏢 Onsite | — | 2026-11-22 | Unstop |
 | [Chakravyuh - The Flagship Business Event](https://unstop.com/competitions/chakravyuh-the-flagship-business-event-xaviesta-50-kaalchakra-xavier-business-school-xbs-st-xaviers-univers-1782462) | Xavier Business School (XBS), St. Xavier's University, Kolkata | India | 🏢 Onsite | — | 2026-11-11 | Unstop |

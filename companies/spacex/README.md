@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Bothell, WA, Redmond, WA, Brownsville, TX, Sunnyvale, CA, West Athens, CA
+- **Locations:** West Athens, CA, Redmond, WA, Brownsville, TX, Bothell, WA, Palo Alto, CA
 
 ## Current Opportunities
 

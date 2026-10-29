@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Bloomington, MN, Chicago, IL, NYC, Rochester, MI, Washington, DC
+- **Locations:** Baltimore, MD, San Antonio, TX, Alexandria, VA, NYC, California City, CA
 
 ## Current Opportunities
 
