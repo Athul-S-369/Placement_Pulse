@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Boston, MA, Cambridge, MA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Cambridge, MA, Boston, MA
 
 ## Current Opportunities
 

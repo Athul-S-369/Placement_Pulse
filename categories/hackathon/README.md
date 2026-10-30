@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**35 active** | **535 expired** | **570 total**
+**40 active** | **535 expired** | **575 total**
 
 *Last updated: 2026-10-30*
 
@@ -13,6 +13,11 @@
 | [Communications in Political Campaign](https://unstop.com/workshops-webinars/communications-in-political-campaign-fore-centre-for-political-leadership-and-governance-1785648) | FORE Centre for Political Leadership and Governance | India | 🏢 Onsite | — | 2026-11-03 | Unstop |
 | [Build Your First AI Agent](https://unstop.com/workshops-webinars/build-your-first-ai-agent-pregrad-1784648) | Pregrad | India | 🏢 Onsite | — | 2026-11-13 | Unstop |
 | [Stock Wars: The Gamification of Inventory](https://unstop.com/workshops-webinars/stock-wars-the-gamification-of-inventory-national-institute-of-technology-nit-tiruchirappalli-1772763) | National Institute of Technology (NIT), Tiruchirappalli | India | 🏢 Onsite | — | 2026-11-11 | Unstop |
+| [General Case Study Competition](https://unstop.com/quiz/general-case-study-competition-rising-scholars-1786516) | Rising Scholars | India | 🏢 Onsite | — | 2026-11-11 | Unstop |
+| [POWER HACK 2026: "EM" Powering Tomorrow](https://unstop.com/competitions/power-hack-2026-em-powering-tomorrow-presidency-university-pu-bangalore-1786606) | Presidency University (PU), Bangalore | India | 🏢 Onsite | — | 2026-11-18 | Unstop |
+| [NIRMAAN 3.0 | Shark Tank](https://unstop.com/competitions/nirmaan-30-shark-tank-bharati-vidyapeeths-college-of-engineering-1786179) | Bharati Vidyapeeth's College of Engineering | India | 🏢 Onsite | — | 2026-11-05 | Unstop |
+| [Madlab - The Ultimate Innovation Hackathon](https://unstop.com/hackathons/madlab-the-ultimate-innovation-hackathon-shri-chinai-college-of-commerce-economics-1785416) | Shri Chinai College of Commerce & Economics | India | 🏢 Onsite | — | 2026-11-18 | Unstop |
+| [Innovate - Online Hackathon](https://unstop.com/hackathons/innovate-online-hackathon-aveeranex-opc-private-limited-1783838) | Aveeranex (OPC) Private Limited | India | 🏢 Onsite | — | 2026-11-14 | Unstop |
 | [Mega Monthly Quiz 32](https://unstop.com/quiz/mega-monthly-quiz-32-netclan-explorer-1783637) | Netclan Explorer | India | 🏢 Onsite | — | 2026-11-12 | Unstop |
 | [AGENTX 2.0](https://unstop.com/hackathons/agentx-20-hackqube-1783256) | HackQube | India | 🏢 Onsite | — | 2026-11-10 | Unstop |
 | [Immuno Case Files](https://unstop.com/competitions/immuno-case-files-indian-institute-of-technology-iit-chennai-1783236) | Indian Institute of Technology (IIT), Chennai | India | 🏢 Onsite | — | 2026-12-06 | Unstop |

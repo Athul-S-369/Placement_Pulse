@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Oxford, UK, Houston, TX
+- **Locations:** Houston, TX, Oxford, UK
 
 ## Current Opportunities
 

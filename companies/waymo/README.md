@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote / Various, Mountain View, CA
+- **Locations:** Mountain View, CA, Remote / Various
 
 ## Current Opportunities
 
