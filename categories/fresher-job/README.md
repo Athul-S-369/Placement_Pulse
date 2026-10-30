@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1444 active** | **0 expired** | **1444 total**
+**1445 active** | **0 expired** | **1445 total**
 
 *Last updated: 2026-10-30*
 
@@ -17,6 +17,7 @@
 | [Research Associate - Data Curation](https://apply.workable.com/drug-hunter/j/A2FD4EB245/apply) | Drug Hunter | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Applied AI Engineer](https://apply.workable.com/raydar/j/A876C6B170/apply) | Raydar | SF, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Product Engineer / Forward Deployed Engineer](https://apply.workable.com/raydar/j/31364F00E3/apply) | Raydar | London, UK, SF, Austin, TX, Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [AI Tutor – Oromo](https://job-boards.greenhouse.io/xai/jobs/5270907007) | xAI | Remote in USA, Remote in UK, Remote in Australia, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Software Engineer](https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Remote-Nationwide/AI-Software-Engineer_R0021417) | Ascensus | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Assistant Data Analyst](https://cw.wd1.myworkdayjobs.com/external/job/Leeds-West-Yorkshire-United-Kingdom/Assistant-Data-Analyst_R337647) | Cushman & Wakefield | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer New Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-MTS_JR363598) | Salesforce | Indianapolis, IN, Dallas, TX | 🏢 Onsite | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Content Evaluator - Bilingual, Vietnamese and English](https://job-boards.greenhouse.io/innodatainc/jobs/4384507009) | Innodata | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Digital Technician](https://usicinc.wd5.myworkdayjobs.com/USICCareers/job/Indianapolis-IN/Digital-Technician_R-14235) | USIC | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Robotics Engineer - All levels](https://ats.rippling.com/eternal/jobs/439a23ae-8691-48df-8f8c-35ab8ee71e6c) | eternal.ag | Charlotte, NC, Cologne, Germany, Bengaluru, Karnataka, India | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Senior Research Scientist - Fault Tolerant Quantum Algorithms](https://job-boards.greenhouse.io/ionq/jobs/6019179004) | IonQ | Toronto, ON, Canada, Bothell, WA, Remote in USA, Hyattsville, MD | 🌐 Remote | — | — | SimplifyJobs New Grad |

@@ -1,16 +1,17 @@
 # 🏢 xAI
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-30*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-30*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, Palo Alto, CA
+- **Locations:** Remote in USA, Remote in UK, Remote in Australia, Remote in Canada, Palo Alto, CA, Remote in USA
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [AI Tutor – Oromo](https://job-boards.greenhouse.io/xai/jobs/5270907007) | xAI | Remote in USA, Remote in UK, Remote in Australia, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Tutor Punjabi](https://job-boards.greenhouse.io/xai/jobs/5090246007) | xAI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Engineer](https://job-boards.greenhouse.io/xai/jobs/5120884007) | xAI | Palo Alto, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 

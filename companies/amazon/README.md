@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Hackathon, Internship
-- **Locations:** Sunnyvale, CA, NYC, Culver City, CA, Santa Clara, CA, Boston, MA, Seattle, WA, Denver, CO, SF, Arlington, VA, Sunnyvale, CA, Brooklyn, NY, Williston Park, NY, Fredericksburg, VA, Ashburn, VA, Manassas, VA, Reston, VA, Dulles, VA, Seattle, WA, Seattle, WA, Wakefield, MA, Westborough, MA
+- **Categories:** Internship, Hackathon, Fresher Job
+- **Locations:** Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington, VA, NYC, Bellevue, WA, San Diego, CA, Bellevue, WA, NYC, Culver City, CA, Santa Clara, CA, Boston, MA, Seattle, WA, Denver, CO, SF, Arlington, VA, Sunnyvale, CA, Brooklyn, NY, Williston Park, NY, Winnipeg, MB, Canada, Toronto, ON, Canada, Victoria, BC, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, London, UK, Edinburgh, UK, Cambridge, UK
 
 ## Current Opportunities
 

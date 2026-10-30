@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**31 active** | **535 expired** | **566 total**
+**35 active** | **535 expired** | **570 total**
 
 *Last updated: 2026-10-30*
 
@@ -9,6 +9,10 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [Health Hackathon 3.0](https://unstop.com/hackathons/health-hackathon-30-vit-bhopal-university-1784631) | VIT Bhopal University | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
+| [Adventure - Idea, Impact & Influence](https://unstop.com/competitions/adventure-idea-impact-influence-ignisia-2026-aryabhatta-college-du-delhi-1785524) | Aryabhatta College (AC), Delhi University (DU), Delhi | India | 🏢 Onsite | — | 2026-11-16 | Unstop |
+| [Communications in Political Campaign](https://unstop.com/workshops-webinars/communications-in-political-campaign-fore-centre-for-political-leadership-and-governance-1785648) | FORE Centre for Political Leadership and Governance | India | 🏢 Onsite | — | 2026-11-03 | Unstop |
+| [Build Your First AI Agent](https://unstop.com/workshops-webinars/build-your-first-ai-agent-pregrad-1784648) | Pregrad | India | 🏢 Onsite | — | 2026-11-13 | Unstop |
+| [Stock Wars: The Gamification of Inventory](https://unstop.com/workshops-webinars/stock-wars-the-gamification-of-inventory-national-institute-of-technology-nit-tiruchirappalli-1772763) | National Institute of Technology (NIT), Tiruchirappalli | India | 🏢 Onsite | — | 2026-11-11 | Unstop |
 | [Mega Monthly Quiz 32](https://unstop.com/quiz/mega-monthly-quiz-32-netclan-explorer-1783637) | Netclan Explorer | India | 🏢 Onsite | — | 2026-11-12 | Unstop |
 | [AGENTX 2.0](https://unstop.com/hackathons/agentx-20-hackqube-1783256) | HackQube | India | 🏢 Onsite | — | 2026-11-10 | Unstop |
 | [Immuno Case Files](https://unstop.com/competitions/immuno-case-files-indian-institute-of-technology-iit-chennai-1783236) | Indian Institute of Technology (IIT), Chennai | India | 🏢 Onsite | — | 2026-12-06 | Unstop |

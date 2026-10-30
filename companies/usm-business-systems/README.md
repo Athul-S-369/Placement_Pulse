@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Southfield, MI, Bluemont, VA, Baltimore, MD, Jefferson City, MO, NYC
+- **Categories:** Internship, Fresher Job
+- **Locations:** Alexandria, VA, Chicago, IL, Traverse City, MI, Chantilly, VA, Southfield, MI
 
 ## Current Opportunities
 
