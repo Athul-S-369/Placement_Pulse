@@ -1,6 +1,6 @@
 # 🏢 B. S. Abdur Rahman Crescent Institute of Science and Technology, Chennai, Tamil Nadu
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-29*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-30*
 
 ## Overview
 

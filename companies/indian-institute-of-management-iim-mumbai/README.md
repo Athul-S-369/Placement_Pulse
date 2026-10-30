@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Management (IIM), Mumbai
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-29*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-30*
 
 ## Overview
 

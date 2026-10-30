@@ -1,13 +1,14 @@
 # 🏆 Hackathon
 
-**30 active** | **535 expired** | **565 total**
+**31 active** | **535 expired** | **566 total**
 
-*Last updated: 2026-10-29*
+*Last updated: 2026-10-30*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Health Hackathon 3.0](https://unstop.com/hackathons/health-hackathon-30-vit-bhopal-university-1784631) | VIT Bhopal University | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
 | [Mega Monthly Quiz 32](https://unstop.com/quiz/mega-monthly-quiz-32-netclan-explorer-1783637) | Netclan Explorer | India | 🏢 Onsite | — | 2026-11-12 | Unstop |
 | [AGENTX 2.0](https://unstop.com/hackathons/agentx-20-hackqube-1783256) | HackQube | India | 🏢 Onsite | — | 2026-11-10 | Unstop |
 | [Immuno Case Files](https://unstop.com/competitions/immuno-case-files-indian-institute-of-technology-iit-chennai-1783236) | Indian Institute of Technology (IIT), Chennai | India | 🏢 Onsite | — | 2026-12-06 | Unstop |

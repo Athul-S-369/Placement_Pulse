@@ -1,13 +1,22 @@
 # 💼 Fresher Job
 
-**1435 active** | **0 expired** | **1435 total**
+**1444 active** | **0 expired** | **1444 total**
 
-*Last updated: 2026-10-29*
+*Last updated: 2026-10-30*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Forensic Regulatory Data Analyst](https://apply.workable.com/utilisave-llc-1/j/9ED27658CC/apply) | UtiliSave | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Data Annotator - AI Training](https://apply.workable.com/nogigiddy/j/EEFA76F1E9/apply) | NoGigiddy | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Data Annotation Specialist - Object Detection](https://apply.workable.com/volga-partners/j/6371769632/apply) | Volga Partners | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Developer](https://apply.workable.com/neurohire-dot-a-i/j/01ECE8E2C4/apply) | neurohire.ai | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Business Data Analyst](https://apply.workable.com/neurohire-dot-a-i/j/516C3CF516/apply) | neurohire.ai | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Bilingual Thai Generalist](https://apply.workable.com/weekday-1/j/E18C7D5B5A/apply) | Weekday AI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Research Associate - Data Curation](https://apply.workable.com/drug-hunter/j/A2FD4EB245/apply) | Drug Hunter | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Applied AI Engineer](https://apply.workable.com/raydar/j/A876C6B170/apply) | Raydar | SF, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [AI Product Engineer / Forward Deployed Engineer](https://apply.workable.com/raydar/j/31364F00E3/apply) | Raydar | London, UK, SF, Austin, TX, Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Software Engineer](https://ascensushr.wd1.myworkdayjobs.com/ascensuscareers/job/Remote-Nationwide/AI-Software-Engineer_R0021417) | Ascensus | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Assistant Data Analyst](https://cw.wd1.myworkdayjobs.com/external/job/Leeds-West-Yorkshire-United-Kingdom/Assistant-Data-Analyst_R337647) | Cushman & Wakefield | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer New Grad](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-MTS_JR363598) | Salesforce | Indianapolis, IN, Dallas, TX | 🏢 Onsite | — | — | SimplifyJobs New Grad |
@@ -99,12 +108,3 @@
 | [Digital Technician](https://usicinc.wd5.myworkdayjobs.com/USICCareers/job/Indianapolis-IN/Digital-Technician_R-14235) | USIC | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Robotics Engineer - All levels](https://ats.rippling.com/eternal/jobs/439a23ae-8691-48df-8f8c-35ab8ee71e6c) | eternal.ag | Charlotte, NC, Cologne, Germany, Bengaluru, Karnataka, India | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Senior Research Scientist - Fault Tolerant Quantum Algorithms](https://job-boards.greenhouse.io/ionq/jobs/6019179004) | IonQ | Toronto, ON, Canada, Bothell, WA, Remote in USA, Hyattsville, MD | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Machine Learning Solution Architect - Early Talent](https://careers.nebius.com/?gh_jid=4883829101) | Nebius | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Associate Product Engineer](https://mjhlifesciences.wd1.myworkdayjobs.com/Careers/job/United-States/Associate-Product-Engineer_JR102409-1) | MJH Life Sciences | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Associate Solutions Architect](https://job-boards.greenhouse.io/540/jobs/7886194003) | 540 | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Electrical Engineer](https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Indianapolis-Indiana-United-States/Electrical-Engineer_R1303058-1) | Danaher | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Product Manager - Inventory & Orders](https://job-boards.greenhouse.io/fourkites/jobs/7984869) | FourKites | Remote in USA, Chicago, IL | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Graduate Software Engineer - AI](https://job-boards.greenhouse.io/synack/jobs/8165010) | Synack | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Site Reliability Engineer - Site Reliability Engineering](https://jobs.lever.co/pointclickcare/e56d6df3-16fb-4652-9d97-c6140700d2e0/apply) | PointClickCare | Mississauga, ON, Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Software Engineer 1 - Back-End](https://job-boards.greenhouse.io/tebra/jobs/4726985005) | Tebra | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Java Software Engineer](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Northrop-Grumman--SkillBridge--Java-Software-Engineer-Level-1-or-2_R10248772) | Northrop Grumman | Aurora, CO, Morrisville, NC, Remote in USA, Linthicum Heights, MD | 🌐 Remote | — | — | SimplifyJobs New Grad |

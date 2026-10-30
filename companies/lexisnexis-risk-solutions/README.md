@@ -1,11 +1,11 @@
 # 🏢 LexisNexis Risk Solutions
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-10-29*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-10-30*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** London, UK, Remote in USA, Cardiff, UK, Southampton, UK
+- **Locations:** Remote in USA, London, UK, Southampton, UK, Cardiff, UK
 
 ## Current Opportunities
 
