@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** East Lansing, MI, NYC, Alpharetta, GA
+- **Categories:** Internship, Fresher Job
+- **Locations:** NYC, East Lansing, MI, Alpharetta, GA
 
 ## Current Opportunities
 

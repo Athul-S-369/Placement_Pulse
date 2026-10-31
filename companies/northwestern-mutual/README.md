@@ -4,7 +4,7 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
+- **Categories:** Internship, Fresher Job
 - **Locations:** Milwaukee, WI, Greendale, WI, Remote / Various
 
 ## Current Opportunities

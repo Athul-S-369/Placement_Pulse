@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Denver, CO, United Kingdom, NYC, NYC, LA, Coppell, TX
+- **Categories:** Internship, Fresher Job
+- **Locations:** NYC, NYC, LA, Coppell, TX, Denver, CO, United Kingdom
 
 ## Current Opportunities
 

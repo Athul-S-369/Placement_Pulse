@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** San Jose, CA, SF, Waltham, MA, San Diego, CA, Morrisville, NC
+- **Categories:** Internship, Fresher Job
+- **Locations:** Santa Clara, CA, SF, Waltham, MA, Gloucester, UK, Cambridge, MA
 
 ## Current Opportunities
 

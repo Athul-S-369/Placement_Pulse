@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1449 active** | **0 expired** | **1449 total**
+**1450 active** | **0 expired** | **1450 total**
 
 *Last updated: 2026-10-31*
 
@@ -12,6 +12,7 @@
 | [Entry-Level Software Developer - Application Support & Sustainment](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Entry-Level-Software-Developer---Application-Support---Sustainment--Remote-_01885356) | RTX | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Engineer](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/AI-Engineer_JR116391) | ServiceTitan | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Carbon Analysis Engineer](https://apply.workable.com/neutreeno-1/j/FD929624D0/apply) | Neutreeno | Cambridge, UK, Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Research Engineer - AI](https://job-boards.greenhouse.io/orbisoperations/jobs/4436220009) | Orbis Operations | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Forensic Regulatory Data Analyst](https://apply.workable.com/utilisave-llc-1/j/9ED27658CC/apply) | UtiliSave | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Annotator - AI Training](https://apply.workable.com/nogigiddy/j/EEFA76F1E9/apply) | NoGigiddy | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Annotation Specialist - Object Detection](https://apply.workable.com/volga-partners/j/6371769632/apply) | Volga Partners | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Creator Circle - Dipper](https://jobs.ashbyhq.com/dipper/ce3c338e-73e8-47ce-8c16-eafc331f6b16/application?embed=true) | Dipper | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Operations Engineer](https://jobs.ashbyhq.com/surge-ai/73c5fe8d-0cb6-40e1-a634-d46928702f85/application?embed=true) | Surge AI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Business Analyst](https://jobs.ashbyhq.com/openloophealth/d90def69-84a7-45d2-9e3a-9cd5381d4535/application?embed=true) | OpenLoop | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Medical Economics Analyst](https://verawholehealth.wd1.myworkdayjobs.com/MPG/job/US---Remote/Medical-Economics-Analyst_M104708) | Millennium Physician Group | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

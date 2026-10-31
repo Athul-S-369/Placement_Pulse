@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Rochester, NY, Ottawa, ON, Canada, Remote in Canada
+- **Categories:** Internship, Fresher Job
+- **Locations:** Ottawa, ON, Canada, Rochester, NY, Remote in Canada
 
 ## Current Opportunities
 
