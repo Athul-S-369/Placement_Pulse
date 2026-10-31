@@ -1,11 +1,11 @@
 # 🏢 Cummins
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-30*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-31*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** New Orleans, LA, Leeds, UK, Columbus, IN
+- **Locations:** Leeds, UK, Columbus, IN, New Orleans, LA
 
 ## Current Opportunities
 

@@ -1,13 +1,17 @@
 # 💼 Fresher Job
 
-**1445 active** | **0 expired** | **1445 total**
+**1449 active** | **0 expired** | **1449 total**
 
-*Last updated: 2026-10-30*
+*Last updated: 2026-10-31*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Early-Career Marketing Intelligence Analyst](https://careers.rti.org/jobs/13685?icims=1) | RTI International | Research Triangle Park, Durham, NC, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Entry-Level Software Developer - Application Support & Sustainment](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Entry-Level-Software-Developer---Application-Support---Sustainment--Remote-_01885356) | RTX | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [AI Engineer](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/AI-Engineer_JR116391) | ServiceTitan | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Carbon Analysis Engineer](https://apply.workable.com/neutreeno-1/j/FD929624D0/apply) | Neutreeno | Cambridge, UK, Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Forensic Regulatory Data Analyst](https://apply.workable.com/utilisave-llc-1/j/9ED27658CC/apply) | UtiliSave | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Annotator - AI Training](https://apply.workable.com/nogigiddy/j/EEFA76F1E9/apply) | NoGigiddy | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Annotation Specialist - Object Detection](https://apply.workable.com/volga-partners/j/6371769632/apply) | Volga Partners | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -104,7 +108,3 @@
 | [AI Operations Engineer](https://jobs.ashbyhq.com/surge-ai/73c5fe8d-0cb6-40e1-a634-d46928702f85/application?embed=true) | Surge AI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Business Analyst](https://jobs.ashbyhq.com/openloophealth/d90def69-84a7-45d2-9e3a-9cd5381d4535/application?embed=true) | OpenLoop | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Medical Economics Analyst](https://verawholehealth.wd1.myworkdayjobs.com/MPG/job/US---Remote/Medical-Economics-Analyst_M104708) | Millennium Physician Group | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Global Monitoring + Insights](https://jobs.lever.co/pentagrp/872f8d11-7741-4243-a0ee-b45f7f98162f/apply) | Penta Group | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Content Evaluator - Bilingual, Vietnamese and English](https://job-boards.greenhouse.io/innodatainc/jobs/4384507009) | Innodata | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Digital Technician](https://usicinc.wd5.myworkdayjobs.com/USICCareers/job/Indianapolis-IN/Digital-Technician_R-14235) | USIC | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Robotics Engineer - All levels](https://ats.rippling.com/eternal/jobs/439a23ae-8691-48df-8f8c-35ab8ee71e6c) | eternal.ag | Charlotte, NC, Cologne, Germany, Bengaluru, Karnataka, India | 🏢 Onsite | — | — | SimplifyJobs New Grad |

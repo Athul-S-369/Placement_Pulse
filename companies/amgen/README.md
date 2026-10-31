@@ -1,6 +1,6 @@
 # 🏢 Amgen
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-30*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-31*
 
 ## Overview
 

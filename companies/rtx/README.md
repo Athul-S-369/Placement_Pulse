@@ -1,16 +1,17 @@
 # 🏢 RTX
 
-**11 active opportunities** | **11 total tracked** | *Last updated: 2026-10-30*
+**12 active opportunities** | **12 total tracked** | *Last updated: 2026-10-31*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** McKinney, TX, Huntsville, AL, Arlington, VA, Barrie, ON, Canada, Andover, MA
+- **Locations:** Remote in USA, Richardson, TX, Barrie, ON, Canada, Remote in USA, Goleta, CA, Longueuil, QC, Canada
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Entry-Level Software Developer - Application Support & Sustainment](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Entry-Level-Software-Developer---Application-Support---Sustainment--Remote-_01885356) | RTX | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer Co-op](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S77--16470-E-Hughes-Dr--BLDG-S77/Part-Time-Software-Engineer-Co-op-Remote-_01883451) | RTX | Remote in USA, Richardson, TX | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern - Summer 2027](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01867067) | RTX | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Intern Operations Program Management](https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage-d-t-2026-Gestion-des-programmes---Internship-Summer-2026-Operations-Program-Management_01809689-1) | RTX | Longueuil, QC, Canada | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

@@ -1,13 +1,15 @@
 # 🏆 Hackathon
 
-**40 active** | **535 expired** | **575 total**
+**42 active** | **535 expired** | **577 total**
 
-*Last updated: 2026-10-30*
+*Last updated: 2026-10-31*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Hack-a-Sol 5.0](https://unstop.com/hackathons/hack-a-sol-50-international-institute-of-information-technology-iiit-naya-raipur-1786809) | International Institute of Information Technology (IIIT), Naya Raipur | India | 🏢 Onsite | — | 2026-11-15 | Unstop |
+| [GOVERNIA](https://unstop.com/competitions/governia-the-finlyt-summit-indian-school-of-business-finance-1786776) | Indian School Of Business & Finance | India | 🏢 Onsite | — | 2026-11-21 | Unstop |
 | [Health Hackathon 3.0](https://unstop.com/hackathons/health-hackathon-30-vit-bhopal-university-1784631) | VIT Bhopal University | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
 | [Adventure - Idea, Impact & Influence](https://unstop.com/competitions/adventure-idea-impact-influence-ignisia-2026-aryabhatta-college-du-delhi-1785524) | Aryabhatta College (AC), Delhi University (DU), Delhi | India | 🏢 Onsite | — | 2026-11-16 | Unstop |
 | [Communications in Political Campaign](https://unstop.com/workshops-webinars/communications-in-political-campaign-fore-centre-for-political-leadership-and-governance-1785648) | FORE Centre for Political Leadership and Governance | India | 🏢 Onsite | — | 2026-11-03 | Unstop |

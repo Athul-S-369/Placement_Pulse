@@ -1,13 +1,16 @@
 # 🎓 Internship
 
-**893 active** | **0 expired** | **893 total**
+**896 active** | **0 expired** | **896 total**
 
-*Last updated: 2026-10-30*
+*Last updated: 2026-10-31*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Aerodynamics AI Industrial Placement Intern](https://apply.workable.com/cadillacf1team/j/7995A5E448/apply) | Cadillac Formula 1 Team | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Mixed Signal Designer Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Remote-Canada/Mixed-Signal-Designer-Intern_R031989) | Ciena | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Customer Experience & Analytics Intern - Undergraduate](https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040169) | Molina Healthcare | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/subtotal/3891929c-0ee6-46ea-a833-4efba2862801/application?embed=true) | Subtotal | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Research and Development Intern](https://job-boards.greenhouse.io/oneethos/jobs/4459193009) | OneEthos | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Gameplay Engineer Intern](https://job-boards.greenhouse.io/crystaldynamics/jobs/4746848005) | Crystal Dynamics | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -105,6 +108,3 @@
 | [Operational Analytics Intern](https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/DIRECTV-for-Business--Operational-Analytics-Intern_R260282) | DIRECTV | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern - Waterloo University](https://job-boards.greenhouse.io/brave/jobs/8161945) | Brave | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Computer Science and Data Science Intern](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W) | Corteva | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Front End Developer Intern](https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975) | Simon Property Group | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Operations Graduate Program Intern - Operations](https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Operations-Graduate-Program---Summer-2027-Internship_R-254659) | Amgen | Cambridge, MA, Remote in USA, Thousand Oaks, CA, Holly Springs, NC, New Albany, OH, West Greenwich, RI | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Artificial Intelligence Engineer Intern - Artificial Intelligence](https://www.pindrop.com/careers/job-title/?gh_jid=7899137) | Pindrop | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

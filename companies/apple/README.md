@@ -1,11 +1,11 @@
 # 🏢 Apple
 
-**17 active opportunities** | **17 total tracked** | *Last updated: 2026-10-30*
+**17 active opportunities** | **17 total tracked** | *Last updated: 2026-10-31*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Cupertino, CA, Seattle, WA, Gloucester, UK, Austin, TX, London, UK
+- **Locations:** San Jose, CA, SF, Waltham, MA, San Diego, CA, Morrisville, NC
 
 ## Current Opportunities
 

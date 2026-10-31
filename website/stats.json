@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-10-30T21:01:03.135826Z",
-  "date": "2026-10-30",
-  "total": 2919,
-  "active": 2383,
-  "new_today": 180,
-  "companies": 2183,
+  "generated_at": "2026-10-31T06:10:23.458493Z",
+  "date": "2026-10-31",
+  "total": 2928,
+  "active": 2392,
+  "new_today": 184,
+  "companies": 2190,
   "categories": {
-    "fresher-job": 1445,
-    "internship": 893,
-    "hackathon": 575,
+    "fresher-job": 1449,
+    "internship": 896,
+    "hackathon": 577,
     "open-source-program": 2,
     "fellowship": 2,
     "student-ambassador": 2
@@ -39,6 +39,10 @@
       "count": 13
     },
     {
+      "name": "RTX",
+      "count": 12
+    },
+    {
       "name": "Integrated Resources",
       "count": 12
     },
@@ -48,10 +52,6 @@
     },
     {
       "name": "JP Morgan Chase",
-      "count": 11
-    },
-    {
-      "name": "RTX",
       "count": 11
     },
     {
@@ -96,8 +96,8 @@
     }
   ],
   "domain_tags": {
-    "ai-ml": 383,
-    "data-science": 203,
+    "ai-ml": 385,
+    "data-science": 204,
     "software-engineering": 478,
     "backend": 24,
     "embedded": 49,
@@ -109,7 +109,7 @@
     "cloud": 29
   },
   "work_modes": {
-    "remote": 568,
-    "onsite": 2351
+    "remote": 574,
+    "onsite": 2354
   }
 }
