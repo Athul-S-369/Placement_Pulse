@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Remote in USA, Richardson, TX, Huntsville, AL, McKinney, TX, Andover, MA, Longueuil, QC, Canada
+- **Locations:** Indianapolis, IN, Huntsville, AL, Remote in USA, Richardson, TX, Longueuil, QC, Canada, Barrie, ON, Canada
 
 ## Current Opportunities
 

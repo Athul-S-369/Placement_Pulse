@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**45 active** | **535 expired** | **580 total**
+**47 active** | **535 expired** | **582 total**
 
 *Last updated: 2026-10-31*
 
@@ -13,6 +13,8 @@
 | [International Conference on Sustainability Through Digital Transformation](https://unstop.com/conferences/international-conference-on-sustainability-through-digital-transformation-maharana-pratap-engineering-colleg-1787008) | Maharana Pratap Engineering College ,Kanpur (U.P ) | India | 🏢 Onsite | — | 2026-11-14 | Unstop |
 | [Science Working Model Competition 5.0](https://unstop.com/competitions/science-working-model-competition-50-kalinga-university-1786998) | Kalinga University | India | 🏢 Onsite | — | 2026-11-14 | Unstop |
 | [Technova 2027](https://unstop.com/hackathons/technova-2027-burhani-college-mumbai-1786992) | Burhani College, Mumbai | India | 🏢 Onsite | — | 2027-01-22 | Unstop |
+| [CODE SHIFT 2026](https://unstop.com/hackathons/code-shift-2026-infotechiezz-1786387) | InfoTechiezz | India | 🏢 Onsite | — | 2026-11-08 | Unstop |
+| [TurtleReel Campus Reel Challenge — Turn One Talking Video Into a Finished Reel](https://unstop.com/events/turtlereel-campus-reel-challenge-turn-one-talking-video-into-a-finished-reel-turtle-techsai-1787153) | Turtle Techsai | India | 🏢 Onsite | — | 2026-11-14 | Unstop |
 | [Health Hackathon 3.0](https://unstop.com/hackathons/health-hackathon-30-vit-bhopal-university-1784631) | VIT Bhopal University | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
 | [Adventure - Idea, Impact & Influence](https://unstop.com/competitions/adventure-idea-impact-influence-ignisia-2026-aryabhatta-college-du-delhi-1785524) | Aryabhatta College (AC), Delhi University (DU), Delhi | India | 🏢 Onsite | — | 2026-11-16 | Unstop |
 | [Communications in Political Campaign](https://unstop.com/workshops-webinars/communications-in-political-campaign-fore-centre-for-political-leadership-and-governance-1785648) | FORE Centre for Political Leadership and Governance | India | 🏢 Onsite | — | 2026-11-03 | Unstop |

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in Canada, Ann Arbor, MI, Remote in USA
+- **Locations:** Remote in Canada, Remote in USA, Ann Arbor, MI
 
 ## Current Opportunities
 

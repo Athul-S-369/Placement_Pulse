@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, Louisiana, New Mexico, Minnesota, Utah
+- **Locations:** Idaho, Minnesota, West Virginia, Utah, New Mexico
 
 ## Current Opportunities
 

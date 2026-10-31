@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** NYC, Baltimore, MD, California City, CA, Traverse City, MI, Southfield, MI
+- **Locations:** Baltimore, MD, Westminster, CO, Augusta, ME, Washington, DC, Bloomington, MN
 
 ## Current Opportunities
 
