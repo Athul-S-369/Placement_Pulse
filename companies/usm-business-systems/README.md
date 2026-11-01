@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** NYC, Bloomington, MN, Chicago, IL, Chantilly, VA, Alexandria, VA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Manassas, VA, Chantilly, VA, El Segundo, CA, Alexandria, VA, Baltimore, MD
 
 ## Current Opportunities
 

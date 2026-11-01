@@ -4,7 +4,7 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
+- **Categories:** Internship, Fresher Job
 - **Locations:** Waukesha, WI, Little Rock, AR, Richmond, VA, Redmond, WA
 
 ## Current Opportunities

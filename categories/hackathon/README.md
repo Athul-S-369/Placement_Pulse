@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**46 active** | **538 expired** | **584 total**
+**47 active** | **538 expired** | **585 total**
 
 *Last updated: 2026-11-01*
 
@@ -10,6 +10,7 @@
 |------|---------|----------|------|----------------|----------|--------|
 | [National Finance & Investment Challenge 2026](https://unstop.com/competitions/national-finance-investment-challenge-2026-caplexus-capital-1788810) | Caplexus Capital | India | 🏢 Onsite | — | 2026-11-09 | Unstop |
 | [Casenova 2026](https://unstop.com/competitions/casenova-2026-delhi-school-of-economics-dse-new-delhi-1784502) | Delhi School of Economics (DSE), New Delhi | India | 🏢 Onsite | — | 2026-11-28 | Unstop |
+| [IMThefuture 11.0](https://unstop.com/competitions/imthefuture-110-imt-ghaziabad-1783064) | Institute of Management Technology (IMT), Ghaziabad | India | 🏢 Onsite | — | 2026-12-12 | Unstop |
 | [Hack-a-Sol 5.0](https://unstop.com/hackathons/hack-a-sol-50-international-institute-of-information-technology-iiit-naya-raipur-1786809) | International Institute of Information Technology (IIIT), Naya Raipur | India | 🏢 Onsite | — | 2026-11-15 | Unstop |
 | [GOVERNIA](https://unstop.com/competitions/governia-the-finlyt-summit-indian-school-of-business-finance-1786776) | Indian School Of Business & Finance | India | 🏢 Onsite | — | 2026-11-21 | Unstop |
 | [International Conference on Sustainability Through Digital Transformation](https://unstop.com/conferences/international-conference-on-sustainability-through-digital-transformation-maharana-pratap-engineering-colleg-1787008) | Maharana Pratap Engineering College ,Kanpur (U.P ) | India | 🏢 Onsite | — | 2026-11-14 | Unstop |

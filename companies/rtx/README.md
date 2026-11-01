@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Remote in USA, Arlington, VA, Huntsville, AL, Longueuil, QC, Canada, Goleta, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Longueuil, QC, Canada, Barrie, ON, Canada, Fort Wayne, IN, Andover, MA, Arlington, VA
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Cupertino, CA, San Jose, CA, Santa Clara, CA, San Diego, CA, Waltham, MA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Morrisville, NC, Seattle, WA, Lafayette, KS, California, San Jose, CA
 
 ## Current Opportunities
 
