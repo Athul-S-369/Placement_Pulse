@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Jacksonville, FL, Chicago, IL, Sunnyvale, CA, San Jose, CA, Alpharetta, GA
+- **Locations:** Novato, CA, Thousand Oaks, CA, NYC, St. Louis, MO, Broomfield, CO
 
 ## Current Opportunities
 

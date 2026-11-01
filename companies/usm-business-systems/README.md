@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Manassas, VA, Chantilly, VA, El Segundo, CA, Alexandria, VA, Baltimore, MD
+- **Locations:** Manassas, VA, Bluemont, VA, Chantilly, VA, California City, CA, Westminster, CO
 
 ## Current Opportunities
 

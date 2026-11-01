@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Boston, MA, Elmira, NY, Cambridge, MA, Ambler, PA, Westborough, MA
+- **Locations:** Cambridge, MA, North Haven, CT, Boston, MA, Exton, PA, Ambler, PA
 
 ## Current Opportunities
 
