@@ -1,6 +1,6 @@
 # 🏢 Product Space
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-31*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-01*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Product Verse Hackathon](https://unstop.com/hackathons/product-verse-hackathon-product-space-1782516) | Product Space | India | 🏢 Onsite | — | 2026-10-31 | Unstop |
 
 ## 📖 Interview Preparation
 

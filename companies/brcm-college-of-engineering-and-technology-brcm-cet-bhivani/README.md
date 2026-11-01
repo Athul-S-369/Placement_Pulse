@@ -1,6 +1,6 @@
 # 🏢 BRCM College of Engineering and Technology (BRCM CET), Bhivani
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-10-31*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-01*
 
 ## Overview
 

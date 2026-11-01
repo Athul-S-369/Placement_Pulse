@@ -1,11 +1,11 @@
 # 🏢 GE Aerospace
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-31*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-01*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Sharonville, OH, Saugus, MA, Sharonville, OH, Livonia, MI
+- **Locations:** Sharonville, OH, Livonia, MI, Sharonville, OH, Saugus, MA
 
 ## Current Opportunities
 

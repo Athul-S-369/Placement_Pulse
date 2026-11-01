@@ -1,11 +1,11 @@
 # 🏢 USM Business Systems
 
-**21 active opportunities** | **21 total tracked** | *Last updated: 2026-10-31*
+**21 active opportunities** | **21 total tracked** | *Last updated: 2026-11-01*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Baltimore, MD, Westminster, CO, Augusta, ME, Washington, DC, Bloomington, MN
+- **Categories:** Fresher Job, Internship
+- **Locations:** NYC, Bloomington, MN, Chicago, IL, Chantilly, VA, Alexandria, VA
 
 ## Current Opportunities
 

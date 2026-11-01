@@ -1,11 +1,11 @@
 # 🏢 RTX
 
-**12 active opportunities** | **12 total tracked** | *Last updated: 2026-10-31*
+**12 active opportunities** | **12 total tracked** | *Last updated: 2026-11-01*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Indianapolis, IN, Huntsville, AL, Remote in USA, Richardson, TX, Longueuil, QC, Canada, Barrie, ON, Canada
+- **Categories:** Fresher Job, Internship
+- **Locations:** Remote in USA, Arlington, VA, Huntsville, AL, Longueuil, QC, Canada, Goleta, CA
 
 ## Current Opportunities
 

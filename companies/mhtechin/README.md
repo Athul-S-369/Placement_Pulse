@@ -1,6 +1,6 @@
 # 🏢 MHTECHIN
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-31*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-01*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [MHTECHIN Innovation Challenge 2026](https://unstop.com/competitions/mhtechin-innovation-challenge-2026-mhtechin-1715258) | MHTECHIN | India | 🏢 Onsite | — | 2026-10-31 | Unstop |
 
 ## 📖 Interview Preparation
 

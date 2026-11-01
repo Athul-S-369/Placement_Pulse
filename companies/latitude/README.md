@@ -1,11 +1,11 @@
 # 🏢 Latitude
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-31*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-01*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Baltimore, MD, Danbury, CT
+- **Locations:** Danbury, CT, Baltimore, MD
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏢 Bitmela
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-10-31*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-01*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Bitmela Launchpad: Ideathon 01](https://unstop.com/hackathons/bitmela-launchpad-ideathon-01-bitmela-1722812) | Bitmela | India | 🏢 Onsite | — | 2026-10-31 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,11 +1,11 @@
 # 🏢 Goldman Sachs
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-10-31*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-01*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Dallas, TX, NYC, London, UK
+- **Categories:** Fresher Job, Internship
+- **Locations:** NYC, Dallas, TX, London, UK
 
 ## Current Opportunities
 

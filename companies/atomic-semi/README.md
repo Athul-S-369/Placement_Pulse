@@ -1,11 +1,11 @@
 # 🏢 Atomic Semi
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-10-31*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-01*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** San Francisco, CA, Austin, TX, SF
+- **Locations:** SF, San Francisco, CA, Austin, TX
 
 ## Current Opportunities
 
