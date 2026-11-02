@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Washington, DC, San Antonio, TX, Alexandria, VA, Traverse City, MI, NYC
+- **Locations:** Bloomington, MN, Augusta, ME, St. Louis, MO, Jefferson City, MO, El Segundo, CA
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Cedar Rapids, IA, Barrie, ON, Canada, Remote in USA, Huntsville, AL, Andover, MA
+- **Locations:** Cedar Rapids, IA, McKinney, TX, Andover, MA, Indianapolis, IN, Remote in USA
 
 ## Current Opportunities
 

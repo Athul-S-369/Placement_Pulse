@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Hartford, CT, Novato, CA, Broomfield, CO, San Jose, CA, NYC
+- **Locations:** Dallas, TX, NYC, San Jose, CA, Jacksonville, FL, Novato, CA
 
 ## Current Opportunities
 

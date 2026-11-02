@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**48 active** | **539 expired** | **587 total**
+**49 active** | **539 expired** | **588 total**
 
 *Last updated: 2026-11-02*
 
@@ -9,6 +9,7 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [League Of Nations 12.0](https://unstop.com/competitions/league-of-nations-120-impelz-120-institute-of-management-technology-imt-hyderabad-1792031) | Institute of Management Technology (IMT), Hyderabad | India | 🏢 Onsite | — | 2026-12-05 | Unstop |
+| [Disquisition 9.0](https://unstop.com/competitions/disquisition-90-iim-kashipur-1791696) | Indian Institute of Management (IIM), Kashipur | India | 🏢 Onsite | — | 2026-11-11 | Unstop |
 | [National Finance & Investment Challenge 2026](https://unstop.com/competitions/national-finance-investment-challenge-2026-caplexus-capital-1788810) | Caplexus Capital | India | 🏢 Onsite | — | 2026-11-09 | Unstop |
 | [Casenova 2026](https://unstop.com/competitions/casenova-2026-delhi-school-of-economics-dse-new-delhi-1784502) | Delhi School of Economics (DSE), New Delhi | India | 🏢 Onsite | — | 2026-11-28 | Unstop |
 | [IMThefuture 11.0](https://unstop.com/competitions/imthefuture-110-imt-ghaziabad-1783064) | Institute of Management Technology (IMT), Ghaziabad | India | 🏢 Onsite | — | 2026-12-12 | Unstop |
