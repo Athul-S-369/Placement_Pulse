@@ -1,11 +1,11 @@
 # 🏢 USM Business Systems
 
-**21 active opportunities** | **21 total tracked** | *Last updated: 2026-11-01*
+**21 active opportunities** | **21 total tracked** | *Last updated: 2026-11-02*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Manassas, VA, Bluemont, VA, Chantilly, VA, California City, CA, Westminster, CO
+- **Locations:** California City, CA, Washington, DC, Bloomington, MN, San Antonio, TX, Chantilly, VA
 
 ## Current Opportunities
 

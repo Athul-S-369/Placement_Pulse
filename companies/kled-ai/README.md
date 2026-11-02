@@ -1,11 +1,11 @@
 # 🏢 Kled AI
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-01*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-02*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, Remote in Canada
+- **Locations:** Remote in Canada, Remote in USA
 
 ## Current Opportunities
 

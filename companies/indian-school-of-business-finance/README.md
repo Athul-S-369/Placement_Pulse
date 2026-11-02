@@ -1,6 +1,6 @@
 # 🏢 Indian School Of Business & Finance
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-01*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-02*
 
 ## Overview
 

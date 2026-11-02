@@ -7,10 +7,10 @@
 **India's open-source aggregator for software internships, fresher jobs,<br>hackathons, fellowships, and placement opportunities.**
 
 [![Opportunities](https://img.shields.io/badge/Opportunities-2940-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
-[![Active](https://img.shields.io/badge/Active-2401-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
+[![Active](https://img.shields.io/badge/Active-2400-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
 [![Companies](https://img.shields.io/badge/Companies-2202-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
-[![Updated](https://img.shields.io/badge/Updated-Nov%2001%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
+[![Updated](https://img.shields.io/badge/Updated-Nov%2002%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
 [Latest Run](#latest-run) &nbsp;·&nbsp;
 [Active Opportunities](#active-opportunities) &nbsp;·&nbsp;
@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**November 01, 2026** &nbsp;—&nbsp; **89** Fresher Job &nbsp;·&nbsp; **83** Internship &nbsp;·&nbsp; **7** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**November 02, 2026** &nbsp;—&nbsp; **89** Fresher Job &nbsp;·&nbsp; **83** Internship &nbsp;·&nbsp; **8** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**185 opportunities** added or updated in the latest run (November 01, 2026).
+**186 opportunities** added or updated in the latest run (November 02, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -138,6 +138,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Aarambh'26](https://unstop.com/workshops-webinars/aarambh26-inderprastha-engineering-college-ghaziabad-1790135) | Inderprastha Engineering Col | India | Hackathon | Onsite | 2026-11-04 |
 | [IIM-C Run (7 Lakes Festival)](https://unstop.com/events/iim-c-run-7-lakes-festival-7-lakes-festival-iim-calcutta-1790019) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-11-15 |
 | [Product Teardown](https://unstop.com/competitions/product-teardown--1789845) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-11-10 |
+| [Shaastra Biz Quiz](https://unstop.com/quiz/shaastra-biz-quiz-iit-madras-1790016) | Indian Institute of Technolo | India | Hackathon | Onsite | 2027-01-06 |
 | [Design Disrupt: The Modern Ethnic Wear Challenge](https://unstop.com/events/design-disrupt-the-modern-ethnic-wear-challenge-reevaaz-1789766) | Reevaaz | India | Hackathon | Onsite | 2026-11-10 |
 | [Perplexed: A Business Competition Powered by AI](https://unstop.com/competitions/perplexed-a-business-competition-powered-by-ai-saturnalia-2026-thapar-institute-of-engineering-and-technolo-1770172) | Thapar Institute of Engineer | India | Hackathon | Onsite | 2026-11-19 |
 | [National HR Colosseum 11.0](https://unstop.com/competitions/national-hr-colosseum-110-xavier-school-of-management-xlri-1790046) | Xavier School of Management  | India | Hackathon | Onsite | 2026-11-26 |
@@ -322,13 +323,13 @@ The 50 most recently added active opportunities across all categories.
 
 ## Archive
 
-- [November 01, 2026 — Today](daily/2026/November/2026-11-01.md)
+- [November 02, 2026 — Today](daily/2026/November/2026-11-02.md)
+- [November 01, 2026](daily/2026/November/2026-11-01.md)
 - [October 31, 2026](daily/2026/October/2026-10-31.md)
 - [October 30, 2026](daily/2026/October/2026-10-30.md)
 - [October 29, 2026](daily/2026/October/2026-10-29.md)
 - [October 28, 2026](daily/2026/October/2026-10-28.md)
 - [October 27, 2026](daily/2026/October/2026-10-27.md)
-- [October 26, 2026](daily/2026/October/2026-10-26.md)
 
 [Full archive](daily/)
 
@@ -347,6 +348,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-11-01 20:46 UTC</sub>
+<sub>Last generated: 2026-11-02 06:40 UTC</sub>
 
 </div>

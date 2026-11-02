@@ -1,8 +1,8 @@
 # 🏆 Hackathon
 
-**48 active** | **538 expired** | **586 total**
+**47 active** | **539 expired** | **586 total**
 
-*Last updated: 2026-11-01*
+*Last updated: 2026-11-02*
 
 ## Active Opportunities
 
@@ -33,7 +33,6 @@
 | [AGENTX 2.0](https://unstop.com/hackathons/agentx-20-hackqube-1783256) | HackQube | India | 🏢 Onsite | — | 2026-11-10 | Unstop |
 | [Immuno Case Files](https://unstop.com/competitions/immuno-case-files-indian-institute-of-technology-iit-chennai-1783236) | Indian Institute of Technology (IIT), Chennai | India | 🏢 Onsite | — | 2026-12-06 | Unstop |
 | [WebClone Mania](https://unstop.com/hackathons/webclone-mania-nit-rourkela-1783135) | National Institute of Technology (NIT), Rourkela | India | 🏢 Onsite | — | 2026-11-14 | Unstop |
-| [Breakfree-North Zonals](https://unstop.com/events/breakfree-north-zonals-elan-nvision-2027-elan-nvision-iit-hyderabad-1772450) | Elan & nVision, IIT Hyderabad | India | 🏢 Onsite | — | 2026-11-01 | Unstop |
 | [Volleyball (Male)](https://unstop.com/events/volleyball-male-aaveg-xvii-institute-of-chartered-financial-analysts-of-india-icfai-hyderabad-telangana-1784012) | Institute of Chartered Financial Analysts of India (ICFAI), Hyderabad, Telangana | India | 🏢 Onsite | — | 2026-11-22 | Unstop |
 | [COBOT-EX 2026 | Inter-College Hackathon](https://unstop.com/hackathons/cobot-ex-2026-inter-college-hackathon-b-s-abdur-rahman-crescent-institute-of-science-and-technology-chennai-t-1783202) | B. S. Abdur Rahman Crescent Institute of Science and Technology, Chennai, Tamil Nadu | India | 🏢 Onsite | — | 2026-11-07 | Unstop |
 | [Masters’ Union Nations ’26 | Experiential MUN & Student Conference](https://unstop.com/conferences/masters-union-nations-26-experiential-mun-student-conference-masters-union-school-of-business-1784550) | Masters' Union School of Business | India | 🏢 Onsite | — | 2026-11-12 | Unstop |
@@ -61,6 +60,7 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Breakfree-North Zonals](https://unstop.com/events/breakfree-north-zonals-elan-nvision-2027-elan-nvision-iit-hyderabad-1772450) | Elan & nVision, IIT Hyderabad | India | 🏢 Onsite | — | 2026-11-01 | Unstop |
 | [Bitmela Launchpad: Ideathon 01](https://unstop.com/hackathons/bitmela-launchpad-ideathon-01-bitmela-1722812) | Bitmela | India | 🏢 Onsite | — | 2026-10-31 | Unstop |
 | [MHTECHIN Innovation Challenge 2026](https://unstop.com/competitions/mhtechin-innovation-challenge-2026-mhtechin-1715258) | MHTECHIN | India | 🏢 Onsite | — | 2026-10-31 | Unstop |
 | [Product Verse Hackathon](https://unstop.com/hackathons/product-verse-hackathon-product-space-1782516) | Product Space | India | 🏢 Onsite | — | 2026-10-31 | Unstop |
@@ -80,4 +80,3 @@
 | [Precision Care Challenge 2026](https://unstop.com/hackathons/crp-precision-care-challenge-2026-ge-healthcare-1731208) | GE HealthCare | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
 | [A-1 Launchpad: Launch your Career with Us](https://unstop.com/competitions/a-1-launchpad-launch-your-career-with-us-a-1-fence-products-company-pvt-ltd-1718561) | A-1 Fence Products Company Pvt. Ltd. | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
 | [Commercio Artikel - Article Writing Competition](https://unstop.com/competitions/commercio-artikel-article-writing-competition-trade-winds-2026-iift-new-delhi-1754500) | Indian Institute of Foreign Trade (IIFT), New Delhi | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
-| [Pep Sales Stars](https://unstop.com/workshops-webinars/crp-pep-sales-stars-pep-stars-2026-pepsico-1687498) | PepsiCo | India | 🏢 Onsite | — | 2026-09-30 | Unstop |

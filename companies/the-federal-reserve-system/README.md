@@ -1,11 +1,11 @@
 # 🏢 The Federal Reserve System
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-01*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-02*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Remote in USA, Atlanta, GA, Philadelphia, PA
+- **Locations:** Philadelphia, PA, Remote in USA, Atlanta, GA
 
 ## Current Opportunities
 

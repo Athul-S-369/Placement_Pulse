@@ -1,6 +1,6 @@
 # 🏢 Elan & nVision, IIT Hyderabad
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-01*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-02*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Breakfree-North Zonals](https://unstop.com/events/breakfree-north-zonals-elan-nvision-2027-elan-nvision-iit-hyderabad-1772450) | Elan & nVision, IIT Hyderabad | India | 🏢 Onsite | — | 2026-11-01 | Unstop |
 
 ## 📖 Interview Preparation
 
