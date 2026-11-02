@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Redmond, WA, San Jose, CA
+- **Locations:** San Jose, CA, Redmond, WA
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Santa Clara, CA, Hickory, NC, Cherry Hills Village, CO, Westborough, MA, Ambler, PA
+- **Locations:** Ambler, PA, North Haven, CT, Milwaukee, WI, Exton, PA, Elmira, NY
 
 ## Current Opportunities
 

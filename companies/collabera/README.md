@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Princeton, NJ, Eagan, MN, Oakland, CA, Salt Lake City, UT, Calgary, AB, Canada
+- **Locations:** Eagan, MN, Oakland, CA, Radcliff, KY, Calgary, AB, Canada, Princeton, NJ
 
 ## Current Opportunities
 

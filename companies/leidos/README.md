@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Huntsville, AL, Chesapeake, VA, Annapolis Junction, MD, Aurora, CO, Annapolis Junction, MD, Alexandria, VA, San Diego, CA, Remote in USA, Shiloh, IL, Odenton, MD
+- **Locations:** Remote in USA, Shiloh, IL, Odenton, MD, Annapolis Junction, MD, Reston, VA, Remote in USA, Chesapeake, VA
 
 ## Current Opportunities
 

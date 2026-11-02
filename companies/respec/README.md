@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Rapid City, SD, Richardson, TX
+- **Locations:** Richardson, TX, Rapid City, SD
 
 ## Current Opportunities
 

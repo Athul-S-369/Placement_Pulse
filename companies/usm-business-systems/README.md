@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** California City, CA, Washington, DC, Bloomington, MN, San Antonio, TX, Chantilly, VA
+- **Locations:** Washington, DC, San Antonio, TX, Alexandria, VA, Traverse City, MI, NYC
 
 ## Current Opportunities
 
