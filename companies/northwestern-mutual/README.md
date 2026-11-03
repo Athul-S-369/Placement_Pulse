@@ -1,11 +1,11 @@
 # 🏢 Northwestern Mutual
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-02*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-03*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Greendale, WI, Milwaukee, WI, Remote / Various
+- **Categories:** Fresher Job, Internship
+- **Locations:** Greendale, WI, Remote / Various, Milwaukee, WI
 
 ## Current Opportunities
 
