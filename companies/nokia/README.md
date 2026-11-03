@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** NYC, Sunnyvale, CA, California, Naperville, IL, San Jose, CA, Naperville, IL, Dallas, TX
+- **Categories:** Internship, Fresher Job
+- **Locations:** Ottawa, ON, Canada, San Jose, CA, United States, Canada, Allentown, PA
 
 ## Current Opportunities
 

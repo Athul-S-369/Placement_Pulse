@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Indianapolis, IN, Chicago, IL, Remote / Various
+- **Locations:** Remote / Various, Indianapolis, IN, Chicago, IL
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Westminster, CO, Southfield, MI, California City, CA, Manassas, VA, Augusta, ME
+- **Categories:** Internship, Fresher Job
+- **Locations:** California City, CA, Columbus, OH, Bloomington, MN, El Segundo, CA, Traverse City, MI
 
 ## Current Opportunities
 

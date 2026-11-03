@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**48 active** | **540 expired** | **588 total**
+**51 active** | **540 expired** | **591 total**
 
 *Last updated: 2026-11-03*
 
@@ -8,6 +8,9 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Ops Samasya - 2026](https://unstop.com/competitions/ops-samasya-2026--1784643) | Indian Institute of Management (IIM), Udaipur | India | 🏢 Onsite | — | 2026-12-13 | Unstop |
+| [Queryquest: SQL Problem-Solving Challenge](https://unstop.com/hackathons/queryquest-sql-problem-solving-challenge-the-national-institute-of-engineering-karnataka-1793112) | The National Institute of Engineering, Karnataka | India | 🏢 Onsite | — | 2026-11-21 | Unstop |
+| [MassX CTF 2026](https://unstop.com/hackathons/massx-ctf-2026-panipat-institute-of-engineering-technology-piet-panipat-1791573) | Panipat Institute of Engineering & Technology (PIET), Panipat | India | 🏢 Onsite | — | 2026-11-14 | Unstop |
 | [League Of Nations 12.0](https://unstop.com/competitions/league-of-nations-120-impelz-120-institute-of-management-technology-imt-hyderabad-1792031) | Institute of Management Technology (IMT), Hyderabad | India | 🏢 Onsite | — | 2026-12-05 | Unstop |
 | [Disquisition 9.0](https://unstop.com/competitions/disquisition-90-iim-kashipur-1791696) | Indian Institute of Management (IIM), Kashipur | India | 🏢 Onsite | — | 2026-11-11 | Unstop |
 | [National Finance & Investment Challenge 2026](https://unstop.com/competitions/national-finance-investment-challenge-2026-caplexus-capital-1788810) | Caplexus Capital | India | 🏢 Onsite | — | 2026-11-09 | Unstop |

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Remote in UK, Salt Lake City, UT, Remote in USA, Chicago, IL, Ashburn, VA, Schaumburg, IL, Plantation, FL, Remote in USA, Chicago, IL
+- **Categories:** Internship, Fresher Job
+- **Locations:** Remote in UK, Remote in USA, Chicago, IL, Salt Lake City, UT, Remote in USA, Chicago, IL, Ashburn, VA, Schaumburg, IL, Plantation, FL
 
 ## Current Opportunities
 
