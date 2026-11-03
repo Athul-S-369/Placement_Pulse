@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Indianapolis, IN, Cedar Rapids, IA, Remote in USA, Richardson, TX, Huntsville, AL, Remote in USA
+- **Locations:** McKinney, TX, Remote in USA, Richardson, TX, Indianapolis, IN, Arlington, VA, Cedar Rapids, IA
 
 ## Current Opportunities
 

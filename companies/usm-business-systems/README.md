@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** California City, CA, Columbus, OH, Bloomington, MN, El Segundo, CA, Traverse City, MI
+- **Locations:** NYC, Rochester, MI, Jefferson City, MO, San Antonio, TX, Baltimore, MD
 
 ## Current Opportunities
 

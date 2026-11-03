@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote in USA, Tampa, FL
+- **Locations:** Tampa, FL, Remote in USA
 
 ## Current Opportunities
 
