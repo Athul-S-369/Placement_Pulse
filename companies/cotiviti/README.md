@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** South Jordan, UT, Remote in USA, Remote in USA
+- **Locations:** Remote in USA, South Jordan, UT, Remote in USA
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Westminster, CO, San Antonio, TX, Alexandria, VA, Washington, DC, Bloomington, MN
+- **Categories:** Fresher Job, Internship
+- **Locations:** Washington, DC, Southfield, MI, Columbus, OH, Rochester, MI, NYC
 
 ## Current Opportunities
 
