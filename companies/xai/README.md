@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, Remote in USA, Remote in UK, Remote in Australia, Remote in Canada, Palo Alto, CA
+- **Locations:** Palo Alto, CA, Remote in USA, Remote in USA, Remote in UK, Remote in Australia, Remote in Canada
 
 ## Current Opportunities
 

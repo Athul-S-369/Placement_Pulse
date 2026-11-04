@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Little Rock, AR, Corpus Christi, TX
+- **Categories:** Internship, Fresher Job
+- **Locations:** Corpus Christi, TX, Little Rock, AR
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Ambler, PA, Milwaukee, WI, Santa Clara, CA, Westborough, MA, Boston, MA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Boston, MA, Hickory, NC, Elmira, NY, Exton, PA, Milwaukee, WI
 
 ## Current Opportunities
 

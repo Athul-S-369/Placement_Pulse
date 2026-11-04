@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Washington, DC, Southfield, MI, Columbus, OH, Rochester, MI, NYC
+- **Categories:** Internship, Fresher Job
+- **Locations:** Augusta, ME, El Segundo, CA, Manassas, VA, Alexandria, VA, Washington, DC
 
 ## Current Opportunities
 

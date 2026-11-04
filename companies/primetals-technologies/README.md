@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Laval, QC, Canada, Mississauga, ON, Canada, Orlando, FL
+- **Locations:** Orlando, FL, Laval, QC, Canada, Mississauga, ON, Canada
 
 ## Current Opportunities
 

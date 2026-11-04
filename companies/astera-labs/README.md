@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Vancouver, BC, Canada, Toronto, ON, Canada
+- **Locations:** Toronto, ON, Canada, Vancouver, BC, Canada
 
 ## Current Opportunities
 

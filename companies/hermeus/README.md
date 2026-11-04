@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Atlanta, GA, LA
+- **Locations:** LA, Atlanta, GA
 
 ## Current Opportunities
 
