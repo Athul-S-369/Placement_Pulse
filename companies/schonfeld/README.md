@@ -1,11 +1,11 @@
 # 🏢 Schonfeld
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-03*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-04*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** London, UK, NYC
+- **Locations:** NYC, London, UK
 
 ## Current Opportunities
 

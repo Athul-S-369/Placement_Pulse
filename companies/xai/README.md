@@ -1,11 +1,11 @@
 # 🏢 xAI
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-03*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-04*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, Remote in UK, Remote in Australia, Remote in Canada, Palo Alto, CA, Remote in USA
+- **Locations:** Remote in USA, Remote in UK, Remote in Australia, Remote in Canada, Remote in USA, Palo Alto, CA
 
 ## Current Opportunities
 

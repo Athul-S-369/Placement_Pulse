@@ -1,11 +1,11 @@
 # 🏢 CACI
 
-**7 active opportunities** | **7 total tracked** | *Last updated: 2026-11-03*
+**7 active opportunities** | **7 total tracked** | *Last updated: 2026-11-04*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Fayetteville, NC, Hanover, MD, Riverside, CA, Remote in USA, Hanover, MD, Remote in USA
+- **Locations:** Remote in USA, Sterling, VA, Denver, CO, Hanover, MD, Remote in USA, Remote in USA, Hanover, MD, Fayetteville, NC
 
 ## Current Opportunities
 
