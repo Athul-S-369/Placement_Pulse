@@ -1,16 +1,17 @@
 # 🏢 DataVisor
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-04*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-05*
 
 ## Overview
 
-- **Categories:** Fresher Job
-- **Locations:** Mountain View, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Remote in Canada, Mountain View, CA
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer Intern](https://apply.workable.com/datavisor-jobs/j/2FB6A93BF6/apply) | DataVisor | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Data Scientist - AI Solutions](https://apply.workable.com/datavisor-jobs/j/FC5ABB4A50/apply) | DataVisor | Mountain View, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 
 ## 📖 Interview Preparation

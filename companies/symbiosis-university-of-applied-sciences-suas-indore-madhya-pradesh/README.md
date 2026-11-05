@@ -1,6 +1,6 @@
 # 🏢 Symbiosis University of Applied Sciences (SUAS), Indore, Madhya Pradesh
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-04*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-05*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [ThinkTank Ideathon](https://unstop.com/competitions/thinktank-ideathon-symbiosis-university-of-applied-sciences-suas-indore-madhya-pradesh-1780902) | Symbiosis University of Applied Sciences (SUAS), Indore, Madhya Pradesh | India | 🏢 Onsite | — | 2026-11-04 | Unstop |
 
 ## 📖 Interview Preparation
 

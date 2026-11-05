@@ -1,11 +1,11 @@
 # 🏢 American Institutes for Research
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-04*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-05*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Arlington, VA, Austin, TX, Remote in USA, Chicago, IL, Arlington County, Arlington, VA, Sacramento, CA, Chapel Hill, NC
+- **Locations:** Austin, TX, Remote in USA, Chicago, IL, Arlington County, Arlington, VA, Sacramento, CA, Chapel Hill, NC, Arlington, VA
 
 ## Current Opportunities
 

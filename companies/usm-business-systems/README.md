@@ -1,11 +1,11 @@
 # 🏢 USM Business Systems
 
-**21 active opportunities** | **21 total tracked** | *Last updated: 2026-11-04*
+**21 active opportunities** | **21 total tracked** | *Last updated: 2026-11-05*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Augusta, ME, El Segundo, CA, Manassas, VA, Alexandria, VA, Washington, DC
+- **Categories:** Fresher Job, Internship
+- **Locations:** Chicago, IL, Dublin, OH, El Segundo, CA, Traverse City, MI, Augusta, ME
 
 ## Current Opportunities
 

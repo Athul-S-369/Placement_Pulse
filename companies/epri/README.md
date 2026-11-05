@@ -1,11 +1,11 @@
 # 🏢 EPRI
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-04*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-05*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Palo Alto, CA, Washington, DC, Remote in USA, Knoxville, TN
+- **Locations:** Knoxville, TN, Palo Alto, CA, Washington, DC, Remote in USA
 
 ## Current Opportunities
 

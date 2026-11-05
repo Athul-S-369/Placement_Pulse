@@ -1,11 +1,11 @@
 # 🏢 Leidos
 
-**9 active opportunities** | **9 total tracked** | *Last updated: 2026-11-04*
+**9 active opportunities** | **9 total tracked** | *Last updated: 2026-11-05*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Columbia, MD, Annapolis Junction, MD, Remote in USA, Remote in USA, Shiloh, IL, Odenton, MD, Indianapolis, IN
+- **Categories:** Fresher Job, Internship
+- **Locations:** Columbia, MD, Aurora, CO, Annapolis Junction, MD, Alexandria, VA, San Diego, CA, Reston, VA, Remote in USA, Shiloh, IL, Odenton, MD, Chesapeake, VA
 
 ## Current Opportunities
 

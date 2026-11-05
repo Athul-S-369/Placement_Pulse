@@ -1,11 +1,11 @@
 # 🏢 N1
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-04*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-05*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** SF, Remote in USA, Europe, NYC, NYC
+- **Locations:** NYC, SF, Remote in USA, Europe, NYC
 
 ## Current Opportunities
 

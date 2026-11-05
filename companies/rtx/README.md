@@ -1,11 +1,11 @@
 # 🏢 RTX
 
-**12 active opportunities** | **12 total tracked** | *Last updated: 2026-11-04*
+**12 active opportunities** | **12 total tracked** | *Last updated: 2026-11-05*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Arlington, VA, Cedar Rapids, IA, Remote in USA, Richardson, TX, McKinney, TX, Barrie, ON, Canada
+- **Categories:** Fresher Job, Internship
+- **Locations:** Arlington, VA, Cedar Rapids, IA, Remote in USA, Richardson, TX, McKinney, TX, Fort Wayne, IN
 
 ## Current Opportunities
 

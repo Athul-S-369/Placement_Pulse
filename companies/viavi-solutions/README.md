@@ -1,11 +1,11 @@
 # 🏢 Viavi Solutions
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-04*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-05*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Remote in USA, Indianapolis, IN
+- **Categories:** Fresher Job, Internship
+- **Locations:** Indianapolis, IN, Remote in USA
 
 ## Current Opportunities
 

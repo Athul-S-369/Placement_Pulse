@@ -1,13 +1,15 @@
 # 🎓 Internship
 
-**900 active** | **0 expired** | **900 total**
+**902 active** | **0 expired** | **902 total**
 
-*Last updated: 2026-11-04*
+*Last updated: 2026-11-05*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer Intern](https://apply.workable.com/datavisor-jobs/j/2FB6A93BF6/apply) | DataVisor | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Pharmacy Aggregation Intern](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Pharmacy-Aggregation_35995R-1) | Vizient | Washington, DC, Centennial, CO, Remote in USA, Edina, MN, Chicago, IL, Alpharetta, GA, Cape Girardeau, MO, Irving, TX | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Developer Co-op Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046) | Ciena | Remote in Canada, Québec City, QC, Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [AI Developer Intern](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397) | Entrust | Remote in Germany, Shakopee, MN | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Cybersecurity Services Intern](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Virginia-Remote-Work/Software-Engineer-Cybersecurity-Services---2027-Summer-Internship_R69250) | Motorola Solutions | Salt Lake City, UT, Remote in USA, Chicago, IL, Ashburn, VA, Schaumburg, IL, Plantation, FL | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -106,5 +108,3 @@
 | [Software Engineer Intern](https://jobs.ashbyhq.com/swarmaero/04cff1f6-c790-4773-8568-e487a03626f6/application?embed=true) | Swarm Aero | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Information Technology AI Intern](https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7/application?embed=true) | Barnes & Thornburg | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [AI Research Intern](https://jobs.ashbyhq.com/oneapp/7cc2fdfb-a186-4a58-af1b-8255c173244a/application?embed=true) | ONE Finance | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Payments Forum Intern - Spring/Summer 2027](https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Atlanta-GA/Payments-Forum-Intern---Spring-Summer-2027_R-0000033343-1) | The Federal Reserve System | Remote in USA, Atlanta, GA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Hardware Engineer Intern - Advanced Development](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineer--Advanced-Development-_JR37459-1) | Allegion | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

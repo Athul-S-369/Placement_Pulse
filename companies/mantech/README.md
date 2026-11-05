@@ -1,11 +1,11 @@
 # 🏢 ManTech
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-04*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-05*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Remote in USA, Remote in USA, Stafford, VA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Remote in USA, Stafford, VA, Remote in USA
 
 ## Current Opportunities
 

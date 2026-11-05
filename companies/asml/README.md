@@ -1,11 +1,11 @@
 # 🏢 ASML
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-04*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-05*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** San Jose, CA, Wilton, CT, Remote / Various
+- **Categories:** Fresher Job, Internship
+- **Locations:** Wilton, CT, Remote / Various, San Jose, CA
 
 ## Current Opportunities
 

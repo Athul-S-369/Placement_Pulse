@@ -1,13 +1,17 @@
 # 🏆 Hackathon
 
-**61 active** | **541 expired** | **602 total**
+**64 active** | **542 expired** | **606 total**
 
-*Last updated: 2026-11-04*
+*Last updated: 2026-11-05*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Build in public](https://unstop.com/workshops-webinars/build-in-public-communitymeetups-1769586) | CommunityMeetups | India | 🏢 Onsite | — | 2026-11-20 | Unstop |
+| [Bug Strike - Debugging Challenge (State-Level)](https://unstop.com/quiz/bug-strike-debugging-challenge-state-level-nims-university-nu-jaipur-1772269) | Nims University (NU), Jaipur | India | 🏢 Onsite | — | 2026-11-25 | Unstop |
+| [E-Combat](https://unstop.com/events/e-combat-e-summit26-jadavpur-university-jadavpur-university-kolkata-1794755) | Jadavpur University (JU), Kolkata | India | 🏢 Onsite | — | 2026-11-22 | Unstop |
+| [Coin War](https://unstop.com/quiz/coin-war-academy-of-technology-adisaptagram-1795252) | Academy Of Technology (Adisaptagram) | India | 🏢 Onsite | — | 2026-11-16 | Unstop |
 | [Dart Browser AI Opportunity Challenge](https://unstop.com/competitions/dart-browser-ai-opportunity-challenge-dart-browser-1793916) | Dart Browser | India | 🏢 Onsite | — | 2026-11-10 | Unstop |
 | [StackCart Creator Clash , A Video Editing Competition!](https://unstop.com/competitions/stackcart-creator-clash-a-video-editing-competition-stackcart-1794736) | StackCart | India | 🏢 Onsite | — | 2026-11-18 | Unstop |
 | [13th Protocol: An AI Hackathon 2026](https://unstop.com/hackathons/13th-protocol-an-ai-hackathon-2026-voyager-coding-club-1794890) | KCC Institute of Management and Technology, Greater Noida | India | 🏢 Onsite | — | 2026-11-18 | Unstop |
@@ -55,7 +59,6 @@
 | [TEJAS UDBHAV - Tribal Innovation & Impact Programme](https://unstop.com/competitions/tejas-udbhav-tribal-innovation-impact-programme-iim-mumbai-1782680) | Indian Institute of Management (IIM), Mumbai | India | 🏢 Onsite | — | 2026-11-22 | Unstop |
 | [Chakravyuh - The Flagship Business Event](https://unstop.com/competitions/chakravyuh-the-flagship-business-event-xaviesta-50-kaalchakra-xavier-business-school-xbs-st-xaviers-univers-1782462) | Xavier Business School (XBS), St. Xavier's University, Kolkata | India | 🏢 Onsite | — | 2026-11-11 | Unstop |
 | [CodeHive Community Duel Night](https://unstop.com/hackathons/codehive-community-duel-night-code-hive-1782942) | Code Hive | India | 🏢 Onsite | — | 2026-11-11 | Unstop |
-| [ThinkTank Ideathon](https://unstop.com/competitions/thinktank-ideathon-symbiosis-university-of-applied-sciences-suas-indore-madhya-pradesh-1780902) | Symbiosis University of Applied Sciences (SUAS), Indore, Madhya Pradesh | India | 🏢 Onsite | — | 2026-11-04 | Unstop |
 | [Stainless Spark – Engineering Innovation, Building Futures](https://unstop.com/competitions/crp-stainless-spark-engineering-innovation-building-futures-stainless-spark-case-study-competition-jindal-stain-1572025) | Jindal Stainless Limited | India | 🏢 Onsite | — | 2026-11-19 | Unstop |
 | [Tata Imagination Challenge 2026](https://unstop.com/competitions/crp-tata-imagination-challenge-2026-tata-group-1740413) | Tata Group | India | 🏢 Onsite | — | 2026-12-06 | Unstop |
 | [Slay Cybersecurity Conference and Workshop](https://unstop.com/workshops-webinars/slay-cybersecurity-conference-and-workshop-jalpaiguri-government-engineering-college-jgec-west-bengal-1743199) | Jalpaiguri Government Engineering College (JGEC), West Bengal | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
@@ -74,6 +77,7 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [ThinkTank Ideathon](https://unstop.com/competitions/thinktank-ideathon-symbiosis-university-of-applied-sciences-suas-indore-madhya-pradesh-1780902) | Symbiosis University of Applied Sciences (SUAS), Indore, Madhya Pradesh | India | 🏢 Onsite | — | 2026-11-04 | Unstop |
 | [Communications in Political Campaign](https://unstop.com/workshops-webinars/communications-in-political-campaign-fore-centre-for-political-leadership-and-governance-1785648) | FORE Centre for Political Leadership and Governance | India | 🏢 Onsite | — | 2026-11-03 | Unstop |
 | [Adaptonomics: The Paper Presentation Competition](https://unstop.com/competitions/adaptonomics-the-paper-presentation-competition-sri-venkateswara-college-svc-du-delhi-1768879) | Sri Venkateswara College (SVC), Delhi University, Delhi | India | 🏢 Onsite | — | 2026-11-02 | Unstop |
 | [Breakfree-North Zonals](https://unstop.com/events/breakfree-north-zonals-elan-nvision-2027-elan-nvision-iit-hyderabad-1772450) | Elan & nVision, IIT Hyderabad | India | 🏢 Onsite | — | 2026-11-01 | Unstop |
@@ -93,4 +97,3 @@
 | [Hacker's Gambit 2026](https://unstop.com/hackathons/hackers-gambit-2026-jaihind-college-of-engineering-kuran-1723293) | Jaihind college of Engineering Kuran | India | 🏢 Onsite | — | 2026-10-04 | Unstop |
 | [Armageddon: Strategy Case Competition](https://unstop.com/competitions/armageddon-strategy-case-competition-the-red-brick-summit-2026-iim-ahmedabad-1755420) | Indian Institute of Management (IIM), Ahmedabad | India | 🏢 Onsite | — | 2026-10-04 | Unstop |
 | [Campus Ambassador - Asian Paints Alchemy 2026](https://unstop.com/competitions/crp-campus-ambassador-asian-paints-alchemy-2026-asian-paints-1708823) | Asian Paints | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
-| [Precision Care Challenge 2026](https://unstop.com/hackathons/crp-precision-care-challenge-2026-ge-healthcare-1731208) | GE HealthCare | India | 🏢 Onsite | — | 2026-10-01 | Unstop |
