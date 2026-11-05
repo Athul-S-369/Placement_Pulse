@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Chicago, IL, Dublin, OH, El Segundo, CA, Traverse City, MI, Augusta, ME
+- **Categories:** Internship, Fresher Job
+- **Locations:** California City, CA, Jefferson City, MO, Bluemont, VA, Rochester, MI, Baltimore, MD
 
 ## Current Opportunities
 

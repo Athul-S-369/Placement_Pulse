@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Waltham, MA, California, Cupertino, CA, United States, Beaverton, OR
+- **Categories:** Internship, Fresher Job
+- **Locations:** SF, Waltham, MA, Cupertino, CA, California, San Jose, CA
 
 ## Current Opportunities
 

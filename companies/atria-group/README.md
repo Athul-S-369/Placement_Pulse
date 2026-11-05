@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Broomfield, CO, Sunnyvale, CA, Hartford, CT, Alpharetta, GA, Jacksonville, FL
+- **Categories:** Internship, Fresher Job
+- **Locations:** St. Louis, MO, San Jose, CA, Thousand Oaks, CA, Plainview, NY, Jacksonville, FL
 
 ## Current Opportunities
 

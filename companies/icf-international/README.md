@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote in USA, Reston, VA, Denver, CO, Remote in USA
+- **Locations:** Remote in USA, Remote in USA, Reston, VA, Denver, CO
 
 ## Current Opportunities
 

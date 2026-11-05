@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Hyattsville, MD, Remote in USA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Remote in USA, Hyattsville, MD
 
 ## Current Opportunities
 

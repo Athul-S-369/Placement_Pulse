@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Boston, MA, Indianapolis, IN, Remote in USA, Portsmouth, NH, Boston, MA, Seattle, WA, Remote in USA, Plano, TX
+- **Locations:** Boston, MA, Seattle, WA, Remote in USA, Plano, TX, Boston, MA, Indianapolis, IN, Remote in USA, Portsmouth, NH
 
 ## Current Opportunities
 

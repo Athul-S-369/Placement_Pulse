@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Glendale, CA, Bristol, CT
+- **Locations:** Bristol, CT, Glendale, CA
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Lake Mary, FL, Houston, TX, Pittsburgh, PA, Manchester, UK
+- **Locations:** Manchester, UK, Houston, TX, Pittsburgh, PA, Lake Mary, FL
 
 ## Current Opportunities
 

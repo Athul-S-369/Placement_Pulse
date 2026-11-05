@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Naperville, IL, Jackson Township, NJ, California, Long Island City, Queens, NY, Sunnyvale, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Naperville, IL, Dallas, TX, California, Canada, Jackson Township, NJ, NYC, Sunnyvale, CA
 
 ## Current Opportunities
 

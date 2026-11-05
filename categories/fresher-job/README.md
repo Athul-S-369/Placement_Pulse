@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1456 active** | **0 expired** | **1456 total**
+**1457 active** | **0 expired** | **1457 total**
 
 *Last updated: 2026-11-05*
 
@@ -10,6 +10,7 @@
 |------|---------|----------|------|----------------|----------|--------|
 | [Data Validation Specialist](https://amerch.wd1.myworkdayjobs.com/amerchcareers/job/AMERCH-Remote-Workers/Data-Validation-Specialist_R0078210-1) | Anderson Merchandisers | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Junior AI and Automation Engineer](https://boards.greenhouse.io/myriad360/jobs/8930382002) | Myriad360 | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Business Intelligence Specialist - Business Intelligence](https://careers-navitus.icims.com/jobs/6924/job?mobile=true&needsRedirect=false) | Navitus Health Solutions | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Junior AI/Machine Learning Engineer](https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c) | ShadowDragon | Remote in USA, Hoover, AL | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Report Developer](https://onelineage.wd1.myworkdayjobs.com/external/job/Novi-MI-Humboldt-Drive/Associate-Report-Developer_R0111033) | Lineage Logistics | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Junior Data Engineer](https://jobs.lever.co/elementsolutions/88f248fb-459a-4d4e-8f6a-80e1671bf86e/apply) | Element Solutions | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Associate Data Engineer](https://job-boards.greenhouse.io/rackner/jobs/4732844005) | Rackner | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Labs Engineer](https://jobs.ashbyhq.com/clasp-group/63dea81e-c456-424a-b88f-446aa2054650/application?embed=true) | Clasp | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Temporary Specialist - Fundraising Data](https://careers-bgca.icims.com/jobs/8609/job?mobile=true&needsRedirect=false) | Boys & Girls Clubs of America | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Software Development Analyst](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Remote/XMLNAME-2026-Associate-Software-Dev-Analyst---Software-Dev-Analyst---Remote_R10250232) | Northrop Grumman | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
