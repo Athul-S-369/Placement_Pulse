@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Remote in USA, Goleta, CA, McKinney, TX, Indianapolis, IN, Fort Wayne, IN
+- **Categories:** Fresher Job, Internship
+- **Locations:** Huntsville, AL, Longueuil, QC, Canada, Remote in USA, Remote in USA, Richardson, TX, Fort Wayne, IN
 
 ## Current Opportunities
 

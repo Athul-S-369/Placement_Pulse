@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Allen, TX, Nashville, TN, Austin, TX, United States, Santa Clara, CA, Pleasanton, CA, San Carlos, CA, Santa Clara, CA, Kitchener, ON, Canada
+- **Categories:** Fresher Job, Internship
+- **Locations:** Kansas City, MO, Kansas City, KS, Seattle, WA, Santa Clara, CA, Kitchener, ON, Canada, Santa Clara, CA, Allen, TX
 
 ## Current Opportunities
 

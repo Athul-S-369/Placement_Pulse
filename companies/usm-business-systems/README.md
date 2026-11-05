@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** California City, CA, Jefferson City, MO, Bluemont, VA, Rochester, MI, Baltimore, MD
+- **Categories:** Fresher Job, Internship
+- **Locations:** NYC, San Antonio, TX, Westminster, CO, Washington, DC, St. Louis, MO
 
 ## Current Opportunities
 

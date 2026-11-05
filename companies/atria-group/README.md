@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** St. Louis, MO, San Jose, CA, Thousand Oaks, CA, Plainview, NY, Jacksonville, FL
+- **Categories:** Fresher Job, Internship
+- **Locations:** Plainview, NY, St. Louis, MO, Chicago, IL, Hartford, CT, Alpharetta, GA
 
 ## Current Opportunities
 

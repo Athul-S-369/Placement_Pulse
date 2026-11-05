@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote / Various, Toronto, ON, Canada
+- **Locations:** Toronto, ON, Canada, Remote / Various
 
 ## Current Opportunities
 
