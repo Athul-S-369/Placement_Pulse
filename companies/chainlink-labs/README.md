@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Las Vegas, NV, Tampa, FL, Remote in UK, Remote in Ireland, Charlotte, NC, Phoenix, AZ, Remote in Spain, Remote in Canada, Boston, MA, Seattle, WA, Remote in USA, NYC, Remote in Canada, Remote in Switzerland
+- **Locations:** Boston, MA, Seattle, WA, Remote in USA, NYC, Remote in Canada, Remote in Switzerland, Las Vegas, NV, Tampa, FL, Remote in UK, Remote in Ireland, Charlotte, NC, Phoenix, AZ, Remote in Spain, Remote in Canada
 
 ## Current Opportunities
 

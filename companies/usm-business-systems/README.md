@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Manassas, VA, California City, CA, Augusta, ME, Bluemont, VA, San Antonio, TX
+- **Locations:** Southfield, MI, El Segundo, CA, Jefferson City, MO, Westminster, CO, Chicago, IL
 
 ## Current Opportunities
 

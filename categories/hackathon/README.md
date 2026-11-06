@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**69 active** | **543 expired** | **612 total**
+**75 active** | **543 expired** | **618 total**
 
 *Last updated: 2026-11-06*
 
@@ -9,6 +9,12 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [Constitutional Quiz Competition](https://unstop.com/quiz/constitutional-quiz-competition-the-legal-elite-council-1797956) | The Legal Elite Council | India | 🏢 Onsite | — | 2026-11-25 | Unstop |
+| [Code Dia 2026](https://unstop.com/hackathons/code-dia-2026-lovely-professional-university-lpu-punjab-1798702) | Lovely Professional University (LPU), Punjab | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
+| [Expanding Horizons 8.0](https://unstop.com/quiz/expanding-horizons-80-expanding-horizon-motilal-nehru-national-institute-of-technology-1798247) | Motilal Nehru National Institute of Technology | India | 🏢 Onsite | — | 2026-11-21 | Unstop |
+| [Finovate](https://unstop.com/competitions/finovate-symbiosis-school-of-banking-and-finance-ssbf-maharastra-1794509) | Symbiosis School of Banking and Finance (SSBF), Maharastra | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
+| [KPI Bid Off](https://unstop.com/competitions/kpi-bid-off-great-lakes-institute-of-management-glim-chennai-1793812) | Great Lakes Institute of Management (GLIM), Chennai | India | 🏢 Onsite | — | 2026-11-25 | Unstop |
+| [Open Source in the Age of AI Workshop: From Code Generation to Real-World Impact](https://unstop.com/workshops-webinars/open-source-in-the-age-of-ai-workshop-from-code-generation-to-real-world-impact-open-source-in-the-ag-1798740) | AI Geeks Chennai | India | 🏢 Onsite | — | 2026-11-10 | Unstop |
+| [Change For Build](https://unstop.com/hackathons/change-for-build-shri-vishwakarma-skill-university-1798658) | Shri Vishwakarma Skill University | India | 🏢 Onsite | — | 2026-11-14 | Unstop |
 | [Build in public](https://unstop.com/workshops-webinars/build-in-public-communitymeetups-1769586) | CommunityMeetups | India | 🏢 Onsite | — | 2026-11-20 | Unstop |
 | [Bug Strike - Debugging Challenge (State-Level)](https://unstop.com/quiz/bug-strike-debugging-challenge-state-level-nims-university-nu-jaipur-1772269) | Nims University (NU), Jaipur | India | 🏢 Onsite | — | 2026-11-25 | Unstop |
 | [E-Combat](https://unstop.com/events/e-combat-e-summit26-jadavpur-university-jadavpur-university-kolkata-1794755) | Jadavpur University (JU), Kolkata | India | 🏢 Onsite | — | 2026-11-22 | Unstop |

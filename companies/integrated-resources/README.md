@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** North Haven, CT, Ambler, PA, Boston, MA, Milwaukee, WI, Cherry Hills Village, CO
+- **Locations:** Milwaukee, WI, Cherry Hills Village, CO, North Haven, CT, Boston, MA, Ambler, PA
 
 ## Current Opportunities
 
