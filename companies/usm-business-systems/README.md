@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Southfield, MI, El Segundo, CA, Jefferson City, MO, Westminster, CO, Chicago, IL
+- **Categories:** Internship, Fresher Job
+- **Locations:** Chantilly, VA, Manassas, VA, Bluemont, VA, San Antonio, TX, Bloomington, MN
 
 ## Current Opportunities
 

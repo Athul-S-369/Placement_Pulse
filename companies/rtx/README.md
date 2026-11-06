@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Barrie, ON, Canada, Cedar Rapids, IA, Fort Wayne, IN, Arlington, VA, Huntsville, AL
+- **Categories:** Internship, Fresher Job
+- **Locations:** Arlington, VA, Indianapolis, IN, Remote in USA, McKinney, TX, Remote in USA, Richardson, TX
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** San Jose, CA, London, UK, Seattle, WA, Cambridge, MA, Morrisville, NC
+- **Categories:** Internship, Fresher Job
+- **Locations:** London, UK, Beaverton, OR, Santa Clara, CA, Morrisville, NC, San Jose, CA
 
 ## Current Opportunities
 

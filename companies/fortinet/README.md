@@ -4,7 +4,7 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
+- **Categories:** Internship, Fresher Job
 - **Locations:** Sunnyvale, CA, Santa Clara, CA, Burnaby, BC, Canada
 
 ## Current Opportunities

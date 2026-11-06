@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Hanover, MD, Shreveport, LA, Seattle, WA, Florida, Annapolis Junction, MD
+- **Locations:** Shreveport, LA, Florida, Seattle, WA, Hanover, MD, Annapolis Junction, MD
 
 ## Current Opportunities
 
