@@ -1,16 +1,17 @@
 # 🏢 Hewlett Packard (HP)
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-05*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-06*
 
 ## Overview
 
-- **Categories:** Fresher Job
-- **Locations:** Vancouver, WA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Vancouver, WA, Remote / Various
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Browser Software Engineer Intern](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410) | Hewlett Packard (HP) | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Embedded Software Engineer](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Vancouver-Washington-United-States-of-America/Embedded-Software-Engineer_3162790) | Hewlett Packard (HP) | Vancouver, WA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 
 ## 📖 Interview Preparation

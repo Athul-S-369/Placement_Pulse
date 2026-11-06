@@ -1,6 +1,6 @@
 # 🏢 KCC Institute of Management and Technology, Greater Noida
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-05*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-06*
 
 ## Overview
 

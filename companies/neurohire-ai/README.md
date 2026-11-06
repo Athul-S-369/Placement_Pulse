@@ -1,11 +1,11 @@
 # 🏢 neurohire.ai
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-05*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-06*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in Canada, Remote in USA
+- **Locations:** Remote in USA, Remote in Canada
 
 ## Current Opportunities
 

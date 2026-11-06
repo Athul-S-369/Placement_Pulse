@@ -1,11 +1,11 @@
 # 🏢 USM Business Systems
 
-**21 active opportunities** | **21 total tracked** | *Last updated: 2026-11-05*
+**21 active opportunities** | **21 total tracked** | *Last updated: 2026-11-06*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** NYC, San Antonio, TX, Westminster, CO, Washington, DC, St. Louis, MO
+- **Locations:** Manassas, VA, California City, CA, Augusta, ME, Bluemont, VA, San Antonio, TX
 
 ## Current Opportunities
 

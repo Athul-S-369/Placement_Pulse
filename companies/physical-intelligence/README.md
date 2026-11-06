@@ -1,6 +1,6 @@
 # 🏢 Physical Intelligence
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-05*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-06*
 
 ## Overview
 
