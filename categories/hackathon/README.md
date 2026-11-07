@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**80 active** | **544 expired** | **624 total**
+**84 active** | **544 expired** | **628 total**
 
 *Last updated: 2026-11-07*
 
@@ -12,6 +12,10 @@
 | [Casestreet](https://unstop.com/competitions/casestreet-khalsa-street-finance-and-investment-cell-sgtbkc-1798564) | Khalsa Street - Finance and Investment Cell, SGTBKC | India | 🏢 Onsite | — | 2026-11-22 | Unstop |
 | [Unifest](https://unstop.com/events/unifest-venture-verse-oriental-institute-of-science-and-technology-1791180) | Oriental Institute of Science and Technology | India | 🏢 Onsite | — | 2026-11-25 | Unstop |
 | [Incpetrix 3.0](https://unstop.com/hackathons/incpetrix-30-faculty-of-engineering-and-technology-jain-deemed-to-be-university-1794479) | Faculty of Engineering and Technology, Jain Deemed to be University | India | 🏢 Onsite | — | 2027-02-20 | Unstop |
+| [Capture The Flag](https://unstop.com/competitions/capture-the-flag-national-institute-of-technology-nit-agartala-1800613) | National Institute of Technology (NIT), Agartala | India | 🏢 Onsite | — | 2026-11-12 | Unstop |
+| [Parliament Parley](https://unstop.com/competitions/parliament-parley-ramanujan-college-university-of-delhi-du-new-delhi-1800534) | Ramanujan College, University of Delhi (DU), New Delhi | India | 🏢 Onsite | — | 2026-11-14 | Unstop |
+| [HierroCTF 2026 – Capture The Flag (CTF) Competition](https://unstop.com/hackathons/hierroctf-2026-capture-the-flag-ctf-competition-hierroshield-pvt-ltd-1800358) | Hierroshield Pvt Ltd | India | 🏢 Onsite | — | 2026-11-18 | Unstop |
+| [Drone League - Aayam Xi](https://unstop.com/competitions/drone-league-aayam-xi-anima-the-aero-club-of-nit-agartala-1800325) | ANIMA The Aero Club of NIT Agartala | India | 🏢 Onsite | — | 2026-11-16 | Unstop |
 | [Constitutional Quiz Competition](https://unstop.com/quiz/constitutional-quiz-competition-the-legal-elite-council-1797956) | The Legal Elite Council | India | 🏢 Onsite | — | 2026-11-25 | Unstop |
 | [Code Dia 2026](https://unstop.com/hackathons/code-dia-2026-lovely-professional-university-lpu-punjab-1798702) | Lovely Professional University (LPU), Punjab | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
 | [Expanding Horizons 8.0](https://unstop.com/quiz/expanding-horizons-80-expanding-horizon-motilal-nehru-national-institute-of-technology-1798247) | Motilal Nehru National Institute of Technology | India | 🏢 Onsite | — | 2026-11-21 | Unstop |

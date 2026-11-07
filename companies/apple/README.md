@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Lafayette, KS, Austin, TX, Morrisville, NC, California, Seattle, WA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Seattle, WA, London, UK, Santa Clara, CA, San Jose, CA, Beaverton, OR
 
 ## Current Opportunities
 

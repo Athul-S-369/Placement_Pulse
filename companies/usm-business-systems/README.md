@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Alexandria, VA, Rochester, MI, Chicago, IL, St. Louis, MO, Columbus, OH
+- **Categories:** Fresher Job, Internship
+- **Locations:** Dublin, OH, Traverse City, MI, Chicago, IL, St. Louis, MO, Chantilly, VA
 
 ## Current Opportunities
 
