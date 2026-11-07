@@ -1,6 +1,6 @@
 # 🏢 International Institute of Information Technology (IIIT), Bangalore
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-06*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-07*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [MOSIP Decode 2026](https://unstop.com/hackathons/mosip-decode-2026-synergy-26-international-institute-of-information-technology-iiit-bangalore-1735221) | International Institute of Information Technology (IIIT), Bangalore | India | 🏢 Onsite | — | 2026-11-06 | Unstop |
 
 ## 📖 Interview Preparation
 

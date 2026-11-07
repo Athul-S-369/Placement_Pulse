@@ -1,11 +1,11 @@
 # 🏢 Howmet Aerospace
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-06*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-07*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Hampton, VA, Muskegon, MI
+- **Locations:** Muskegon, MI, Hampton, VA
 
 ## Current Opportunities
 

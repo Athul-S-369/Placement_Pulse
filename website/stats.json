@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-06T21:45:36.708886Z",
-  "date": "2026-11-06",
-  "total": 2992,
-  "active": 2448,
-  "new_today": 181,
-  "companies": 2250,
+  "generated_at": "2026-11-07T06:27:36.745301Z",
+  "date": "2026-11-07",
+  "total": 2997,
+  "active": 2452,
+  "new_today": 180,
+  "companies": 2253,
   "categories": {
-    "fresher-job": 1459,
-    "internship": 907,
+    "fresher-job": 1463,
+    "internship": 908,
     "hackathon": 620,
     "open-source-program": 2,
     "fellowship": 2,
@@ -75,6 +75,10 @@
       "count": 9
     },
     {
+      "name": "Salesforce",
+      "count": 8
+    },
+    {
       "name": "Northrop Grumman",
       "count": 8
     },
@@ -89,16 +93,12 @@
     {
       "name": "Intel",
       "count": 8
-    },
-    {
-      "name": "Salesforce",
-      "count": 7
     }
   ],
   "domain_tags": {
-    "ai-ml": 392,
+    "ai-ml": 394,
     "data-science": 210,
-    "software-engineering": 481,
+    "software-engineering": 484,
     "backend": 25,
     "embedded": 49,
     "cybersecurity": 24,
@@ -109,7 +109,7 @@
     "cloud": 29
   },
   "work_modes": {
-    "remote": 594,
-    "onsite": 2398
+    "remote": 597,
+    "onsite": 2400
   }
 }

@@ -1,11 +1,11 @@
 # 🏢 Westinghouse Electric Company
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-06*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-07*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Cranberry Twp, PA, Palm Beach Gardens, FL
+- **Locations:** Palm Beach Gardens, FL, Cranberry Twp, PA
 
 ## Current Opportunities
 

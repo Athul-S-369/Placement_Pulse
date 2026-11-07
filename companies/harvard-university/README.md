@@ -1,11 +1,11 @@
 # 🏢 Harvard University
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-06*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-07*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Cambridge, MA, Boston, MA
+- **Locations:** Boston, MA, Cambridge, MA
 
 ## Current Opportunities
 
