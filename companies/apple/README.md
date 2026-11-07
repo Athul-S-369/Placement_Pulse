@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Gloucester, UK, Santa Clara, CA, Seattle, WA, Cupertino, CA, San Diego, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Lafayette, KS, Austin, TX, Morrisville, NC, California, Seattle, WA
 
 ## Current Opportunities
 

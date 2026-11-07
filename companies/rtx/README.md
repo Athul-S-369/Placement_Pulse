@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Fort Wayne, IN, Indianapolis, IN, Goleta, CA, Arlington, VA, McKinney, TX
+- **Categories:** Internship, Fresher Job
+- **Locations:** McKinney, TX, Remote in USA, Richardson, TX, Fort Wayne, IN, Arlington, VA, Remote in USA
 
 ## Current Opportunities
 

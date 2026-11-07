@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Remote / Various, Remote in USA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Remote in USA, Remote / Various
 
 ## Current Opportunities
 

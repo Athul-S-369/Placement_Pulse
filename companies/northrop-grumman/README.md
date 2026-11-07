@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Aurora, CO, Morrisville, NC, Annapolis Junction, MD, San Antonio, TX, Melbourne, FL, Aurora, CO, Morrisville, NC, Remote in USA, Linthicum Heights, MD, Warner Robins, GA, Escondido, CA, Palmdale, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Northridge, LA, Melbourne, FL, Aurora, CO, Morrisville, NC, Annapolis Junction, MD, San Antonio, TX, Remote in USA, Escondido, CA, Palmdale, CA
 
 ## Current Opportunities
 

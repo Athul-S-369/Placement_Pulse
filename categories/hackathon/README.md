@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**76 active** | **544 expired** | **620 total**
+**80 active** | **544 expired** | **624 total**
 
 *Last updated: 2026-11-07*
 
@@ -8,6 +8,10 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Galuxium Nexus V3: The Global AI, Autonomous Systems & Venture SaaS Championship](https://unstop.com/hackathons/galuxium-nexus-v3-the-global-ai-autonomous-systems-venture-saas-championship-galuxium-1800395) | Galuxium | India | 🏢 Onsite | — | 2027-07-31 | Unstop |
+| [Casestreet](https://unstop.com/competitions/casestreet-khalsa-street-finance-and-investment-cell-sgtbkc-1798564) | Khalsa Street - Finance and Investment Cell, SGTBKC | India | 🏢 Onsite | — | 2026-11-22 | Unstop |
+| [Unifest](https://unstop.com/events/unifest-venture-verse-oriental-institute-of-science-and-technology-1791180) | Oriental Institute of Science and Technology | India | 🏢 Onsite | — | 2026-11-25 | Unstop |
+| [Incpetrix 3.0](https://unstop.com/hackathons/incpetrix-30-faculty-of-engineering-and-technology-jain-deemed-to-be-university-1794479) | Faculty of Engineering and Technology, Jain Deemed to be University | India | 🏢 Onsite | — | 2027-02-20 | Unstop |
 | [Constitutional Quiz Competition](https://unstop.com/quiz/constitutional-quiz-competition-the-legal-elite-council-1797956) | The Legal Elite Council | India | 🏢 Onsite | — | 2026-11-25 | Unstop |
 | [Code Dia 2026](https://unstop.com/hackathons/code-dia-2026-lovely-professional-university-lpu-punjab-1798702) | Lovely Professional University (LPU), Punjab | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
 | [Expanding Horizons 8.0](https://unstop.com/quiz/expanding-horizons-80-expanding-horizon-motilal-nehru-national-institute-of-technology-1798247) | Motilal Nehru National Institute of Technology | India | 🏢 Onsite | — | 2026-11-21 | Unstop |
