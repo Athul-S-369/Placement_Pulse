@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Bloomington, MN, St. Louis, MO, Jefferson City, MO, Manassas, VA, California City, CA
+- **Locations:** Manassas, VA, Dublin, OH, NYC, Traverse City, MI, Augusta, ME
 
 ## Current Opportunities
 

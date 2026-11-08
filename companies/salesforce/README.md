@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Indianapolis, IN, Palo Alto, CA, Seattle, WA, Indianapolis, IN, SF, Dallas, TX, Bellevue, WA, Indianapolis, IN, Chicago, IL, London, UK, Palo Alto, CA, SF, Bellevue, WA, Seattle, WA
+- **Locations:** Indianapolis, IN, Palo Alto, CA, SF, Bellevue, WA, Seattle, WA, Indianapolis, IN, Chicago, IL, Remote / Various, Indianapolis, IN, Dallas, TX
 
 ## Current Opportunities
 

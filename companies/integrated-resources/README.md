@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Santa Clara, CA, Elmira, NY, Cambridge, MA, Exton, PA, Cherry Hills Village, CO
+- **Locations:** Hickory, NC, Milwaukee, WI, Cambridge, MA, Birmingham, AL, Boston, MA
 
 ## Current Opportunities
 

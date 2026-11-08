@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**86 active** | **545 expired** | **631 total**
+**88 active** | **545 expired** | **633 total**
 
 *Last updated: 2026-11-08*
 
@@ -11,6 +11,8 @@
 | [AI Vibeathon 2026: 24-Hour AI Hackathon](https://unstop.com/hackathons/ai-vibeathon-2026-24-hour-ai-hackathon-dotrepo-1789431) | DotRepo | India | 🏢 Onsite | — | 2026-12-20 | Unstop |
 | [Adaption Dataset Challenge](https://unstop.com/hackathons/adaption-dataset-challenge-hackyard-technologies-pvt-limited-1799281) | Hackyard Technologies Pvt limited | India | 🏢 Onsite | — | 2026-12-06 | Unstop |
 | [MARS Creator Challenge 2026](https://unstop.com/competitions/mars-creator-challenge-2026-algoxilla-1791920) | Algoxilla | India | 🏢 Onsite | — | 2026-11-19 | Unstop |
+| [Terminal 360](https://unstop.com/competitions/terminal-360-narsee-monjee-college-of-commerce-and-economics-mumbai-1801514) | Narsee Monjee College of Commerce and Economics, Mumbai | India | 🏢 Onsite | — | 2026-12-10 | Unstop |
+| [Campus Placement Aptitude Challenge 3](https://unstop.com/quiz/campus-placement-aptitude-challenge-3-campusfirst-india-1800995) | CampusFirst India | India | 🏢 Onsite | — | 2026-11-15 | Unstop |
 | [Galuxium Nexus V3: The Global AI, Autonomous Systems & Venture SaaS Championship](https://unstop.com/hackathons/galuxium-nexus-v3-the-global-ai-autonomous-systems-venture-saas-championship-galuxium-1800395) | Galuxium | India | 🏢 Onsite | — | 2027-07-31 | Unstop |
 | [Casestreet](https://unstop.com/competitions/casestreet-khalsa-street-finance-and-investment-cell-sgtbkc-1798564) | Khalsa Street - Finance and Investment Cell, SGTBKC | India | 🏢 Onsite | — | 2026-11-22 | Unstop |
 | [Unifest](https://unstop.com/events/unifest-venture-verse-oriental-institute-of-science-and-technology-1791180) | Oriental Institute of Science and Technology | India | 🏢 Onsite | — | 2026-11-25 | Unstop |

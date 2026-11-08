@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Waltham, MA, LA
+- **Locations:** LA, Waltham, MA
 
 ## Current Opportunities
 
