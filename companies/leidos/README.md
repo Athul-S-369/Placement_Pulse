@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Huntsville, AL, Indianapolis, IN, Columbia, MD, Reston, VA, Remote in USA
+- **Locations:** Remote in USA, Shiloh, IL, Odenton, MD, Indianapolis, IN, Huntsville, AL, Reston, VA, Columbia, MD
 
 ## Current Opportunities
 

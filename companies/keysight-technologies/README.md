@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Stoke-on-Trent, UK, Fleet, UK, Milan, Metropolitan City of Milan, Italy, Santa Rosa, CA
+- **Locations:** Fleet, UK, Milan, Metropolitan City of Milan, Italy, Santa Rosa, CA, Stoke-on-Trent, UK
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** San Diego, CA, Remote in USA
+- **Locations:** Remote in USA, San Diego, CA
 
 ## Current Opportunities
 

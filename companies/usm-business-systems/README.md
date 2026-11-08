@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Manassas, VA, Dublin, OH, NYC, Traverse City, MI, Augusta, ME
+- **Locations:** Jefferson City, MO, Augusta, ME, Columbus, OH, Bluemont, VA, El Segundo, CA
 
 ## Current Opportunities
 

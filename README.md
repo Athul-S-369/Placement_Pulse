@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**November 08, 2026** &nbsp;—&nbsp; **86** Fresher Job &nbsp;·&nbsp; **81** Internship &nbsp;·&nbsp; **8** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**November 08, 2026** &nbsp;—&nbsp; **86** Fresher Job &nbsp;·&nbsp; **81** Internship &nbsp;·&nbsp; **7** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**181 opportunities** added or updated in the latest run (November 08, 2026).
+**180 opportunities** added or updated in the latest run (November 08, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -131,11 +131,10 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Business Data Analyst](https://apply.workable.com/neurohire-dot-a-i/j/516C3CF516/apply) | neurohire.ai | Remote in USA | Fresher Job | Remote | — |
 | [Software Developer](https://apply.workable.com/neurohire-dot-a-i/j/01ECE8E2C4/apply) | neurohire.ai | Remote in Canada | Fresher Job | Remote | — |
 | [C++ Developer](https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4844280101) | think-cell | Remote in UK | Fresher Job | Remote | — |
-| [Code Red](https://unstop.com/hackathons/code-red-solutions-2k27-army-institute-of-technology-ait-pune-1801200) | Army Institute of Technology | India | Hackathon | Onsite | 2027-03-06 |
 | [Campus Placement Aptitude Challenge 3](https://unstop.com/quiz/campus-placement-aptitude-challenge-3-campusfirst-india-1800995) | CampusFirst India | India | Hackathon | Onsite | 2026-11-15 |
-| [ELUCode - 8](https://unstop.com/hackathons/elucode-8-edulinkup-1800924) | EduLinkUp | India | Hackathon | Onsite | 2026-11-21 |
 | [Adaption Dataset Challenge](https://unstop.com/hackathons/adaption-dataset-challenge-hackyard-technologies-pvt-limited-1799281) | Hackyard Technologies Pvt li | India | Hackathon | Onsite | 2026-12-06 |
 | [Agentic AI in BFSI Hackathon](https://unstop.com/hackathons/agentic-ai-in-bfsi-hackathon-iit-bombay-1800857) | Indian Institute of Technolo | India | Hackathon | Onsite | 2026-11-25 |
+| [Indian Macro Prediction Challenge](https://unstop.com/competitions/indian-macro-prediction-challenge-indiastox-1800858) | Indiastox | India | Hackathon | Onsite | 2026-11-14 |
 | [Terminal 360](https://unstop.com/competitions/terminal-360-narsee-monjee-college-of-commerce-and-economics-mumbai-1801514) | Narsee Monjee College of Com | India | Hackathon | Onsite | 2026-12-10 |
 | [Beyond Bits](https://unstop.com/workshops-webinars/beyond-bits-national-institute-of-technology-nit-agartala-1801413) | National Institute of Techno | India | Hackathon | Onsite | 2026-11-12 |
 | [Free Cyber Security with AI Workshop in Hyderabad | 11 Novem...](https://unstop.com/workshops-webinars/free-cyber-security-with-ai-workshop-in-hyderabad-11-november-2026-quality-thought-info-systems-1799774) | Quality Thought Info Systems | India | Hackathon | Onsite | 2026-11-11 |
@@ -343,6 +342,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-11-08 15:31 UTC</sub>
+<sub>Last generated: 2026-11-08 20:44 UTC</sub>
 
 </div>

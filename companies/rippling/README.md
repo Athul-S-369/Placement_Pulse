@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Seattle, WA, SF, NYC, SF
+- **Locations:** SF, Seattle, WA, SF, NYC
 
 ## Current Opportunities
 

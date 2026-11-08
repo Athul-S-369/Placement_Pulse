@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Beaverton, OR, Gloucester, UK, Lafayette, KS, United States, California
+- **Locations:** Seattle, WA, Waltham, MA, Austin, TX, SF, Cupertino, CA
 
 ## Current Opportunities
 

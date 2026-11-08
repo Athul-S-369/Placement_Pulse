@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Arlington, VA, Huntsville, AL, Indianapolis, IN, Cedar Rapids, IA, Fort Wayne, IN
+- **Locations:** Remote in USA, Richardson, TX, Arlington, VA, Andover, MA, Goleta, CA, Indianapolis, IN
 
 ## Current Opportunities
 
