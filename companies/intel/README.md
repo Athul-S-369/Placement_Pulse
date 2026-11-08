@@ -1,11 +1,11 @@
 # 🏢 Intel
 
-**8 active opportunities** | **8 total tracked** | *Last updated: 2026-11-07*
+**8 active opportunities** | **8 total tracked** | *Last updated: 2026-11-08*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Santa Clara, CA, Santa Clara, CA, Hillsboro, OR, Remote in Canada, Hillsboro, OR, Phoenix, AZ
+- **Locations:** Santa Clara, CA, Phoenix, AZ, Hillsboro, OR, Phoenix, AZ, Remote in Canada, Santa Clara, CA, Hillsboro, OR
 
 ## Current Opportunities
 

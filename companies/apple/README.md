@@ -1,11 +1,11 @@
 # 🏢 Apple
 
-**17 active opportunities** | **17 total tracked** | *Last updated: 2026-11-07*
+**17 active opportunities** | **17 total tracked** | *Last updated: 2026-11-08*
 
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Seattle, WA, London, UK, Santa Clara, CA, San Jose, CA, Beaverton, OR
+- **Locations:** Cupertino, CA, Santa Clara, CA, Seattle, WA, Beaverton, OR, Cambridge, MA
 
 ## Current Opportunities
 

@@ -1,11 +1,11 @@
 # 🏢 Prolific
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-07*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-08*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in Canada, Remote in USA, Remote in UK
+- **Locations:** Remote in USA, Remote in UK, Remote in Canada
 
 ## Current Opportunities
 

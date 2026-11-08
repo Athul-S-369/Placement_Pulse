@@ -1,6 +1,6 @@
 # 🏢 ACM Manipal University, Jaipur
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-07*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-08*
 
 ## Overview
 
