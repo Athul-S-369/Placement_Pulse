@@ -1,11 +1,11 @@
 # 🏢 RTX
 
-**12 active opportunities** | **12 total tracked** | *Last updated: 2026-11-08*
+**12 active opportunities** | **12 total tracked** | *Last updated: 2026-11-09*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Remote in USA, Richardson, TX, Arlington, VA, Andover, MA, Goleta, CA, Indianapolis, IN
+- **Categories:** Internship, Fresher Job
+- **Locations:** Barrie, ON, Canada, Arlington, VA, Goleta, CA, Andover, MA, Remote in USA, Richardson, TX
 
 ## Current Opportunities
 

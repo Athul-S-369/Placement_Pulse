@@ -1,11 +1,11 @@
 # 🏢 United Launch Alliance
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-08*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-09*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Centennial, CO, Denver, CO, Denver, CO
+- **Locations:** Denver, CO, Centennial, CO, Denver, CO
 
 ## Current Opportunities
 
