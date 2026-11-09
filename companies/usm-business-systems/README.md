@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Columbus, OH, California City, CA, Southfield, MI, St. Louis, MO, Traverse City, MI
+- **Categories:** Fresher Job, Internship
+- **Locations:** Bloomington, MN, Southfield, MI, St. Louis, MO, Baltimore, MD, Augusta, ME
 
 ## Current Opportunities
 

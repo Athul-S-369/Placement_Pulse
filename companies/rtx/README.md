@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Barrie, ON, Canada, Arlington, VA, Goleta, CA, Andover, MA, Remote in USA, Richardson, TX
+- **Categories:** Fresher Job, Internship
+- **Locations:** Fort Wayne, IN, Andover, MA, Cedar Rapids, IA, Remote in USA, Longueuil, QC, Canada
 
 ## Current Opportunities
 

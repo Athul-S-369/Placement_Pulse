@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Gloucester, UK, San Jose, CA, SF, San Diego, CA, California
+- **Categories:** Fresher Job, Internship
+- **Locations:** Austin, TX, Lafayette, KS, United States, Seattle, WA, Santa Clara, CA
 
 ## Current Opportunities
 

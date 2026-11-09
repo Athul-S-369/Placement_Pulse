@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** San Jose, CA, Remote / Various, San Diego, CA, Seattle, WA
+- **Locations:** Remote / Various, San Diego, CA, Seattle, WA, San Jose, CA
 
 ## Current Opportunities
 

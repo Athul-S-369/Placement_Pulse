@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**90 active** | **546 expired** | **636 total**
+**91 active** | **546 expired** | **637 total**
 
 *Last updated: 2026-11-09*
 
@@ -11,6 +11,7 @@
 | [APTI-MASTER-AI Competitive Aptitude Quiz Competition 2026](https://unstop.com/quiz/apti-master-ai-competitive-aptitude-quiz-competition-2026-matrucare-ai-1802131) | MatruCare AI | India | 🏢 Onsite | — | 2026-11-25 | Unstop |
 | [Sauder Capital Markets Challenge](https://unstop.com/competitions/sauder-capital-markets-challenge-university-of-british-columbia-1801922) | University of British Columbia | India | 🏢 Onsite | — | 2026-11-23 | Unstop |
 | [Inter-College Coding Competition 2026](https://unstop.com/hackathons/inter-college-coding-competition-2026-college-of-engineering-and-managementkolaghat-1801814) | College Of Engineering And Management,Kolaghat | India | 🏢 Onsite | — | 2026-11-15 | Unstop |
+| [Reforming education for Viksit Bharat](https://unstop.com/competitions/reforming-education-for-viksit-bharat-guru-tegh-bahadur-institute-of-technology-gtbit-new-delhi-1803115) | Guru Tegh Bahadur Institute of Technology (GTBIT), New Delhi | India | 🏢 Onsite | — | 2026-11-11 | Unstop |
 | [AI Vibeathon 2026: 24-Hour AI Hackathon](https://unstop.com/hackathons/ai-vibeathon-2026-24-hour-ai-hackathon-dotrepo-1789431) | DotRepo | India | 🏢 Onsite | — | 2026-12-20 | Unstop |
 | [Adaption Dataset Challenge](https://unstop.com/hackathons/adaption-dataset-challenge-hackyard-technologies-pvt-limited-1799281) | Hackyard Technologies Pvt limited | India | 🏢 Onsite | — | 2026-12-06 | Unstop |
 | [MARS Creator Challenge 2026](https://unstop.com/competitions/mars-creator-challenge-2026-algoxilla-1791920) | Algoxilla | India | 🏢 Onsite | — | 2026-11-19 | Unstop |
