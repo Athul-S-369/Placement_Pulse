@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** St. Louis, MO, Dublin, OH, Washington, DC, Bluemont, VA, Westminster, CO
+- **Categories:** Fresher Job, Internship
+- **Locations:** Chantilly, VA, Augusta, ME, Dublin, OH, Washington, DC, Jefferson City, MO
 
 ## Current Opportunities
 

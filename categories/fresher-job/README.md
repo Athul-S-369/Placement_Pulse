@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1467 active** | **0 expired** | **1467 total**
+**1469 active** | **0 expired** | **1469 total**
 
 *Last updated: 2026-11-10*
 
@@ -12,6 +12,8 @@
 | [Business Insights Assistant – Entry Level - Start Your Career](https://aoglobelifebrittmarieyarian.applytojob.com/apply/3xbEH2HrCY/---------------------------------Remote-Business-Insights-Assistant-Entry-Level-Start-Your-Career) | AO Globe Life | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Junior Software Engineer](https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185/apply) | Sur La Table | Toronto, ON, Canada, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Clinical Informatics Analyst](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4651814) | Circuit Clinical | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Engineer 1/2](https://apply.workable.com/multimediallc/j/24DBCDDF27/apply#jobs) | Multi Media | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [R&D Engineering - Engineer](https://synopsys.avature.net/careers/JobDetail/19637) | Synopsys | Sunnyvale, CA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer 1 - Full-Stack](https://americas-cookmedical.icims.com/jobs/20446/job?mobile=true&needsRedirect=false) | Cook Group | Indianapolis, IN, West Lafayette, IN, Bloomington, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Associate Software Engineer](https://job-boards.greenhouse.io/keyfactorinc/jobs/6242660004) | Keyfactor | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer - GTM Engineering](https://job-boards.greenhouse.io/engine/jobs/8046374003) | Engine | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -106,5 +108,3 @@
 | [AI Prototyping Engineer](https://apply.workable.com/brady-martz/j/39C6A58F26/apply) | Brady Martz | Remote in USA, St. Louis, MO | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Business Analyst](https://internaljobs.centurylink.com/job/Remote-Business-Analyst/1430579700/?ats=successfactors) | CenturyLink | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Gujarati Speaker - Freelance - AI Trainer](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4891089101) | Prolific | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Computer Science Specialist - AI Training](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4853457101) | Prolific | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Memory Developer](https://jobs.ashbyhq.com/sunday/f92adbe3-da24-4edd-8599-4f60dec7bd5f/application?embed=true) | Sunday Robotics | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

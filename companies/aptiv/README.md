@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Remote / Various, Kanata, Ottawa, ON, Canada
+- **Categories:** Fresher Job, Internship
+- **Locations:** Kanata, Ottawa, ON, Canada, Remote / Various
 
 ## Current Opportunities
 

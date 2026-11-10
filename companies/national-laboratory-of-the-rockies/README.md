@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote in USA, Boulder, CO, Remote in USA, Golden, CO, Remote in USA
+- **Locations:** Remote in USA, Golden, CO, Remote in USA, Boulder, CO, Remote in USA
 
 ## Current Opportunities
 

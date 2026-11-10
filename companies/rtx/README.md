@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Huntsville, AL, Indianapolis, IN, Remote in USA, Richardson, TX, Andover, MA, Arlington, VA
+- **Categories:** Fresher Job, Internship
+- **Locations:** McKinney, TX, Fort Wayne, IN, Longueuil, QC, Canada, Remote in USA, Indianapolis, IN
 
 ## Current Opportunities
 
