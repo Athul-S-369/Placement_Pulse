@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**93 active** | **547 expired** | **640 total**
+**97 active** | **547 expired** | **644 total**
 
 *Last updated: 2026-11-10*
 
@@ -11,6 +11,10 @@
 | [Student AI Bootcamp – Sponsored by AWS](https://unstop.com/competitions/crp-student-ai-bootcamp-sponsored-by-aws-amazon-web-services-aws-1772721) | Amazon Web Services (AWS) | India | 🏢 Onsite | — | 2026-12-20 | Unstop |
 | [Brain Battle](https://unstop.com/quiz/brain-battle-goel-institute-of-technology-management-gitm-1803556) | Goel Institute of Technology & Management (GITM) | India | 🏢 Onsite | — | 2026-11-24 | Unstop |
 | [BuildSprint](https://unstop.com/hackathons/buildsprint-workelate-1794884) | Workelate | India | 🏢 Onsite | — | 2026-11-17 | Unstop |
+| [Entrepreneurship Unplugged: Ideas, Insights & Impact](https://unstop.com/workshops-webinars/entrepreneurship-unplugged-ideas-insights-impact-e-cell-kiet-deemed-to-be-university-1804406) | E-Cell, KIET Deemed to Be University | India | 🏢 Onsite | — | 2026-11-27 | Unstop |
+| [Market Mayhem](https://unstop.com/competitions/market-mayhem-e-summit27-iit-bhu-varanasi-iit-bhu-1798682) | Indian Institute of Technology, Banaras Hindu University (IIT - BHU) | India | 🏢 Onsite | — | 2027-01-31 | Unstop |
+| [Race to Net Zero, Carbon Credit Simulation Game](https://unstop.com/competitions/race-to-net-zero-carbon-credit-simulation-game-teri-school-of-advanced-studies-teri-sas-delhi-1804285) | TERI School of Advanced Studies (TERI SAS), Delhi | India | 🏢 Onsite | — | 2026-11-19 | Unstop |
+| [Hacksmart 2.0](https://unstop.com/hackathons/hacksmart-20-geek-room-1799091) | Geek Room | India | 🏢 Onsite | — | 2026-12-15 | Unstop |
 | [APTI-MASTER-AI Competitive Aptitude Quiz Competition 2026](https://unstop.com/quiz/apti-master-ai-competitive-aptitude-quiz-competition-2026-matrucare-ai-1802131) | MatruCare AI | India | 🏢 Onsite | — | 2026-11-25 | Unstop |
 | [Sauder Capital Markets Challenge](https://unstop.com/competitions/sauder-capital-markets-challenge-university-of-british-columbia-1801922) | University of British Columbia | India | 🏢 Onsite | — | 2026-11-23 | Unstop |
 | [Inter-College Coding Competition 2026](https://unstop.com/hackathons/inter-college-coding-competition-2026-college-of-engineering-and-managementkolaghat-1801814) | College Of Engineering And Management,Kolaghat | India | 🏢 Onsite | — | 2026-11-15 | Unstop |

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Remote in Canada, Wilmington, DE
+- **Locations:** Wilmington, DE, Remote in Canada
 
 ## Current Opportunities
 
