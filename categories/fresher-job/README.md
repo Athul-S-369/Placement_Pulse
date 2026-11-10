@@ -1,13 +1,17 @@
 # 💼 Fresher Job
 
-**1463 active** | **0 expired** | **1463 total**
+**1467 active** | **0 expired** | **1467 total**
 
-*Last updated: 2026-11-09*
+*Last updated: 2026-11-10*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Data Scientist - Consultant - Utilities](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---GA-Atlanta/Data-Scientist--Consultant--Utilities-_46382) | Guidehouse | Remote in USA, Atlanta, GA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Business Insights Assistant – Entry Level - Start Your Career](https://aoglobelifebrittmarieyarian.applytojob.com/apply/3xbEH2HrCY/---------------------------------Remote-Business-Insights-Assistant-Entry-Level-Start-Your-Career) | AO Globe Life | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Junior Software Engineer](https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185/apply) | Sur La Table | Toronto, ON, Canada, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Clinical Informatics Analyst](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4651814) | Circuit Clinical | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer 1 - Full-Stack](https://americas-cookmedical.icims.com/jobs/20446/job?mobile=true&needsRedirect=false) | Cook Group | Indianapolis, IN, West Lafayette, IN, Bloomington, IN | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Associate Software Engineer](https://job-boards.greenhouse.io/keyfactorinc/jobs/6242660004) | Keyfactor | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer - GTM Engineering](https://job-boards.greenhouse.io/engine/jobs/8046374003) | Engine | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -104,7 +108,3 @@
 | [Gujarati Speaker - Freelance - AI Trainer](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4891089101) | Prolific | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Computer Science Specialist - AI Training](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4853457101) | Prolific | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Memory Developer](https://jobs.ashbyhq.com/sunday/f92adbe3-da24-4edd-8599-4f60dec7bd5f/application?embed=true) | Sunday Robotics | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Software Engineer - Entry-Level](https://jobs.ashbyhq.com/withcherry/6cdd7a52-fcbd-4e29-bcf2-00840ee9243f/application?embed=true) | Cherry Technologies | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Business Associate Analyst](https://stbancorp.wd5.myworkdayjobs.com/ST_Bank_Careers/job/Main-Office/Data---Analytics-Associate-Analyst_R-1580) | S&T Bank | Indiana, PA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Entry-level Software Developer](https://careers-decisionpointcorp.icims.com/jobs/3766/job?mobile=true&needsRedirect=false) | DecisionPoint | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Motion Planning Engineer - Trajectory Generation](https://motional.com/open-positions/?gh_jid=7980363003#/7980363003) | Motional | Boston, MA, Las Vegas, NV, Remote in USA, Pittsburgh, PA | 🌐 Remote | — | — | SimplifyJobs New Grad |

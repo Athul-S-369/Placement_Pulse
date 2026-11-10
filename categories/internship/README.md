@@ -1,13 +1,16 @@
 # 🎓 Internship
 
-**908 active** | **0 expired** | **908 total**
+**911 active** | **0 expired** | **911 total**
 
-*Last updated: 2026-11-09*
+*Last updated: 2026-11-10*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [AI Capabilities Intern - AI Architecture, Enablement & Tools](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/US-Remote/AI-CAPABILITIES-INTERN---AI-ARCHITECTURE--ENABLEMENT---TOOLS_JR00022016) | Zoetis Services | Remote in USA, Parsippany-Troy Hills, NJ, Kalamazoo, MI | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Forward Deployed Engineer Co-op - Data De-Identification](https://jobs.ashbyhq.com/tonicai/e632d472-fbd2-475a-9878-536c0eacb5e9/application?embed=true) | Tonic | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [AIML Rapid Development Studio Intern](https://fortrea.wd1.myworkdayjobs.com/Fortrea/job/Durham/AIML-Rapid-Development-Studio-Internship_266655) | Fortrea | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [AI Intern](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27180) | Fanatics | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Browser Software Engineer Intern](https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Browser-Software-Engineer-Intern_3160410) | Hewlett Packard (HP) | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [GIS Analyst Intern](https://apply.workable.com/ballotpedia/j/4AF879CDEA/apply) | Ballotpedia | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -105,6 +108,3 @@
 | [Data and Analytics Intern - Multiple Teams](https://careers.principal.com/jobs/52574?icims=1) | Principal Financial Group | Des Moines, IA, Remote in USA, Raleigh, NC, Charlotte, NC | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999) | CACI | Remote in USA, Sterling, VA, Denver, CO | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Data Visualization Analyst Intern](https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---Remote/Data-Visualization-Analyst-Spring-Intern_JR15000) | Chemours | Remote in USA, Wilmington, DE | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Research Scientist Intern - Security for AI - 2026 Start](https://jobs.bytedance.com/en/position/7595676762475415861/detail) | ByteDance | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
-| [Performance and Reliability Engineering Intern - Summer 2027](https://aes.wd1.myworkdayjobs.com/AES_US/job/US-Dayton-OH/T-D-Performance-and-Reliability-Engineering-Intern--Summer-2027-_R1064841) | AES | Dayton, OH, Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Financial Analytics & Technology Intern - Financial Analytics Team](https://labcorp.wd1.myworkdayjobs.com/external/job/Remote_United-States/Intern---Financial-Analytics---Technology_2630761) | LabCorp | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

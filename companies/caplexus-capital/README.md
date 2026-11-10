@@ -1,6 +1,6 @@
 # 🏢 Caplexus Capital
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-09*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-10*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [National Finance & Investment Challenge 2026](https://unstop.com/competitions/national-finance-investment-challenge-2026-caplexus-capital-1788810) | Caplexus Capital | India | 🏢 Onsite | — | 2026-11-09 | Unstop |
 
 ## 📖 Interview Preparation
 

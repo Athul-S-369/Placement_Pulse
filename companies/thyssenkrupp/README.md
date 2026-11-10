@@ -1,11 +1,11 @@
 # 🏢 thyssenkrupp
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-09*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-10*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote / Various, Toronto, ON, Canada
+- **Locations:** Toronto, ON, Canada, Remote / Various
 
 ## Current Opportunities
 

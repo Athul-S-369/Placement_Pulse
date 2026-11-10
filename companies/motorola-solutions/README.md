@@ -1,11 +1,11 @@
 # 🏢 Motorola Solutions
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-09*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-10*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Salt Lake City, UT, Remote in USA, Chicago, IL, Ashburn, VA, Schaumburg, IL, Plantation, FL, Remote in USA, Chicago, IL, Remote in UK
+- **Categories:** Internship, Fresher Job
+- **Locations:** Remote in USA, Chicago, IL, Salt Lake City, UT, Remote in USA, Chicago, IL, Ashburn, VA, Schaumburg, IL, Plantation, FL, Remote in UK
 
 ## Current Opportunities
 

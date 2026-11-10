@@ -1,8 +1,8 @@
 # 🏆 Hackathon
 
-**91 active** | **546 expired** | **637 total**
+**90 active** | **547 expired** | **637 total**
 
-*Last updated: 2026-11-09*
+*Last updated: 2026-11-10*
 
 ## Active Opportunities
 
@@ -59,7 +59,6 @@
 | [GameMaster Gala](https://unstop.com/competitions/gamemaster-gala-backwaters-2027-iim-kozhikodes-management-festival-indian-institute-of-management-iim-kozhi-1784591) | Indian Institute of Management (IIM), Kozhikode | India | 🏢 Onsite | — | 2027-01-16 | Unstop |
 | [League Of Nations 12.0](https://unstop.com/competitions/league-of-nations-120-impelz-120-institute-of-management-technology-imt-hyderabad-1792031) | Institute of Management Technology (IMT), Hyderabad | India | 🏢 Onsite | — | 2026-12-05 | Unstop |
 | [Disquisition 9.0](https://unstop.com/competitions/disquisition-90-iim-kashipur-1791696) | Indian Institute of Management (IIM), Kashipur | India | 🏢 Onsite | — | 2026-11-11 | Unstop |
-| [National Finance & Investment Challenge 2026](https://unstop.com/competitions/national-finance-investment-challenge-2026-caplexus-capital-1788810) | Caplexus Capital | India | 🏢 Onsite | — | 2026-11-09 | Unstop |
 | [Casenova 2026](https://unstop.com/competitions/casenova-2026-delhi-school-of-economics-dse-new-delhi-1784502) | Delhi School of Economics (DSE), New Delhi | India | 🏢 Onsite | — | 2026-11-28 | Unstop |
 | [IMThefuture 11.0](https://unstop.com/competitions/imthefuture-110-imt-ghaziabad-1783064) | Institute of Management Technology (IMT), Ghaziabad | India | 🏢 Onsite | — | 2026-12-12 | Unstop |
 | [Design Disrupt: The Modern Ethnic Wear Challenge](https://unstop.com/events/design-disrupt-the-modern-ethnic-wear-challenge-reevaaz-1789766) | Reevaaz | India | 🏢 Onsite | — | 2026-11-10 | Unstop |
@@ -104,6 +103,7 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [National Finance & Investment Challenge 2026](https://unstop.com/competitions/national-finance-investment-challenge-2026-caplexus-capital-1788810) | Caplexus Capital | India | 🏢 Onsite | — | 2026-11-09 | Unstop |
 | [CODE SHIFT 2026](https://unstop.com/hackathons/code-shift-2026-infotechiezz-1786387) | InfoTechiezz | India | 🏢 Onsite | — | 2026-11-08 | Unstop |
 | [COBOT-EX 2026 | Inter-College Hackathon](https://unstop.com/hackathons/cobot-ex-2026-inter-college-hackathon-b-s-abdur-rahman-crescent-institute-of-science-and-technology-chennai-t-1783202) | B. S. Abdur Rahman Crescent Institute of Science and Technology, Chennai, Tamil Nadu | India | 🏢 Onsite | — | 2026-11-07 | Unstop |
 | [MOSIP Decode 2026](https://unstop.com/hackathons/mosip-decode-2026-synergy-26-international-institute-of-information-technology-iiit-bangalore-1735221) | International Institute of Information Technology (IIIT), Bangalore | India | 🏢 Onsite | — | 2026-11-06 | Unstop |
@@ -123,4 +123,3 @@
 | [The Ken's Case-Build Competition 2026 - The Great Rewiring](https://unstop.com/competitions/crp-the-kens-case-build-competition-2026-the-great-rewiring-the-ken-1737144) | The Ken | India | 🏢 Onsite | — | 2026-10-10 | Unstop |
 | [ReLead 9.0](https://unstop.com/competitions/crp-relead-90-renew-1728228) | ReNew | India | 🏢 Onsite | — | 2026-10-08 | Unstop |
 | [Smackathon 2k26](https://unstop.com/hackathons/smackathon-2k26-yeshwantrao-chavan-college-of-engineering-ycce-nagpur-1718448) | Yeshwantrao Chavan College of Engineering (YCCE), Nagpur | India | 🏢 Onsite | — | 2026-10-06 | Unstop |
-| [Edge AI Hackathon 2026](https://unstop.com/hackathons/edge-ai-hackathon-2026-parala-maharaja-engineering-college-berhampur-1720578) | Parala Maharaja Engineering College, Berhampur | India | 🏢 Onsite | — | 2026-10-06 | Unstop |

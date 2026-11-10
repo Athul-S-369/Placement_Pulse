@@ -1,11 +1,11 @@
 # 🏢 RWS
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-11-09*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-11-10*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Remote in USA, North Carolina, Texas, Illinois
+- **Categories:** Internship, Fresher Job
+- **Locations:** Texas, North Carolina, Illinois, Remote in USA
 
 ## Current Opportunities
 
