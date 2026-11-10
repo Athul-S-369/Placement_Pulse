@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Overland Park, KS, Farmers Branch, TX
+- **Locations:** Farmers Branch, TX, Overland Park, KS
 
 ## Current Opportunities
 

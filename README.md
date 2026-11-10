@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**November 10, 2026** &nbsp;—&nbsp; **86** Fresher Job &nbsp;·&nbsp; **79** Internship &nbsp;·&nbsp; **10** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**November 10, 2026** &nbsp;—&nbsp; **86** Fresher Job &nbsp;·&nbsp; **78** Internship &nbsp;·&nbsp; **9** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**181 opportunities** added or updated in the latest run (November 10, 2026).
+**179 opportunities** added or updated in the latest run (November 10, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -131,16 +131,15 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Software Developer](https://apply.workable.com/neurohire-dot-a-i/j/01ECE8E2C4/apply) | neurohire.ai | Remote in Canada | Fresher Job | Remote | — |
 | [C++ Developer](https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4844280101) | think-cell | Remote in UK | Fresher Job | Remote | — |
 | [AI Tutor – Estonian](https://job-boards.greenhouse.io/xai/jobs/5270902007) | xAI | Remote in USA, Remote in  | Fresher Job | Remote | — |
-| [学生向けAIブートキャンプ](https://unstop.com/competitions/crp-ai-amazon-web-services-aws-1773925) | Amazon Web Services (AWS) | India | Hackathon | Onsite | 2026-12-20 |
-| [Bid Bazar](https://unstop.com/competitions/bid-bazar-dyal-singh-college-du-delhi-1804647) | Dyal Singh College (DSC), De | India | Hackathon | Onsite | 2026-11-16 |
-| [Entrepreneurship Unplugged: Ideas, Insights & Impact](https://unstop.com/workshops-webinars/entrepreneurship-unplugged-ideas-insights-impact-e-cell-kiet-deemed-to-be-university-1804406) | E-Cell, KIET Deemed to Be Un | India | Hackathon | Onsite | 2026-11-27 |
-| [Hacksmart 2.0](https://unstop.com/hackathons/hacksmart-20-geek-room-1799091) | Geek Room | India | Hackathon | Onsite | 2026-12-15 |
-| [Ops Quiz](https://unstop.com/competitions/ops-quiz-solaris-2026--1803958) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-11-24 |
+| [CRICWIC](https://unstop.com/competitions/bid-bazar-dyal-singh-college-du-delhi-1804647) | Dyal Singh College (DSC), De | India | Hackathon | Onsite | 2026-11-16 |
+| [Motivational Expert Sessions by Successful innovators & Entr...](https://unstop.com/workshops-webinars/entrepreneurship-unplugged-ideas-insights-impact-e-cell-kiet-deemed-to-be-university-1804406) | E-Cell, KIET Deemed to Be Un | India | Hackathon | Onsite | 2026-11-27 |
+| [The Forge](https://unstop.com/hackathons/the-forge-hoollow-1787722) | Hoollow | India | Hackathon | Onsite | 2026-12-16 |
 | [Market Mayhem](https://unstop.com/competitions/market-mayhem-e-summit27-iit-bhu-varanasi-iit-bhu-1798682) | Indian Institute of Technolo | India | Hackathon | Onsite | 2027-01-31 |
-| [Techvision Challenge 2026](https://unstop.com/competitions/techvision-challenge-2026-panimalar-engineering-college-pec-chennai-1804209) | Panimalar Engineering Colleg | India | Hackathon | Onsite | 2027-01-12 |
-| [National Human Resource Olympiad (NHRO)](https://unstop.com/quiz/national-human-resource-olympiad-nhro-srcc-du-1803917) | Shri Ram College of Commerce | India | Hackathon | Onsite | 2026-12-27 |
+| [Shark Tank : An On-the-Spot Product Innovation Challenge](https://unstop.com/competitions/shark-tank-interactup-1804878) | InteractUp | India | Hackathon | Onsite | 2026-11-24 |
+| [Game Creation using AI](https://unstop.com/competitions/game-creation-using-ai-mumbai-university-mu-mumbai-1804774) | Mumbai University (MU), Mumb | India | Hackathon | Onsite | 2026-11-19 |
+| [The Midnight Voyage](https://unstop.com/competitions/the-midnight-voyage-arithmos-80-the-management-and-strategy-festival-narsee-monjee-college-of-commerce-and--1804739) | Narsee Monjee College of Com | India | Hackathon | Onsite | 2026-12-10 |
+| [Aayam Cinematica - Short Film Making Competition](https://unstop.com/events/aayam-cinematica-short-film-making-competition-national-institute-of-technology-nit-agartala-1801062) | National Institute of Techno | India | Hackathon | Onsite | 2026-11-14 |
 | [Race to Net Zero, Carbon Credit Simulation Game](https://unstop.com/competitions/race-to-net-zero-carbon-credit-simulation-game-teri-school-of-advanced-studies-teri-sas-delhi-1804285) | TERI School of Advanced Stud | India | Hackathon | Onsite | 2026-11-19 |
-| [Game on Prompt](https://unstop.com/competitions/game-on-prompt-thinknest-1804299) | Thinknest | India | Hackathon | Onsite | 2026-11-28 |
 | [Product Management Intern - End User Experience](https://jobs.ashbyhq.com/1password/bef2e88e-9590-467d-8ba6-821b30529003/application?embed=true) | 1Password | Remote in USA, Remote in  | Internship | Remote | — |
 | [Careers at Adobe](https://careers.adobe.com/us/en/) | Adobe | India | Internship | Onsite | — |
 | [Firmware Engineer Intern - Advanced Development](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Advanced-Development----Indianapolis--IN_JR37458-1) | Allegion | Indianapolis, IN | Internship | Onsite | — |
@@ -193,7 +192,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [AI Product Engineer Intern](https://jobs.gusto.com/postings/myemployment-llc-ai-product-engineer-intern-c08d7fd3-115e-46ad-a46f-6c4be1f77263) | MyEmployment | Remote in US | Internship | Remote | — |
 | [PhD Research Intern - Generalist Embodied Agents Research](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Generalist-Embodied-Agents-Research---2027_JR2025103) | NVIDIA | Remote in USA, Santa Clar | Internship | Remote | — |
 | [Graduate Intern](https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Graduate-Intern---LLM-Reliability-and-Uncertainty-for-AI-Science-Assistants_R14416) | National Laboratory of the R | Remote in USA, Golden, CO | Internship | Remote | — |
-| [ML Solution Architect Intern](https://careers.nebius.com/?gh_jid=4883829101) | Nebius | Remote in USA | Internship | Remote | — |
 | [Research and Development Intern](https://job-boards.greenhouse.io/oneethos/jobs/4459193009) | OneEthos | Remote in USA | Internship | Remote | — |
 | [Software Engineer Intern](https://www.pinterestcareers.com/jobs/?gh_jid=7838577) | Pinterest | SF, Remote in USA | Internship | Remote | — |
 | [Research Scientist Intern](https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be/application?embed=true) | Pluralis Research | Remote in USA, Remote in  | Internship | Remote | — |
@@ -343,6 +341,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-11-10 16:34 UTC</sub>
+<sub>Last generated: 2026-11-10 21:56 UTC</sub>
 
 </div>

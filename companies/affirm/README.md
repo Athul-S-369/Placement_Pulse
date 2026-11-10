@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, SF, Remote in USA, NYC, Remote in Canada, San Francisco, CA
+- **Locations:** San Francisco, CA, SF, Remote in USA, NYC, Remote in Canada, Remote in USA
 
 ## Current Opportunities
 

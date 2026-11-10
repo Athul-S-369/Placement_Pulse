@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Dublin, OH, Chicago, IL, NYC, Columbus, OH, Alexandria, VA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Washington, DC, Rochester, MI, Chantilly, VA, Dublin, OH, California City, CA
 
 ## Current Opportunities
 

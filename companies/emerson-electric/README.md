@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Houston, TX, Iowa, Austin, TX
+- **Locations:** Houston, TX, Austin, TX, Iowa
 
 ## Current Opportunities
 
