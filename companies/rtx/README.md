@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Longueuil, QC, Canada, Arlington, VA, Indianapolis, IN, Remote in USA, McKinney, TX
+- **Locations:** Barrie, ON, Canada, Arlington, VA, Indianapolis, IN, Remote in USA, Cedar Rapids, IA
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**93 active** | **551 expired** | **644 total**
+**97 active** | **551 expired** | **648 total**
 
 *Last updated: 2026-11-11*
 
@@ -8,6 +8,10 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Stratcade:The Grand Game of Minds](https://unstop.com/competitions/stratcadethe-grand-game-of-minds-college-of-vocational-studies-cvs-du-1805965) | College of Vocational Studies (CVS), Delhi University (DU) | India | 🏢 Onsite | — | 2026-11-14 | Unstop |
+| [Fathom 1.0](https://unstop.com/quiz/fathom-10-campus-konnect-1805956) | Campus Konnect | India | 🏢 Onsite | — | 2026-11-14 | Unstop |
+| [The Escape: Idea to AI Startup](https://unstop.com/competitions/the-escape-idea-to-ai-startup-techno-india-university-1798563) | Techno India University | India | 🏢 Onsite | — | 2026-12-01 | Unstop |
+| [Tech Challenge 2026](https://unstop.com/competitions/tech-challenge-2026-panimalar-institute-of-technology-pit-chennai-1805787) | Panimalar Institute Of Technology (PIT), Chennai | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
 | [Student AI Bootcamp – Sponsored by AWS](https://unstop.com/competitions/crp-student-ai-bootcamp-sponsored-by-aws-amazon-web-services-aws-1772721) | Amazon Web Services (AWS) | India | 🏢 Onsite | — | 2026-12-20 | Unstop |
 | [Brain Battle](https://unstop.com/quiz/brain-battle-goel-institute-of-technology-management-gitm-1803556) | Goel Institute of Technology & Management (GITM) | India | 🏢 Onsite | — | 2026-11-24 | Unstop |
 | [BuildSprint](https://unstop.com/hackathons/buildsprint-workelate-1794884) | Workelate | India | 🏢 Onsite | — | 2026-11-17 | Unstop |

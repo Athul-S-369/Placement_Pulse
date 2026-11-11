@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Columbus, OH, El Segundo, CA, Chantilly, VA, Washington, DC, Jefferson City, MO
+- **Locations:** San Antonio, TX, California City, CA, Bluemont, VA, Jefferson City, MO, Westminster, CO
 
 ## Current Opportunities
 

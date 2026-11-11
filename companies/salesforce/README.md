@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Indianapolis, IN, Remote / Various, London, UK, Indianapolis, IN, Chicago, IL, Indianapolis, IN, Dallas, TX
+- **Locations:** London, UK, Indianapolis, IN, Indianapolis, IN, Chicago, IL, Palo Alto, CA, Seattle, WA, Indianapolis, IN, SF, NYC, Bellevue, WA, Atlanta, GA, Burlington, MA, Remote / Various
 
 ## Current Opportunities
 
