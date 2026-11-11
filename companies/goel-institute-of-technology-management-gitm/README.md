@@ -1,6 +1,6 @@
 # 🏢 Goel Institute of Technology & Management (GITM)
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-10*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-11*
 
 ## Overview
 

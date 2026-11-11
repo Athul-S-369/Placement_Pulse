@@ -1,6 +1,6 @@
 # 🏢 ASML
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-10*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-11*
 
 ## Overview
 

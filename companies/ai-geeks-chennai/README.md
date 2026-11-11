@@ -1,6 +1,6 @@
 # 🏢 AI Geeks Chennai
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-10*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-11*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Open Source in the Age of AI Workshop: From Code Generation to Real-World Impact](https://unstop.com/workshops-webinars/open-source-in-the-age-of-ai-workshop-from-code-generation-to-real-world-impact-open-source-in-the-ag-1798740) | AI Geeks Chennai | India | 🏢 Onsite | — | 2026-11-10 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,6 +1,6 @@
 # 🏢 HackQube
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-10*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-11*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AGENTX 2.0](https://unstop.com/hackathons/agentx-20-hackqube-1783256) | HackQube | India | 🏢 Onsite | — | 2026-11-10 | Unstop |
 
 ## 📖 Interview Preparation
 

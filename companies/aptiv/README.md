@@ -1,11 +1,11 @@
 # 🏢 Aptiv
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-10*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-11*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Remote / Various, Kanata, Ottawa, ON, Canada
+- **Locations:** Kanata, Ottawa, ON, Canada, Remote / Various
 
 ## Current Opportunities
 

@@ -1,13 +1,16 @@
 # 💼 Fresher Job
 
-**1469 active** | **0 expired** | **1469 total**
+**1472 active** | **0 expired** | **1472 total**
 
-*Last updated: 2026-11-10*
+*Last updated: 2026-11-11*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Analyst, Marketing Analytics](https://marketbridge.applytojob.com/apply/oMZc1ebSpD/Analyst-Marketing-Analytics) | Marketbridge | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Development Engineer](https://jobs.smartrecruiters.com/Mirantis/744000160982204) | Mirantis | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Marketing Technology & Data Coordinator](https://jobs.ashbyhq.com/barnes/74e67ad5-b2f1-4a2c-aba3-99b403c4aca9/application?embed=true) | Barnes & Thornburg | Indianapolis, IN, Nashville, TN, Dallas, TX, Columbus, OH, Atlanta, GA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Data Scientist - Consultant - Utilities](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---GA-Atlanta/Data-Scientist--Consultant--Utilities-_46382) | Guidehouse | Remote in USA, Atlanta, GA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Business Insights Assistant – Entry Level - Start Your Career](https://aoglobelifebrittmarieyarian.applytojob.com/apply/3xbEH2HrCY/---------------------------------Remote-Business-Insights-Assistant-Entry-Level-Start-Your-Career) | AO Globe Life | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Junior Software Engineer](https://jobs.lever.co/cscgeneration-2/61ba3ce6-b92b-45b4-932d-0c66e5e19185/apply) | Sur La Table | Toronto, ON, Canada, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -105,6 +108,3 @@
 | [Go-To-Market Engineer](https://job-boards.greenhouse.io/sironamedical/jobs/4736127005) | Sirona Medical | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Product Manager](https://job-boards.greenhouse.io/tintai/jobs/4736081005) | Tint | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Mobile Developer 1](https://job-boards.greenhouse.io/perfectserve/jobs/6188374004) | PerfectServe | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [AI Prototyping Engineer](https://apply.workable.com/brady-martz/j/39C6A58F26/apply) | Brady Martz | Remote in USA, St. Louis, MO | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Business Analyst](https://internaljobs.centurylink.com/job/Remote-Business-Analyst/1430579700/?ats=successfactors) | CenturyLink | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Gujarati Speaker - Freelance - AI Trainer](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4891089101) | Prolific | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |

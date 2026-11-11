@@ -1,6 +1,6 @@
 # 🏢 Reevaaz
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-10*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-11*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Design Disrupt: The Modern Ethnic Wear Challenge](https://unstop.com/events/design-disrupt-the-modern-ethnic-wear-challenge-reevaaz-1789766) | Reevaaz | India | 🏢 Onsite | — | 2026-11-10 | Unstop |
 
 ## 📖 Interview Preparation
 
