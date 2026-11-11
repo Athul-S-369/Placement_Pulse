@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** San Antonio, TX, California City, CA, Bluemont, VA, Jefferson City, MO, Westminster, CO
+- **Locations:** Columbus, OH, San Antonio, TX, Manassas, VA, Alexandria, VA, Jefferson City, MO
 
 ## Current Opportunities
 

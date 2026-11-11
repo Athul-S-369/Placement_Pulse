@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Barrie, ON, Canada, Arlington, VA, Indianapolis, IN, Remote in USA, Cedar Rapids, IA
+- **Locations:** Barrie, ON, Canada, Remote in USA, Huntsville, AL, Goleta, CA, Arlington, VA
 
 ## Current Opportunities
 
