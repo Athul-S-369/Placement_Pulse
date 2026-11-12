@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**101 active** | **559 expired** | **660 total**
+**102 active** | **559 expired** | **661 total**
 
 *Last updated: 2026-11-12*
 
@@ -18,6 +18,7 @@
 | [QuikCPQ AI Innovation Challenge 2027](https://unstop.com/hackathons/quikcpq-ai-innovation-challenge-2027-quik-cpq-solutions-llp-1806984) | Quik CPQ Solutions LLP | India | 🏢 Onsite | — | 2026-11-27 | Unstop |
 | [Data Sprint 2.0](https://unstop.com/hackathons/data-sprint-20-anveshan-nie-1807080) | Anveshan NIE | India | 🏢 Onsite | — | 2026-11-22 | Unstop |
 | [Vaak Chaturya: The Debate Competition](https://unstop.com/competitions/vaak-chaturya-the-debate-competition-nirvah-2k26-27-indian-institute-of-plantation-management-bengaluru-1806794) | Indian Institute of Plantation Management, Bengaluru | India | 🏢 Onsite | — | 2026-11-26 | Unstop |
+| [PromptWars X AITH](https://unstop.com/hackathons/promptwars-x-aith-dr-ambedkar-institute-of-technology-for-divyangjan-1807596) | Dr. Ambedkar Institute of Technology for Divyangjan | India | 🏢 Onsite | — | 2026-11-20 | Unstop |
 | [Stratcade:The Grand Game of Minds](https://unstop.com/competitions/stratcadethe-grand-game-of-minds-college-of-vocational-studies-cvs-du-1805965) | College of Vocational Studies (CVS), Delhi University (DU) | India | 🏢 Onsite | — | 2026-11-14 | Unstop |
 | [Fathom 1.0](https://unstop.com/quiz/fathom-10-campus-konnect-1805956) | Campus Konnect | India | 🏢 Onsite | — | 2026-11-14 | Unstop |
 | [The Escape: Idea to AI Startup](https://unstop.com/competitions/the-escape-idea-to-ai-startup-techno-india-university-1798563) | Techno India University | India | 🏢 Onsite | — | 2026-12-01 | Unstop |
@@ -107,7 +108,6 @@
 | [TVS Credit E.P.I.C 8.0 — IT Challenge](https://unstop.com/competitions/crp-tvs-credit-epic-80-it-challenge-epic-season-8-tvs-credit-1701115) | TVS Credit | India | 🏢 Onsite | — | 2026-12-20 | Unstop |
 | [Unstop Quizverse 2026](https://unstop.com/quiz/unstop-quizverse-2026-unstop-1710459) | Unstop | India | 🏢 Onsite | — | 2026-11-28 | Unstop |
 | [Indradhanu: PCCOE International Grand Challenge 2026](https://unstop.com/hackathons/indradhanu-pccoe-international-grand-challenge-2026-pimpri-chinchwad-college-of-engineering-pccoe-pune-1710779) | Pimpri Chinchwad College of Engineering (PCCOE), Pune | India | 🏢 Onsite | — | 2027-02-15 | Unstop |
-| [Can you solve what 4100+ professionals were struggling with?](https://unstop.com/competitions/can-you-solve-what-4100-professionals-were-struggling-with-generally-critical-1710246) | Generally Critical | India | 🏢 Onsite | — | 2026-12-31 | Unstop |
 
 ## Recently Expired
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Dublin, OH, Bloomington, MN, Rochester, MI, California City, CA, Chicago, IL
+- **Locations:** Southfield, MI, Rochester, MI, Alexandria, VA, Chantilly, VA, El Segundo, CA
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Sharonville, OH, Bristol, UK
+- **Locations:** Bristol, UK, Sharonville, OH
 
 ## Current Opportunities
 
