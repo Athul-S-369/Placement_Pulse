@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Newcastle upon Tyne, UK, Malvern, PA
+- **Locations:** Malvern, PA, Newcastle upon Tyne, UK
 
 ## Current Opportunities
 

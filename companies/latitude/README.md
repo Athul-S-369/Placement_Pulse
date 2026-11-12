@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Baltimore, MD, Danbury, CT
+- **Locations:** Danbury, CT, Baltimore, MD
 
 ## Current Opportunities
 

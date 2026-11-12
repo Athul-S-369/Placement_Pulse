@@ -1,16 +1,17 @@
 # 🏢 Wash U
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-12*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-12*
 
 ## Overview
 
-- **Categories:** Internship
-- **Locations:** St. Louis, MO
+- **Categories:** Fresher Job, Internship
+- **Locations:** St. Louis, MO, Remote in USA
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Data Analyst - Transplant Nephrology](https://wustl.wd1.myworkdayjobs.com/external/job/Remote/Data-Analyst--PRN-Remote----Transplant-Nephrology_JR98521) | Wash U | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineering Intern](https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-Medical-Campus/Software-Engineering-Intern--Time-Limited-Remote----WashU-IT_JR93463) | Wash U | St. Louis, MO | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 
 ## 📖 Interview Preparation

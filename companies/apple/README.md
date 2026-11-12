@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Santa Clara, CA, Cupertino, CA, Gloucester, UK, SF, United States
+- **Locations:** United States, SF, San Jose, CA, Santa Clara, CA, California
 
 ## Current Opportunities
 

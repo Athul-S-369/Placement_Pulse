@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Jefferson City, MO, Bluemont, VA, Chantilly, VA, Manassas, VA, Dublin, OH
+- **Locations:** Dublin, OH, Bloomington, MN, Rochester, MI, California City, CA, Chicago, IL
 
 ## Current Opportunities
 

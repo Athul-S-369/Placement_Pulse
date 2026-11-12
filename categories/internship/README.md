@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**916 active** | **0 expired** | **916 total**
+**917 active** | **0 expired** | **917 total**
 
 *Last updated: 2026-11-12*
 
@@ -10,6 +10,7 @@
 |------|---------|----------|------|----------------|----------|--------|
 | [Undergraduate Research Assistant Programmer](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Undergraduate-Research-Assistant--Programmer--open-to-work-study-and-non-work-study-_R_00040531) | University of Texas at Austin | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Supply Chain Data & Analytics Intern](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Remote-United-States-of-America/Supply-Chain-Data---Analytics-Intern_JR38708) | Vanderlande Industries | Remote in USA, Marietta, GA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Software Engineer Intern](https://jobs.ashbyhq.com/creatify/75a1f1ad-13d2-4513-952c-71b6dfcaa84f/application) | Creatify Lab | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Applied AI Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662) | DwyerOmega | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Product Management Intern](https://apply.workable.com/bask-health-1/j/AAE5145A49/apply) | Bask Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Data Engineer Intern](https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716) | Riot Games | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [Technical Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00192449-1) | Leidos | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Technology Solutions Analyst Intern](https://careers-cotiviti.icims.com/jobs/20321/job?mobile=true&needsRedirect=false) | Cotiviti | South Jordan, UT, Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [AI Software Developer Intern - Multiple Teams](https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false) | Elire | Remote in USA, Minneapolis, MN | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Energy Efficiency & Demand Response Intern](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149873771) | Wabash Valley Power Alliance | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

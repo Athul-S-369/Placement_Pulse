@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1472 active** | **0 expired** | **1472 total**
+**1473 active** | **0 expired** | **1473 total**
 
 *Last updated: 2026-11-12*
 
@@ -8,6 +8,7 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Data Analyst - Transplant Nephrology](https://wustl.wd1.myworkdayjobs.com/external/job/Remote/Data-Analyst--PRN-Remote----Transplant-Nephrology_JR98521) | Wash U | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Analyst, Marketing Analytics](https://marketbridge.applytojob.com/apply/oMZc1ebSpD/Analyst-Marketing-Analytics) | Marketbridge | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Development Engineer](https://jobs.smartrecruiters.com/Mirantis/744000160982204) | Mirantis | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Marketing Technology & Data Coordinator](https://jobs.ashbyhq.com/barnes/74e67ad5-b2f1-4a2c-aba3-99b403c4aca9/application?embed=true) | Barnes & Thornburg | Indianapolis, IN, Nashville, TN, Dallas, TX, Columbus, OH, Atlanta, GA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Associate Software Engineer](https://jobs.lever.co/fiscalnote/c76e748f-6e25-42cf-bf26-ebae44280ffd/apply) | FiscalNote | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Go-To-Market Engineer](https://job-boards.greenhouse.io/sironamedical/jobs/4736127005) | Sirona Medical | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Product Manager](https://job-boards.greenhouse.io/tintai/jobs/4736081005) | Tint | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Mobile Developer 1](https://job-boards.greenhouse.io/perfectserve/jobs/6188374004) | PerfectServe | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

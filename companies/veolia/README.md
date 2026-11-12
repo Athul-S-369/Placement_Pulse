@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Beaumont, TX, Montreal, QC, Canada, Boulder, CO
+- **Locations:** Beaumont, TX, Boulder, CO, Montreal, QC, Canada
 
 ## Current Opportunities
 
