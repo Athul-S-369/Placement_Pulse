@@ -1,6 +1,6 @@
 # 🏢 Guru Tegh Bahadur Institute of Technology (GTBIT), New Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-11*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-12*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Reforming education for Viksit Bharat](https://unstop.com/competitions/reforming-education-for-viksit-bharat-guru-tegh-bahadur-institute-of-technology-gtbit-new-delhi-1803115) | Guru Tegh Bahadur Institute of Technology (GTBIT), New Delhi | India | 🏢 Onsite | — | 2026-11-11 | Unstop |
 
 ## 📖 Interview Preparation
 

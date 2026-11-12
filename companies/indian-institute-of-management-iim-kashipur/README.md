@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Management (IIM), Kashipur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-11*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-12*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Disquisition 9.0](https://unstop.com/competitions/disquisition-90-iim-kashipur-1791696) | Indian Institute of Management (IIM), Kashipur | India | 🏢 Onsite | — | 2026-11-11 | Unstop |
 
 ## 📖 Interview Preparation
 

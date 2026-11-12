@@ -1,13 +1,15 @@
 # 🎓 Internship
 
-**914 active** | **0 expired** | **914 total**
+**916 active** | **0 expired** | **916 total**
 
-*Last updated: 2026-11-11*
+*Last updated: 2026-11-12*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Undergraduate Research Assistant Programmer](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Undergraduate-Research-Assistant--Programmer--open-to-work-study-and-non-work-study-_R_00040531) | University of Texas at Austin | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [Supply Chain Data & Analytics Intern](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Remote-United-States-of-America/Supply-Chain-Data---Analytics-Intern_JR38708) | Vanderlande Industries | Remote in USA, Marietta, GA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Applied AI Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662) | DwyerOmega | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Product Management Intern](https://apply.workable.com/bask-health-1/j/AAE5145A49/apply) | Bask Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Data Engineer Intern](https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716) | Riot Games | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -106,5 +108,3 @@
 | [Technology Solutions Analyst Intern](https://careers-cotiviti.icims.com/jobs/20321/job?mobile=true&needsRedirect=false) | Cotiviti | South Jordan, UT, Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [AI Software Developer Intern - Multiple Teams](https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false) | Elire | Remote in USA, Minneapolis, MN | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Energy Efficiency & Demand Response Intern](https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149873771) | Wabash Valley Power Alliance | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Software Development Engineer Co-op](https://job-boards.greenhouse.io/athinkingape/jobs/8203048) | A Thinking Ape | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [NLP Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/NLP-Research-Intern_R106758-1) | Tencent | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |

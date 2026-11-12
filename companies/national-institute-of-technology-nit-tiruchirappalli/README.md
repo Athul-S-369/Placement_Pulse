@@ -1,6 +1,6 @@
 # 🏢 National Institute of Technology (NIT), Tiruchirappalli
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-11*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-12*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Stock Wars: The Gamification of Inventory](https://unstop.com/workshops-webinars/stock-wars-the-gamification-of-inventory-national-institute-of-technology-nit-tiruchirappalli-1772763) | National Institute of Technology (NIT), Tiruchirappalli | India | 🏢 Onsite | — | 2026-11-11 | Unstop |
 
 ## 📖 Interview Preparation
 

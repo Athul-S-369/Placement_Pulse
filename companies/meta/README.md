@@ -1,11 +1,11 @@
 # 🏢 Meta
 
-**7 active opportunities** | **7 total tracked** | *Last updated: 2026-11-11*
+**7 active opportunities** | **7 total tracked** | *Last updated: 2026-11-12*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Boston, MA, Seattle, WA, SF, Menlo Park, CA, NYC, Bellevue, WA, London, UK, Redmond, WA, New York, NY, Menlo Park, CA, NYC, Bellevue, WA
+- **Locations:** Seattle, WA, Redmond, WA, New York, NY, Menlo Park, CA, NYC, Bellevue, WA, Sausalito, CA, Redmond, WA, Pittsburgh, PA, Boston, MA, Seattle, WA, SF, Menlo Park, CA, NYC, Bellevue, WA
 
 ## Current Opportunities
 

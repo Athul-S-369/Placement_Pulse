@@ -1,6 +1,6 @@
 # 🏢 Ram Lal Anand College, University of Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-11*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-12*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [NEXOR-The Case Competition](https://unstop.com/competitions/nexor-the-case-competition-ram-lal-anand-college-university-of-delhi-1792658) | Ram Lal Anand College, University of Delhi | India | 🏢 Onsite | — | 2026-11-11 | Unstop |
 
 ## 📖 Interview Preparation
 

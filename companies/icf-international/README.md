@@ -1,11 +1,11 @@
 # 🏢 ICF International
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-11*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-12*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote in USA, Reston, VA, Denver, CO, Remote in USA
+- **Locations:** Remote in USA, Remote in USA, Reston, VA, Denver, CO
 
 ## Current Opportunities
 

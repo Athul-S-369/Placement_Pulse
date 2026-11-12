@@ -1,11 +1,11 @@
 # 🏢 Apple
 
-**17 active opportunities** | **17 total tracked** | *Last updated: 2026-11-11*
+**17 active opportunities** | **17 total tracked** | *Last updated: 2026-11-12*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Santa Clara, CA, London, UK, Waltham, MA, London, UK, Cambridge, UK, Welwyn Garden City, UK, Seattle, WA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Santa Clara, CA, Cupertino, CA, Gloucester, UK, SF, United States
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏢 Code Hive
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-11*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-12*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [CodeHive Community Duel Night](https://unstop.com/hackathons/codehive-community-duel-night-code-hive-1782942) | Code Hive | India | 🏢 Onsite | — | 2026-11-11 | Unstop |
 
 ## 📖 Interview Preparation
 
