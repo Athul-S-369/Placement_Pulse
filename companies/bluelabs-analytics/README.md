@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Washington, DC, Remote in USA, Washington, DC
+- **Locations:** Washington, DC, Washington, DC, Remote in USA
 
 ## Current Opportunities
 

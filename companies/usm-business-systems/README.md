@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Augusta, ME, Bloomington, MN, Washington, DC, California City, CA, Traverse City, MI
+- **Locations:** Chantilly, VA, San Antonio, TX, Traverse City, MI, Columbus, OH, NYC
 
 ## Current Opportunities
 
