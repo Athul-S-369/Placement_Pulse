@@ -1,6 +1,6 @@
 # 🏢 National Institute of Technology (NIT), Agartala
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-12*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-13*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Capture The Flag](https://unstop.com/competitions/capture-the-flag-national-institute-of-technology-nit-agartala-1800613) | National Institute of Technology (NIT), Agartala | India | 🏢 Onsite | — | 2026-11-12 | Unstop |
 
 ## 📖 Interview Preparation
 

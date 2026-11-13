@@ -1,6 +1,6 @@
 # 🏢 Microchip Technology
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-11-12*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-11-13*
 
 ## Overview
 

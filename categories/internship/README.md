@@ -1,13 +1,17 @@
 # 🎓 Internship
 
-**917 active** | **0 expired** | **917 total**
+**921 active** | **0 expired** | **921 total**
 
-*Last updated: 2026-11-12*
+*Last updated: 2026-11-13*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Research Intern - Autonomy](https://job-boards.greenhouse.io/stackav/jobs/5287594007) | StackAV | Remote in USA, Pittsburgh, PA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Machine Learning Operations Intern](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Machine-Learning-Operations--MLOps--Intern_R188318) | Intermountain Healthcare | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Consumer Energy Analytics Intern](https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752) | Environmental Defense Fund | Remote in USA, St. Petersburg, FL | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Product Data Management Intern](https://whitecap.wd1.myworkdayjobs.com/careers/job/Corporate-Intern---Product-Data-Management_WCJR-036650) | White Cap Supply Holdings | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Undergraduate Research Assistant Programmer](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Undergraduate-Research-Assistant--Programmer--open-to-work-study-and-non-work-study-_R_00040531) | University of Texas at Austin | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Supply Chain Data & Analytics Intern](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Remote-United-States-of-America/Supply-Chain-Data---Analytics-Intern_JR38708) | Vanderlande Industries | Remote in USA, Marietta, GA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern](https://jobs.ashbyhq.com/creatify/75a1f1ad-13d2-4513-952c-71b6dfcaa84f/application) | Creatify Lab | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
@@ -104,7 +108,3 @@
 | [Marketing & Operations Analytics Co-op - Strategy & Analytics](https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Marketing---Ops-Analytics-Co-Op_JR101345) | Risepoint | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Collections Data Analyst Intern](https://careers-growfinancial.icims.com/jobs/2755/job?mobile=true&needsRedirect=false) | Grow Financial Federal Credit Union | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Artificial Intelligence Engineer Intern](https://www.healthesystems.com/unassigned/careers-list?gh_jid=7928315003) | Healthesystems | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Embedded Systems Intern](https://jobs.smartrecruiters.com/RenesasElectronics/744000150194379) | Renesas Electronics | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Technical Intern](https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Technical-Intern_R-00192449-1) | Leidos | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Technology Solutions Analyst Intern](https://careers-cotiviti.icims.com/jobs/20321/job?mobile=true&needsRedirect=false) | Cotiviti | South Jordan, UT, Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [AI Software Developer Intern - Multiple Teams](https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false) | Elire | Remote in USA, Minneapolis, MN | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

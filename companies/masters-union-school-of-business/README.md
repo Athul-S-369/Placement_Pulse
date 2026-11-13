@@ -1,6 +1,6 @@
 # 🏢 Masters' Union School of Business
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-12*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-13*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Masters’ Union Nations ’26 | Experiential MUN & Student Conference](https://unstop.com/conferences/masters-union-nations-26-experiential-mun-student-conference-masters-union-school-of-business-1784550) | Masters' Union School of Business | India | 🏢 Onsite | — | 2026-11-12 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Technology, Banaras Hindu University (IIT - BHU)
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-12*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-13*
 
 ## Overview
 

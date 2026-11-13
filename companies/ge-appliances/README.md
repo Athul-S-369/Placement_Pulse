@@ -1,11 +1,11 @@
 # 🏢 GE Appliances
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-12*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-13*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote / Various, Louisville, KY
+- **Locations:** Louisville, KY, Remote / Various
 
 ## Current Opportunities
 

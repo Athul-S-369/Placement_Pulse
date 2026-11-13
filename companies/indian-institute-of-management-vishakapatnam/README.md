@@ -1,6 +1,6 @@
 # 🏢 Indian Institute Of Management,Vishakapatnam
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-12*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-13*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Jinzai - The Annual HR Competition](https://unstop.com/competitions/jinzai-the-annual-hr-competition-indian-institute-of-managementvishakapatnam-1798955) | Indian Institute Of Management,Vishakapatnam | India | 🏢 Onsite | — | 2026-11-12 | Unstop |
 
 ## 📖 Interview Preparation
 

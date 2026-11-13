@@ -1,11 +1,11 @@
 # 🏢 Creatify Lab
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-12*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-13*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote / Various, Mountain View, CA
+- **Locations:** Mountain View, CA, Remote / Various
 
 ## Current Opportunities
 

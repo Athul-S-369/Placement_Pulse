@@ -1,13 +1,15 @@
 # 💼 Fresher Job
 
-**1473 active** | **0 expired** | **1473 total**
+**1475 active** | **0 expired** | **1475 total**
 
-*Last updated: 2026-11-12*
+*Last updated: 2026-11-13*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Research Engineer - Synthetic Data](https://jobs.ashbyhq.com/pragmatike/e51d910a-a3e6-459d-b3b5-ffa1d300c256/application?embed=true) | Pragmatike | SF, Remote in USA, Remote in Singapore, Singapore | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Automotive Data Analyst](https://jdpa.wd501.myworkdayjobs.com/JDPower/job/Remote-Canada/Automotive-Data-Analyst_R-100570) | J.D. Power | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Analyst - Transplant Nephrology](https://wustl.wd1.myworkdayjobs.com/external/job/Remote/Data-Analyst--PRN-Remote----Transplant-Nephrology_JR98521) | Wash U | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Analyst, Marketing Analytics](https://marketbridge.applytojob.com/apply/oMZc1ebSpD/Analyst-Marketing-Analytics) | Marketbridge | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Development Engineer](https://jobs.smartrecruiters.com/Mirantis/744000160982204) | Mirantis | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -106,5 +108,3 @@
 | [Advanced Analytics Developer Associate - Enterprise Advanced Analytics](https://aah.wd5.myworkdayjobs.com/External/job/Remote/IT-Advanced-Analytics-Developer-Associate_R271506) | Advocate Health Care | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer Early Career - Cloud](https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679) | CACI | Remote in USA, Hanover, MD | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Software Engineer](https://jobs.lever.co/fiscalnote/c76e748f-6e25-42cf-bf26-ebae44280ffd/apply) | FiscalNote | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Go-To-Market Engineer](https://job-boards.greenhouse.io/sironamedical/jobs/4736127005) | Sirona Medical | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Associate Product Manager](https://job-boards.greenhouse.io/tintai/jobs/4736081005) | Tint | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
