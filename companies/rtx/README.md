@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** McKinney, TX, Indianapolis, IN, Arlington, VA, Andover, MA, Barrie, ON, Canada
+- **Categories:** Internship, Fresher Job
+- **Locations:** Andover, MA, Indianapolis, IN, Remote in USA, McKinney, TX, Longueuil, QC, Canada
 
 ## Current Opportunities
 

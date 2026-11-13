@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Bedford, UK, Morrisville, NC, Remote / Various
+- **Locations:** Morrisville, NC, Bedford, UK, Remote / Various
 
 ## Current Opportunities
 

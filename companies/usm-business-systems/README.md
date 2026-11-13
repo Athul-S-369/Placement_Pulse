@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Chantilly, VA, San Antonio, TX, Traverse City, MI, Columbus, OH, NYC
+- **Categories:** Internship, Fresher Job
+- **Locations:** Traverse City, MI, Washington, DC, Columbus, OH, Westminster, CO, Alexandria, VA
 
 ## Current Opportunities
 
