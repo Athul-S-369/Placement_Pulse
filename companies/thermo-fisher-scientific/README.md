@@ -1,11 +1,11 @@
 # 🏢 Thermo Fisher Scientific
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-11-13*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-11-14*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Remote in USA, Raleigh, NC, Rhode Island, Remote / Various, Kansas, LA, Remote in USA, Minnesota, Wisconsin, North Carolina, San Diego, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Kansas, LA, Remote in USA, Minnesota, Wisconsin, North Carolina, San Diego, CA, Rhode Island, Remote in USA, Raleigh, NC, Remote / Various
 
 ## Current Opportunities
 

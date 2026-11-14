@@ -1,11 +1,11 @@
 # 🏢 RESPEC
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-13*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-14*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Rapid City, SD, Richardson, TX
+- **Locations:** Richardson, TX, Rapid City, SD
 
 ## Current Opportunities
 

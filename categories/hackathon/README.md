@@ -1,8 +1,8 @@
 # 🏆 Hackathon
 
-**105 active** | **563 expired** | **668 total**
+**104 active** | **564 expired** | **668 total**
 
-*Last updated: 2026-11-13*
+*Last updated: 2026-11-14*
 
 ## Active Opportunities
 
@@ -92,7 +92,6 @@
 | [TurtleReel Campus Reel Challenge — Turn One Talking Video Into a Finished Reel](https://unstop.com/events/turtlereel-campus-reel-challenge-turn-one-talking-video-into-a-finished-reel-turtle-techsai-1787153) | Turtle Techsai | India | 🏢 Onsite | — | 2026-11-14 | Unstop |
 | [Health Hackathon 3.0](https://unstop.com/hackathons/health-hackathon-30-vit-bhopal-university-1784631) | VIT Bhopal University | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
 | [Adventure - Idea, Impact & Influence](https://unstop.com/competitions/adventure-idea-impact-influence-ignisia-2026-aryabhatta-college-du-delhi-1785524) | Aryabhatta College (AC), Delhi University (DU), Delhi | India | 🏢 Onsite | — | 2026-11-16 | Unstop |
-| [Build Your First AI Agent](https://unstop.com/workshops-webinars/build-your-first-ai-agent-pregrad-1784648) | Pregrad | India | 🏢 Onsite | — | 2026-11-13 | Unstop |
 | [POWER HACK 2026: "EM" Powering Tomorrow](https://unstop.com/competitions/power-hack-2026-em-powering-tomorrow-presidency-university-pu-bangalore-1786606) | Presidency University (PU), Bangalore | India | 🏢 Onsite | — | 2026-11-18 | Unstop |
 | [Madlab - The Ultimate Innovation Hackathon](https://unstop.com/hackathons/madlab-the-ultimate-innovation-hackathon-shri-chinai-college-of-commerce-economics-1785416) | Shri Chinai College of Commerce & Economics | India | 🏢 Onsite | — | 2026-11-18 | Unstop |
 | [Innovate - Online Hackathon](https://unstop.com/hackathons/innovate-online-hackathon-aveeranex-opc-private-limited-1783838) | Aveeranex (OPC) Private Limited | India | 🏢 Onsite | — | 2026-11-14 | Unstop |
@@ -108,11 +107,13 @@
 | [Britannia Creatovate 2.0 - Sales and Marketing Track](https://unstop.com/competitions/crp-britannia-creatovate-20-sales-and-marketing-track-britannia-industries-ltd-1730216) | Britannia Industries Ltd. | India | 🏢 Onsite | — | 2026-11-17 | Unstop |
 | [Marico Over The Wall Season 14](https://unstop.com/competitions/crp-marico-over-the-wall-season-14-marico-1727644) | Marico | India | 🏢 Onsite | — | 2027-01-16 | Unstop |
 | [PromptX](https://unstop.com/competitions/promptx-s2s-1721995) | S2S | India | 🏢 Onsite | — | 2026-12-10 | Unstop |
+| [TVS Credit E.P.I.C 8.0 — IT Challenge](https://unstop.com/competitions/crp-tvs-credit-epic-80-it-challenge-epic-season-8-tvs-credit-1701115) | TVS Credit | India | 🏢 Onsite | — | 2026-12-20 | Unstop |
 
 ## Recently Expired
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Build Your First AI Agent](https://unstop.com/workshops-webinars/build-your-first-ai-agent-pregrad-1784648) | Pregrad | India | 🏢 Onsite | — | 2026-11-13 | Unstop |
 | [Mega Monthly Quiz 32](https://unstop.com/quiz/mega-monthly-quiz-32-netclan-explorer-1783637) | Netclan Explorer | India | 🏢 Onsite | — | 2026-11-12 | Unstop |
 | [Masters’ Union Nations ’26 | Experiential MUN & Student Conference](https://unstop.com/conferences/masters-union-nations-26-experiential-mun-student-conference-masters-union-school-of-business-1784550) | Masters' Union School of Business | India | 🏢 Onsite | — | 2026-11-12 | Unstop |
 | [Jinzai - The Annual HR Competition](https://unstop.com/competitions/jinzai-the-annual-hr-competition-indian-institute-of-managementvishakapatnam-1798955) | Indian Institute Of Management,Vishakapatnam | India | 🏢 Onsite | — | 2026-11-12 | Unstop |
@@ -132,4 +133,3 @@
 | [National Finance & Investment Challenge 2026](https://unstop.com/competitions/national-finance-investment-challenge-2026-caplexus-capital-1788810) | Caplexus Capital | India | 🏢 Onsite | — | 2026-11-09 | Unstop |
 | [CODE SHIFT 2026](https://unstop.com/hackathons/code-shift-2026-infotechiezz-1786387) | InfoTechiezz | India | 🏢 Onsite | — | 2026-11-08 | Unstop |
 | [COBOT-EX 2026 | Inter-College Hackathon](https://unstop.com/hackathons/cobot-ex-2026-inter-college-hackathon-b-s-abdur-rahman-crescent-institute-of-science-and-technology-chennai-t-1783202) | B. S. Abdur Rahman Crescent Institute of Science and Technology, Chennai, Tamil Nadu | India | 🏢 Onsite | — | 2026-11-07 | Unstop |
-| [MOSIP Decode 2026](https://unstop.com/hackathons/mosip-decode-2026-synergy-26-international-institute-of-information-technology-iiit-bangalore-1735221) | International Institute of Information Technology (IIIT), Bangalore | India | 🏢 Onsite | — | 2026-11-06 | Unstop |

@@ -1,6 +1,6 @@
 # 🏢 Pregrad
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-13*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-14*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Build Your First AI Agent](https://unstop.com/workshops-webinars/build-your-first-ai-agent-pregrad-1784648) | Pregrad | India | 🏢 Onsite | — | 2026-11-13 | Unstop |
 
 ## 📖 Interview Preparation
 

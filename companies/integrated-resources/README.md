@@ -1,11 +1,11 @@
 # 🏢 Integrated Resources
 
-**12 active opportunities** | **12 total tracked** | *Last updated: 2026-11-13*
+**12 active opportunities** | **12 total tracked** | *Last updated: 2026-11-14*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Boston, MA, Santa Clara, CA, Exton, PA, Cherry Hills Village, CO, Westborough, MA
+- **Categories:** Fresher Job, Internship
+- **Locations:** North Haven, CT, Boston, MA, Ambler, PA, Santa Clara, CA, Westborough, MA
 
 ## Current Opportunities
 

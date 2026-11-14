@@ -1,11 +1,11 @@
 # 🏢 Amgen
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-13*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-14*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Tampa, FL, Thousand Oaks, CA, Remote in USA, Cambridge, MA, Remote in USA, Thousand Oaks, CA, Holly Springs, NC, New Albany, OH, West Greenwich, RI
+- **Categories:** Fresher Job, Internship
+- **Locations:** Remote in USA, Tampa, FL, Thousand Oaks, CA, Cambridge, MA, Remote in USA, Thousand Oaks, CA, Holly Springs, NC, New Albany, OH, West Greenwich, RI
 
 ## Current Opportunities
 

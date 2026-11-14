@@ -1,11 +1,11 @@
 # 🏢 Sierra Nevada Corporation
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-13*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-14*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Reston, VA, Lone Tree, CO, Sparks, NV
+- **Locations:** Lone Tree, CO, Sparks, NV, Reston, VA
 
 ## Current Opportunities
 

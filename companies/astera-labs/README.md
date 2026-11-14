@@ -1,11 +1,11 @@
 # 🏢 Astera Labs
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-13*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-14*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Toronto, ON, Canada, Vancouver, BC, Canada
+- **Locations:** Vancouver, BC, Canada, Toronto, ON, Canada
 
 ## Current Opportunities
 

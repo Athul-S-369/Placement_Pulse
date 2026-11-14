@@ -1,11 +1,11 @@
 # 🏢 Chicago Trading Company
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-13*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-14*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Chicago, IL, NYC, Chicago, IL
+- **Locations:** Chicago, IL, Chicago, IL, NYC
 
 ## Current Opportunities
 

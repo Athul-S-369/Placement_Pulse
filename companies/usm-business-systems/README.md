@@ -1,11 +1,11 @@
 # 🏢 USM Business Systems
 
-**21 active opportunities** | **21 total tracked** | *Last updated: 2026-11-13*
+**21 active opportunities** | **21 total tracked** | *Last updated: 2026-11-14*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Traverse City, MI, Washington, DC, Columbus, OH, Westminster, CO, Alexandria, VA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Chicago, IL, California City, CA, El Segundo, CA, Chantilly, VA, Manassas, VA
 
 ## Current Opportunities
 

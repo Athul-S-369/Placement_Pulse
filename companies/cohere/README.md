@@ -1,11 +1,11 @@
 # 🏢 Cohere
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-11-13*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-11-14*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Canada, United Kingdom, United States, Montreal, QC, Canada, Toronto, ON, Canada, Calgary, AB, Canada, Vancouver, BC, Canada, Montreal, QC, Canada, London, UK, Toronto, ON, Canada, SF, Toronto, ON, Canada, SF, NYC
+- **Categories:** Fresher Job, Internship
+- **Locations:** Montreal, QC, Canada, London, UK, Toronto, ON, Canada, SF, Toronto, ON, Canada, SF, NYC, Montreal, QC, Canada, Toronto, ON, Canada, Calgary, AB, Canada, Vancouver, BC, Canada, Canada, United Kingdom, United States
 
 ## Current Opportunities
 

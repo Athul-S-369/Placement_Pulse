@@ -1,13 +1,14 @@
 # 💼 Fresher Job
 
-**1476 active** | **0 expired** | **1476 total**
+**1477 active** | **0 expired** | **1477 total**
 
-*Last updated: 2026-11-13*
+*Last updated: 2026-11-14*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer](https://h2oai.applytojob.com/apply/QwA3SV58KB/Software-Engineer) | H2O.ai | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Research Engineer - Synthetic Data](https://jobs.ashbyhq.com/pragmatike/e51d910a-a3e6-459d-b3b5-ffa1d300c256/application?embed=true) | Pragmatike | SF, Remote in USA, Remote in Singapore, Singapore | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Automotive Data Analyst](https://jdpa.wd501.myworkdayjobs.com/JDPower/job/Remote-Canada/Automotive-Data-Analyst_R-100570) | J.D. Power | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Full Stack Software Engineer](https://ats.rippling.com/empowerly/jobs/bf9b3e41-e94a-409e-8dc6-620f2cc0171b) | Empowerly | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Associate GTM Engineer](https://jobs.lever.co/leantaas/c15b6de5-c2bf-4499-9b53-b41960551719/apply) | LeanTaaS | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Audio Rater - Generalist - English](https://jobs.lever.co/weloglobal/a359138d-45e6-4e40-8818-9ea8c05c516f/apply) | Welo Global | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Advanced Analytics Developer Associate - Enterprise Advanced Analytics](https://aah.wd5.myworkdayjobs.com/External/job/Remote/IT-Advanced-Analytics-Developer-Associate_R271506) | Advocate Health Care | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Software Engineer Early Career - Cloud](https://caci.wd1.myworkdayjobs.com/external/job/Hanover-MD-US/Software-Engineer---Early-Career---Cloud_330679) | CACI | Remote in USA, Hanover, MD | 🌐 Remote | — | — | SimplifyJobs New Grad |
