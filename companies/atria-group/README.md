@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** San Jose, CA, Hartford, CT, Chicago, IL, Thousand Oaks, CA, Sunnyvale, CA
+- **Locations:** San Jose, CA, Plainview, NY, St. Louis, MO, Alpharetta, GA, Dallas, TX
 
 ## Current Opportunities
 

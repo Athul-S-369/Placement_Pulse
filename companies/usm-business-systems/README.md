@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Bluemont, VA, Augusta, ME, San Antonio, TX, California City, CA, Chantilly, VA
+- **Locations:** Bloomington, MN, St. Louis, MO, Chicago, IL, Jefferson City, MO, El Segundo, CA
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**104 active** | **564 expired** | **668 total**
+**109 active** | **564 expired** | **673 total**
 
 *Last updated: 2026-11-14*
 
@@ -8,6 +8,11 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Configure 2026: A Mobility Hackathon](https://unstop.com/hackathons/configure-2026-a-mobility-hackathon-zeliot-pvt-ltd-1811085) | Zeliot Pvt Ltd | India | 🏢 Onsite | — | 2026-11-26 | Unstop |
+| [HireveinAI Ideathon 2026](https://unstop.com/competitions/hireveinai-ideathon-2026-hireveinai-ideathon-2026-hireveinai-innovations-private-limited-1810597) | HireveinAI Innovations Private Limited | India | 🏢 Onsite | — | 2027-01-15 | Unstop |
+| [Mic Mitra Quiz Competition](https://unstop.com/quiz/mic-mitra-quiz-competition-gulzar-group-of-institutes-ggi-khanna-punjab-1810947) | Gulzar Group of Institutes (GGI), Khanna, Punjab | India | 🏢 Onsite | — | 2026-11-20 | Unstop |
+| [CODERED'26](https://unstop.com/hackathons/codered26-bms-insitute-of-technology-and-management-1810268) | BMS Insitute of Technology and Management | India | 🏢 Onsite | — | 2026-12-29 | Unstop |
+| [Vats Mobility – National Business & Innovation Challenge 2026](https://unstop.com/competitions/vats-mobility-national-business-innovation-challenge-2026-vats-mobility-1810863) | Vats Mobility | India | 🏢 Onsite | — | 2026-12-05 | Unstop |
 | [AI Ready: From Student to AI-Enabled Professional Workshop](https://unstop.com/workshops-webinars/ai-ready-from-student-to-ai-enabled-professional-workshop-sir-visvesvaraya-institute-of-technology-sv-1807882) | Sir Visvesvaraya Institute Of Technology (SVIT), Nashik, Maharashtra | India | 🏢 Onsite | — | 2026-11-27 | Unstop |
 | [L'Oréal Brandstorm 2027](https://unstop.com/competitions/crp-loreal-brandstorm-2027-loreal-1806930) | L’Oréal | India | 🏢 Onsite | — | 2027-03-02 | Unstop |
 | [ZEPP Student Shopping Quiz – Trial](https://unstop.com/quiz/zepp-student-shopping-quiz-trial-zeitgeist-retail-private-limited-1808622) | Zeitgeist Retail Private Limited | India | 🏢 Onsite | — | 2026-11-27 | Unstop |
@@ -103,11 +108,6 @@
 | [Stainless Spark – Engineering Innovation, Building Futures](https://unstop.com/competitions/crp-stainless-spark-engineering-innovation-building-futures-stainless-spark-case-study-competition-jindal-stain-1572025) | Jindal Stainless Limited | India | 🏢 Onsite | — | 2026-11-19 | Unstop |
 | [Tata Imagination Challenge 2026](https://unstop.com/competitions/crp-tata-imagination-challenge-2026-tata-group-1740413) | Tata Group | India | 🏢 Onsite | — | 2026-12-06 | Unstop |
 | [Slay Cybersecurity Conference and Workshop](https://unstop.com/workshops-webinars/slay-cybersecurity-conference-and-workshop-jalpaiguri-government-engineering-college-jgec-west-bengal-1743199) | Jalpaiguri Government Engineering College (JGEC), West Bengal | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
-| [CodeNeuraX: AlgoRush](https://unstop.com/hackathons/codeneurax-algorush-codeneurax-1737089) | CodeNeuraX | India | 🏢 Onsite | — | 2026-12-18 | Unstop |
-| [Britannia Creatovate 2.0 - Sales and Marketing Track](https://unstop.com/competitions/crp-britannia-creatovate-20-sales-and-marketing-track-britannia-industries-ltd-1730216) | Britannia Industries Ltd. | India | 🏢 Onsite | — | 2026-11-17 | Unstop |
-| [Marico Over The Wall Season 14](https://unstop.com/competitions/crp-marico-over-the-wall-season-14-marico-1727644) | Marico | India | 🏢 Onsite | — | 2027-01-16 | Unstop |
-| [PromptX](https://unstop.com/competitions/promptx-s2s-1721995) | S2S | India | 🏢 Onsite | — | 2026-12-10 | Unstop |
-| [TVS Credit E.P.I.C 8.0 — IT Challenge](https://unstop.com/competitions/crp-tvs-credit-epic-80-it-challenge-epic-season-8-tvs-credit-1701115) | TVS Credit | India | 🏢 Onsite | — | 2026-12-20 | Unstop |
 
 ## Recently Expired
 
