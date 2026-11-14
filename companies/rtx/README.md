@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Remote in USA, Richardson, TX, Remote in USA, Arlington, VA, Huntsville, AL, Fort Wayne, IN
+- **Categories:** Internship, Fresher Job
+- **Locations:** Fort Wayne, IN, Arlington, VA, Remote in USA, Richardson, TX, Remote in USA, Longueuil, QC, Canada
 
 ## Current Opportunities
 

@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**November 14, 2026** &nbsp;—&nbsp; **87** Fresher Job &nbsp;·&nbsp; **83** Internship &nbsp;·&nbsp; **9** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**November 14, 2026** &nbsp;—&nbsp; **87** Fresher Job &nbsp;·&nbsp; **82** Internship &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador &nbsp;·&nbsp; **1** Hackathon
 
-**185 opportunities** added or updated in the latest run (November 14, 2026).
+**176 opportunities** added or updated in the latest run (November 14, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -132,15 +132,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [C++ Developer](https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4844280101) | think-cell | Remote in UK | Fresher Job | Remote | — |
 | [AI Tutor Chinese](https://job-boards.greenhouse.io/xai/jobs/5090180007) | xAI | Remote in USA | Fresher Job | Remote | — |
 | [AI Tutor – Estonian](https://job-boards.greenhouse.io/xai/jobs/5270902007) | xAI | Remote in USA, Remote in  | Fresher Job | Remote | — |
-| [Mock Recruitment Drive Workshop](https://unstop.com/workshops-webinars/mock-recruitment-drive-workshop-amity-university-au-noida-1805194) | Amity University (AU), Noida | India | Hackathon | Onsite | 2026-11-17 |
-| [Market Maven](https://unstop.com/competitions/market-maven-delhi-school-of-economics-dse-new-delhi-1808974) | Delhi School of Economics (D | India | Hackathon | Onsite | 2026-11-28 |
-| [Game On Night: The Prompt Challenge](https://unstop.com/competitions/game-on-night-the-prompt-challenge-ies-university-bhopal-1809171) | IES University, Bhopal | India | Hackathon | Onsite | 2026-12-10 |
-| [CRESCENDO - Battle Of Bands | Chaos '27](https://unstop.com/events/crescendo-battle-of-bands-chaos-2027-iim-ahmedabad-1809567) | Indian Institute of Manageme | India | Hackathon | Onsite | 2027-01-17 |
-| [L'Oréal Brandstorm 2027](https://unstop.com/competitions/crp-loreal-brandstorm-2027-loreal-1806930) | L’Oréal | India | Hackathon | Onsite | 2027-03-02 |
-| [Play Arena - Imagine The Impossible](https://unstop.com/competitions/play-arena-imagine-the-impossible-mumbai-university-mu-mumbai-1810156) | Mumbai University (MU), Mumb | India | Hackathon | Onsite | 2026-11-28 |
-| [Risk Ladder](https://unstop.com/competitions/risk-ladder-adhikosh27-national-institute-of-bank-management-nibm-pune-1809151) | National Institute of Bank M | India | Hackathon | Onsite | 2027-01-30 |
-| [Poster Presentation Competition](https://unstop.com/conferences/poster-presentation-competition-soil-school-of-business-design-1808621) | SOIL School Of Business Desi | India | Hackathon | Onsite | 2026-11-30 |
-| [ZEPP Student Shopping Quiz – Trial](https://unstop.com/quiz/zepp-student-shopping-quiz-trial-zeitgeist-retail-private-limited-1808622) | Zeitgeist Retail Private Lim | India | Hackathon | Onsite | 2026-11-27 |
+| [Finnovate](https://unstop.com/competitions/finnovate-ignitron-2k26-gm-university-davanagere-1795511) | GM University Davanagere | India | Hackathon | Onsite | 2026-11-30 |
 | [Careers at Adobe](https://careers.adobe.com/us/en/) | Adobe | India | Internship | Onsite | — |
 | [Advanced Analytics Intern](https://careers.airbnb.com/positions/8380007?gh_jid=8380007) | Airbnb | Remote in USA | Internship | Remote | — |
 | [Hardware Engineer Intern - Product Lifecycle Engineering](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering---Indianapolis--Indiana_JR37467-1) | Allegion | Indianapolis, IN | Internship | Onsite | — |
@@ -173,7 +165,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Software Engineer Intern](https://apply.workable.com/datavisor-jobs/j/2FB6A93BF6/apply) | DataVisor | Remote in Canada | Internship | Remote | — |
 | [Data Science Intern - Summer 2027 - Program](https://job-boards.greenhouse.io/datacor/jobs/5242412007) | Datacor | Remote in USA | Internship | Remote | — |
 | [Hardware Engineer Co-op - Electrical Engineering](https://masco.wd1.myworkdayjobs.com/deltafaucet/job/US---Indiana---Indianapolis/Hardware-Engineering-Co-op--Electrical-Engineering-_REQ54344) | Delta Faucet | Indianapolis, IN | Internship | Onsite | — |
-| [Software Engineering Intern - Test Automation](https://job-boards.greenhouse.io/digs/jobs/4663939006) | Digs | Remote / Various | Internship | Remote | — |
 | [Applied AI Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662) | DwyerOmega | Remote in USA | Internship | Remote | — |
 | [AI Intern](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008) | EQT Corporation | Remote in USA | Internship | Remote | — |
 | [AI Software Developer Intern - Multiple Teams](https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false) | Elire | Remote in USA, Minneapoli | Internship | Remote | — |
@@ -347,6 +338,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-11-14 06:56 UTC</sub>
+<sub>Last generated: 2026-11-14 15:19 UTC</sub>
 
 </div>

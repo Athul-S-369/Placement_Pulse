@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Chicago, IL, California City, CA, El Segundo, CA, Chantilly, VA, Manassas, VA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Bluemont, VA, Augusta, ME, San Antonio, TX, California City, CA, Chantilly, VA
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Allen, TX, Santa Clara, CA, Ashburn, VA, Seattle, WA, Santa Clara, CA, Kitchener, ON, Canada
+- **Categories:** Internship, Fresher Job
+- **Locations:** Kitchener, ON, Canada, Santa Clara, CA, Nashville, TN, Austin, TX, United States, Seattle, WA, Santa Clara, CA, United States
 
 ## Current Opportunities
 
