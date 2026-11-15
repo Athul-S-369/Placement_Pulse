@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Gloucester, UK, Beaverton, OR, California, San Diego, CA, Seattle, WA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Gloucester, UK, Beaverton, OR, San Diego, CA, Seattle, WA, Santa Clara, CA
 
 ## Current Opportunities
 

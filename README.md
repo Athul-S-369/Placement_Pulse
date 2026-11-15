@@ -6,9 +6,9 @@
 
 **India's open-source aggregator for software internships, fresher jobs,<br>hackathons, fellowships, and placement opportunities.**
 
-[![Opportunities](https://img.shields.io/badge/Opportunities-3084-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
-[![Active](https://img.shields.io/badge/Active-2509-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
-[![Companies](https://img.shields.io/badge/Companies-2334-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
+[![Opportunities](https://img.shields.io/badge/Opportunities-3086-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
+[![Active](https://img.shields.io/badge/Active-2511-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
+[![Companies](https://img.shields.io/badge/Companies-2336-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
 [![Updated](https://img.shields.io/badge/Updated-Nov%2015%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
@@ -134,16 +134,16 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [C++ Developer](https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4844280101) | think-cell | Remote in UK | Fresher Job | Remote | — |
 | [AI Tutor Chinese](https://job-boards.greenhouse.io/xai/jobs/5090180007) | xAI | Remote in USA | Fresher Job | Remote | — |
 | [AI Tutor – Estonian](https://job-boards.greenhouse.io/xai/jobs/5270902007) | xAI | Remote in USA, Remote in  | Fresher Job | Remote | — |
+| [Turncoat’26](https://unstop.com/competitions/turncoat26-amity-university-1812163) | Amity University | India | Hackathon | Onsite | 2026-11-18 |
 | [RAIT-CTF 2.0](https://unstop.com/quiz/rait-ctf-20-dy-patil-ramrao-adik-institute-of-technology-rait-navi-mumbai-1769033) | D.Y. Patil Ramrao Adik Insti | India | Hackathon | Onsite | 2027-01-31 |
-| [Ditto by Finshots Strategy Sprint: Season 1](https://unstop.com/competitions/ditto-by-finshots-strategy-sprint-season-1-ditto-insurance-1808031) | Ditto Insurance | India | Hackathon | Onsite | 2026-11-28 |
 | [ELU Build](https://unstop.com/hackathons/elubuild-edulinkup-1811493) | EduLinkUp | India | Hackathon | Onsite | 2026-12-25 |
 | [Frame Shift](https://unstop.com/events/frame-shift-iim-indore-1811559) | Indian Institute of Manageme | India | Hackathon | Onsite | 2027-01-24 |
 | [Beer Game 2026](https://unstop.com/competitions/beergame-2026-iim-lucknow-1811895) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-11-22 |
-| [The Algo Trading Innovation Challenge](https://unstop.com/hackathons/the-algo-trading-innovation-challenge-iit-bombay-1811240) | Indian Institute of Technolo | India | Hackathon | Onsite | 2026-11-29 |
-| [Vincenza 13.0 - The International Business Plan Competition](https://unstop.com/competitions/vincenza-130-the-international-business-plan-competition-delphique-2026-mdi-1804689) | Management Development Insti | India | Hackathon | Onsite | 2026-12-05 |
+| [Boardroom 2.0](https://unstop.com/competitions/boardroom-20-mahindra-university-1811161) | Mahindra University | India | Hackathon | Onsite | 2026-11-24 |
 | [Culture to Commerce: Where Culture Meets Global Business](https://unstop.com/competitions/culture-to-commerce-where-culture-meets-global-business-markhub24-1811172) | MarkHub24 | India | Hackathon | Onsite | 2026-11-21 |
 | [ADMAD 2026 — Inter-Collegiate Advertising & Creativity Compe...](https://unstop.com/competitions/admad-2026-inter-collegiate-advertising-creativity-competition-sies-nerul-college-of-arts-science-and-comme-1811050) | S.I.E.S School of Business S | India | Hackathon | Onsite | 2026-11-28 |
 | [TechForge 1.0](https://unstop.com/competitions/techforge-10-sda-bocconi-asia-center-mumbai-1806110) | SDA Bocconi Asia Center, Mum | India | Hackathon | Onsite | 2026-12-20 |
+| [TechZen AI Challenge 2026](https://unstop.com/quiz/techzen-ai-challenge-2026-techzen-innovation-1812236) | TechZen Innovation | India | Hackathon | Onsite | 2026-12-02 |
 | [Careers at Adobe](https://careers.adobe.com/us/en/) | Adobe | India | Internship | Onsite | — |
 | [Advanced Analytics Intern](https://careers.airbnb.com/positions/8380007?gh_jid=8380007) | Airbnb | Remote in USA | Internship | Remote | — |
 | [Hardware Engineer Intern - Product Lifecycle Engineering](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering---Indianapolis--Indiana_JR37467-1) | Allegion | Indianapolis, IN | Internship | Onsite | — |
@@ -240,7 +240,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 ## Active Opportunities
 
 The 50 most recently added active opportunities across all categories.
-[View all 3084 on the website.](https://athul-s-369.github.io/Placement_Pulse)
+[View all 3086 on the website.](https://athul-s-369.github.io/Placement_Pulse)
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -250,6 +250,8 @@ The 50 most recently added active opportunities across all categories.
 | [ADMAD 2026 — Inter-Collegiate Advertising & Creativity Compe...](https://unstop.com/competitions/admad-2026-inter-collegiate-advertising-creativity-competition-sies-nerul-college-of-arts-science-and-comme-1811050) | S.I.E.S School of Business S | India | Hackathon | Onsite | 2026-11-28 |
 | [Ditto by Finshots Strategy Sprint: Season 1](https://unstop.com/competitions/ditto-by-finshots-strategy-sprint-season-1-ditto-insurance-1808031) | Ditto Insurance | India | Hackathon | Onsite | 2026-11-28 |
 | [Vincenza 13.0 - The International Business Plan Competition](https://unstop.com/competitions/vincenza-130-the-international-business-plan-competition-delphique-2026-mdi-1804689) | Management Development Insti | India | Hackathon | Onsite | 2026-12-05 |
+| [Turncoat’26](https://unstop.com/competitions/turncoat26-amity-university-1812163) | Amity University | India | Hackathon | Onsite | 2026-11-18 |
+| [Boardroom 2.0](https://unstop.com/competitions/boardroom-20-mahindra-university-1811161) | Mahindra University | India | Hackathon | Onsite | 2026-11-24 |
 | [Software Engineer](https://h2oai.applytojob.com/apply/QwA3SV58KB/Software-Engineer) | H2O.ai | Remote in USA | Fresher Job | Remote | Open |
 | [Configure 2026: A Mobility Hackathon](https://unstop.com/hackathons/configure-2026-a-mobility-hackathon-zeliot-pvt-ltd-1811085) | Zeliot Pvt Ltd | India | Hackathon | Onsite | 2026-11-26 |
 | [HireveinAI Ideathon 2026](https://unstop.com/competitions/hireveinai-ideathon-2026-hireveinai-ideathon-2026-hireveinai-innovations-private-limited-1810597) | HireveinAI Innovations Priva | India | Hackathon | Onsite | 2027-01-15 |
@@ -292,8 +294,6 @@ The 50 most recently added active opportunities across all categories.
 | [Software Development Engineer](https://jobs.smartrecruiters.com/Mirantis/744000160982204) | Mirantis | Remote in USA | Fresher Job | Remote | Open |
 | [Marketing Technology & Data Coordinator](https://jobs.ashbyhq.com/barnes/74e67ad5-b2f1-4a2c-aba3-99b403c4aca9/application?embed=true) | Barnes & Thornburg | Indianapolis, IN, Nashvil | Fresher Job | Onsite | Open |
 | [Data Engineer Intern](https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716) | Riot Games | Remote in USA | Internship | Remote | Open |
-| [The Escape: Idea to AI Startup](https://unstop.com/competitions/the-escape-idea-to-ai-startup-techno-india-university-1798563) | Techno India University | India | Hackathon | Onsite | 2026-12-01 |
-| [Tech Challenge 2026](https://unstop.com/competitions/tech-challenge-2026-panimalar-institute-of-technology-pit-chennai-1805787) | Panimalar Institute Of Techn | India | Hackathon | Onsite | 2026-11-30 |
 
 ---
 
@@ -303,7 +303,7 @@ The 50 most recently added active opportunities across all categories.
 |----------|-------|
 | [Fresher Job](categories/fresher-job/) | 1477 |
 | [Internship](categories/internship/) | 924 |
-| [Hackathon](categories/hackathon/) | 677 |
+| [Hackathon](categories/hackathon/) | 679 |
 | [Open Source Program](categories/open-source-program/) | 2 |
 | [Fellowship](categories/fellowship/) | 2 |
 | [Student Ambassador](categories/student-ambassador/) | 2 |
@@ -353,6 +353,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-11-15 15:49 UTC</sub>
+<sub>Last generated: 2026-11-15 21:12 UTC</sub>
 
 </div>

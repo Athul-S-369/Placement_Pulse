@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** McKinney, TX, Indianapolis, IN, Remote in USA, Richardson, TX, Huntsville, AL, Fort Wayne, IN
+- **Categories:** Internship, Fresher Job
+- **Locations:** Remote in USA, Cedar Rapids, IA, Andover, MA, Remote in USA, Richardson, TX, Fort Wayne, IN
 
 ## Current Opportunities
 

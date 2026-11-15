@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Ottawa, ON, Canada, California, Vancouver, BC, Canada, Canada, Sunnyvale, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Naperville, IL, Dallas, TX, Canada, Long Island City, Queens, NY, Naperville, IL, Ottawa, ON, Canada
 
 ## Current Opportunities
 

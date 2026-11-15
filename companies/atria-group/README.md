@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Chicago, IL, Plainview, NY, Broomfield, CO, St. Louis, MO, San Jose, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Broomfield, CO, Thousand Oaks, CA, Plainview, NY, San Jose, CA, Sunnyvale, CA
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Chicago, IL, Columbus, OH, Washington, DC, California City, CA, Augusta, ME
+- **Categories:** Internship, Fresher Job
+- **Locations:** Jefferson City, MO, Washington, DC, Bloomington, MN, California City, CA, Augusta, ME
 
 ## Current Opportunities
 

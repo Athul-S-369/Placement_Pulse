@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**103 active** | **574 expired** | **677 total**
+**105 active** | **574 expired** | **679 total**
 
 *Last updated: 2026-11-15*
 
@@ -12,6 +12,8 @@
 | [ADMAD 2026 — Inter-Collegiate Advertising & Creativity Competition](https://unstop.com/competitions/admad-2026-inter-collegiate-advertising-creativity-competition-sies-nerul-college-of-arts-science-and-comme-1811050) | S.I.E.S School of Business Studies (SIES SBS), Nerul, Navi Mumbai | India | 🏢 Onsite | — | 2026-11-28 | Unstop |
 | [Ditto by Finshots Strategy Sprint: Season 1](https://unstop.com/competitions/ditto-by-finshots-strategy-sprint-season-1-ditto-insurance-1808031) | Ditto Insurance | India | 🏢 Onsite | — | 2026-11-28 | Unstop |
 | [Vincenza 13.0 - The International Business Plan Competition](https://unstop.com/competitions/vincenza-130-the-international-business-plan-competition-delphique-2026-mdi-1804689) | Management Development Institute (MDI), Gurgaon | India | 🏢 Onsite | — | 2026-12-05 | Unstop |
+| [Turncoat’26](https://unstop.com/competitions/turncoat26-amity-university-1812163) | Amity University | India | 🏢 Onsite | — | 2026-11-18 | Unstop |
+| [Boardroom 2.0](https://unstop.com/competitions/boardroom-20-mahindra-university-1811161) | Mahindra University | India | 🏢 Onsite | — | 2026-11-24 | Unstop |
 | [Configure 2026: A Mobility Hackathon](https://unstop.com/hackathons/configure-2026-a-mobility-hackathon-zeliot-pvt-ltd-1811085) | Zeliot Pvt Ltd | India | 🏢 Onsite | — | 2026-11-26 | Unstop |
 | [HireveinAI Ideathon 2026](https://unstop.com/competitions/hireveinai-ideathon-2026-hireveinai-ideathon-2026-hireveinai-innovations-private-limited-1810597) | HireveinAI Innovations Private Limited | India | 🏢 Onsite | — | 2027-01-15 | Unstop |
 | [Mic Mitra Quiz Competition](https://unstop.com/quiz/mic-mitra-quiz-competition-gulzar-group-of-institutes-ggi-khanna-punjab-1810947) | Gulzar Group of Institutes (GGI), Khanna, Punjab | India | 🏢 Onsite | — | 2026-11-20 | Unstop |
@@ -106,8 +108,6 @@
 | [Britannia Creatovate 2.0 - Sales and Marketing Track](https://unstop.com/competitions/crp-britannia-creatovate-20-sales-and-marketing-track-britannia-industries-ltd-1730216) | Britannia Industries Ltd. | India | 🏢 Onsite | — | 2026-11-17 | Unstop |
 | [Marico Over The Wall Season 14](https://unstop.com/competitions/crp-marico-over-the-wall-season-14-marico-1727644) | Marico | India | 🏢 Onsite | — | 2027-01-16 | Unstop |
 | [PromptX](https://unstop.com/competitions/promptx-s2s-1721995) | S2S | India | 🏢 Onsite | — | 2026-12-10 | Unstop |
-| [TVS Credit E.P.I.C 8.0 — IT Challenge](https://unstop.com/competitions/crp-tvs-credit-epic-80-it-challenge-epic-season-8-tvs-credit-1701115) | TVS Credit | India | 🏢 Onsite | — | 2026-12-20 | Unstop |
-| [Unstop Quizverse 2026](https://unstop.com/quiz/unstop-quizverse-2026-unstop-1710459) | Unstop | India | 🏢 Onsite | — | 2026-11-28 | Unstop |
 
 ## Recently Expired
 
