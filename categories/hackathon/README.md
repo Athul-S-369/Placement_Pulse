@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**99 active** | **574 expired** | **673 total**
+**103 active** | **574 expired** | **677 total**
 
 *Last updated: 2026-11-15*
 
@@ -8,6 +8,10 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [RAIT-CTF 2.0](https://unstop.com/quiz/rait-ctf-20-dy-patil-ramrao-adik-institute-of-technology-rait-navi-mumbai-1769033) | D.Y. Patil Ramrao Adik Institute of Technology (RAIT), Navi Mumbai | India | 🏢 Onsite | — | 2027-01-31 | Unstop |
+| [ADMAD 2026 — Inter-Collegiate Advertising & Creativity Competition](https://unstop.com/competitions/admad-2026-inter-collegiate-advertising-creativity-competition-sies-nerul-college-of-arts-science-and-comme-1811050) | S.I.E.S School of Business Studies (SIES SBS), Nerul, Navi Mumbai | India | 🏢 Onsite | — | 2026-11-28 | Unstop |
+| [Ditto by Finshots Strategy Sprint: Season 1](https://unstop.com/competitions/ditto-by-finshots-strategy-sprint-season-1-ditto-insurance-1808031) | Ditto Insurance | India | 🏢 Onsite | — | 2026-11-28 | Unstop |
+| [Vincenza 13.0 - The International Business Plan Competition](https://unstop.com/competitions/vincenza-130-the-international-business-plan-competition-delphique-2026-mdi-1804689) | Management Development Institute (MDI), Gurgaon | India | 🏢 Onsite | — | 2026-12-05 | Unstop |
 | [Configure 2026: A Mobility Hackathon](https://unstop.com/hackathons/configure-2026-a-mobility-hackathon-zeliot-pvt-ltd-1811085) | Zeliot Pvt Ltd | India | 🏢 Onsite | — | 2026-11-26 | Unstop |
 | [HireveinAI Ideathon 2026](https://unstop.com/competitions/hireveinai-ideathon-2026-hireveinai-ideathon-2026-hireveinai-innovations-private-limited-1810597) | HireveinAI Innovations Private Limited | India | 🏢 Onsite | — | 2027-01-15 | Unstop |
 | [Mic Mitra Quiz Competition](https://unstop.com/quiz/mic-mitra-quiz-competition-gulzar-group-of-institutes-ggi-khanna-punjab-1810947) | Gulzar Group of Institutes (GGI), Khanna, Punjab | India | 🏢 Onsite | — | 2026-11-20 | Unstop |
@@ -104,9 +108,6 @@
 | [PromptX](https://unstop.com/competitions/promptx-s2s-1721995) | S2S | India | 🏢 Onsite | — | 2026-12-10 | Unstop |
 | [TVS Credit E.P.I.C 8.0 — IT Challenge](https://unstop.com/competitions/crp-tvs-credit-epic-80-it-challenge-epic-season-8-tvs-credit-1701115) | TVS Credit | India | 🏢 Onsite | — | 2026-12-20 | Unstop |
 | [Unstop Quizverse 2026](https://unstop.com/quiz/unstop-quizverse-2026-unstop-1710459) | Unstop | India | 🏢 Onsite | — | 2026-11-28 | Unstop |
-| [Indradhanu: PCCOE International Grand Challenge 2026](https://unstop.com/hackathons/indradhanu-pccoe-international-grand-challenge-2026-pimpri-chinchwad-college-of-engineering-pccoe-pune-1710779) | Pimpri Chinchwad College of Engineering (PCCOE), Pune | India | 🏢 Onsite | — | 2027-02-15 | Unstop |
-| [Can you solve what 4100+ professionals were struggling with?](https://unstop.com/competitions/can-you-solve-what-4100-professionals-were-struggling-with-generally-critical-1710246) | Generally Critical | India | 🏢 Onsite | — | 2026-12-31 | Unstop |
-| [Students' Research Conclave 4.0](https://unstop.com/competitions/students-research-conclave-40-symbiosis-centre-for-management-studies-scms-pune-1709716) | Symbiosis Centre for Management Studies (SCMS), Pune | India | 🏢 Onsite | — | 2026-11-15 | Unstop |
 
 ## Recently Expired
 

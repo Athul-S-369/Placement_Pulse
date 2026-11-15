@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Westminster, CO, Washington, DC, San Antonio, TX, Manassas, VA, St. Louis, MO
+- **Locations:** Chicago, IL, Columbus, OH, Washington, DC, California City, CA, Augusta, ME
 
 ## Current Opportunities
 

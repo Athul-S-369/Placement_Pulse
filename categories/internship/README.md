@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**922 active** | **0 expired** | **922 total**
+**924 active** | **0 expired** | **924 total**
 
 *Last updated: 2026-11-15*
 
@@ -8,6 +8,8 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Quantrepreneur - Quantitative Development](https://jobs.lever.co/intropic/c31c65cc-178d-4a50-bc6a-4f4b057f4381/apply) | Intropic | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [Student Developer Intern - CASS Software Development Group](https://oregonstate.wd501.myworkdayjobs.com/OSU_Careers_Site/job/Corvallis-Main-Campus/Student-Developer---CASS-Software-Development-Group_JR0001296) | Oregon State University | Remote in USA, Corvallis, OR | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Research Intern - Autonomy](https://job-boards.greenhouse.io/stackav/jobs/5287594007) | StackAV | Remote in USA, Pittsburgh, PA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Machine Learning Operations Intern](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Key-Bank-Tower/Machine-Learning-Operations--MLOps--Intern_R188318) | Intermountain Healthcare | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Consumer Energy Analytics Intern](https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752) | Environmental Defense Fund | Remote in USA, St. Petersburg, FL | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -106,5 +108,3 @@
 | [Software Engineering Intern - Spring 2027](https://job-boards.greenhouse.io/mercury/jobs/6199367004) | Mercury | SF, Remote in USA, NYC, Portland, OR, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Research Scientist Intern - Applied Scientist](https://jobs.ashbyhq.com/collinear-ai/ae85fd08-dfd8-42e5-9b3b-9921ba24742b/application?embed=true) | Collinear AI | SF, India, Bengaluru, Karnataka, India, Sunnyvale, CA, United States | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Software Engineering Co-op Spring 2027](https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832) | GE Appliances | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
-| [Marketing & Operations Analytics Co-op - Strategy & Analytics](https://risepoint.wd503.myworkdayjobs.com/Risepoint/job/US---Remote/Marketing---Ops-Analytics-Co-Op_JR101345) | Risepoint | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Collections Data Analyst Intern](https://careers-growfinancial.icims.com/jobs/2755/job?mobile=true&needsRedirect=false) | Grow Financial Federal Credit Union | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
