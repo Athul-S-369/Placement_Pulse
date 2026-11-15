@@ -1,6 +1,6 @@
 # 🏢 Aveeranex (OPC) Private Limited
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-14*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-15*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Innovate - Online Hackathon](https://unstop.com/hackathons/innovate-online-hackathon-aveeranex-opc-private-limited-1783838) | Aveeranex (OPC) Private Limited | India | 🏢 Onsite | — | 2026-11-14 | Unstop |
 
 ## 📖 Interview Preparation
 

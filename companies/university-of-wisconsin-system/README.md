@@ -1,11 +1,11 @@
 # 🏢 University of Wisconsin System
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-14*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-15*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Winona, MN, River Falls, WI
+- **Locations:** River Falls, WI, Winona, MN
 
 ## Current Opportunities
 

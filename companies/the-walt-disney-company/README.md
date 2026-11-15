@@ -1,11 +1,11 @@
 # 🏢 The Walt Disney Company
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-14*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-15*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Glendale, CA, Bristol, CT
+- **Locations:** Bristol, CT, Glendale, CA
 
 ## Current Opportunities
 

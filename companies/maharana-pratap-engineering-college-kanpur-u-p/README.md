@@ -1,6 +1,6 @@
 # 🏢 Maharana Pratap Engineering College ,Kanpur (U.P )
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-14*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-15*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [International Conference on Sustainability Through Digital Transformation](https://unstop.com/conferences/international-conference-on-sustainability-through-digital-transformation-maharana-pratap-engineering-colleg-1787008) | Maharana Pratap Engineering College ,Kanpur (U.P ) | India | 🏢 Onsite | — | 2026-11-14 | Unstop |
 
 ## 📖 Interview Preparation
 

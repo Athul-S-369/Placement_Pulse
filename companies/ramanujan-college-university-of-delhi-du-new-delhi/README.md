@@ -1,6 +1,6 @@
 # 🏢 Ramanujan College, University of Delhi (DU), New Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-14*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-15*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Parliament Parley](https://unstop.com/competitions/parliament-parley-ramanujan-college-university-of-delhi-du-new-delhi-1800534) | Ramanujan College, University of Delhi (DU), New Delhi | India | 🏢 Onsite | — | 2026-11-14 | Unstop |
 
 ## 📖 Interview Preparation
 

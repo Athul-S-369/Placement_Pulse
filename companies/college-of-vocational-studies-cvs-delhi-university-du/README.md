@@ -1,6 +1,6 @@
 # 🏢 College of Vocational Studies (CVS), Delhi University (DU)
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-14*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-15*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Stratcade:The Grand Game of Minds](https://unstop.com/competitions/stratcadethe-grand-game-of-minds-college-of-vocational-studies-cvs-du-1805965) | College of Vocational Studies (CVS), Delhi University (DU) | India | 🏢 Onsite | — | 2026-11-14 | Unstop |
 
 ## 📖 Interview Preparation
 

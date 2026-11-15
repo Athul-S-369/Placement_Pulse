@@ -1,11 +1,11 @@
 # 🏢 Denso
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-14*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-15*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Southfield, MI, Maryville, TN
+- **Locations:** Maryville, TN, Southfield, MI
 
 ## Current Opportunities
 

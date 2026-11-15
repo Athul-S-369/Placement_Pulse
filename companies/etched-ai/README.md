@@ -1,11 +1,11 @@
 # 🏢 Etched.ai
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-14*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-15*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** San Jose, CA, Remote / Various
+- **Locations:** Remote / Various, San Jose, CA
 
 ## Current Opportunities
 

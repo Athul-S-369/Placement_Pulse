@@ -1,6 +1,6 @@
 # 🏢 Campus Konnect
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-14*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-15*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Fathom 1.0](https://unstop.com/quiz/fathom-10-campus-konnect-1805956) | Campus Konnect | India | 🏢 Onsite | — | 2026-11-14 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,11 +1,11 @@
 # 🏢 USM Business Systems
 
-**21 active opportunities** | **21 total tracked** | *Last updated: 2026-11-14*
+**21 active opportunities** | **21 total tracked** | *Last updated: 2026-11-15*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Bloomington, MN, St. Louis, MO, Chicago, IL, Jefferson City, MO, El Segundo, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Westminster, CO, Washington, DC, San Antonio, TX, Manassas, VA, St. Louis, MO
 
 ## Current Opportunities
 
