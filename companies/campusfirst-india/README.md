@@ -1,6 +1,6 @@
 # 🏢 CampusFirst India
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-15*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-16*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Campus Placement Aptitude Challenge 3](https://unstop.com/quiz/campus-placement-aptitude-challenge-3-campusfirst-india-1800995) | CampusFirst India | India | 🏢 Onsite | — | 2026-11-15 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,6 +1,6 @@
 # 🏢 College Of Engineering And Management,Kolaghat
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-15*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-16*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Inter-College Coding Competition 2026](https://unstop.com/hackathons/inter-college-coding-competition-2026-college-of-engineering-and-managementkolaghat-1801814) | College Of Engineering And Management,Kolaghat | India | 🏢 Onsite | — | 2026-11-15 | Unstop |
 
 ## 📖 Interview Preparation
 

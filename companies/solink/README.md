@@ -1,11 +1,11 @@
 # 🏢 Solink
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-15*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-16*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Ottawa, ON, Canada, Ottawa, ON, Canada, Remote in Canada
+- **Locations:** Ottawa, ON, Canada, Remote in Canada, Ottawa, ON, Canada
 
 ## Current Opportunities
 

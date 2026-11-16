@@ -1,6 +1,6 @@
 # 🏢 Asian School of Business (ASB), Noida
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-15*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-16*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Ideathon 8.0: International Business Plan Competition 2026](https://unstop.com/competitions/ideathon-80-international-business-plan-competition-2026-asian-school-of-business-asb-noida-1774652) | Asian School of Business (ASB), Noida | India | 🏢 Onsite | — | 2026-11-15 | Unstop |
 
 ## 📖 Interview Preparation
 

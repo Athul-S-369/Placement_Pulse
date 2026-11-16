@@ -1,6 +1,6 @@
 # 🏢 Rishihood University
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-15*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-16*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Bandish Breakouts: Battle of Bands](https://unstop.com/events/bandish-breakouts-battle-of-bands-damru26-rishihood-university-1774433) | Rishihood University | India | 🏢 Onsite | — | 2026-11-15 | Unstop |
 
 ## 📖 Interview Preparation
 

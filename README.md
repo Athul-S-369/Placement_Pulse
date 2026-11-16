@@ -6,11 +6,11 @@
 
 **India's open-source aggregator for software internships, fresher jobs,<br>hackathons, fellowships, and placement opportunities.**
 
-[![Opportunities](https://img.shields.io/badge/Opportunities-3086-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
-[![Active](https://img.shields.io/badge/Active-2511-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
-[![Companies](https://img.shields.io/badge/Companies-2336-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
+[![Opportunities](https://img.shields.io/badge/Opportunities-3087-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
+[![Active](https://img.shields.io/badge/Active-2506-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
+[![Companies](https://img.shields.io/badge/Companies-2337-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
-[![Updated](https://img.shields.io/badge/Updated-Nov%2015%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
+[![Updated](https://img.shields.io/badge/Updated-Nov%2016%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
 [Latest Run](#latest-run) &nbsp;·&nbsp;
 [Active Opportunities](#active-opportunities) &nbsp;·&nbsp;
@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**November 15, 2026** &nbsp;—&nbsp; **89** Fresher Job &nbsp;·&nbsp; **86** Internship &nbsp;·&nbsp; **10** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**November 16, 2026** &nbsp;—&nbsp; **88** Fresher Job &nbsp;·&nbsp; **86** Internship &nbsp;·&nbsp; **10** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**191 opportunities** added or updated in the latest run (November 15, 2026).
+**190 opportunities** added or updated in the latest run (November 16, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -122,7 +122,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Applications Development Associate](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Applications-Devt-Associate_R25029948) | United Parcel Service (UPS) | Indiana | Fresher Job | Onsite | — |
 | [Forensic Regulatory Data Analyst](https://apply.workable.com/utilisave-llc-1/j/9ED27658CC/apply) | UtiliSave | Remote in USA | Fresher Job | Remote | — |
 | [Software Engineer - DevOps/.NET/Azure](https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HES/DevOps-Engineer_R-26937-1) | Varian | Knoxville, TN, Hoffman Es | Fresher Job | Onsite | — |
-| [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailan...](https://www.flexport.com/company/careers/) | Various | India | Fresher Job | Onsite | — |
 | [Development Engineer - Software Engineering/AI Track](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004983-1) | Viavi Solutions | Indianapolis, IN | Fresher Job | Onsite | — |
 | [Front-End Developer](https://vivsofttechnologiesfa.applytojob.com/apply/B29sOighJr/Front-End-Developer) | VivSoft Technologies | Remote in USA | Fresher Job | Remote | — |
 | [Data Annotation Specialist - Object Detection](https://apply.workable.com/volga-partners/j/6371769632/apply) | Volga Partners | Remote in USA | Fresher Job | Remote | — |
@@ -135,15 +134,15 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [AI Tutor Chinese](https://job-boards.greenhouse.io/xai/jobs/5090180007) | xAI | Remote in USA | Fresher Job | Remote | — |
 | [AI Tutor – Estonian](https://job-boards.greenhouse.io/xai/jobs/5270902007) | xAI | Remote in USA, Remote in  | Fresher Job | Remote | — |
 | [Turncoat’26](https://unstop.com/competitions/turncoat26-amity-university-1812163) | Amity University | India | Hackathon | Onsite | 2026-11-18 |
+| [B-Plan Competition](https://unstop.com/competitions/b-plan-competition-college-of-vocational-studies-cvs-du-1812363) | College of Vocational Studie | India | Hackathon | Onsite | 2026-11-16 |
 | [RAIT-CTF 2.0](https://unstop.com/quiz/rait-ctf-20-dy-patil-ramrao-adik-institute-of-technology-rait-navi-mumbai-1769033) | D.Y. Patil Ramrao Adik Insti | India | Hackathon | Onsite | 2027-01-31 |
-| [ELU Build](https://unstop.com/hackathons/elubuild-edulinkup-1811493) | EduLinkUp | India | Hackathon | Onsite | 2026-12-25 |
-| [Frame Shift](https://unstop.com/events/frame-shift-iim-indore-1811559) | Indian Institute of Manageme | India | Hackathon | Onsite | 2027-01-24 |
+| [Verve - Solo Dance Competition](https://unstop.com/events/verve-solo-dance-competition-7-lakes-fest-2026-iim-calcutta-1812416) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-11-18 |
 | [Beer Game 2026](https://unstop.com/competitions/beergame-2026-iim-lucknow-1811895) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-11-22 |
-| [Boardroom 2.0](https://unstop.com/competitions/boardroom-20-mahindra-university-1811161) | Mahindra University | India | Hackathon | Onsite | 2026-11-24 |
+| [Jargon Buster](https://unstop.com/quiz/jargon-buster-iim-rohtak-1812410) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-11-19 |
 | [Culture to Commerce: Where Culture Meets Global Business](https://unstop.com/competitions/culture-to-commerce-where-culture-meets-global-business-markhub24-1811172) | MarkHub24 | India | Hackathon | Onsite | 2026-11-21 |
 | [ADMAD 2026 — Inter-Collegiate Advertising & Creativity Compe...](https://unstop.com/competitions/admad-2026-inter-collegiate-advertising-creativity-competition-sies-nerul-college-of-arts-science-and-comme-1811050) | S.I.E.S School of Business S | India | Hackathon | Onsite | 2026-11-28 |
 | [TechForge 1.0](https://unstop.com/competitions/techforge-10-sda-bocconi-asia-center-mumbai-1806110) | SDA Bocconi Asia Center, Mum | India | Hackathon | Onsite | 2026-12-20 |
-| [TechZen AI Challenge 2026](https://unstop.com/quiz/techzen-ai-challenge-2026-techzen-innovation-1812236) | TechZen Innovation | India | Hackathon | Onsite | 2026-12-02 |
+| [Live Project Opportunity: Marketing, Product, Consulting, Ge...](https://unstop.com/competitions/consulting-case-competition-strategist-skilled-sapiens-1811946) | Skilled Sapiens | India | Hackathon | Onsite | 2026-11-21 |
 | [Careers at Adobe](https://careers.adobe.com/us/en/) | Adobe | India | Internship | Onsite | — |
 | [Advanced Analytics Intern](https://careers.airbnb.com/positions/8380007?gh_jid=8380007) | Airbnb | Remote in USA | Internship | Remote | — |
 | [Hardware Engineer Intern - Product Lifecycle Engineering](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering---Indianapolis--Indiana_JR37467-1) | Allegion | Indianapolis, IN | Internship | Onsite | — |
@@ -240,10 +239,11 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 ## Active Opportunities
 
 The 50 most recently added active opportunities across all categories.
-[View all 3086 on the website.](https://athul-s-369.github.io/Placement_Pulse)
+[View all 3087 on the website.](https://athul-s-369.github.io/Placement_Pulse)
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
+| [Live Project Opportunity: Marketing, Product, Consulting, Ge...](https://unstop.com/competitions/consulting-case-competition-strategist-skilled-sapiens-1811946) | Skilled Sapiens | India | Hackathon | Onsite | 2026-11-21 |
 | [Quantrepreneur - Quantitative Development](https://jobs.lever.co/intropic/c31c65cc-178d-4a50-bc6a-4f4b057f4381/apply) | Intropic | Remote / Various | Internship | Remote | Open |
 | [Student Developer Intern - CASS Software Development Group](https://oregonstate.wd501.myworkdayjobs.com/OSU_Careers_Site/job/Corvallis-Main-Campus/Student-Developer---CASS-Software-Development-Group_JR0001296) | Oregon State University | Remote in USA, Corvallis, | Internship | Remote | Open |
 | [RAIT-CTF 2.0](https://unstop.com/quiz/rait-ctf-20-dy-patil-ramrao-adik-institute-of-technology-rait-navi-mumbai-1769033) | D.Y. Patil Ramrao Adik Insti | India | Hackathon | Onsite | 2027-01-31 |
@@ -293,7 +293,6 @@ The 50 most recently added active opportunities across all categories.
 | [Analyst, Marketing Analytics](https://marketbridge.applytojob.com/apply/oMZc1ebSpD/Analyst-Marketing-Analytics) | Marketbridge | Remote in USA, Remote in  | Fresher Job | Remote | Open |
 | [Software Development Engineer](https://jobs.smartrecruiters.com/Mirantis/744000160982204) | Mirantis | Remote in USA | Fresher Job | Remote | Open |
 | [Marketing Technology & Data Coordinator](https://jobs.ashbyhq.com/barnes/74e67ad5-b2f1-4a2c-aba3-99b403c4aca9/application?embed=true) | Barnes & Thornburg | Indianapolis, IN, Nashvil | Fresher Job | Onsite | Open |
-| [Data Engineer Intern](https://www.riotgames.com/en/work-with-us/job/8356716?gh_jid=8356716) | Riot Games | Remote in USA | Internship | Remote | Open |
 
 ---
 
@@ -303,7 +302,7 @@ The 50 most recently added active opportunities across all categories.
 |----------|-------|
 | [Fresher Job](categories/fresher-job/) | 1477 |
 | [Internship](categories/internship/) | 924 |
-| [Hackathon](categories/hackathon/) | 679 |
+| [Hackathon](categories/hackathon/) | 680 |
 | [Open Source Program](categories/open-source-program/) | 2 |
 | [Fellowship](categories/fellowship/) | 2 |
 | [Student Ambassador](categories/student-ambassador/) | 2 |
@@ -328,13 +327,13 @@ The 50 most recently added active opportunities across all categories.
 
 ## Archive
 
-- [November 15, 2026 — Today](daily/2026/November/2026-11-15.md)
+- [November 16, 2026 — Today](daily/2026/November/2026-11-16.md)
+- [November 15, 2026](daily/2026/November/2026-11-15.md)
 - [November 14, 2026](daily/2026/November/2026-11-14.md)
 - [November 13, 2026](daily/2026/November/2026-11-13.md)
 - [November 12, 2026](daily/2026/November/2026-11-12.md)
 - [November 11, 2026](daily/2026/November/2026-11-11.md)
 - [November 10, 2026](daily/2026/November/2026-11-10.md)
-- [November 09, 2026](daily/2026/November/2026-11-09.md)
 
 [Full archive](daily/)
 
@@ -353,6 +352,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-11-15 21:12 UTC</sub>
+<sub>Last generated: 2026-11-16 07:09 UTC</sub>
 
 </div>
