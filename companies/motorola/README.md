@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Glasgow, UK, Alberta, Canada, Remote in Canada, Leicester, UK, Remote in UK, Glasgow, UK, Allen, TX
+- **Locations:** Allen, TX, Leicester, UK, Remote in UK, Glasgow, UK, Alberta, Canada, Remote in Canada, Glasgow, UK
 
 ## Current Opportunities
 

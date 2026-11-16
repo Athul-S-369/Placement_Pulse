@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Toronto, ON, Canada, Oakland, CA
+- **Locations:** Oakland, CA, Toronto, ON, Canada
 
 ## Current Opportunities
 
