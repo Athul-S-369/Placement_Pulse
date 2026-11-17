@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Gunpowder, MD, Birmingham, UK
+- **Locations:** Birmingham, UK, Gunpowder, MD
 
 ## Current Opportunities
 

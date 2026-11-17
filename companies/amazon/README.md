@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job, Hackathon
-- **Locations:** London, UK, Edinburgh, UK, Cambridge, UK, Palo Alto, CA, Boston, MA, Seattle, WA, Santa Clara, CA, Arlington, VA, NYC, Bellevue, WA, San Diego, CA, Seattle, WA, NYC, Fredericksburg, VA, Ashburn, VA, Manassas, VA, Reston, VA, Dulles, VA
+- **Categories:** Internship, Hackathon, Fresher Job
+- **Locations:** Bellevue, WA, Indianapolis, IN, Hyderabad, Telangana, India, Seattle, WA, London, UK, Edinburgh, UK, Cambridge, UK, India
 
 ## Current Opportunities
 
