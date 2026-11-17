@@ -1,13 +1,15 @@
 # 💼 Fresher Job
 
-**1477 active** | **0 expired** | **1477 total**
+**1479 active** | **0 expired** | **1479 total**
 
-*Last updated: 2026-11-16*
+*Last updated: 2026-11-17*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Product Data Associate](https://tricorbraun.wd115.myworkdayjobs.com/careers/job/Chicago-DE/Data-Analyst-Associate_R-101875) | TricorBraun | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557074534) | Microsoft | Remote in USA, United States | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://h2oai.applytojob.com/apply/QwA3SV58KB/Software-Engineer) | H2O.ai | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Research Engineer - Synthetic Data](https://jobs.ashbyhq.com/pragmatike/e51d910a-a3e6-459d-b3b5-ffa1d300c256/application?embed=true) | Pragmatike | SF, Remote in USA, Remote in Singapore, Singapore | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Automotive Data Analyst](https://jdpa.wd501.myworkdayjobs.com/JDPower/job/Remote-Canada/Automotive-Data-Analyst_R-100570) | J.D. Power | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -106,5 +108,3 @@
 | [Front End Developer](https://careers.varsitybrands.com/global/en/job/JR114521) | Varsity Brands | Kansas, Texas, Indiana | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Analytic Developer](https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/Market-Street---4411/Analytic-Developer_JR155338) | Cone Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate GTM Engineer](https://jobs.lever.co/leantaas/c15b6de5-c2bf-4499-9b53-b41960551719/apply) | LeanTaaS | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Audio Rater - Generalist - English](https://jobs.lever.co/weloglobal/a359138d-45e6-4e40-8818-9ea8c05c516f/apply) | Welo Global | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Advanced Analytics Developer Associate - Enterprise Advanced Analytics](https://aah.wd5.myworkdayjobs.com/External/job/Remote/IT-Advanced-Analytics-Developer-Associate_R271506) | Advocate Health Care | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

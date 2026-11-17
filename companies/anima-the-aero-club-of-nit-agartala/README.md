@@ -1,6 +1,6 @@
 # 🏢 ANIMA The Aero Club of NIT Agartala
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-16*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-17*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Drone League - Aayam Xi](https://unstop.com/competitions/drone-league-aayam-xi-anima-the-aero-club-of-nit-agartala-1800325) | ANIMA The Aero Club of NIT Agartala | India | 🏢 Onsite | — | 2026-11-16 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,16 +1,17 @@
 # 🏢 Microsoft
 
-**15 active opportunities** | **15 total tracked** | *Last updated: 2026-11-16*
+**16 active opportunities** | **16 total tracked** | *Last updated: 2026-11-17*
 
 ## Overview
 
-- **Categories:** Internship, Student Ambassador, Fresher Job
-- **Locations:** Cambridge, MA, Kitsap County, WA, Redmond, WA, Redmond, WA, NYC, Cambridge, MA, Mountain View, CA, NYC, Remote in USA
+- **Categories:** Internship, Fresher Job, Student Ambassador
+- **Locations:** Berkeley, CA, Burlington, MA, Cambridge, MA, Redmond, WA, Remote in USA, Cambridge, MA, Mountain View, CA, Remote in USA, United States
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557074534) | Microsoft | Remote in USA, United States | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Senior Data Scientist](https://apply.careers.microsoft.com/careers/job/1970393556833959) | Microsoft | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Research Intern - AIP AI Knowledge Multimodal AI](https://apply.careers.microsoft.com/careers/job/1970393556637119) | Microsoft | Redmond, WA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Research Intern - AI Network Observability](https://apply.careers.microsoft.com/careers/job/1970393556639544) | Microsoft | Redmond, WA, Mountain View, CA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |

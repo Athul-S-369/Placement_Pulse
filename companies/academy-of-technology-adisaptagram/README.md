@@ -1,6 +1,6 @@
 # 🏢 Academy Of Technology (Adisaptagram)
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-16*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-17*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Coin War](https://unstop.com/quiz/coin-war-academy-of-technology-adisaptagram-1795252) | Academy Of Technology (Adisaptagram) | India | 🏢 Onsite | — | 2026-11-16 | Unstop |
 
 ## 📖 Interview Preparation
 

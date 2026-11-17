@@ -1,6 +1,6 @@
 # 🏢 Aryabhatta College (AC), Delhi University (DU), Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-16*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-17*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Adventure - Idea, Impact & Influence](https://unstop.com/competitions/adventure-idea-impact-influence-ignisia-2026-aryabhatta-college-du-delhi-1785524) | Aryabhatta College (AC), Delhi University (DU), Delhi | India | 🏢 Onsite | — | 2026-11-16 | Unstop |
 
 ## 📖 Interview Preparation
 
