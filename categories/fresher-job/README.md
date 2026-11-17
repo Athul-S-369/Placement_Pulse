@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1480 active** | **0 expired** | **1480 total**
+**1481 active** | **0 expired** | **1481 total**
 
 *Last updated: 2026-11-17*
 
@@ -11,6 +11,7 @@
 | [Product Data Associate](https://tricorbraun.wd115.myworkdayjobs.com/careers/job/Chicago-DE/Data-Analyst-Associate_R-101875) | TricorBraun | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557074534) | Microsoft | Remote in USA, United States | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Analyst](https://envitia.bamboohr.com/careers/187/) | Envitia | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Search Engine Evaluator - Chinese Simplified](https://jobs.lever.co/rws/6f52d194-f4ff-4c34-b7b5-02f8648e4291/apply) | RWS | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://h2oai.applytojob.com/apply/QwA3SV58KB/Software-Engineer) | H2O.ai | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Research Engineer - Synthetic Data](https://jobs.ashbyhq.com/pragmatike/e51d910a-a3e6-459d-b3b5-ffa1d300c256/application?embed=true) | Pragmatike | SF, Remote in USA, Remote in Singapore, Singapore | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Automotive Data Analyst](https://jdpa.wd501.myworkdayjobs.com/JDPower/job/Remote-Canada/Automotive-Data-Analyst_R-100570) | J.D. Power | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Software Developer - NAVSUP Programs](https://itcdefense.applytojob.com/apply/2nW7Oe2sf0/Software-Developer-NETC-NAVSUP-Programs) | ITC Defense | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [ASIC Design Engineer](https://ats.rippling.com/positron/jobs/4238837d-83e8-4bab-996e-0702fecb4337) | Positron | Canada, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Front End Developer](https://careers.varsitybrands.com/global/en/job/JR114521) | Varsity Brands | Kansas, Texas, Indiana | 🏢 Onsite | — | — | SimplifyJobs New Grad |
-| [Analytic Developer](https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/Market-Street---4411/Analytic-Developer_JR155338) | Cone Health | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Cambridge, UK, Bristol, UK
+- **Locations:** Bristol, UK, Cambridge, UK
 
 ## Current Opportunities
 

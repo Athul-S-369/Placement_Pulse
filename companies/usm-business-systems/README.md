@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Traverse City, MI, California City, CA, San Antonio, TX, Dublin, OH, Chantilly, VA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Bluemont, VA, Southfield, MI, Bloomington, MN, Alexandria, VA, Chicago, IL
 
 ## Current Opportunities
 

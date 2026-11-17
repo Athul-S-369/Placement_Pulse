@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Barrie, ON, Canada, Goleta, CA, McKinney, TX, Indianapolis, IN, Remote in USA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Andover, MA, Remote in USA, Barrie, ON, Canada, Goleta, CA, McKinney, TX
 
 ## Current Opportunities
 

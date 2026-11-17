@@ -1,16 +1,17 @@
 # 🏢 RWS
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-11-17*
+**5 active opportunities** | **5 total tracked** | *Last updated: 2026-11-17*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Texas, North Carolina, Remote in USA, Illinois
+- **Categories:** Fresher Job, Internship
+- **Locations:** North Carolina, Remote in USA, Remote in Canada, Illinois, Texas
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Search Engine Evaluator - Chinese Simplified](https://jobs.lever.co/rws/6f52d194-f4ff-4c34-b7b5-02f8648e4291/apply) | RWS | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Data Specialist - North Carolina - US](https://jobs.lever.co/rws/b181fd3b-a1e6-4c95-a2d9-4ec756ccd948/apply) | RWS | North Carolina | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [AI Data Specialist - Texas - US](https://jobs.lever.co/rws/edfded6a-6a93-49cd-9b50-d0f74c3a41ac/apply) | RWS | Texas | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [AI Data Specialist](https://jobs.lever.co/rws/dd563b7b-74d5-4124-bb0b-89a8d44348ae/apply) | RWS | Illinois | 🏢 Onsite | — | — | SimplifyJobs New Grad |
