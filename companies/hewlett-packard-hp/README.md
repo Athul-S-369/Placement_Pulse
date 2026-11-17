@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Vancouver, WA, Remote / Various
+- **Locations:** Remote / Various, Vancouver, WA
 
 ## Current Opportunities
 

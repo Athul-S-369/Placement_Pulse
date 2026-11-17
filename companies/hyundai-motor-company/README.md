@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Irvine, CA, Montgomery, AL
+- **Locations:** Montgomery, AL, Irvine, CA
 
 ## Current Opportunities
 

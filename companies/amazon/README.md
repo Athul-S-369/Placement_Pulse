@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Hackathon, Internship
-- **Locations:** Winnipeg, MB, Canada, Toronto, ON, Canada, Victoria, BC, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Sunnyvale, CA, Fredericksburg, VA, Ashburn, VA, Manassas, VA, Reston, VA, Dulles, VA, Seattle, WA, Wakefield, MA, Westborough, MA, Tempe, AZ
+- **Categories:** Fresher Job, Internship, Hackathon
+- **Locations:** Sunnyvale, CA, India, Tennessee, Chennai, Tamil Nadu, India, Indiana, London, UK, London, UK, Edinburgh, UK, Cambridge, UK
 
 ## Current Opportunities
 

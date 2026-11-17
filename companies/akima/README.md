@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Oklahoma City, OK, Huntsville, AL
+- **Locations:** Huntsville, AL, Oklahoma City, OK
 
 ## Current Opportunities
 

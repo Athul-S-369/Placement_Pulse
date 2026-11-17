@@ -6,9 +6,9 @@
 
 **India's open-source aggregator for software internships, fresher jobs,<br>hackathons, fellowships, and placement opportunities.**
 
-[![Opportunities](https://img.shields.io/badge/Opportunities-3104-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
-[![Active](https://img.shields.io/badge/Active-2520-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
-[![Companies](https://img.shields.io/badge/Companies-2352-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
+[![Opportunities](https://img.shields.io/badge/Opportunities-3109-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
+[![Active](https://img.shields.io/badge/Active-2525-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
+[![Companies](https://img.shields.io/badge/Companies-2357-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
 [![Updated](https://img.shields.io/badge/Updated-Nov%2017%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
@@ -37,7 +37,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**November 17, 2026** &nbsp;—&nbsp; **87** Fresher Job &nbsp;·&nbsp; **84** Internship &nbsp;·&nbsp; **9** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**November 17, 2026** &nbsp;—&nbsp; **88** Fresher Job &nbsp;·&nbsp; **82** Internship &nbsp;·&nbsp; **10** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
 **186 opportunities** added or updated in the latest run (November 17, 2026).
 
@@ -127,20 +127,22 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Business Analyst - Educational Raters - Gemini](https://apply.workable.com/weekday-1/j/A52A7967FB/apply) | Weekday AI | Remote in USA | Fresher Job | Remote | — |
 | [Maps Personalization Relevance Rater - English](https://jobs.lever.co/weloglobal/7b07afde-d586-4945-9ef8-b41ca36a739b/apply) | Welo Global | Remote in Canada | Fresher Job | Remote | — |
 | [Video and Audio Raters - English](https://jobs.lever.co/weloglobal/d78f3ff9-8d1d-452b-9981-2a6302c46b3b/apply) | Welo Global | Remote in USA | Fresher Job | Remote | — |
+| [Topographic Aerial Sensor Operator](https://job-boards.greenhouse.io/woolpert/jobs/4470641009) | Woolpert | Remote in USA | Fresher Job | Remote | — |
 | [Business Data Analyst](https://apply.workable.com/neurohire-dot-a-i/j/516C3CF516/apply) | neurohire.ai | Remote in USA | Fresher Job | Remote | — |
 | [Software Developer](https://apply.workable.com/neurohire-dot-a-i/j/01ECE8E2C4/apply) | neurohire.ai | Remote in Canada | Fresher Job | Remote | — |
 | [C++ Developer](https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4844280101) | think-cell | Remote in UK | Fresher Job | Remote | — |
 | [AI Tutor Chinese](https://job-boards.greenhouse.io/xai/jobs/5090180007) | xAI | Remote in USA | Fresher Job | Remote | — |
 | [AI Tutor – Estonian](https://job-boards.greenhouse.io/xai/jobs/5270902007) | xAI | Remote in USA, Remote in  | Fresher Job | Remote | — |
-| [Data Visualization using Python - Debugging Test | Unit 1 Se...](https://unstop.com/hackathons/data-visualization-using-python-debugging-test-unit-1-set-b-abes-engineering-college-1816592) | ABES Engineering College | India | Hackathon | Onsite | 2026-12-02 |
-| [Srujana AI 2026 Hackathon (Batch 3)](https://unstop.com/hackathons/srujana-ai-2026-hackathon-batch-3-biorad-medisys-private-limited-1794480) | Biorad Medisys Private Limit | India | Hackathon | Onsite | 2026-11-19 |
-| [CTF Cicada 2026](https://unstop.com/hackathons/ctf-cicada-2026-birla-institute-of-technology-mesra-ranchi-1814002) | Birla Institute of Technolog | India | Hackathon | Onsite | 2026-12-10 |
-| [Biologically Inspired Robotics Webinar – Nature as an Engine...](https://unstop.com/workshops-webinars/biologically-inspired-robotics-webinar-nature-as-an-engineer-hepelancer-1815690) | Hepelancer | India | Hackathon | Onsite | 2026-12-26 |
-| [KAINOS](https://unstop.com/competitions/crp-kainos-kiit-school-of-innovation-entrepreneurial-leadership-1813100) | KIIT School of Innovation &  | India | Hackathon | Onsite | 2027-03-02 |
-| [Beyond the Stay: ELIVAAS Brand Case Competition](https://unstop.com/competitions/beyond-the-stay-elivaas-brand-case-competition-masters-union-school-of-business-1815866) | Masters' Union School of Bus | India | Hackathon | Onsite | 2026-11-18 |
-| [Cyber Security with AI Demo Session | Explore the Future of ...](https://unstop.com/workshops-webinars/cyber-security-with-ai-demo-session-explore-the-future-of-ai-powered-security-quality-thought-1815695) | Quality Thought | India | Hackathon | Onsite | 2026-11-18 |
-| [Free Live Webinar on Azure Data Engineer](https://unstop.com/workshops-webinars/free-live-webinar-on-azure-data-engineer-quality-thought-info-systems-1815894) | Quality Thought Info Systems | India | Hackathon | Onsite | 2026-11-19 |
+| [Infinity'26](https://unstop.com/competitions/infinity26-codevirus-security-1813374) | Codevirus Security | India | Hackathon | Onsite | 2026-12-18 |
+| [Second Serving – A Business Revival Case Competition](https://unstop.com/competitions/second-serving-a-business-revival-case-competition-indian-institute-of-management-iim-guwahati-1814542) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-12-15 |
+| [The Human Factor](https://unstop.com/competitions/the-human-factor-masters-union-school-of-business-1812089) | Masters Union School of Busi | India | Hackathon | Onsite | 2026-11-29 |
+| [Silicon Sprint 2026](https://unstop.com/hackathons/silicon-sprint-2026-nitk-surathkal-1814263) | National Institute of Techno | India | Hackathon | Onsite | 2026-12-28 |
+| [NeuraViz AI Challenge 2026 – Submit an AI Idea, No Coding Ne...](https://unstop.com/competitions/neuraviz-ai-challenge-2026-submit-an-ai-idea-no-coding-needed-neuraviz-technologies-pvt-ltd-1810876) | NeuraViz Technologies Pvt. L | India | Hackathon | Onsite | 2026-12-10 |
 | [Gyan Samvad](https://unstop.com/workshops-webinars/gyan-samvad-shaheed-bhagat-singh-evening-college-sbsec-university-of-delhi-du-new-delhi-1814643) | Shaheed Bhagat Singh Evening | India | Hackathon | Onsite | 2026-11-20 |
+| [National Elocution Competition](https://unstop.com/competitions/national-elocution-competition-shiksha-mandal-sm-wardha-maharashtra-1815869) | Shiksha Mandal (SM), Wardha, | India | Hackathon | Onsite | 2026-12-01 |
+| [Call For Entries | Beyond Margins Annual Journal 2026-27](https://unstop.com/competitions/call-for-entries-beyond-margins-annual-journal-2026-27-sophia-college-for-women-mumbai-1815925) | Sophia College for Women, Mu | India | Hackathon | Onsite | 2026-12-04 |
+| [Policy Brief Competition | Aahwaan 2026](https://unstop.com/competitions/policy-brief-competition-aahwaan-2026-teri-school-of-advanced-studies-teri-sas-delhi-1815266) | TERI School of Advanced Stud | India | Hackathon | Onsite | 2026-11-21 |
+| [XPLO National 3D Animation Challenge 2026](https://unstop.com/competitions/xplo-national-3d-animation-challenge-2026-xplo-animation-service-pvt-ltd-1815915) | Xplo Animation Service Pvt L | India | Hackathon | Onsite | 2026-12-04 |
 | [Careers at Adobe](https://careers.adobe.com/us/en/) | Adobe | India | Internship | Onsite | — |
 | [Advanced Analytics Intern](https://careers.airbnb.com/positions/8380007?gh_jid=8380007) | Airbnb | Remote in USA | Internship | Remote | — |
 | [Hardware Engineer Intern - Product Lifecycle Engineering](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering---Indianapolis--Indiana_JR37467-1) | Allegion | Indianapolis, IN | Internship | Onsite | — |
@@ -154,7 +156,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Software Engineer Intern](https://job-boards.greenhouse.io/brave/jobs/8360001) | Brave | Remote in Canada | Internship | Remote | — |
 | [Software Engineer Intern - Summer 2027](https://caci.wd1.myworkdayjobs.com/external/job/437-DENVER-CO/Cleared-Software-Engineer-Intern---Summer-2027_331999) | CACI | Remote in USA, Sterling,  | Internship | Remote | — |
 | [ntern, Engineer Software](https://careers-calamp.icims.com/jobs/4326/intern%2c-engineer-software---carlsbad%2c-ca-%28summer-2026%29/job) | CalAmp | Remote / Various | Internship | Remote | — |
-| [Clinical Operations Business Analyst Intern](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/XMLNAME-2027-Summer-Internship-Program---Clinical-Operations-Business-Analyst_R14353) | CareSource | Remote in USA | Internship | Remote | — |
 | [Speech Intern 4](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/Speech-Intern-4_JR107037) | Centific | Remote in USA | Internship | Remote | — |
 | [Frontend Engineer Intern](https://jobs.ashbyhq.com/certa/9f7caf0b-46ff-49ab-ae78-62deadec106e/application?embed=true) | Certa | London, UK, Remote in Ind | Internship | Remote | — |
 | [Software Developer Co-op Intern](https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046) | Ciena | Remote in Canada, Québec  | Internship | Remote | — |
@@ -174,14 +175,13 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Hardware Engineer Co-op - Electrical Engineering](https://masco.wd1.myworkdayjobs.com/deltafaucet/job/US---Indiana---Indianapolis/Hardware-Engineering-Co-op--Electrical-Engineering-_REQ54344) | Delta Faucet | Indianapolis, IN | Internship | Onsite | — |
 | [Applied AI Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662) | DwyerOmega | Remote in USA | Internship | Remote | — |
 | [AI Intern](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008) | EQT Corporation | Remote in USA | Internship | Remote | — |
-| [AI Software Developer Intern - Multiple Teams](https://jobs.jobvite.com/elire/job/oM5LAfwW?nl=1&nl=1&fr=false) | Elire | Remote in USA, Minneapoli | Internship | Remote | — |
 | [AI Developer Intern](https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/AI-Developer-Intern_R004397) | Entrust | Remote in Germany, Shakop | Internship | Remote | — |
 | [Consumer Energy Analytics Intern](https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752) | Environmental Defense Fund | Remote in USA, St. Peters | Internship | Remote | — |
 | [Data Scientist Intern - Applied AI](https://thgrp.wd12.myworkdayjobs.com/envita/job/Indianapolis-IN/Data-Scientist-Intern--Applied-AI_R-1728) | Envita Solutions | Indianapolis, IN | Internship | Onsite | — |
 | [Data and Intelligence Delivery Intern - Assurance](https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q) | Ernst & Young | Salt Lake City, UT, India | Internship | Onsite | — |
 | [Model Risk Intern](https://fhlbi.wd1.myworkdayjobs.com/FHLBI_Careers/job/Indianapolis/Long-Term-Model-Risk-Intern_R623) | Federal Home Loan Bank of In | Indianapolis, IN | Internship | Onsite | — |
 | [Junior Software Engineer](https://job-boards.greenhouse.io/genevatrading/jobs/5085231007) | Geneva Trading | Remote / Various | Internship | Remote | — |
-| [Reimbursement Analyst Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Reimbursement-Analyst-Undergraduate-Intern_J287154) | Highmark Health | New Mexico, Washington, K | Internship | Onsite | — |
+| [Evaluation Analytics Graduate Intern](https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Evaluation-Analytics-Graduate-Intern_J288013) | Highmark Health | New Mexico, Washington, K | Internship | Onsite | — |
 | [Product Intern](https://jobs.ashbyhq.com/hubs.is/00dc1010-f699-4f43-822b-fdfa57a0da8a/application?embed=true) | Hubs.is | Remote in USA | Internship | Remote | — |
 | [Gameplay Programmer Intern](https://job-boards.greenhouse.io/insomniac/jobs/6226611004) | Insomniac Games | Burbank, CA, Remote in US | Internship | Remote | — |
 | [Research Scientist Intern - Graphics - ML](https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525) | Intel | Remote in USA | Internship | Remote | — |
@@ -217,7 +217,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Interactive Resident](https://jobs.jobvite.com/theopusgroup/job/oPMUAfwP?nl=1&nl=1&fr=false) | The Opus Group | Remote in USA | Internship | Remote | — |
 | [Forward Deployed Engineer Co-op - Data De-Identification](https://jobs.ashbyhq.com/tonicai/e632d472-fbd2-475a-9878-536c0eacb5e9/application?embed=true) | Tonic | Remote in USA | Internship | Remote | — |
 | [Applied Scientist Intern](https://careers.upstart.com/jobs?gh_jid=8213476) | Upstart | Remote in USA | Internship | Remote | — |
-| [Artificial Intelligence Intern](https://careers.gov2x.com/jobs/62843?icims=1) | V2X | Indianapolis, IN | Internship | Onsite | — |
+| [Electrical Engineer Intern](https://careers.gov2x.com/jobs/63854?icims=1) | V2X | Indianapolis, IN | Internship | Onsite | — |
 | [Full Stack Developer Intern](https://vetsez.breezy.hr/p/a4010fdb3a7001-full-stack-developer-intern-remote-opportunity) | VetsEZ | Remote in US | Internship | Remote | — |
 | [Student Worker Intern](https://viatris.wd5.myworkdayjobs.com/External/job/United-States-Remote-Office/Student-Worker_R5674339) | Viatris | Remote in USA | Internship | Remote | — |
 | [Pharmacy Aggregation Intern](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Pharmacy-Aggregation_35995R-1) | Vizient | Washington, DC, Centennia | Internship | Remote | — |
@@ -235,7 +235,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 ## Active Opportunities
 
 The 50 most recently added active opportunities across all categories.
-[View all 3104 on the website.](https://athul-s-369.github.io/Placement_Pulse)
+[View all 3109 on the website.](https://athul-s-369.github.io/Placement_Pulse)
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -249,6 +249,11 @@ The 50 most recently added active opportunities across all categories.
 | [Gyan Samvad](https://unstop.com/workshops-webinars/gyan-samvad-shaheed-bhagat-singh-evening-college-sbsec-university-of-delhi-du-new-delhi-1814643) | Shaheed Bhagat Singh Evening | India | Hackathon | Onsite | 2026-11-20 |
 | [Data Visualization using Python - Debugging Test | Unit 1 Se...](https://unstop.com/hackathons/data-visualization-using-python-debugging-test-unit-1-set-b-abes-engineering-college-1816592) | ABES Engineering College | India | Hackathon | Onsite | 2026-12-02 |
 | [KAINOS](https://unstop.com/competitions/crp-kainos-kiit-school-of-innovation-entrepreneurial-leadership-1813100) | KIIT School of Innovation &  | India | Hackathon | Onsite | 2027-03-02 |
+| [NeuraViz AI Challenge 2026 – Submit an AI Idea, No Coding Ne...](https://unstop.com/competitions/neuraviz-ai-challenge-2026-submit-an-ai-idea-no-coding-needed-neuraviz-technologies-pvt-ltd-1810876) | NeuraViz Technologies Pvt. L | India | Hackathon | Onsite | 2026-12-10 |
+| [Second Serving – A Business Revival Case Competition](https://unstop.com/competitions/second-serving-a-business-revival-case-competition-indian-institute-of-management-iim-guwahati-1814542) | Indian Institute of Manageme | India | Hackathon | Onsite | 2026-12-15 |
+| [Call For Entries | Beyond Margins Annual Journal 2026-27](https://unstop.com/competitions/call-for-entries-beyond-margins-annual-journal-2026-27-sophia-college-for-women-mumbai-1815925) | Sophia College for Women, Mu | India | Hackathon | Onsite | 2026-12-04 |
+| [National Elocution Competition](https://unstop.com/competitions/national-elocution-competition-shiksha-mandal-sm-wardha-maharashtra-1815869) | Shiksha Mandal (SM), Wardha, | India | Hackathon | Onsite | 2026-12-01 |
+| [Infinity'26](https://unstop.com/competitions/infinity26-codevirus-security-1813374) | Codevirus Security | India | Hackathon | Onsite | 2026-12-18 |
 | [Live Project Opportunity: Marketing, Product, Consulting, Ge...](https://unstop.com/competitions/consulting-case-competition-strategist-skilled-sapiens-1811946) | Skilled Sapiens | India | Hackathon | Onsite | 2026-11-21 |
 | [Dental Hackers 2026](https://unstop.com/competitions/dental-hackers-2026-academically-global-healthcare-academy-1813102) | Academically Global Healthca | India | Hackathon | Onsite | 2026-12-16 |
 | [Agri-Tech Hackathon 2027: 24 Hours to Hack the Harvest](https://unstop.com/hackathons/agri-tech-hackathon-2027-24-hours-to-hack-the-harvest-k-j-somaiya-college-of-engineering-kjsce-vidyavihar-1792152) | K. J. Somaiya College of Eng | India | Hackathon | Onsite | 2027-01-23 |
@@ -284,11 +289,6 @@ The 50 most recently added active opportunities across all categories.
 | [ZEPP Student Shopping Quiz – Trial](https://unstop.com/quiz/zepp-student-shopping-quiz-trial-zeitgeist-retail-private-limited-1808622) | Zeitgeist Retail Private Lim | India | Hackathon | Onsite | 2026-11-27 |
 | [Poster Presentation Competition](https://unstop.com/conferences/poster-presentation-competition-soil-school-of-business-design-1808621) | SOIL School Of Business Desi | India | Hackathon | Onsite | 2026-11-30 |
 | [Demo Session on Playwright with AI | 14th November](https://unstop.com/workshops-webinars/demo-session-on-playwright-with-ai-14th-november-quality-thought-1808620) | Quality Thought | India | Hackathon | Onsite | 2026-11-20 |
-| [Code Rush – 24 Hours Hackathon](https://unstop.com/hackathons/code-rush-24-hours-hackathon-ignitron-2k26-gm-university-davanagere-1791410) | GM University Davanagere | India | Hackathon | Onsite | 2026-11-30 |
-| [All India Banks](https://unstop.com/competitions/all-india-banks-adhikosh27-national-institute-of-bank-management-nibm-pune-1808996) | National Institute of Bank M | India | Hackathon | Onsite | 2027-01-29 |
-| [Undergraduate Research Assistant Programmer](https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Undergraduate-Research-Assistant--Programmer--open-to-work-study-and-non-work-study-_R_00040531) | University of Texas at Austi | Remote / Various | Internship | Remote | Open |
-| [Supply Chain Data & Analytics Intern](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Remote-United-States-of-America/Supply-Chain-Data---Analytics-Intern_JR38708) | Vanderlande Industries | Remote in USA, Marietta,  | Internship | Remote | Open |
-| [Make Them Famous - The 48-Hour Brand Challenge](https://unstop.com/competitions/make-them-famous-the-48-hour-brand-challenge-ooro-1806159) | Ooro | India | Hackathon | Onsite | 2026-11-27 |
 
 ---
 
@@ -298,7 +298,7 @@ The 50 most recently added active opportunities across all categories.
 |----------|-------|
 | [Fresher Job](categories/fresher-job/) | 1481 |
 | [Internship](categories/internship/) | 926 |
-| [Hackathon](categories/hackathon/) | 691 |
+| [Hackathon](categories/hackathon/) | 696 |
 | [Open Source Program](categories/open-source-program/) | 2 |
 | [Fellowship](categories/fellowship/) | 2 |
 | [Student Ambassador](categories/student-ambassador/) | 2 |
@@ -348,6 +348,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-11-17 17:49 UTC</sub>
+<sub>Last generated: 2026-11-17 23:39 UTC</sub>
 
 </div>

@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**108 active** | **583 expired** | **691 total**
+**113 active** | **583 expired** | **696 total**
 
 *Last updated: 2026-11-17*
 
@@ -12,6 +12,11 @@
 | [Gyan Samvad](https://unstop.com/workshops-webinars/gyan-samvad-shaheed-bhagat-singh-evening-college-sbsec-university-of-delhi-du-new-delhi-1814643) | Shaheed Bhagat Singh Evening College (SBSEC), University of Delhi (DU), New Delhi | India | 🏢 Onsite | — | 2026-11-20 | Unstop |
 | [Data Visualization using Python - Debugging Test | Unit 1 Set B](https://unstop.com/hackathons/data-visualization-using-python-debugging-test-unit-1-set-b-abes-engineering-college-1816592) | ABES Engineering College | India | 🏢 Onsite | — | 2026-12-02 | Unstop |
 | [KAINOS](https://unstop.com/competitions/crp-kainos-kiit-school-of-innovation-entrepreneurial-leadership-1813100) | KIIT School of Innovation & Entrepreneurial Leadership | India | 🏢 Onsite | — | 2027-03-02 | Unstop |
+| [NeuraViz AI Challenge 2026 – Submit an AI Idea, No Coding Needed](https://unstop.com/competitions/neuraviz-ai-challenge-2026-submit-an-ai-idea-no-coding-needed-neuraviz-technologies-pvt-ltd-1810876) | NeuraViz Technologies Pvt. Ltd. | India | 🏢 Onsite | — | 2026-12-10 | Unstop |
+| [Second Serving – A Business Revival Case Competition](https://unstop.com/competitions/second-serving-a-business-revival-case-competition-indian-institute-of-management-iim-guwahati-1814542) | Indian Institute of Management (IIM), Guwahati | India | 🏢 Onsite | — | 2026-12-15 | Unstop |
+| [Call For Entries | Beyond Margins Annual Journal 2026-27](https://unstop.com/competitions/call-for-entries-beyond-margins-annual-journal-2026-27-sophia-college-for-women-mumbai-1815925) | Sophia College for Women, Mumbai | India | 🏢 Onsite | — | 2026-12-04 | Unstop |
+| [National Elocution Competition](https://unstop.com/competitions/national-elocution-competition-shiksha-mandal-sm-wardha-maharashtra-1815869) | Shiksha Mandal (SM), Wardha, Maharashtra | India | 🏢 Onsite | — | 2026-12-01 | Unstop |
+| [Infinity'26](https://unstop.com/competitions/infinity26-codevirus-security-1813374) | Codevirus Security | India | 🏢 Onsite | — | 2026-12-18 | Unstop |
 | [Live Project Opportunity: Marketing, Product, Consulting, GenMan, Equity Valuation, Market Research & Analytics Roles](https://unstop.com/competitions/consulting-case-competition-strategist-skilled-sapiens-1811946) | Skilled Sapiens | India | 🏢 Onsite | — | 2026-11-21 | Unstop |
 | [Dental Hackers 2026](https://unstop.com/competitions/dental-hackers-2026-academically-global-healthcare-academy-1813102) | Academically Global Healthcare Academy | India | 🏢 Onsite | — | 2026-12-16 | Unstop |
 | [Agri-Tech Hackathon 2027: 24 Hours to Hack the Harvest](https://unstop.com/hackathons/agri-tech-hackathon-2027-24-hours-to-hack-the-harvest-k-j-somaiya-college-of-engineering-kjsce-vidyavihar-1792152) | K. J. Somaiya College of Engineering (KJSCE), Vidyavihar | India | 🏢 Onsite | — | 2027-01-23 | Unstop |
@@ -103,11 +108,6 @@
 | [Madlab - The Ultimate Innovation Hackathon](https://unstop.com/hackathons/madlab-the-ultimate-innovation-hackathon-shri-chinai-college-of-commerce-economics-1785416) | Shri Chinai College of Commerce & Economics | India | 🏢 Onsite | — | 2026-11-18 | Unstop |
 | [Immuno Case Files](https://unstop.com/competitions/immuno-case-files-indian-institute-of-technology-iit-chennai-1783236) | Indian Institute of Technology (IIT), Chennai | India | 🏢 Onsite | — | 2026-12-06 | Unstop |
 | [Volleyball (Male)](https://unstop.com/events/volleyball-male-aaveg-xvii-institute-of-chartered-financial-analysts-of-india-icfai-hyderabad-telangana-1784012) | Institute of Chartered Financial Analysts of India (ICFAI), Hyderabad, Telangana | India | 🏢 Onsite | — | 2026-11-22 | Unstop |
-| [Godstockss Website Upgrade Challenge](https://unstop.com/quiz/godstockss-website-upgrade-challenge-godstockss-1784540) | Godstockss | India | 🏢 Onsite | — | 2026-11-29 | Unstop |
-| [TEJAS UDBHAV - Tribal Innovation & Impact Programme](https://unstop.com/competitions/tejas-udbhav-tribal-innovation-impact-programme-iim-mumbai-1782680) | Indian Institute of Management (IIM), Mumbai | India | 🏢 Onsite | — | 2026-11-22 | Unstop |
-| [Stainless Spark – Engineering Innovation, Building Futures](https://unstop.com/competitions/crp-stainless-spark-engineering-innovation-building-futures-stainless-spark-case-study-competition-jindal-stain-1572025) | Jindal Stainless Limited | India | 🏢 Onsite | — | 2026-11-19 | Unstop |
-| [Tata Imagination Challenge 2026](https://unstop.com/competitions/crp-tata-imagination-challenge-2026-tata-group-1740413) | Tata Group | India | 🏢 Onsite | — | 2026-12-06 | Unstop |
-| [Slay Cybersecurity Conference and Workshop](https://unstop.com/workshops-webinars/slay-cybersecurity-conference-and-workshop-jalpaiguri-government-engineering-college-jgec-west-bengal-1743199) | Jalpaiguri Government Engineering College (JGEC), West Bengal | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
 
 ## Recently Expired
 

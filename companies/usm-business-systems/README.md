@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Bluemont, VA, Southfield, MI, Bloomington, MN, Alexandria, VA, Chicago, IL
+- **Locations:** Bloomington, MN, Augusta, ME, Traverse City, MI, Westminster, CO, Baltimore, MD
 
 ## Current Opportunities
 
