@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** McKinney, TX, Remote in USA, Richardson, TX, Fort Wayne, IN, Longueuil, QC, Canada, Arlington, VA
+- **Locations:** Arlington, VA, Remote in USA, Richardson, TX, Huntsville, AL, Cedar Rapids, IA, Barrie, ON, Canada
 
 ## Current Opportunities
 

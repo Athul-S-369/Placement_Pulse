@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Austin, TX, NYC
+- **Locations:** NYC, Austin, TX
 
 ## Current Opportunities
 

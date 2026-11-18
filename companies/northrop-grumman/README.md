@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Wright-Patterson AFB, OH, Aurora, CO, Morrisville, NC, Annapolis Junction, MD, San Antonio, TX, Melbourne, FL, Remote in USA, Warner Robins, GA
+- **Locations:** Warner Robins, GA, Northridge, LA, Wright-Patterson AFB, OH, Melbourne, FL, Remote in USA
 
 ## Current Opportunities
 
