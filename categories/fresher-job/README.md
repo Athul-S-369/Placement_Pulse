@@ -1,13 +1,15 @@
 # 💼 Fresher Job
 
-**1481 active** | **0 expired** | **1481 total**
+**1483 active** | **0 expired** | **1483 total**
 
-*Last updated: 2026-11-17*
+*Last updated: 2026-11-18*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Embedded Firmware Engineer](https://karman.applytojob.com/apply/ZATv9CJjd9/Embedded-Firmware-Engineer) | Utilidata | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Strategy Associate](https://emcresearch.applytojob.com/apply/Eg3VEKohul/Strategy-Associate) | EMC Research | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Product Data Associate](https://tricorbraun.wd115.myworkdayjobs.com/careers/job/Chicago-DE/Data-Analyst-Associate_R-101875) | TricorBraun | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://apply.careers.microsoft.com/careers/job/1970393557074534) | Microsoft | Remote in USA, United States | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Analyst](https://envitia.bamboohr.com/careers/187/) | Envitia | Remote in UK | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -106,5 +108,3 @@
 | [Data Scientist 1](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Data-Scientist-I_R13840) | CareSource | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Student Worker](https://viatris.wd5.myworkdayjobs.com/External/job/United-States-Remote-Office/Student-Worker_R5674339) | Viatris | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Developer - NAVSUP Programs](https://itcdefense.applytojob.com/apply/2nW7Oe2sf0/Software-Developer-NETC-NAVSUP-Programs) | ITC Defense | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [ASIC Design Engineer](https://ats.rippling.com/positron/jobs/4238837d-83e8-4bab-996e-0702fecb4337) | Positron | Canada, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Front End Developer](https://careers.varsitybrands.com/global/en/job/JR114521) | Varsity Brands | Kansas, Texas, Indiana | 🏢 Onsite | — | — | SimplifyJobs New Grad |

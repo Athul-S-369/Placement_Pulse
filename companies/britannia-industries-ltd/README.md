@@ -1,6 +1,6 @@
 # 🏢 Britannia Industries Ltd.
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-17*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-18*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Britannia Creatovate 2.0 - Sales and Marketing Track](https://unstop.com/competitions/crp-britannia-creatovate-20-sales-and-marketing-track-britannia-industries-ltd-1730216) | Britannia Industries Ltd. | India | 🏢 Onsite | — | 2026-11-17 | Unstop |
 
 ## 📖 Interview Preparation
 

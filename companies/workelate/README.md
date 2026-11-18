@@ -1,6 +1,6 @@
 # 🏢 Workelate
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-17*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-18*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [BuildSprint](https://unstop.com/hackathons/buildsprint-workelate-1794884) | Workelate | India | 🏢 Onsite | — | 2026-11-17 | Unstop |
 
 ## 📖 Interview Preparation
 

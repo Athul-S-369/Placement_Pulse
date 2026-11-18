@@ -1,11 +1,11 @@
 # 🏢 Walleye Capital
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-17*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-18*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Boston, MA, NYC, Miami, FL
+- **Locations:** Miami, FL, NYC, Boston, MA
 
 ## Current Opportunities
 

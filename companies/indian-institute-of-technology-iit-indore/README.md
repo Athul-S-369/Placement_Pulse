@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Technology (IIT), Indore
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-17*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-18*
 
 ## Overview
 
