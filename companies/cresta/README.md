@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote in Canada, Remote in USA
+- **Locations:** Remote in USA, Remote in Canada
 
 ## Current Opportunities
 

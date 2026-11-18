@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Elmira, NY, Westlake, TX
+- **Locations:** Westlake, TX, Elmira, NY
 
 ## Current Opportunities
 

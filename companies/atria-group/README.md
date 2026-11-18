@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** NYC, Jacksonville, FL, Novato, CA, Alpharetta, GA, Sunnyvale, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** NYC, Hartford, CT, Novato, CA, Jacksonville, FL, Alpharetta, GA
 
 ## Current Opportunities
 

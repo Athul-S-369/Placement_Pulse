@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**119 active** | **585 expired** | **704 total**
+**121 active** | **585 expired** | **706 total**
 
 *Last updated: 2026-11-18*
 
@@ -16,6 +16,8 @@
 | [Wie Code 2K26](https://unstop.com/hackathons/wie-code-2k26-siddaganga-institute-of-technology-sit-tumkur-1817696) | Siddaganga Institute of Technology (SIT), Tumkur | India | 🏢 Onsite | — | 2026-11-28 | Unstop |
 | [AirLeap Satelite Ground Station Building Program](https://unstop.com/workshops-webinars/airleap-satelite-ground-station-building-program-satelite-ground-station-building-g-vayu-robotics-pri-1817674) | G-Vayu Robotics Private Limited | India | 🏢 Onsite | — | 2026-12-02 | Unstop |
 | [LogicWiz Open: Free Team Quiz, 10 Minutes a Day (plays till 3 December)](https://unstop.com/quiz/logicwiz-open-free-team-quiz-10-minutes-a-day-plays-till-3-december-logicwiz-1817692) | LogicWiz | India | 🏢 Onsite | — | 2026-12-03 | Unstop |
+| [PROTATVA 26](https://unstop.com/competitions/protatva-26-rv-institute-of-technology-and-management-1800323) | RV Institute of Technology and Management | India | 🏢 Onsite | — | 2026-11-21 | Unstop |
+| [Yathartha: The Branding Contest](https://unstop.com/competitions/yathartha-the-branding-contest-indovention-where-innovation-is-limitless-2026-maharashtra-education-society-1816888) | Maharashtra Education Society's Garware College of Commerce (MESGCC), Pune, Maharashtra | India | 🏢 Onsite | — | 2026-12-15 | Unstop |
 | [Srujana AI 2026 Hackathon (Batch 3)](https://unstop.com/hackathons/srujana-ai-2026-hackathon-batch-3-biorad-medisys-private-limited-1794480) | Biorad Medisys Private Limited | India | 🏢 Onsite | — | 2026-11-19 | Unstop |
 | [Gyan Samvad](https://unstop.com/workshops-webinars/gyan-samvad-shaheed-bhagat-singh-evening-college-sbsec-university-of-delhi-du-new-delhi-1814643) | Shaheed Bhagat Singh Evening College (SBSEC), University of Delhi (DU), New Delhi | India | 🏢 Onsite | — | 2026-11-20 | Unstop |
 | [Data Visualization using Python - Debugging Test | Unit 1 Set B](https://unstop.com/hackathons/data-visualization-using-python-debugging-test-unit-1-set-b-abes-engineering-college-1816592) | ABES Engineering College | India | 🏢 Onsite | — | 2026-12-02 | Unstop |
@@ -106,8 +108,6 @@
 | [VIT Bhopal University to Host Health Hackathon 3.0 in January 2027](https://unstop.com/hackathons/vit-bhopal-university-to-host-health-hackathon-30-in-january-2027-vit-bhopal-1781454) | VIT BHOPAL | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
 | [GameMaster Gala](https://unstop.com/competitions/gamemaster-gala-backwaters-2027-iim-kozhikodes-management-festival-indian-institute-of-management-iim-kozhi-1784591) | Indian Institute of Management (IIM), Kozhikode | India | 🏢 Onsite | — | 2027-01-16 | Unstop |
 | [League Of Nations 12.0](https://unstop.com/competitions/league-of-nations-120-impelz-120-institute-of-management-technology-imt-hyderabad-1792031) | Institute of Management Technology (IMT), Hyderabad | India | 🏢 Onsite | — | 2026-12-05 | Unstop |
-| [Casenova 2026](https://unstop.com/competitions/casenova-2026-delhi-school-of-economics-dse-new-delhi-1784502) | Delhi School of Economics (DSE), New Delhi | India | 🏢 Onsite | — | 2026-11-28 | Unstop |
-| [IMThefuture 11.0](https://unstop.com/competitions/imthefuture-110-imt-ghaziabad-1783064) | Institute of Management Technology (IMT), Ghaziabad | India | 🏢 Onsite | — | 2026-12-12 | Unstop |
 
 ## Recently Expired
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Remote / Various, SF, San Francisco, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Remote / Various, San Francisco, CA, SF
 
 ## Current Opportunities
 

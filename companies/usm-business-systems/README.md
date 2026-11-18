@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** San Antonio, TX, Chantilly, VA, Washington, DC, Chicago, IL, California City, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Jefferson City, MO, San Antonio, TX, Augusta, ME, Traverse City, MI, Southfield, MI
 
 ## Current Opportunities
 
