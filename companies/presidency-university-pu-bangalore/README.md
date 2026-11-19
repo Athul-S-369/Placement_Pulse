@@ -1,6 +1,6 @@
 # 🏢 Presidency University (PU), Bangalore
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-18*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-19*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [POWER HACK 2026: "EM" Powering Tomorrow](https://unstop.com/competitions/power-hack-2026-em-powering-tomorrow-presidency-university-pu-bangalore-1786606) | Presidency University (PU), Bangalore | India | 🏢 Onsite | — | 2026-11-18 | Unstop |
 
 ## 📖 Interview Preparation
 

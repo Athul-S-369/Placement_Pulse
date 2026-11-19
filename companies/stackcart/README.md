@@ -1,6 +1,6 @@
 # 🏢 StackCart
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-18*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-19*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [StackCart Creator Clash , A Video Editing Competition!](https://unstop.com/competitions/stackcart-creator-clash-a-video-editing-competition-stackcart-1794736) | StackCart | India | 🏢 Onsite | — | 2026-11-18 | Unstop |
 
 ## 📖 Interview Preparation
 

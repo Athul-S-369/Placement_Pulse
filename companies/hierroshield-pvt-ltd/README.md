@@ -1,6 +1,6 @@
 # 🏢 Hierroshield Pvt Ltd
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-18*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-19*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [HierroCTF 2026 – Capture The Flag (CTF) Competition](https://unstop.com/hackathons/hierroctf-2026-capture-the-flag-ctf-competition-hierroshield-pvt-ltd-1800358) | Hierroshield Pvt Ltd | India | 🏢 Onsite | — | 2026-11-18 | Unstop |
 
 ## 📖 Interview Preparation
 

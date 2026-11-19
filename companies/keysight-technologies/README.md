@@ -1,16 +1,17 @@
 # 🏢 Keysight Technologies
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-18*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-11-19*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Stoke-on-Trent, UK, Santa Rosa, CA, Fleet, UK, Milan, Metropolitan City of Milan, Italy
+- **Locations:** Santa Rosa, CA, Fleet, UK, Milan, Metropolitan City of Milan, Italy, Santa Rosa, CA, Remote in USA, Stoke-on-Trent, UK
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [AI Productivity Specialist - Corporate Communications](https://jobs.keysight.com/jobs/58059?icims=1&lang=en-us) | Keysight Technologies | Santa Rosa, CA, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [R&D Engineer - Signal Processing & Measurement Software](https://jobs.keysight.com/jobs/52097?lang=en-us&icims=1) | Keysight Technologies | Santa Rosa, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Electrical/Electronics Calibration Technician - Test & Measurement](https://jobs.keysight.com/jobs/52129?lang=en-us&icims=1) | Keysight Technologies | Stoke-on-Trent, UK | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Wireless Protocol Software Engineer - Layer 2 - Radio Link Control](https://jobs.keysight.com/jobs/52141?lang=en-us&icims=1) | Keysight Technologies | Fleet, UK, Milan, Metropolitan City of Milan, Italy | 🏢 Onsite | — | — | SimplifyJobs New Grad |
