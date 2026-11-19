@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**119 active** | **592 expired** | **711 total**
+**124 active** | **592 expired** | **716 total**
 
 *Last updated: 2026-11-19*
 
@@ -13,6 +13,11 @@
 | [Awaaz-e-Muqabla 2026](https://unstop.com/events/awaaz-e-muqabla-2026-shout-networking-pvt-ltd-1818215) | Shout Networking Pvt. Ltd. | India | 🏢 Onsite | — | 2026-12-10 | Unstop |
 | [Ellipsis - Analytics Case Competition](https://unstop.com/competitions/ellipsis-analytics-case-competition-indian-statistical-institute-isi-kolkata-1818372) | Indian Statistical Institute (ISI), Kolkata | India | 🏢 Onsite | — | 2026-12-06 | Unstop |
 | [SustainIQ](https://unstop.com/hackathons/sustainiq-vidyavardhaka-college-of-engineering-mysore-1814270) | Vidyavardhaka College of Engineering, Mysore | India | 🏢 Onsite | — | 2026-12-04 | Unstop |
+| [Embers'26 - Project Expo & Paper Presentation | National Level Technical Fest, P.A. College of Engineering](https://unstop.com/competitions/embers26-project-expo-paper-presentation-national-level-technical-fest-pa-college-of-engineering-pa-college-1818387) | P.A. College of Engineering, Mangalore, Karnataka | India | 🏢 Onsite | — | 2026-11-24 | Unstop |
+| [INNOVATE X](https://unstop.com/hackathons/innovate-x-poornima-institute-of-engineering-technology-piet-jaipur-1818980) | Poornima Institute of Engineering & Technology (PIET), Jaipur | India | 🏢 Onsite | — | 2026-11-20 | Unstop |
+| [Robosoccer](https://unstop.com/competitions/robosoccer-techfest-iit-bombay-2026-27-techfest-iit-bombay-1819653) | Techfest IIT Bombay | India | 🏢 Onsite | — | 2026-12-18 | Unstop |
+| [Game On Night: Build & Pitch Your Own AI Game in 60 Mins](https://unstop.com/workshops-webinars/game-on-night-build-pitch-your-own-ai-game-in-60-mins-cimage-group-of-institutions-1818102) | CIMAGE Group of Institutions | India | 🏢 Onsite | — | 2026-11-21 | Unstop |
+| [Ace The Case 2.0](https://unstop.com/competitions/ace-the-case-20-bharati-vidyapeeth-deemed-university-1816501) | Bharati Vidyapeeth Deemed University | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
 | [Hack Uttar Pradesh 2026](https://unstop.com/hackathons/hack-uttar-pradesh-2026-riwa-creatives-1817499) | Riwa Creatives | India | 🏢 Onsite | — | 2026-12-31 | Unstop |
 | [Startup Idea Pitching](https://unstop.com/competitions/startup-idea-pitching-parul-university-pu-vadodara-1817447) | Parul University (PU), Vadodara | India | 🏢 Onsite | — | 2026-12-20 | Unstop |
 | [PromptWars x Quad Bengaluru](https://unstop.com/hackathons/promptwars-x-quad-bengaluru-quad-ai-school-of-technology-management-1817389) | Quad AI School of Technology & Management | India | 🏢 Onsite | — | 2026-12-04 | Unstop |
@@ -103,11 +108,6 @@
 | [Marketrix: The Analytics League](https://unstop.com/competitions/marketrix-the-analytics-league-jaipuria-institute-of-management-jim-lucknow-1796982) | Jaipuria Institute of Management (JIM), Lucknow | India | 🏢 Onsite | — | 2026-11-21 | Unstop |
 | [AIQUIZON 1.0](https://unstop.com/quiz/aiquizon-10-gla-university-mathura-1795184) | Gla University Mathura | India | 🏢 Onsite | — | 2026-11-20 | Unstop |
 | [Ops Samasya - 2026](https://unstop.com/competitions/ops-samasya-2026--1784643) | Indian Institute of Management (IIM), Udaipur | India | 🏢 Onsite | — | 2026-12-13 | Unstop |
-| [Queryquest: SQL Problem-Solving Challenge](https://unstop.com/hackathons/queryquest-sql-problem-solving-challenge-the-national-institute-of-engineering-karnataka-1793112) | The National Institute of Engineering, Karnataka | India | 🏢 Onsite | — | 2026-11-21 | Unstop |
-| [CyberQuest](https://unstop.com/quiz/cyberquest-cyberethic-1772916) | CyberEthic | India | 🏢 Onsite | — | 2026-12-27 | Unstop |
-| [VIT Bhopal University to Host Health Hackathon 3.0 in January 2027](https://unstop.com/hackathons/vit-bhopal-university-to-host-health-hackathon-30-in-january-2027-vit-bhopal-1781454) | VIT BHOPAL | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
-| [GameMaster Gala](https://unstop.com/competitions/gamemaster-gala-backwaters-2027-iim-kozhikodes-management-festival-indian-institute-of-management-iim-kozhi-1784591) | Indian Institute of Management (IIM), Kozhikode | India | 🏢 Onsite | — | 2027-01-16 | Unstop |
-| [League Of Nations 12.0](https://unstop.com/competitions/league-of-nations-120-impelz-120-institute-of-management-technology-imt-hyderabad-1792031) | Institute of Management Technology (IMT), Hyderabad | India | 🏢 Onsite | — | 2026-12-05 | Unstop |
 
 ## Recently Expired
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** St. Louis, MO, NYC, Plainview, NY, Jacksonville, FL, Chicago, IL
+- **Locations:** Broomfield, CO, Jacksonville, FL, St. Louis, MO, Alpharetta, GA, Chicago, IL
 
 ## Current Opportunities
 

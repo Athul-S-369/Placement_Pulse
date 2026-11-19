@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Traverse City, MI, California City, CA, Washington, DC, Bloomington, MN, Southfield, MI
+- **Locations:** Jefferson City, MO, Rochester, MI, El Segundo, CA, Alexandria, VA, Chantilly, VA
 
 ## Current Opportunities
 

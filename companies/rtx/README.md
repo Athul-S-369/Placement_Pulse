@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Huntsville, AL, Remote in USA, Richardson, TX, Remote in USA, McKinney, TX, Arlington, VA
+- **Locations:** Indianapolis, IN, Barrie, ON, Canada, Goleta, CA, Remote in USA, Richardson, TX, Andover, MA
 
 ## Current Opportunities
 

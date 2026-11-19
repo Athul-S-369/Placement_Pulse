@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Ipswich, MA, Remote, Remote in USA
+- **Locations:** Remote in USA, Ipswich, MA, Remote
 
 ## Current Opportunities
 

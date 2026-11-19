@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1484 active** | **0 expired** | **1484 total**
+**1485 active** | **0 expired** | **1485 total**
 
 *Last updated: 2026-11-19*
 
@@ -9,6 +9,7 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [AI Productivity Specialist - Corporate Communications](https://jobs.keysight.com/jobs/58059?icims=1&lang=en-us) | Keysight Technologies | Santa Rosa, CA, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Junior Data Integration Developer](https://ats.rippling.com/journaltech/jobs/c16c782e-f2e0-490a-b3fc-061a5df2fa8d) | Journal Technologies | LA, Victoria, BC, Canada, Remote in USA, Logan, UT | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Embedded Firmware Engineer](https://karman.applytojob.com/apply/ZATv9CJjd9/Embedded-Firmware-Engineer) | Utilidata | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Strategy Associate](https://emcresearch.applytojob.com/apply/Eg3VEKohul/Strategy-Associate) | EMC Research | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Product Data Associate](https://tricorbraun.wd115.myworkdayjobs.com/careers/job/Chicago-DE/Data-Analyst-Associate_R-101875) | TricorBraun | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Early Careers New Grad - Analytics Development Program](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/National-Remote/Early-Careers-New-Grad---Analytics-Development-Program--REMOTE-_R0059520) | HCSC | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Product Manager](https://jobs.ashbyhq.com/highlightta/e9cbe4ec-16d4-4734-8a80-bbb66ef95752/application?embed=true) | HighlightTA | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Scientist 1](https://caresource.wd1.myworkdayjobs.com/caresource/job/Remote/Data-Scientist-I_R13840) | CareSource | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Student Worker](https://viatris.wd5.myworkdayjobs.com/External/job/United-States-Remote-Office/Student-Worker_R5674339) | Viatris | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

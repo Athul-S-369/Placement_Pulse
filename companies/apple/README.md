@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** United States, Lafayette, KS, London, UK, Austin, TX, SF
+- **Locations:** Cupertino, CA, United States, Gloucester, UK, SF, Lafayette, KS
 
 ## Current Opportunities
 

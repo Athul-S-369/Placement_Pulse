@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Manchester, UK, Philadelphia, PA, Whiteley, UK, Cardiff, UK, Cambridge, UK, Atlanta, GA
+- **Locations:** Kansas City, MO, Philadelphia, PA, Manchester, UK, Whiteley, UK, Cardiff, UK, Pasadena, CA
 
 ## Current Opportunities
 

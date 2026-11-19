@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** California, Santa Clara, CA, United States, Toronto, ON, Canada, Remote in Canada, Bristol, UK, Belfast, UK, Remote in UK, Reading, UK, Austin, TX, Austin, TX, Remote in USA, Redmond, WA, Santa Clara, CA
+- **Locations:** Remote in Germany, Remote in UK, Remote in Spain, Remote in France, Bristol, UK, Belfast, UK, Remote in UK, Reading, UK, Toronto, ON, Canada, Remote in Canada, Remote in USA, Santa Clara, CA, California, Santa Clara, CA, United States
 
 ## Current Opportunities
 
