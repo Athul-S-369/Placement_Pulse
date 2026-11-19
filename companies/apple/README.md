@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Cupertino, CA, United States, Gloucester, UK, SF, Lafayette, KS
+- **Locations:** Cupertino, CA, Morrisville, NC, Cambridge, MA, Gloucester, UK, SF
 
 ## Current Opportunities
 

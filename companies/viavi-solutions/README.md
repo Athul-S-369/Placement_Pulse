@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Indianapolis, IN, Remote in USA
+- **Locations:** Remote in USA, Indianapolis, IN
 
 ## Current Opportunities
 

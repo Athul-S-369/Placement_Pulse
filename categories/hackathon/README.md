@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**124 active** | **592 expired** | **716 total**
+**126 active** | **592 expired** | **718 total**
 
 *Last updated: 2026-11-19*
 
@@ -18,6 +18,8 @@
 | [Robosoccer](https://unstop.com/competitions/robosoccer-techfest-iit-bombay-2026-27-techfest-iit-bombay-1819653) | Techfest IIT Bombay | India | 🏢 Onsite | — | 2026-12-18 | Unstop |
 | [Game On Night: Build & Pitch Your Own AI Game in 60 Mins](https://unstop.com/workshops-webinars/game-on-night-build-pitch-your-own-ai-game-in-60-mins-cimage-group-of-institutions-1818102) | CIMAGE Group of Institutions | India | 🏢 Onsite | — | 2026-11-21 | Unstop |
 | [Ace The Case 2.0](https://unstop.com/competitions/ace-the-case-20-bharati-vidyapeeth-deemed-university-1816501) | Bharati Vidyapeeth Deemed University | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
+| [Quiz Carnival 2026](https://unstop.com/quiz/quiz-carnival-2026-knowledge-institute-of-technology-kiot-tamil-nadu-1811342) | Knowledge Institute of Technology (KIoT), Tamil Nadu | India | 🏢 Onsite | — | 2026-11-29 | Unstop |
+| [MyOnne National Bug Bounty Challenge 2026](https://unstop.com/hackathons/myonne-national-bug-bounty-challenge-2026-myonne-amora-private-limited-1817686) | MyOnne Amora Private Limited | India | 🏢 Onsite | — | 2026-11-28 | Unstop |
 | [Hack Uttar Pradesh 2026](https://unstop.com/hackathons/hack-uttar-pradesh-2026-riwa-creatives-1817499) | Riwa Creatives | India | 🏢 Onsite | — | 2026-12-31 | Unstop |
 | [Startup Idea Pitching](https://unstop.com/competitions/startup-idea-pitching-parul-university-pu-vadodara-1817447) | Parul University (PU), Vadodara | India | 🏢 Onsite | — | 2026-12-20 | Unstop |
 | [PromptWars x Quad Bengaluru](https://unstop.com/hackathons/promptwars-x-quad-bengaluru-quad-ai-school-of-technology-management-1817389) | Quad AI School of Technology & Management | India | 🏢 Onsite | — | 2026-12-04 | Unstop |
@@ -106,8 +108,6 @@
 | [Inventopreneur](https://unstop.com/competitions/inventopreneur-image-2027-gls-university-glsu-ahmedabad-gujrat-1794481) | GLS University (GLSU), Ahmedabad, Gujrat | India | 🏢 Onsite | — | 2027-01-30 | Unstop |
 | [Web App Testing, Bug Hunting & Security Challenge](https://unstop.com/competitions/web-app-testing-bug-hunting-security-challenge-ai-xplore-1797252) | AI Xplore | India | 🏢 Onsite | — | 2026-11-19 | Unstop |
 | [Marketrix: The Analytics League](https://unstop.com/competitions/marketrix-the-analytics-league-jaipuria-institute-of-management-jim-lucknow-1796982) | Jaipuria Institute of Management (JIM), Lucknow | India | 🏢 Onsite | — | 2026-11-21 | Unstop |
-| [AIQUIZON 1.0](https://unstop.com/quiz/aiquizon-10-gla-university-mathura-1795184) | Gla University Mathura | India | 🏢 Onsite | — | 2026-11-20 | Unstop |
-| [Ops Samasya - 2026](https://unstop.com/competitions/ops-samasya-2026--1784643) | Indian Institute of Management (IIM), Udaipur | India | 🏢 Onsite | — | 2026-12-13 | Unstop |
 
 ## Recently Expired
 

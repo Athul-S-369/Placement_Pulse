@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Anaheim, CA, Palo Alto, CA, Fremont, CA, United States, Orlando, FL, Fremont, CA, Bellevue, WA
+- **Locations:** Bellevue, WA, Orlando, FL, Dallas, TX, Anaheim, CA, Palo Alto, CA, Fremont, CA, United States
 
 ## Current Opportunities
 

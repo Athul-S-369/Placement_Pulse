@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Jefferson City, MO, Rochester, MI, El Segundo, CA, Alexandria, VA, Chantilly, VA
+- **Locations:** Traverse City, MI, Chicago, IL, Augusta, ME, El Segundo, CA, Washington, DC
 
 ## Current Opportunities
 

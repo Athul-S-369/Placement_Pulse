@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Indianapolis, IN, Barrie, ON, Canada, Goleta, CA, Remote in USA, Richardson, TX, Andover, MA
+- **Locations:** Cedar Rapids, IA, Goleta, CA, McKinney, TX, Remote in USA, Remote in USA, Richardson, TX
 
 ## Current Opportunities
 
