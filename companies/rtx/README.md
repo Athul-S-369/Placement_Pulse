@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Fort Wayne, IN, McKinney, TX, Arlington, VA, Huntsville, AL, Barrie, ON, Canada
+- **Locations:** Barrie, ON, Canada, Indianapolis, IN, Remote in USA, Richardson, TX, Andover, MA, Fort Wayne, IN
 
 ## Current Opportunities
 

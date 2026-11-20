@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**128 active** | **597 expired** | **725 total**
+**132 active** | **597 expired** | **729 total**
 
 *Last updated: 2026-11-20*
 
@@ -15,6 +15,10 @@
 | [How To Crack Live Interviews at Product Based Companies](https://unstop.com/workshops-webinars/how-to-crack-live-interviews-at-product-based-companies-raisetech-1819651) | RaiseTech | India | 🏢 Onsite | — | 2026-11-23 | Unstop |
 | [ConsultX - Consulting Case Study Competition](https://unstop.com/competitions/consultx-kaizen-institute-of-management-accountants-1820026) | Institute of Management Accountants | India | 🏢 Onsite | — | 2026-12-04 | Unstop |
 | [WinterArc: 30 Days of Money](https://unstop.com/competitions/winterarc-30-days-of-money-fined-1819963) | Fined | India | 🏢 Onsite | — | 2026-12-30 | Unstop |
+| [Maria Philip Future Leaders Debate Competition 2026 - 2027](https://unstop.com/events/maria-philip-future-leaders-debate-competition-2026-2027-xavier-institute-of-management-entrepreneurship-chennai-1817803) | Xavier Institute of Management & Entrepreneurship, Chennai | India | 🏢 Onsite | — | 2027-02-22 | Unstop |
+| [Brand Swap](https://unstop.com/competitions/brand-swap-utkarsh-the-business-arena-shaheed-bhagat-singh-college-new-delhi-1819762) | Shaheed Bhagat Singh College, New Delhi | India | 🏢 Onsite | — | 2026-11-28 | Unstop |
+| [Alchemy - Monthly Technical Paper Presentation](https://unstop.com/competitions/alchemy-monthly-technical-paper-presentation-birsa-institute-of-technology-bit-sindri-1817479) | Birsa Institute of Technology (BIT), Sindri | India | 🏢 Onsite | — | 2026-11-29 | Unstop |
+| [Deal Den - The Shark Tank](https://unstop.com/competitions/deal-den-the-shark-tank-zeal-2026-utopia-icfai-business-school-ibs-pune-1819997) | ICFAI Business School (IBS), Pune | India | 🏢 Onsite | — | 2026-12-05 | Unstop |
 | [Prompt War & Syntax Squad](https://unstop.com/hackathons/prompt-war-syntax-squad-padmabhooshan-vasantdada-patil-institute-of-technology-pvpit-pune-1818490) | Padmabhooshan Vasantdada Patil Institute of Technology (PVPIT), Pune | India | 🏢 Onsite | — | 2026-12-09 | Unstop |
 | [Dating WordPress: It’s Complicated, Until You Learn](https://unstop.com/workshops-webinars/dating-wordpress-its-complicated-until-you-learn-skillshaa-1818334) | Skillshaa | India | 🏢 Onsite | — | 2026-12-05 | Unstop |
 | [Awaaz-e-Muqabla 2026](https://unstop.com/events/awaaz-e-muqabla-2026-shout-networking-pvt-ltd-1818215) | Shout Networking Pvt. Ltd. | India | 🏢 Onsite | — | 2026-12-10 | Unstop |
@@ -104,10 +108,6 @@
 | [Expanding Horizons 8.0](https://unstop.com/quiz/expanding-horizons-80-expanding-horizon-motilal-nehru-national-institute-of-technology-1798247) | Motilal Nehru National Institute of Technology | India | 🏢 Onsite | — | 2026-11-21 | Unstop |
 | [Finovate](https://unstop.com/competitions/finovate-symbiosis-school-of-banking-and-finance-ssbf-maharastra-1794509) | Symbiosis School of Banking and Finance (SSBF), Maharastra | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
 | [KPI Bid Off](https://unstop.com/competitions/kpi-bid-off-great-lakes-institute-of-management-glim-chennai-1793812) | Great Lakes Institute of Management (GLIM), Chennai | India | 🏢 Onsite | — | 2026-11-25 | Unstop |
-| [Re: Verse Turncoat Debate](https://unstop.com/competitions/re-verse-turncoat-debate-dyal-singh-college-du-delhi-1799098) | Dyal Singh College (DSC), Delhi University, Delhi | India | 🏢 Onsite | — | 2026-11-20 | Unstop |
-| [Build in public](https://unstop.com/workshops-webinars/build-in-public-communitymeetups-1769586) | CommunityMeetups | India | 🏢 Onsite | — | 2026-11-20 | Unstop |
-| [Bug Strike - Debugging Challenge (State-Level)](https://unstop.com/quiz/bug-strike-debugging-challenge-state-level-nims-university-nu-jaipur-1772269) | Nims University (NU), Jaipur | India | 🏢 Onsite | — | 2026-11-25 | Unstop |
-| [E-Combat](https://unstop.com/events/e-combat-e-summit26-jadavpur-university-jadavpur-university-kolkata-1794755) | Jadavpur University (JU), Kolkata | India | 🏢 Onsite | — | 2026-11-22 | Unstop |
 
 ## Recently Expired
 

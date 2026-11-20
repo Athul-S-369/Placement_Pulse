@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**927 active** | **0 expired** | **927 total**
+**929 active** | **0 expired** | **929 total**
 
 *Last updated: 2026-11-20*
 
@@ -8,6 +8,8 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Intern - Physics & AI modeling Engineering](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095) | Applied Materials | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
+| [Software Data Engineer Intern](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936413732_1) | iA | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [PhD Summer Intern](https://careers.andersen.com/jobs/8348?icims=1&lang=en-us) | Andersen | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Interactive Resident](https://jobs.jobvite.com/theopusgroup/job/oPMUAfwP?nl=1&nl=1&fr=false) | The Opus Group | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Department of War SkillBridge Operations SME Intern](https://jobs.lever.co/researchinnovations.com/eeada042-c446-4723-81f4-b1607443fb4e/apply) | Research Innovations | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -106,5 +108,3 @@
 | [Software Engineer Intern](https://careers-nasco.icims.com/jobs/4402/job?mobile=true&needsRedirect=false) | NASCO | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Data Science Intern](https://job-boards.greenhouse.io/wurljobs/jobs/4716249006) | Wurl | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [AI Engineer Intern](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/AI-Engineer-Intern_R24605) | Vantor | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Data & Analytics Consultant Intern - Summer 2027](https://jobs.smartrecruiters.com/Resultant/744000150785390) | Resultant | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
-| [Product Management Intern - Artificial Intelligence Product Management](https://careers.zimmerbiomet.com/us/en/job/12745) | Zimmer Biomet Holdings | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

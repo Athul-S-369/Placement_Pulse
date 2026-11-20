@@ -1,16 +1,17 @@
 # 🏢 Applied Materials
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-20*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-20*
 
 ## Overview
 
-- **Categories:** Fresher Job
-- **Locations:** Santa Clara, CA, Austin, TX, Hillsboro, OR, Boise, ID, Albany, NY, Phoenix, AZ
+- **Categories:** Internship, Fresher Job
+- **Locations:** Remote / Various, Austin, TX, Hillsboro, OR, Boise, ID, Albany, NY, Phoenix, AZ, Santa Clara, CA
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Intern - Physics & AI modeling Engineering](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095) | Applied Materials | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [AI Research Scientist - Generative Models for Scientific Discovery](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Research-Scientist--Generative-Models-for-Scientific-Discovery-_R2611980-1) | Applied Materials | Santa Clara, CA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Field Service Engineer New College Graduate Rotational Program](https://amat.wd1.myworkdayjobs.com/External/job/PhoenixAZ/XMLNAME-2027-Field-Service-Engineer---New-College-Graduate-Rotational-Program---Bachelor-s-Degree_R2614610) | Applied Materials | Austin, TX, Hillsboro, OR, Boise, ID, Albany, NY, Phoenix, AZ | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 

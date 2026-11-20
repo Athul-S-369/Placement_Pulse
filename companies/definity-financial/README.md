@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Mississauga, ON, Canada, Kitchener, ON, Canada, Toronto, ON, Canada
+- **Locations:** Toronto, ON, Canada, Mississauga, ON, Canada, Kitchener, ON, Canada
 
 ## Current Opportunities
 

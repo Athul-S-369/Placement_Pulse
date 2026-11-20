@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Dublin, OH, Southfield, MI, Alexandria, VA, Manassas, VA, Columbus, OH
+- **Locations:** Chicago, IL, El Segundo, CA, Baltimore, MD, Southfield, MI, Westminster, CO
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Indianapolis, IN, Nashville, TN, Dallas, TX, Columbus, OH, Atlanta, GA, Indianapolis, IN
+- **Locations:** Indianapolis, IN, Indianapolis, IN, Nashville, TN, Dallas, TX, Columbus, OH, Atlanta, GA
 
 ## Current Opportunities
 
