@@ -1,6 +1,6 @@
 # 🏢 Jindal Stainless Limited
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-19*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-20*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Stainless Spark – Engineering Innovation, Building Futures](https://unstop.com/competitions/crp-stainless-spark-engineering-innovation-building-futures-stainless-spark-case-study-competition-jindal-stain-1572025) | Jindal Stainless Limited | India | 🏢 Onsite | — | 2026-11-19 | Unstop |
 
 ## 📖 Interview Preparation
 

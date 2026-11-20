@@ -1,6 +1,6 @@
 # 🏢 Biorad Medisys Private Limited
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-19*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-20*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Srujana AI 2026 Hackathon (Batch 3)](https://unstop.com/hackathons/srujana-ai-2026-hackathon-batch-3-biorad-medisys-private-limited-1794480) | Biorad Medisys Private Limited | India | 🏢 Onsite | — | 2026-11-19 | Unstop |
 
 ## 📖 Interview Preparation
 

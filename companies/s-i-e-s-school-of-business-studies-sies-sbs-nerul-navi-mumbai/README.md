@@ -1,6 +1,6 @@
 # 🏢 S.I.E.S School of Business Studies (SIES SBS), Nerul, Navi Mumbai
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-19*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-20*
 
 ## Overview
 

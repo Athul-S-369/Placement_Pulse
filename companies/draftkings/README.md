@@ -1,11 +1,11 @@
 # 🏢 DraftKings
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-19*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-20*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, Remote in Canada, Boston, MA
+- **Locations:** Remote in Canada, Boston, MA, Remote in USA
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏢 Algoxilla
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-19*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-20*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [MARS Creator Challenge 2026](https://unstop.com/competitions/mars-creator-challenge-2026-algoxilla-1791920) | Algoxilla | India | 🏢 Onsite | — | 2026-11-19 | Unstop |
 
 ## 📖 Interview Preparation
 

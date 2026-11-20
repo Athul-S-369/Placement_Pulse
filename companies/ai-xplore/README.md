@@ -1,6 +1,6 @@
 # 🏢 AI Xplore
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-19*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-20*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Web App Testing, Bug Hunting & Security Challenge](https://unstop.com/competitions/web-app-testing-bug-hunting-security-challenge-ai-xplore-1797252) | AI Xplore | India | 🏢 Onsite | — | 2026-11-19 | Unstop |
 
 ## 📖 Interview Preparation
 

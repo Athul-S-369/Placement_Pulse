@@ -1,11 +1,11 @@
 # 🏢 Snowflake
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-19*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-20*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Bellevue, WA, Menlo Park, CA, Bellevue, WA
+- **Locations:** Menlo Park, CA, Bellevue, WA, Bellevue, WA
 
 ## Current Opportunities
 
