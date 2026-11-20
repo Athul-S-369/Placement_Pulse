@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Chicago, IL, El Segundo, CA, Baltimore, MD, Southfield, MI, Westminster, CO
+- **Locations:** Bluemont, VA, San Antonio, TX, Bloomington, MN, El Segundo, CA, St. Louis, MO
 
 ## Current Opportunities
 

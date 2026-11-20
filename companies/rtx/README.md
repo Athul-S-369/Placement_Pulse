@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Barrie, ON, Canada, Indianapolis, IN, Remote in USA, Richardson, TX, Andover, MA, Fort Wayne, IN
+- **Locations:** Andover, MA, Huntsville, AL, Cedar Rapids, IA, Remote in USA, Indianapolis, IN
 
 ## Current Opportunities
 
