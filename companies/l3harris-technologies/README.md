@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Philadelphia, PA, Rochester, NY, Melbourne, FL, Waco, TX, Cincinnati, OH
+- **Locations:** Rochester, NY, Waco, TX, Cincinnati, OH, Melbourne, FL, Philadelphia, PA
 
 ## Current Opportunities
 

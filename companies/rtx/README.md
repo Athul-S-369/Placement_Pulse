@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Andover, MA, Cedar Rapids, IA, Longueuil, QC, Canada, Remote in USA, Indianapolis, IN
+- **Categories:** Internship, Fresher Job
+- **Locations:** McKinney, TX, Remote in USA, Remote in USA, Richardson, TX, Longueuil, QC, Canada, Fort Wayne, IN
 
 ## Current Opportunities
 

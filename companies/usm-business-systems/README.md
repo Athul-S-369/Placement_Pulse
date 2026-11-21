@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Baltimore, MD, Augusta, ME, St. Louis, MO, NYC, Westminster, CO
+- **Categories:** Internship, Fresher Job
+- **Locations:** Columbus, OH, Bluemont, VA, Traverse City, MI, Washington, DC, NYC
 
 ## Current Opportunities
 
