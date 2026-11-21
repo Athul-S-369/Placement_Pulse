@@ -1,13 +1,16 @@
 # 🎓 Internship
 
-**929 active** | **0 expired** | **929 total**
+**932 active** | **0 expired** | **932 total**
 
-*Last updated: 2026-11-20*
+*Last updated: 2026-11-21*
 
 ## Active Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [GIS Intern](https://recruiting2.ultipro.com/ULT1008ULTE/JobBoard/71bc1da6-c7b0-4b37-9f7b-076d7d68c57b/OpportunityDetail?opportunityId=06de9c99-c3f6-41e6-867e-05efb7cfa5fa) | Ulteig | Remote in USA, Minneapolis, MN, Greenwood Village, CO | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Engineering Resident Intern](https://job-boards.greenhouse.io/method/jobs/8208724003) | Method | Remote in USA, Santa Clara, CA, Charlotte, NC, NYC, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Software Engineer Intern](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217) | Acuity Insurance | Remote in USA, Sheboygan, WI | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Intern - Physics & AI modeling Engineering](https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2026-Summer-Intern---Physics---AI-modeling-Engineering_R2616095) | Applied Materials | Remote / Various | 🌐 Remote | — | — | SimplifyJobs GitHub |
 | [Software Data Engineer Intern](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936413732_1) | iA | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [PhD Summer Intern](https://careers.andersen.com/jobs/8348?icims=1&lang=en-us) | Andersen | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -105,6 +108,3 @@
 | [Data Science & AI Co-op - Portfolio Data & Digital Innovation](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209) | Biogen | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Quantitative Developer Intern](https://revantage.wd1.myworkdayjobs.com/Revantage/job/Remote---Illinois/Quantitative-Developer-Intern_JR104315) | Revantage Corporate Services | Remote in USA, Illinois | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Commercial Analytics Intern - ED/Chemistry Solutions Commercial Analytics Team](https://labcorp.wd1.myworkdayjobs.com/external/job/USA----WI---Milwaukee---3727-W-Wisconsin-Avenue/Intern---Commercial-Analytics_2633615) | LabCorp | Remote in USA, Milwaukee, WI | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Software Engineer Intern](https://careers-nasco.icims.com/jobs/4402/job?mobile=true&needsRedirect=false) | NASCO | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Data Science Intern](https://job-boards.greenhouse.io/wurljobs/jobs/4716249006) | Wurl | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [AI Engineer Intern](https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/AI-Engineer-Intern_R24605) | Vantor | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

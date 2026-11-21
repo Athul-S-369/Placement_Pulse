@@ -1,6 +1,6 @@
 # 🏢 Gulzar Group of Institutes (GGI), Khanna, Punjab
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-20*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-21*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Mic Mitra Quiz Competition](https://unstop.com/quiz/mic-mitra-quiz-competition-gulzar-group-of-institutes-ggi-khanna-punjab-1810947) | Gulzar Group of Institutes (GGI), Khanna, Punjab | India | 🏢 Onsite | — | 2026-11-20 | Unstop |
 
 ## 📖 Interview Preparation
 

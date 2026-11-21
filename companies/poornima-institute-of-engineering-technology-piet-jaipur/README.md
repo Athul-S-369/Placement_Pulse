@@ -1,6 +1,6 @@
 # 🏢 Poornima Institute of Engineering & Technology (PIET), Jaipur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-20*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-21*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [INNOVATE X](https://unstop.com/hackathons/innovate-x-poornima-institute-of-engineering-technology-piet-jaipur-1818980) | Poornima Institute of Engineering & Technology (PIET), Jaipur | India | 🏢 Onsite | — | 2026-11-20 | Unstop |
 
 ## 📖 Interview Preparation
 

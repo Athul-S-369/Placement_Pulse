@@ -1,11 +1,11 @@
 # 🏢 Acuity
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-20*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-21*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Wheat Ridge, CO, West Lafayette, IN
+- **Locations:** West Lafayette, IN, Wheat Ridge, CO
 
 ## Current Opportunities
 

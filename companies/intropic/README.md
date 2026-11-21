@@ -1,11 +1,11 @@
 # 🏢 Intropic
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-20*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-21*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** London, UK, Remote / Various
+- **Locations:** Remote / Various, London, UK
 
 ## Current Opportunities
 

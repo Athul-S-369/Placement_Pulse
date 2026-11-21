@@ -1,11 +1,11 @@
 # 🏢 UL Solutions
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-20*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-21*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Raleigh, NC, Fremont, CA, Northbrook, IL
+- **Categories:** Fresher Job, Internship
+- **Locations:** Northbrook, IL, Raleigh, NC, Fremont, CA
 
 ## Current Opportunities
 

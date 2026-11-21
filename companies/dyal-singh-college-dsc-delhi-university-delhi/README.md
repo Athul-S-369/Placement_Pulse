@@ -1,6 +1,6 @@
 # 🏢 Dyal Singh College (DSC), Delhi University, Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-20*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-21*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Re: Verse Turncoat Debate](https://unstop.com/competitions/re-verse-turncoat-debate-dyal-singh-college-du-delhi-1799098) | Dyal Singh College (DSC), Delhi University, Delhi | India | 🏢 Onsite | — | 2026-11-20 | Unstop |
 
 ## 📖 Interview Preparation
 

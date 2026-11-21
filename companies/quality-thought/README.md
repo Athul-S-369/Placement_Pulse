@@ -1,6 +1,6 @@
 # 🏢 Quality Thought
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-20*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-21*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Demo Session on Playwright with AI | 14th November](https://unstop.com/workshops-webinars/demo-session-on-playwright-with-ai-14th-november-quality-thought-1808620) | Quality Thought | India | 🏢 Onsite | — | 2026-11-20 | Unstop |
 
 ## 📖 Interview Preparation
 

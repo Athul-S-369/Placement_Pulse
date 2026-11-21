@@ -1,11 +1,11 @@
 # 🏢 Major League Baseball
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-20*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-21*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Phoenix, AZ, Baltimore, MD
+- **Categories:** Fresher Job, Internship
+- **Locations:** Baltimore, MD, Phoenix, AZ
 
 ## Current Opportunities
 

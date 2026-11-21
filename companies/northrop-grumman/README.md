@@ -1,11 +1,11 @@
 # 🏢 Northrop Grumman
 
-**8 active opportunities** | **8 total tracked** | *Last updated: 2026-11-20*
+**8 active opportunities** | **8 total tracked** | *Last updated: 2026-11-21*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Northridge, LA, Escondido, CA, Palmdale, CA, Remote in USA, Warner Robins, GA, Melbourne, FL
+- **Categories:** Fresher Job, Internship
+- **Locations:** Melbourne, FL, Northridge, LA, Remote in USA, Aurora, CO, Morrisville, NC, Annapolis Junction, MD, San Antonio, TX, Aurora, CO, Morrisville, NC, Remote in USA, Linthicum Heights, MD
 
 ## Current Opportunities
 

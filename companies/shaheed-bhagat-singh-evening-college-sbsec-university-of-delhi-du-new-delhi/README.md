@@ -1,6 +1,6 @@
 # 🏢 Shaheed Bhagat Singh Evening College (SBSEC), University of Delhi (DU), New Delhi
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-20*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-21*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Gyan Samvad](https://unstop.com/workshops-webinars/gyan-samvad-shaheed-bhagat-singh-evening-college-sbsec-university-of-delhi-du-new-delhi-1814643) | Shaheed Bhagat Singh Evening College (SBSEC), University of Delhi (DU), New Delhi | India | 🏢 Onsite | — | 2026-11-20 | Unstop |
 
 ## 📖 Interview Preparation
 
