@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Palm Beach Gardens, FL, Cranberry Twp, PA
+- **Locations:** Cranberry Twp, PA, Palm Beach Gardens, FL
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Longueuil, QC, Canada, Remote in USA, Richardson, TX, Cedar Rapids, IA, Remote in USA, Goleta, CA
+- **Locations:** Andover, MA, Cedar Rapids, IA, Longueuil, QC, Canada, Remote in USA, Indianapolis, IN
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** St. Louis, MO, Jefferson City, MO, Bloomington, MN, Alexandria, VA, El Segundo, CA
+- **Locations:** Baltimore, MD, Augusta, ME, St. Louis, MO, NYC, Westminster, CO
 
 ## Current Opportunities
 

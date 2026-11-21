@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Crawley, UK, Calgary, AB, Canada
+- **Locations:** Calgary, AB, Canada, Crawley, UK
 
 ## Current Opportunities
 

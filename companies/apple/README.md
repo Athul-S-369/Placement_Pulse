@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** SF, Austin, TX, Seattle, WA, Gloucester, UK, Morrisville, NC
+- **Locations:** Seattle, WA, London, UK, Cambridge, UK, Welwyn Garden City, UK, Morrisville, NC, Lafayette, KS, United States
 
 ## Current Opportunities
 

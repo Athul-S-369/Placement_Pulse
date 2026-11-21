@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Newark, DE, Plano, TX, Columbus, OH, Wilmington, DE, Newark, DE, Columbus, OH, NYC, Wilmington, DE, Christchurch, UK
+- **Locations:** Plano, TX, Columbus, OH, Wilmington, DE, Wilmington, DE, Newark, DE, NYC, Wilmington, DE, Houston, TX
 
 ## Current Opportunities
 
