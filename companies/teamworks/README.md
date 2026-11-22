@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** North Carolina, Remote in USA, Remote in Canada
+- **Locations:** Remote in USA, Remote in Canada, North Carolina
 
 ## Current Opportunities
 

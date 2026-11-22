@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in USA, Kansas, Texas, Indiana
+- **Locations:** Kansas, Texas, Indiana, Remote in USA
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Arlington, VA, Goleta, CA, Andover, MA, Remote in USA, Richardson, TX, Longueuil, QC, Canada
+- **Locations:** McKinney, TX, Huntsville, AL, Andover, MA, Remote in USA, Richardson, TX, Barrie, ON, Canada
 
 ## Current Opportunities
 

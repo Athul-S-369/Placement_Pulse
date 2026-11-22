@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Menlo Park, CA, Bellevue, WA, Bellevue, WA
+- **Locations:** Bellevue, WA, Menlo Park, CA, Bellevue, WA
 
 ## Current Opportunities
 

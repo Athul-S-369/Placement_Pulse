@@ -1,16 +1,17 @@
 # 🏢 Allegion
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-22*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-22*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Indianapolis, IN
+- **Locations:** Indianapolis, IN, Colorado Springs, CO, Indianapolis, IN
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Product Data Intern - Product Data](https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Product-Data_JR37448) | Allegion | Indianapolis, IN, Colorado Springs, CO | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Hardware Engineer Intern - Advanced Development](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineer--Advanced-Development-_JR37459-1) | Allegion | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 
 ## 📖 Interview Preparation

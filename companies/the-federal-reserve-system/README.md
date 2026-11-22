@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Philadelphia, PA, Remote in USA, Atlanta, GA
+- **Locations:** Remote in USA, Atlanta, GA, Philadelphia, PA
 
 ## Current Opportunities
 

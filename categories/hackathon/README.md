@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**127 active** | **613 expired** | **740 total**
+**128 active** | **613 expired** | **741 total**
 
 *Last updated: 2026-11-22*
 
@@ -11,6 +11,7 @@
 | [Quantum Computing with IBM Qiskit Workshop](https://unstop.com/workshops-webinars/quantum-computing-with-ibm-qiskit-workshop-quantum-computing-with-ibm-qiskit-sri-sairam-engineering-c-1822892) | Sri Sairam Engineering College (SSEC), Chennai | India | 🏢 Onsite | — | 2026-11-27 | Unstop |
 | [Rinnit Health Explainer Challenge 2026: Explain a Health Topic in Your Own Words](https://unstop.com/competitions/rinnit-health-explainer-challenge-2026-explain-a-health-topic-in-your-own-words-rinnit-1822625) | Rinnit | India | 🏢 Onsite | — | 2026-12-16 | Unstop |
 | [The Impossible Quiz Challenge 2026](https://unstop.com/quiz/the-impossible-quiz-challenge-2026-maddmania-1822028) | Maddmania | India | 🏢 Onsite | — | 2026-12-06 | Unstop |
+| [Hack 2027](https://unstop.com/hackathons/hack-2027-saveetha-university-1823379) | Saveetha University | India | 🏢 Onsite | — | 2027-01-20 | Unstop |
 | [International Conference on Intelligent Systems and Emerging Technologies](https://unstop.com/conferences/international-conference-on-intelligent-systems-and-emerging-technologies-poornima-university-pu-jaipur-1821777) | Poornima University (PU), Jaipur | India | 🏢 Onsite | — | 2026-12-05 | Unstop |
 | [EinoHacks](https://unstop.com/hackathons/einohacks-altairx-tech-1820882) | AltairX Tech | India | 🏢 Onsite | — | 2026-11-23 | Unstop |
 | [NavSrijan: A Sustainability Event](https://unstop.com/competitions/navsrijan-a-sustainability-event-symbiosis-international-university-noida-1784317) | Symbiosis International University, Noida | India | 🏢 Onsite | — | 2026-11-25 | Unstop |
@@ -107,7 +108,6 @@
 | [Incpetrix 3.0](https://unstop.com/hackathons/incpetrix-30-faculty-of-engineering-and-technology-jain-deemed-to-be-university-1794479) | Faculty of Engineering and Technology, Jain Deemed to be University | India | 🏢 Onsite | — | 2027-02-20 | Unstop |
 | [Constitutional Quiz Competition](https://unstop.com/quiz/constitutional-quiz-competition-the-legal-elite-council-1797956) | The Legal Elite Council | India | 🏢 Onsite | — | 2026-11-25 | Unstop |
 | [Code Dia 2026](https://unstop.com/hackathons/code-dia-2026-lovely-professional-university-lpu-punjab-1798702) | Lovely Professional University (LPU), Punjab | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
-| [Finovate](https://unstop.com/competitions/finovate-symbiosis-school-of-banking-and-finance-ssbf-maharastra-1794509) | Symbiosis School of Banking and Finance (SSBF), Maharastra | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
 
 ## Recently Expired
 

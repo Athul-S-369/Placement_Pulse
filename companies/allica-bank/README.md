@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Milton Keynes, UK, London, UK
+- **Locations:** London, UK, Milton Keynes, UK
 
 ## Current Opportunities
 

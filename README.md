@@ -6,9 +6,9 @@
 
 **India's open-source aggregator for software internships, fresher jobs,<br>hackathons, fellowships, and placement opportunities.**
 
-[![Opportunities](https://img.shields.io/badge/Opportunities-3169-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
-[![Active](https://img.shields.io/badge/Active-2555-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
-[![Companies](https://img.shields.io/badge/Companies-2414-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
+[![Opportunities](https://img.shields.io/badge/Opportunities-3171-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
+[![Active](https://img.shields.io/badge/Active-2557-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
+[![Companies](https://img.shields.io/badge/Companies-2415-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
 [![Updated](https://img.shields.io/badge/Updated-Nov%2022%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**November 22, 2026** &nbsp;—&nbsp; **83** Fresher Job &nbsp;·&nbsp; **82** Internship &nbsp;·&nbsp; **5** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**November 22, 2026** &nbsp;—&nbsp; **83** Fresher Job &nbsp;·&nbsp; **82** Internship &nbsp;·&nbsp; **3** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**176 opportunities** added or updated in the latest run (November 22, 2026).
+**174 opportunities** added or updated in the latest run (November 22, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -128,15 +128,14 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [C++ Developer](https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4844280101) | think-cell | Remote in UK | Fresher Job | Remote | — |
 | [AI Tutor Chinese](https://job-boards.greenhouse.io/xai/jobs/5090180007) | xAI | Remote in USA | Fresher Job | Remote | — |
 | [AI Tutor – Estonian](https://job-boards.greenhouse.io/xai/jobs/5270902007) | xAI | Remote in USA, Remote in  | Fresher Job | Remote | — |
-| [Couture – Solo Fashion](https://unstop.com/events/couture-solo-fashion-chaos-2027-iim-ahmedabad-iim-ahmedabad-1823167) | Indian Institute of Manageme | India | Hackathon | Onsite | 2027-01-17 |
-| [IIT Bombay Physical AI Hackathon](https://unstop.com/hackathons/iit-bombay-physical-ai-hackathon-iit-bombay-1822209) | Indian Institute of Technolo | India | Hackathon | Onsite | 2026-11-26 |
-| [The Impossible Quiz Challenge 2026](https://unstop.com/quiz/the-impossible-quiz-challenge-2026-maddmania-1822028) | Maddmania | India | Hackathon | Onsite | 2026-12-06 |
-| [Think. Speak. Conquer.](https://unstop.com/competitions/think-speak-conquer-rising-scholars-1822896) | Rising Scholars | India | Hackathon | Onsite | 2026-11-27 |
-| [Quantum Computing with IBM Qiskit Workshop](https://unstop.com/workshops-webinars/quantum-computing-with-ibm-qiskit-workshop-quantum-computing-with-ibm-qiskit-sri-sairam-engineering-c-1822892) | Sri Sairam Engineering Colle | India | Hackathon | Onsite | 2026-11-27 |
+| [NextGen Talks](https://unstop.com/workshops-webinars/nextgen-talks-campus-konnect-1823428) | Campus Konnect | India | Hackathon | Onsite | 2026-12-30 |
+| [ALTER EGO - Cosplay](https://unstop.com/events/alter-ego-cosplay-chaos-27-chaos-2027-iim-ahmedabad-iim-ahmedabad-1823609) | Indian Institute of Manageme | India | Hackathon | Onsite | 2027-01-17 |
+| [Hack 2027](https://unstop.com/hackathons/hack-2027-saveetha-university-1823379) | Saveetha University | India | Hackathon | Onsite | 2027-01-20 |
 | [Engineering Fellow](https://job-boards.greenhouse.io/10alabs/jobs/4203095009) | 10a Labs | Remote / Various | Internship | Remote | — |
 | [Software Engineer Intern](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217) | Acuity Insurance | Remote in USA, Sheboygan, | Internship | Remote | — |
 | [Careers at Adobe](https://careers.adobe.com/us/en/) | Adobe | India | Internship | Onsite | — |
 | [Hardware Engineer Intern - Product Lifecycle Engineering](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering---Indianapolis--Indiana_JR37467-1) | Allegion | Indianapolis, IN | Internship | Onsite | — |
+| [Product Data Intern - Product Data](https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Product-Data_JR37448) | Allegion | Indianapolis, IN, Colorad | Internship | Onsite | — |
 | [Graduate Intern](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---R-D-TSRS-Data-Sciences-Operations---Analytic--Summer-2027-_R-260585) | Amgen | Remote in USA | Internship | Remote | — |
 | [Product Management Intern](https://jobs.ashbyhq.com/amplify/c95f690f-28af-42b1-8847-5dcf14c1155e/application?embed=true) | Amplify | Remote in USA | Internship | Remote | — |
 | [Machine Learning Engineer Co-op](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Remote/Machine-Learning-Engineer--Co-op_R003377) | Ancestry | Remote in USA | Internship | Remote | — |
@@ -211,7 +210,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Student Worker Intern](https://viatris.wd5.myworkdayjobs.com/External/job/United-States-Remote-Office/Student-Worker_R5674339) | Viatris | Remote in USA | Internship | Remote | — |
 | [Pharmacy Aggregation Intern](https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/XMLNAME-2027-Summer-Internship---Pharmacy-Aggregation_35995R-1) | Vizient | Washington, DC, Centennia | Internship | Remote | — |
 | [Product Data Management Intern](https://whitecap.wd1.myworkdayjobs.com/careers/job/Corporate-Intern---Product-Data-Management_WCJR-036650) | White Cap Supply Holdings | Remote in USA | Internship | Remote | — |
-| [Software Engineering Intern](https://job-boards.greenhouse.io/wikimedia/jobs/8268853) | Wikimedia Foundation | Remote in USA | Internship | Remote | — |
 | [Data Engineer Intern](https://job-boards.greenhouse.io/wurljobs/jobs/4731130006) | Wurl | Remote in USA | Internship | Remote | — |
 | [Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3/application?embed=true) | Yotta Labs | Remote in USA, Remote in  | Internship | Remote | — |
 | [Software Data Engineer Intern](https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936413732_1) | iA | Indianapolis, IN | Internship | Onsite | — |
@@ -225,7 +223,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 ## Active Opportunities
 
 The 50 most recently added active opportunities across all categories.
-[View all 3169 on the website.](https://athul-s-369.github.io/Placement_Pulse)
+[View all 3171 on the website.](https://athul-s-369.github.io/Placement_Pulse)
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -234,6 +232,8 @@ The 50 most recently added active opportunities across all categories.
 | [Rinnit Health Explainer Challenge 2026: Explain a Health Top...](https://unstop.com/competitions/rinnit-health-explainer-challenge-2026-explain-a-health-topic-in-your-own-words-rinnit-1822625) | Rinnit | India | Hackathon | Onsite | 2026-12-16 |
 | [Forward Deployed Engineer](https://jobs.ashbyhq.com/graymatter-robotics/7f806a1c-2874-4a0b-a64c-d8e8e87822bf/application?embed=true) | GrayMatter Robotics | Remote in USA | Fresher Job | Remote | Open |
 | [The Impossible Quiz Challenge 2026](https://unstop.com/quiz/the-impossible-quiz-challenge-2026-maddmania-1822028) | Maddmania | India | Hackathon | Onsite | 2026-12-06 |
+| [Product Data Intern - Product Data](https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Product-Data_JR37448) | Allegion | Indianapolis, IN, Colorad | Internship | Onsite | Open |
+| [Hack 2027](https://unstop.com/hackathons/hack-2027-saveetha-university-1823379) | Saveetha University | India | Hackathon | Onsite | 2027-01-20 |
 | [GIS Intern](https://recruiting2.ultipro.com/ULT1008ULTE/JobBoard/71bc1da6-c7b0-4b37-9f7b-076d7d68c57b/OpportunityDetail?opportunityId=06de9c99-c3f6-41e6-867e-05efb7cfa5fa) | Ulteig | Remote in USA, Minneapoli | Internship | Remote | Open |
 | [Engineering Resident Intern](https://job-boards.greenhouse.io/method/jobs/8208724003) | Method | Remote in USA, Santa Clar | Internship | Remote | Open |
 | [Software Engineer Intern](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217) | Acuity Insurance | Remote in USA, Sheboygan, | Internship | Remote | Open |
@@ -277,8 +277,6 @@ The 50 most recently added active opportunities across all categories.
 | [MyOnne National Bug Bounty Challenge 2026](https://unstop.com/hackathons/myonne-national-bug-bounty-challenge-2026-myonne-amora-private-limited-1817686) | MyOnne Amora Private Limited | India | Hackathon | Onsite | 2026-11-28 |
 | [Embedded Firmware Engineer](https://karman.applytojob.com/apply/ZATv9CJjd9/Embedded-Firmware-Engineer) | Utilidata | Remote in USA | Fresher Job | Remote | Open |
 | [Strategy Associate](https://emcresearch.applytojob.com/apply/Eg3VEKohul/Strategy-Associate) | EMC Research | Remote in USA | Fresher Job | Remote | Open |
-| [Hack Uttar Pradesh 2026](https://unstop.com/hackathons/hack-uttar-pradesh-2026-riwa-creatives-1817499) | Riwa Creatives | India | Hackathon | Onsite | 2026-12-31 |
-| [Startup Idea Pitching](https://unstop.com/competitions/startup-idea-pitching-parul-university-pu-vadodara-1817447) | Parul University (PU), Vadod | India | Hackathon | Onsite | 2026-12-20 |
 
 ---
 
@@ -287,8 +285,8 @@ The 50 most recently added active opportunities across all categories.
 | Category | Total |
 |----------|-------|
 | [Fresher Job](categories/fresher-job/) | 1490 |
-| [Internship](categories/internship/) | 933 |
-| [Hackathon](categories/hackathon/) | 740 |
+| [Internship](categories/internship/) | 934 |
+| [Hackathon](categories/hackathon/) | 741 |
 | [Open Source Program](categories/open-source-program/) | 2 |
 | [Fellowship](categories/fellowship/) | 2 |
 | [Student Ambassador](categories/student-ambassador/) | 2 |
@@ -338,6 +336,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-11-22 16:35 UTC</sub>
+<sub>Last generated: 2026-11-22 22:00 UTC</sub>
 
 </div>

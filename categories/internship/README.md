@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**933 active** | **0 expired** | **933 total**
+**934 active** | **0 expired** | **934 total**
 
 *Last updated: 2026-11-22*
 
@@ -9,6 +9,7 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [Data Science Generative AI Intern](https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971) | Schnucks | St. Louis, MO, Missouri, Indiana, Illinois | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [Product Data Intern - Product Data](https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Product-Data_JR37448) | Allegion | Indianapolis, IN, Colorado Springs, CO | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [GIS Intern](https://recruiting2.ultipro.com/ULT1008ULTE/JobBoard/71bc1da6-c7b0-4b37-9f7b-076d7d68c57b/OpportunityDetail?opportunityId=06de9c99-c3f6-41e6-867e-05efb7cfa5fa) | Ulteig | Remote in USA, Minneapolis, MN, Greenwood Village, CO | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Engineering Resident Intern](https://job-boards.greenhouse.io/method/jobs/8208724003) | Method | Remote in USA, Santa Clara, CA, Charlotte, NC, NYC, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Engineer Intern](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217) | Acuity Insurance | Remote in USA, Sheboygan, WI | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [Front-End Intern](https://goto.wd5.myworkdayjobs.com/GoToCareers/job/Remote-Canada/Grasshopper-FE-Intern_R26-2253) | GoTo Group | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Application Developer Intern](https://job-boards.greenhouse.io/geocgi/jobs/4420076009) | Geospatial Consulting Group International | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Data Science & AI Co-op - Portfolio Data & Digital Innovation](https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209) | Biogen | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Quantitative Developer Intern](https://revantage.wd1.myworkdayjobs.com/Revantage/job/Remote---Illinois/Quantitative-Developer-Intern_JR104315) | Revantage Corporate Services | Remote in USA, Illinois | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

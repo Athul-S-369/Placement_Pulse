@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Chantilly, VA, Southfield, MI, Westminster, CO, Alexandria, VA, Chicago, IL
+- **Locations:** St. Louis, MO, Traverse City, MI, Westminster, CO, Southfield, MI, Chicago, IL
 
 ## Current Opportunities
 
