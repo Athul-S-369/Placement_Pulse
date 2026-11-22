@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** St. Louis, MO, Manassas, VA, Westminster, CO, Augusta, ME, Chicago, IL
+- **Categories:** Fresher Job, Internship
+- **Locations:** Chantilly, VA, Southfield, MI, Westminster, CO, Alexandria, VA, Chicago, IL
 
 ## Current Opportunities
 

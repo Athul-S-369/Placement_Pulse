@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Detroit, MI, Michigan
+- **Locations:** Michigan, Detroit, MI
 
 ## Current Opportunities
 
