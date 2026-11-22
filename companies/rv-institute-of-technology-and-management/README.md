@@ -1,6 +1,6 @@
 # 🏢 RV Institute of Technology and Management
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-21*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-22*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [PROTATVA 26](https://unstop.com/competitions/protatva-26-rv-institute-of-technology-and-management-1800323) | RV Institute of Technology and Management | India | 🏢 Onsite | — | 2026-11-21 | Unstop |
 
 ## 📖 Interview Preparation
 

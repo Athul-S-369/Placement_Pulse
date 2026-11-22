@@ -1,6 +1,6 @@
 # 🏢 Rajagiri Business School
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-21*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-22*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Rajagiri National Business Quiz 17th Edition- Offline Prelims](https://unstop.com/quiz/rajagiri-national-business-quiz-17th-edition-offline-prelims-rajagiri-business-school-1806001) | Rajagiri Business School | India | 🏢 Onsite | — | 2026-11-21 | Unstop |
 
 ## 📖 Interview Preparation
 

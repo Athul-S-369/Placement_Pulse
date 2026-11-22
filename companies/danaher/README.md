@@ -1,11 +1,11 @@
 # 🏢 Danaher
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-21*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-22*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Indianapolis, IN, Indiana
+- **Categories:** Internship, Fresher Job
+- **Locations:** Indiana, Indianapolis, IN
 
 ## Current Opportunities
 

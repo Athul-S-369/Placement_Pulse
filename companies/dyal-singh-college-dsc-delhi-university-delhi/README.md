@@ -1,6 +1,6 @@
 # 🏢 Dyal Singh College (DSC), Delhi University, Delhi
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-21*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-22*
 
 ## Overview
 

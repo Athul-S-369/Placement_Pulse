@@ -1,11 +1,11 @@
 # 🏢 Keysight Technologies
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-11-21*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-11-22*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Santa Rosa, CA, Fleet, UK, Milan, Metropolitan City of Milan, Italy, Santa Rosa, CA, Remote in USA, Stoke-on-Trent, UK
+- **Locations:** Santa Rosa, CA, Santa Rosa, CA, Remote in USA, Stoke-on-Trent, UK, Fleet, UK, Milan, Metropolitan City of Milan, Italy
 
 ## Current Opportunities
 

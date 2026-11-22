@@ -1,6 +1,6 @@
 # 🏢 The National Institute of Engineering, Karnataka
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-21*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-22*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Queryquest: SQL Problem-Solving Challenge](https://unstop.com/hackathons/queryquest-sql-problem-solving-challenge-the-national-institute-of-engineering-karnataka-1793112) | The National Institute of Engineering, Karnataka | India | 🏢 Onsite | — | 2026-11-21 | Unstop |
 
 ## 📖 Interview Preparation
 

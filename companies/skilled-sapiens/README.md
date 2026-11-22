@@ -1,6 +1,6 @@
 # 🏢 Skilled Sapiens
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-21*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-22*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Live Project Opportunity: Marketing, Product, Consulting, GenMan, Equity Valuation, Market Research & Analytics Roles](https://unstop.com/competitions/consulting-case-competition-strategist-skilled-sapiens-1811946) | Skilled Sapiens | India | 🏢 Onsite | — | 2026-11-21 | Unstop |
 
 ## 📖 Interview Preparation
 

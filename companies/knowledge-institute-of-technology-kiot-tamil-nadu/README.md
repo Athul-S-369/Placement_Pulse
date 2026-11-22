@@ -1,6 +1,6 @@
 # 🏢 Knowledge Institute of Technology (KIoT), Tamil Nadu
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-21*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-22*
 
 ## Overview
 

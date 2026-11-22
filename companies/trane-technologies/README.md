@@ -1,11 +1,11 @@
 # 🏢 Trane Technologies
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-21*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-22*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Columbia, SC, Winona, MN
+- **Locations:** Winona, MN, Columbia, SC
 
 ## Current Opportunities
 

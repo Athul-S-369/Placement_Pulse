@@ -1,11 +1,11 @@
 # 🏢 DataVisor
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-21*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-22*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Remote in Canada, Mountain View, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Mountain View, CA, Remote in Canada
 
 ## Current Opportunities
 

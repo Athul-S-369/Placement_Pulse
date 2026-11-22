@@ -1,6 +1,6 @@
 # 🏢 Indian School Of Business & Finance
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-21*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-22*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [GOVERNIA](https://unstop.com/competitions/governia-the-finlyt-summit-indian-school-of-business-finance-1786776) | Indian School Of Business & Finance | India | 🏢 Onsite | — | 2026-11-21 | Unstop |
 
 ## 📖 Interview Preparation
 

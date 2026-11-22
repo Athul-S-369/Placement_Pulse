@@ -1,6 +1,6 @@
 # 🏢 Motilal Nehru National Institute of Technology
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-21*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-22*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Expanding Horizons 8.0](https://unstop.com/quiz/expanding-horizons-80-expanding-horizon-motilal-nehru-national-institute-of-technology-1798247) | Motilal Nehru National Institute of Technology | India | 🏢 Onsite | — | 2026-11-21 | Unstop |
 
 ## 📖 Interview Preparation
 

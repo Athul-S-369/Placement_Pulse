@@ -1,6 +1,6 @@
 # 🏢 CIMAGE Group of Institutions
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-21*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-22*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Game On Night: Build & Pitch Your Own AI Game in 60 Mins](https://unstop.com/workshops-webinars/game-on-night-build-pitch-your-own-ai-game-in-60-mins-cimage-group-of-institutions-1818102) | CIMAGE Group of Institutions | India | 🏢 Onsite | — | 2026-11-21 | Unstop |
 
 ## 📖 Interview Preparation
 

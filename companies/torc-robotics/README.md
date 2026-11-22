@@ -1,11 +1,11 @@
 # 🏢 Torc Robotics
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-21*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-22*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in Canada, Remote in USA, Ann Arbor, MI
+- **Locations:** Ann Arbor, MI, Remote in USA, Remote in Canada
 
 ## Current Opportunities
 
