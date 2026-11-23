@@ -1,6 +1,6 @@
 # 🏢 AI Academia
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-22*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-23*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [GenAI Gauntlet 2026 - The Generative AI Showdown](https://unstop.com/quiz/genai-gauntlet-2026-the-generative-ai-showdown-ai-academia-1817838) | AI Academia | India | 🏢 Onsite | — | 2026-11-22 | Unstop |
 
 ## 📖 Interview Preparation
 

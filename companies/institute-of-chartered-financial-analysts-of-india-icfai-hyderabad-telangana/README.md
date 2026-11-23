@@ -1,6 +1,6 @@
 # 🏢 Institute of Chartered Financial Analysts of India (ICFAI), Hyderabad, Telangana
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-22*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-23*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Volleyball (Male)](https://unstop.com/events/volleyball-male-aaveg-xvii-institute-of-chartered-financial-analysts-of-india-icfai-hyderabad-telangana-1784012) | Institute of Chartered Financial Analysts of India (ICFAI), Hyderabad, Telangana | India | 🏢 Onsite | — | 2026-11-22 | Unstop |
 
 ## 📖 Interview Preparation
 

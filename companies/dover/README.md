@@ -1,11 +1,11 @@
 # 🏢 Dover
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-22*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-23*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Sharonville, OH, Brattleboro, VT
+- **Categories:** Internship, Fresher Job
+- **Locations:** Brattleboro, VT, Sharonville, OH
 
 ## Current Opportunities
 

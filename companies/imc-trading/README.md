@@ -1,11 +1,11 @@
 # 🏢 IMC Trading
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-22*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-23*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** London, UK, Miami, FL, NYC, Philadelphia, PA, SF, Chicago, IL, Chicago, IL
+- **Categories:** Internship, Fresher Job
+- **Locations:** London, UK, Chicago, IL, Miami, FL, NYC, Philadelphia, PA, SF, Chicago, IL
 
 ## Current Opportunities
 

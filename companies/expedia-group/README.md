@@ -1,11 +1,11 @@
 # 🏢 Expedia Group
 
-**4 active opportunities** | **4 total tracked** | *Last updated: 2026-11-22*
+**4 active opportunities** | **4 total tracked** | *Last updated: 2026-11-23*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** London, UK, Remote / Various, Montreal, QC, Canada, Seattle, WA, Austin, TX, San Jose, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** London, UK, Montreal, QC, Canada, Remote / Various, Seattle, WA, Austin, TX, San Jose, CA
 
 ## Current Opportunities
 

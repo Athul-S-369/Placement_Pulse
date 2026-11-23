@@ -1,11 +1,11 @@
 # 🏢 Mercor
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-22*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-23*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** San Francisco, CA, Remote / Various, SF
+- **Categories:** Internship, Fresher Job
+- **Locations:** SF, San Francisco, CA, Remote / Various
 
 ## Current Opportunities
 

@@ -1,11 +1,11 @@
 # 🏢 Salesforce
 
-**8 active opportunities** | **8 total tracked** | *Last updated: 2026-11-22*
+**8 active opportunities** | **8 total tracked** | *Last updated: 2026-11-23*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Palo Alto, CA, Seattle, WA, Indianapolis, IN, SF, NYC, Bellevue, WA, Atlanta, GA, Burlington, MA, London, UK, Palo Alto, CA, SF, Bellevue, WA, Seattle, WA, Palo Alto, CA, Seattle, WA, Indianapolis, IN, SF, Dallas, TX, Bellevue, WA, Indianapolis, IN, Dallas, TX
+- **Categories:** Internship, Fresher Job
+- **Locations:** Palo Alto, CA, Seattle, WA, Indianapolis, IN, SF, Dallas, TX, Bellevue, WA, Indianapolis, IN, Chicago, IL, Palo Alto, CA, SF, Bellevue, WA, Seattle, WA, Palo Alto, CA, Seattle, WA, Indianapolis, IN, SF, NYC, Bellevue, WA, Atlanta, GA, Burlington, MA, Indianapolis, IN, Dallas, TX
 
 ## Current Opportunities
 

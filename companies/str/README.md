@@ -1,11 +1,11 @@
 # 🏢 STR
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-22*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-23*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Arlington, VA, Atlanta, GA, Burlington, MA
+- **Locations:** Burlington, MA, Arlington, VA, Atlanta, GA
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Management (IIM), Mumbai
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-22*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-23*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [TEJAS UDBHAV - Tribal Innovation & Impact Programme](https://unstop.com/competitions/tejas-udbhav-tribal-innovation-impact-programme-iim-mumbai-1782680) | Indian Institute of Management (IIM), Mumbai | India | 🏢 Onsite | — | 2026-11-22 | Unstop |
 
 ## 📖 Interview Preparation
 

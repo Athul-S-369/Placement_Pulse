@@ -1,10 +1,10 @@
 # 🏢 Black Box
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-22*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-23*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
+- **Categories:** Internship, Fresher Job
 - **Locations:** Dallas, TX, Plano, TX, Plano, TX
 
 ## Current Opportunities

@@ -1,6 +1,6 @@
 # 🏢 Anveshan NIE
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-22*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-23*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Data Sprint 2.0](https://unstop.com/hackathons/data-sprint-20-anveshan-nie-1807080) | Anveshan NIE | India | 🏢 Onsite | — | 2026-11-22 | Unstop |
 
 ## 📖 Interview Preparation
 

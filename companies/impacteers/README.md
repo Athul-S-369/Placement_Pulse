@@ -1,6 +1,6 @@
 # 🏢 Impacteers
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-22*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-23*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Build an AI Mock Interview App That Gives Real-Time Feedback](https://unstop.com/workshops-webinars/build-an-ai-mock-interview-app-that-gives-real-time-feedback-impacteers-1813008) | Impacteers | India | 🏢 Onsite | — | 2026-11-22 | Unstop |
 
 ## 📖 Interview Preparation
 

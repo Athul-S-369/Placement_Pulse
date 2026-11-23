@@ -1,6 +1,6 @@
 # 🏢 Poornima University (PU), Jaipur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-22*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-23*
 
 ## Overview
 
