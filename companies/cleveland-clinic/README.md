@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Florida, Nevada, Ohio, Remote in USA
+- **Locations:** Remote in USA, Florida, Nevada, Ohio
 
 ## Current Opportunities
 

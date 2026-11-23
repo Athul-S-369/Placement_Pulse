@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Santa Clara, CA, Remote / Various, Austin, TX, Hillsboro, OR, Boise, ID, Albany, NY, Phoenix, AZ
+- **Locations:** Remote / Various, Santa Clara, CA, Austin, TX, Hillsboro, OR, Boise, ID, Albany, NY, Phoenix, AZ
 
 ## Current Opportunities
 

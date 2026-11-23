@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Hartford, CT, Dallas, TX, Plainview, NY, Chicago, IL, Jacksonville, FL
+- **Locations:** Sunnyvale, CA, Broomfield, CO, Novato, CA, Alpharetta, GA, Hartford, CT
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Houston, TX, Remote in USA, San Antonio, TX, Atlanta, GA, Remote in USA, Atlanta, GA
+- **Locations:** Remote in USA, Atlanta, GA, Houston, TX, Remote in USA, San Antonio, TX, Atlanta, GA
 
 ## Current Opportunities
 

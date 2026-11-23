@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** London, UK, Arlington, VA, Richmond, VA
+- **Locations:** Arlington, VA, Richmond, VA, London, UK
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Westminster, CO, Alexandria, VA, Bloomington, MN, Dublin, OH, Jefferson City, MO
+- **Locations:** Rochester, MI, Augusta, ME, Chicago, IL, Traverse City, MI, Southfield, MI
 
 ## Current Opportunities
 
