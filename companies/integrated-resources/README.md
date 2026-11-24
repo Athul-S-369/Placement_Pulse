@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Elmira, NY, Ambler, PA, Exton, PA, Cherry Hills Village, CO, Boston, MA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Exton, PA, Cherry Hills Village, CO, North Haven, CT, Santa Clara, CA, Elmira, NY
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**129 active** | **624 expired** | **753 total**
+**132 active** | **624 expired** | **756 total**
 
 *Last updated: 2026-11-24*
 
@@ -13,6 +13,9 @@
 | [Ai-Powered Website Development Workshop](https://unstop.com/workshops-webinars/idea-to-a-live-website-cookiesensei-labs-1824952) | CookieSensei Labs | India | 🏢 Onsite | — | 2026-11-28 | Unstop |
 | [Campus Ambassador Program](https://unstop.com/competitions/campus-ambassador-program-sanrakshan-2026-business-sustainability-conclave-indian-institute-of-management-i-1819005) | Indian Institute Of Management (IIM) Lucknow - Noida Campus | India | 🏢 Onsite | — | 2026-12-05 | Unstop |
 | [BlackPanda Labs CTF 2026 | Free International Cybersecurity Competition](https://unstop.com/hackathons/blackpanda-labs-ctf-2026-free-international-cybersecurity-competition-blackpandalabs-1825506) | blackpandalabs | India | 🏢 Onsite | — | 2026-12-08 | Unstop |
+| [Zenith'2k26](https://unstop.com/hackathons/zenith2k26-mlr-institute-of-technology-mlrit-hyderabad-1826211) | MLR Institute Of Technology (MLRIT), Hyderabad | India | 🏢 Onsite | — | 2026-12-13 | Unstop |
+| [ESSENCE - From Idea to Impact](https://unstop.com/competitions/essence-from-idea-to-impact-essence-from-ideas-to-impact-chetanas-ramprasad-khandelwal-institute-of-managem-1826325) | Chetana's Ramprasad Khandelwal Institute of Management And Research (CRKIMR), Mumbai | India | 🏢 Onsite | — | 2026-12-05 | Unstop |
+| [Klueless: Treasure Hunt](https://unstop.com/events/klueless-treasure-hunt-iris-2027-indian-institute-of-management-iim-indore-mumbai-campus-1823678) | Indian Institute of Management (IIM), Indore - Mumbai Campus | India | 🏢 Onsite | — | 2026-12-07 | Unstop |
 | [Game On Night – Imagine the Impossible](https://unstop.com/competitions/game-on-night-imagine-the-impossible-balaji-institute-of-management-and-human-resource-development-bimhrd-p-1819452) | Balaji Institute of Management and Human Resource Development (BIMHRD), Pune | India | 🏢 Onsite | — | 2026-11-29 | Unstop |
 | [Reckown Challenge by Reckitt](https://unstop.com/competitions/crp-reckown-challenge-by-reckitt-reckitt-1818137) | Reckitt | India | 🏢 Onsite | — | 2026-12-16 | Unstop |
 | [Beyond the Frame - Reel Making Competition](https://unstop.com/events/beyond-the-frame-reel-making-competition-e-summit26-lnct-group-of-colleges-bhopal-madhya-pradesh-1823833) | LNCT Group of Colleges, Bhopal, Madhya Pradesh | India | 🏢 Onsite | — | 2026-12-24 | Unstop |
@@ -105,9 +108,6 @@
 | [Hacksmart 2.0](https://unstop.com/hackathons/hacksmart-20-geek-room-1799091) | Geek Room | India | 🏢 Onsite | — | 2026-12-15 | Unstop |
 | [APTI-MASTER-AI Competitive Aptitude Quiz Competition 2026](https://unstop.com/quiz/apti-master-ai-competitive-aptitude-quiz-competition-2026-matrucare-ai-1802131) | MatruCare AI | India | 🏢 Onsite | — | 2026-11-25 | Unstop |
 | [AI Vibeathon 2026: 24-Hour AI Hackathon](https://unstop.com/hackathons/ai-vibeathon-2026-24-hour-ai-hackathon-dotrepo-1789431) | DotRepo | India | 🏢 Onsite | — | 2026-12-20 | Unstop |
-| [Adaption Dataset Challenge](https://unstop.com/hackathons/adaption-dataset-challenge-hackyard-technologies-pvt-limited-1799281) | Hackyard Technologies Pvt limited | India | 🏢 Onsite | — | 2026-12-06 | Unstop |
-| [Terminal 360](https://unstop.com/competitions/terminal-360-narsee-monjee-college-of-commerce-and-economics-mumbai-1801514) | Narsee Monjee College of Commerce and Economics, Mumbai | India | 🏢 Onsite | — | 2026-12-10 | Unstop |
-| [Galuxium Nexus V3: The Global AI, Autonomous Systems & Venture SaaS Championship](https://unstop.com/hackathons/galuxium-nexus-v3-the-global-ai-autonomous-systems-venture-saas-championship-galuxium-1800395) | Galuxium | India | 🏢 Onsite | — | 2027-07-31 | Unstop |
 
 ## Recently Expired
 

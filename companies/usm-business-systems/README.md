@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Augusta, ME, Manassas, VA, Columbus, OH, Dublin, OH, St. Louis, MO
+- **Categories:** Internship, Fresher Job
+- **Locations:** Augusta, ME, Baltimore, MD, Columbus, OH, Dublin, OH, Chicago, IL
 
 ## Current Opportunities
 

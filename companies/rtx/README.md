@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Barrie, ON, Canada, Remote in USA, McKinney, TX, Andover, MA, Remote in USA, Richardson, TX
+- **Categories:** Internship, Fresher Job
+- **Locations:** Huntsville, AL, Barrie, ON, Canada, Remote in USA, Indianapolis, IN, Andover, MA
 
 ## Current Opportunities
 

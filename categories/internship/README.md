@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**937 active** | **0 expired** | **937 total**
+**938 active** | **0 expired** | **938 total**
 
 *Last updated: 2026-11-24*
 
@@ -11,6 +11,7 @@
 | [Summer Internship - Business Intelligence](https://hq-lifeway.icims.com/jobs/27218/job?mobile=true&needsRedirect=false) | Lifeway | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Front-End Engineer Intern](https://hq-lifeway.icims.com/jobs/27216/job?mobile=true&needsRedirect=false) | Lifeway | Nashville, TN, Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Product Engineering Intern](https://apply.workable.com/blueprint-health/j/6C902886A5/apply) | Blueprint AI (Mental Health) | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Clean Transportation Intern](https://job-boards.greenhouse.io/energysolutionsinternships/jobs/5229251007) | Energy Solutions | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Data Science Generative AI Intern](https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971) | Schnucks | St. Louis, MO, Missouri, Indiana, Illinois | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Product Data Intern - Product Data](https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Product-Data_JR37448) | Allegion | Indianapolis, IN, Colorado Springs, CO | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [GIS Intern](https://recruiting2.ultipro.com/ULT1008ULTE/JobBoard/71bc1da6-c7b0-4b37-9f7b-076d7d68c57b/OpportunityDetail?opportunityId=06de9c99-c3f6-41e6-867e-05efb7cfa5fa) | Ulteig | Remote in USA, Minneapolis, MN, Greenwood Village, CO | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -107,4 +108,3 @@
 | [Data Scientist Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252) | ICF International | Remote in USA, Reston, VA, Denver, CO | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Intern](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Software-Intern_R2613763) | Cencora | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Analyst Student](https://careers-daktronics.icims.com/jobs/7577/job?mobile=true&needsRedirect=false) | Daktronics | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Engineering Intern](https://jobs.ashbyhq.com/GovSignals/e894290c-3263-424e-b7a4-8dcc32ca8ca9/application?embed=true) | GovSignals | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

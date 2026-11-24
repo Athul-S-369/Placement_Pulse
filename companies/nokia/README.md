@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** California, Allentown, PA, Sunnyvale, CA, United States, Long Island City, Queens, NY
+- **Categories:** Internship, Fresher Job
+- **Locations:** Vancouver, BC, Canada, Ottawa, ON, Canada, Allentown, PA, Naperville, IL, Dallas, TX, San Jose, CA
 
 ## Current Opportunities
 

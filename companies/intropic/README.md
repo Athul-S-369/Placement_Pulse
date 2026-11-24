@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote / Various, London, UK
+- **Locations:** London, UK, Remote / Various
 
 ## Current Opportunities
 
