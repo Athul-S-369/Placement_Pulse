@@ -1,6 +1,6 @@
 # 🏢 University of British Columbia
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-23*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-24*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Sauder Capital Markets Challenge](https://unstop.com/competitions/sauder-capital-markets-challenge-university-of-british-columbia-1801922) | University of British Columbia | India | 🏢 Onsite | — | 2026-11-23 | Unstop |
 
 ## 📖 Interview Preparation
 

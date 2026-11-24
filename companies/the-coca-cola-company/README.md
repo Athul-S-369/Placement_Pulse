@@ -1,11 +1,11 @@
 # 🏢 The Coca-Cola Company
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-23*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-24*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Remote in USA, Atlanta, GA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Atlanta, GA, Remote in USA
 
 ## Current Opportunities
 

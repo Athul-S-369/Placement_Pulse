@@ -1,11 +1,11 @@
 # 🏢 The Information Lab
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-23*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-24*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** NYC, London, UK
+- **Locations:** London, UK, NYC
 
 ## Current Opportunities
 

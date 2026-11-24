@@ -1,6 +1,6 @@
 # 🏢 AltairX Tech
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-23*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-24*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [EinoHacks](https://unstop.com/hackathons/einohacks-altairx-tech-1820882) | AltairX Tech | India | 🏢 Onsite | — | 2026-11-23 | Unstop |
 
 ## 📖 Interview Preparation
 

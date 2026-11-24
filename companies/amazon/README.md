@@ -1,11 +1,11 @@
 # 🏢 Amazon
 
-**15 active opportunities** | **16 total tracked** | *Last updated: 2026-11-23*
+**15 active opportunities** | **16 total tracked** | *Last updated: 2026-11-24*
 
 ## Overview
 
-- **Categories:** Hackathon, Internship, Fresher Job
-- **Locations:** Seattle, WA, Sunnyvale, CA, Seattle, WA, SF, London, UK, Edinburgh, UK, Cambridge, UK, London, UK
+- **Categories:** Fresher Job, Hackathon, Internship
+- **Locations:** Bellevue, WA, Sunnyvale, CA, Fredericksburg, VA, Ashburn, VA, Manassas, VA, Reston, VA, Dulles, VA, India, London, UK
 
 ## Current Opportunities
 

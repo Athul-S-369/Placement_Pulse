@@ -1,11 +1,11 @@
 # 🏢 Environmental Defense Fund
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-23*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-24*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Boston, MA, Washington, DC, SF, Austin, TX, Remote in USA, Raleigh, NC, NYC, Boulder, CO, Remote in USA, St. Petersburg, FL
+- **Categories:** Fresher Job, Internship
+- **Locations:** Remote in USA, St. Petersburg, FL, Boston, MA, Washington, DC, SF, Austin, TX, Remote in USA, Raleigh, NC, NYC, Boulder, CO
 
 ## Current Opportunities
 

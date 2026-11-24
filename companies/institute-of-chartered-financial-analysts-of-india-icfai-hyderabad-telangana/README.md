@@ -1,6 +1,6 @@
 # 🏢 Institute of Chartered Financial Analysts of India (ICFAI), Hyderabad, Telangana
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-23*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-24*
 
 ## Overview
 

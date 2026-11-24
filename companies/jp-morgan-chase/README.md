@@ -1,11 +1,11 @@
 # 🏢 JP Morgan Chase
 
-**11 active opportunities** | **11 total tracked** | *Last updated: 2026-11-23*
+**11 active opportunities** | **11 total tracked** | *Last updated: 2026-11-24*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Christchurch, UK, Newark, DE, Plano, TX, Columbus, OH, Wilmington, DE, Columbus, OH, Wilmington, DE, Houston, TX
+- **Categories:** Fresher Job, Internship
+- **Locations:** Houston, TX, Plano, TX, Columbus, OH, Wilmington, DE, London, UK, Columbus, OH, Wilmington, DE, NYC, Wilmington, DE
 
 ## Current Opportunities
 
