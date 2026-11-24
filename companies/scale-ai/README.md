@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** SF, Remote in USA, SF, NYC
+- **Locations:** Remote in USA, SF, NYC, SF
 
 ## Current Opportunities
 

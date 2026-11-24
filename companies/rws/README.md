@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Texas, Remote in Canada, Remote in USA, North Carolina, Illinois
+- **Locations:** Remote in USA, North Carolina, Texas, Remote in Canada, Illinois
 
 ## Current Opportunities
 

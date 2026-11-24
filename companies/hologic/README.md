@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Remote in UK, St Cloud, MN, Minneapolis, MN
+- **Locations:** St Cloud, MN, Minneapolis, MN, Remote in UK
 
 ## Current Opportunities
 

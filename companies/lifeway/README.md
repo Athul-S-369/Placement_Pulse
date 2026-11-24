@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Nashville, TN, Remote in USA, Remote in USA
+- **Locations:** Remote in USA, Nashville, TN, Remote in USA
 
 ## Current Opportunities
 

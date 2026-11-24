@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**125 active** | **624 expired** | **749 total**
+**129 active** | **624 expired** | **753 total**
 
 *Last updated: 2026-11-24*
 
@@ -9,6 +9,10 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [Kshitij '26 - The Case Study Competition](https://unstop.com/competitions/kshitij-26-the-case-study-competition-xim-university-bhubaneswar-1806010) | XIM University, Bhubaneswar | India | 🏢 Onsite | — | 2026-12-12 | Unstop |
+| [OpenVerse '26](https://unstop.com/hackathons/openverse-26-campus-code-1821473) | Campus Code | India | 🏢 Onsite | — | 2027-01-01 | Unstop |
+| [Ai-Powered Website Development Workshop](https://unstop.com/workshops-webinars/idea-to-a-live-website-cookiesensei-labs-1824952) | CookieSensei Labs | India | 🏢 Onsite | — | 2026-11-28 | Unstop |
+| [Campus Ambassador Program](https://unstop.com/competitions/campus-ambassador-program-sanrakshan-2026-business-sustainability-conclave-indian-institute-of-management-i-1819005) | Indian Institute Of Management (IIM) Lucknow - Noida Campus | India | 🏢 Onsite | — | 2026-12-05 | Unstop |
+| [BlackPanda Labs CTF 2026 | Free International Cybersecurity Competition](https://unstop.com/hackathons/blackpanda-labs-ctf-2026-free-international-cybersecurity-competition-blackpandalabs-1825506) | blackpandalabs | India | 🏢 Onsite | — | 2026-12-08 | Unstop |
 | [Game On Night – Imagine the Impossible](https://unstop.com/competitions/game-on-night-imagine-the-impossible-balaji-institute-of-management-and-human-resource-development-bimhrd-p-1819452) | Balaji Institute of Management and Human Resource Development (BIMHRD), Pune | India | 🏢 Onsite | — | 2026-11-29 | Unstop |
 | [Reckown Challenge by Reckitt](https://unstop.com/competitions/crp-reckown-challenge-by-reckitt-reckitt-1818137) | Reckitt | India | 🏢 Onsite | — | 2026-12-16 | Unstop |
 | [Beyond the Frame - Reel Making Competition](https://unstop.com/events/beyond-the-frame-reel-making-competition-e-summit26-lnct-group-of-colleges-bhopal-madhya-pradesh-1823833) | LNCT Group of Colleges, Bhopal, Madhya Pradesh | India | 🏢 Onsite | — | 2026-12-24 | Unstop |
@@ -104,10 +108,6 @@
 | [Adaption Dataset Challenge](https://unstop.com/hackathons/adaption-dataset-challenge-hackyard-technologies-pvt-limited-1799281) | Hackyard Technologies Pvt limited | India | 🏢 Onsite | — | 2026-12-06 | Unstop |
 | [Terminal 360](https://unstop.com/competitions/terminal-360-narsee-monjee-college-of-commerce-and-economics-mumbai-1801514) | Narsee Monjee College of Commerce and Economics, Mumbai | India | 🏢 Onsite | — | 2026-12-10 | Unstop |
 | [Galuxium Nexus V3: The Global AI, Autonomous Systems & Venture SaaS Championship](https://unstop.com/hackathons/galuxium-nexus-v3-the-global-ai-autonomous-systems-venture-saas-championship-galuxium-1800395) | Galuxium | India | 🏢 Onsite | — | 2027-07-31 | Unstop |
-| [Unifest](https://unstop.com/events/unifest-venture-verse-oriental-institute-of-science-and-technology-1791180) | Oriental Institute of Science and Technology | India | 🏢 Onsite | — | 2026-11-25 | Unstop |
-| [Incpetrix 3.0](https://unstop.com/hackathons/incpetrix-30-faculty-of-engineering-and-technology-jain-deemed-to-be-university-1794479) | Faculty of Engineering and Technology, Jain Deemed to be University | India | 🏢 Onsite | — | 2027-02-20 | Unstop |
-| [Constitutional Quiz Competition](https://unstop.com/quiz/constitutional-quiz-competition-the-legal-elite-council-1797956) | The Legal Elite Council | India | 🏢 Onsite | — | 2026-11-25 | Unstop |
-| [Code Dia 2026](https://unstop.com/hackathons/code-dia-2026-lovely-professional-university-lpu-punjab-1798702) | Lovely Professional University (LPU), Punjab | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
 
 ## Recently Expired
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Hackathon, Internship
-- **Locations:** Bellevue, WA, Sunnyvale, CA, Fredericksburg, VA, Ashburn, VA, Manassas, VA, Reston, VA, Dulles, VA, India, London, UK
+- **Locations:** Winnipeg, MB, Canada, Toronto, ON, Canada, Victoria, BC, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, Indianapolis, IN, Hyderabad, Telangana, India, London, UK, Edinburgh, UK, Cambridge, UK, NYC, Sunnyvale, CA
 
 ## Current Opportunities
 

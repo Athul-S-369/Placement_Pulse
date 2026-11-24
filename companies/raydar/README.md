@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** London, UK, SF, Austin, TX, Remote in USA, Remote in Canada, SF, Remote in USA
+- **Locations:** SF, Remote in USA, London, UK, SF, Austin, TX, Remote in USA, Remote in Canada
 
 ## Current Opportunities
 

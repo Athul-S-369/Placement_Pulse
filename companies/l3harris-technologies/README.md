@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Ottawa, ON, Canada, El Dorado, AR, Philadelphia, PA, Melbourne, FL, Rochester, NY
+- **Locations:** El Dorado, AR, Philadelphia, PA, Cincinnati, OH, Ottawa, ON, Canada, Melbourne, FL
 
 ## Current Opportunities
 

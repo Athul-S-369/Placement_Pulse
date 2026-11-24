@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job, Internship
-- **Locations:** Bluemont, VA, El Segundo, CA, Southfield, MI, Bloomington, MN, Rochester, MI
+- **Locations:** Augusta, ME, Manassas, VA, Columbus, OH, Dublin, OH, St. Louis, MO
 
 ## Current Opportunities
 
