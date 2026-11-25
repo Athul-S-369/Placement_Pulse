@@ -1,11 +1,11 @@
 # 🏢 Canon
 
-**6 active opportunities** | **6 total tracked** | *Last updated: 2026-11-24*
+**6 active opportunities** | **6 total tracked** | *Last updated: 2026-11-25*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Brooklyn, NY, Queens, NY, Irvine, CA, Plainview, NY, Rochester, NY, Coppell, TX
+- **Locations:** Albany, GA, Irvine, CA, Brooklyn, NY, Queens, NY, Coppell, TX, Rochester, NY
 
 ## Current Opportunities
 

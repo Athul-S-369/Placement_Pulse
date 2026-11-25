@@ -1,11 +1,11 @@
 # 🏢 Sainsbury's
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-24*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-25*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Yeovil, UK, Milton Keynes, UK
+- **Locations:** Milton Keynes, UK, Yeovil, UK
 
 ## Current Opportunities
 

@@ -1,11 +1,11 @@
 # 🏢 SpaceX
 
-**9 active opportunities** | **9 total tracked** | *Last updated: 2026-11-24*
+**9 active opportunities** | **9 total tracked** | *Last updated: 2026-11-25*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Redmond, WA, Palo Alto, CA, Brownsville, TX, Bastrop, TX, Bothell, WA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Brownsville, TX, Redmond, WA, Palo Alto, CA, Bastrop, TX, Sunnyvale, CA
 
 ## Current Opportunities
 

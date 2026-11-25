@@ -1,6 +1,6 @@
 # 🏢 Goel Institute of Technology & Management (GITM)
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-24*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-25*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Brain Battle](https://unstop.com/quiz/brain-battle-goel-institute-of-technology-management-gitm-1803556) | Goel Institute of Technology & Management (GITM) | India | 🏢 Onsite | — | 2026-11-24 | Unstop |
 
 ## 📖 Interview Preparation
 

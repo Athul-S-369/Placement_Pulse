@@ -1,6 +1,6 @@
 # 🏢 P.A. College of Engineering, Mangalore, Karnataka
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-24*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-25*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Embers'26 - Project Expo & Paper Presentation | National Level Technical Fest, P.A. College of Engineering](https://unstop.com/competitions/embers26-project-expo-paper-presentation-national-level-technical-fest-pa-college-of-engineering-pa-college-1818387) | P.A. College of Engineering, Mangalore, Karnataka | India | 🏢 Onsite | — | 2026-11-24 | Unstop |
 
 ## 📖 Interview Preparation
 

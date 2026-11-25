@@ -1,11 +1,11 @@
 # 🏢 Integrated Resources
 
-**12 active opportunities** | **12 total tracked** | *Last updated: 2026-11-24*
+**12 active opportunities** | **12 total tracked** | *Last updated: 2026-11-25*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Exton, PA, Cherry Hills Village, CO, North Haven, CT, Santa Clara, CA, Elmira, NY
+- **Categories:** Fresher Job, Internship
+- **Locations:** Birmingham, AL, Santa Clara, CA, Elmira, NY, Exton, PA, Westborough, MA
 
 ## Current Opportunities
 

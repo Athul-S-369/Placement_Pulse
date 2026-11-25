@@ -1,11 +1,11 @@
 # 🏢 Guidehouse
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-24*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-25*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Houston, TX, Remote in USA, San Antonio, TX, Atlanta, GA, Remote in USA, Atlanta, GA
+- **Locations:** Remote in USA, Atlanta, GA, Houston, TX, Remote in USA, San Antonio, TX, Atlanta, GA
 
 ## Current Opportunities
 
