@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote in Canada, Ottawa, ON, Canada, Ottawa, ON, Canada, Remote in Canada
+- **Locations:** Remote in Canada, Ottawa, ON, Canada, Remote in Canada, Ottawa, ON, Canada
 
 ## Current Opportunities
 

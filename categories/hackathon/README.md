@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**135 active** | **628 expired** | **763 total**
+**138 active** | **628 expired** | **766 total**
 
 *Last updated: 2026-11-25*
 
@@ -15,6 +15,9 @@
 | [Enigma 2.0 – 24-Hour National level Hackathon | Riet Jaipur](https://unstop.com/hackathons/enigma-20-24-hour-inter-college-hackathon-riet-jaipur-rajasthan-institute-of-engineering-and-technology-jaipu-1826269) | Rajasthan institute of engineering and technology, Jaipur | India | 🏢 Onsite | — | 2026-12-15 | Unstop |
 | [From Idea to Market: Product Thinking, User Research & Digital Growth](https://unstop.com/workshops-webinars/from-idea-to-market-product-thinking-user-research-digital-growth-sri-swarna-varahi-digital-innovatio-1827109) | Sri Swarna Varahi Digital Innovations | India | 🏢 Onsite | — | 2026-12-09 | Unstop |
 | [Qwen Developer Meetup](https://unstop.com/workshops-webinars/qwen-developer-meetup-humanoid-builder-1827125) | Humanoid Builder | India | 🏢 Onsite | — | 2026-11-29 | Unstop |
+| [National-Level E-Paper Presentation- Advanced Technologies for Emerging Applications in Physics](https://unstop.com/competitions/national-level-e-paper-presentation-advanced-technologies-for-emerging-applications-in-physics-physithon-so-1828421) | Physithon Society, Kalindi College University of Delhi | India | 🏢 Onsite | — | 2026-12-15 | Unstop |
+| [Mobile App Club Powered By ISTE - Neural Drift '26](https://unstop.com/quiz/mobile-app-club-powered-by-iste-neural-drift-26-mkumarasamy-college-of-engineering-mkce-karur-tamil-nadu-1828461) | M.Kumarasamy College of Engineering (MKCE), Karur, Tamil Nadu | India | 🏢 Onsite | — | 2026-12-26 | Unstop |
+| [National Finance Olympiad 2027](https://unstop.com/quiz/national-finance-olympiad-2027-shri-ram-college-of-commerce-srcc-1772202) | Shri Ram College of Commerce (SRCC) | India | 🏢 Onsite | — | 2027-01-31 | Unstop |
 | [Kshitij '26 - The Case Study Competition](https://unstop.com/competitions/kshitij-26-the-case-study-competition-xim-university-bhubaneswar-1806010) | XIM University, Bhubaneswar | India | 🏢 Onsite | — | 2026-12-12 | Unstop |
 | [OpenVerse '26](https://unstop.com/hackathons/openverse-26-campus-code-1821473) | Campus Code | India | 🏢 Onsite | — | 2027-01-01 | Unstop |
 | [Ai-Powered Website Development Workshop](https://unstop.com/workshops-webinars/idea-to-a-live-website-cookiesensei-labs-1824952) | CookieSensei Labs | India | 🏢 Onsite | — | 2026-11-28 | Unstop |
@@ -105,9 +108,6 @@
 | [The Escape: Idea to AI Startup](https://unstop.com/competitions/the-escape-idea-to-ai-startup-techno-india-university-1798563) | Techno India University | India | 🏢 Onsite | — | 2026-12-01 | Unstop |
 | [Tech Challenge 2026](https://unstop.com/competitions/tech-challenge-2026-panimalar-institute-of-technology-pit-chennai-1805787) | Panimalar Institute Of Technology (PIT), Chennai | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
 | [Android Ignition](https://unstop.com/hackathons/android-ignition-ganeshi-lal-bajaj-institute-of-technology-and-management-glbitm-greater-noida-1805946) | Ganeshi Lal Bajaj Institute Of Technology And Management (GLBITM), Greater Noida | India | 🏢 Onsite | — | 2026-12-06 | Unstop |
-| [Student AI Bootcamp – Sponsored by AWS](https://unstop.com/competitions/crp-student-ai-bootcamp-sponsored-by-aws-amazon-web-services-aws-1772721) | Amazon Web Services (AWS) | India | 🏢 Onsite | — | 2026-12-20 | Unstop |
-| [Entrepreneurship Unplugged: Ideas, Insights & Impact](https://unstop.com/workshops-webinars/entrepreneurship-unplugged-ideas-insights-impact-e-cell-kiet-deemed-to-be-university-1804406) | E-Cell, KIET Deemed to Be University | India | 🏢 Onsite | — | 2026-11-27 | Unstop |
-| [Market Mayhem](https://unstop.com/competitions/market-mayhem-e-summit27-iit-bhu-varanasi-iit-bhu-1798682) | Indian Institute of Technology, Banaras Hindu University (IIT - BHU) | India | 🏢 Onsite | — | 2027-01-31 | Unstop |
 
 ## Recently Expired
 

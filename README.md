@@ -6,9 +6,9 @@
 
 **India's open-source aggregator for software internships, fresher jobs,<br>hackathons, fellowships, and placement opportunities.**
 
-[![Opportunities](https://img.shields.io/badge/Opportunities-3199-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
-[![Active](https://img.shields.io/badge/Active-2570-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
-[![Companies](https://img.shields.io/badge/Companies-2441-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
+[![Opportunities](https://img.shields.io/badge/Opportunities-3202-0d1117?style=flat-square&labelColor=0d1117&color=c9a84c)](#active-opportunities)
+[![Active](https://img.shields.io/badge/Active-2573-0d1117?style=flat-square&labelColor=0d1117&color=10b981)](#active-opportunities)
+[![Companies](https://img.shields.io/badge/Companies-2444-0d1117?style=flat-square&labelColor=0d1117&color=3b82f6)](#companies)
 [![India Only](https://img.shields.io/badge/India-Only-0d1117?style=flat-square&labelColor=FF9933&color=138808)](#)
 [![Updated](https://img.shields.io/badge/Updated-Nov%2025%202026-0d1117?style=flat-square&labelColor=0d1117&color=64748b)](#)
 
@@ -37,9 +37,9 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 
 ## Latest Run
 
-**November 25, 2026** &nbsp;—&nbsp; **84** Fresher Job &nbsp;·&nbsp; **79** Internship &nbsp;·&nbsp; **9** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
+**November 25, 2026** &nbsp;—&nbsp; **83** Fresher Job &nbsp;·&nbsp; **78** Internship &nbsp;·&nbsp; **4** Hackathon &nbsp;·&nbsp; **2** Open Source Program &nbsp;·&nbsp; **2** Fellowship &nbsp;·&nbsp; **2** Student Ambassador
 
-**178 opportunities** added or updated in the latest run (November 25, 2026).
+**171 opportunities** added or updated in the latest run (November 25, 2026).
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -90,10 +90,10 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Junior Software Engineer - AI Agent Platform](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Ontario-Remote-Work/Jr-Software-Engineer--AI-Agent-Platform_R66300) | Motorola | Remote in Canada | Fresher Job | Remote | — |
 | [Back End Developer](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/United-Kingdom-Offsite-ZUK99/C--Software-Engineer---Temporary-from-01-01-2027-for-12-months_R67751) | Motorola Solutions | Remote in UK | Fresher Job | Remote | — |
 | [Software Engineer 1/2](https://apply.workable.com/multimediallc/j/24DBCDDF27/apply#jobs) | Multi Media | Remote in USA | Fresher Job | Remote | — |
-| [Junior AI and Automation Engineer](https://boards.greenhouse.io/myriad360/jobs/8930382002) | Myriad360 | Remote in USA | Fresher Job | Remote | — |
 | [Carbon Analysis Engineer](https://apply.workable.com/neutreeno-1/j/FD929624D0/apply) | Neutreeno | Cambridge, UK, Remote in  | Fresher Job | Remote | — |
 | [AI Engineer Graduate Level](https://www.newrocket.com/careers/job?gh_jid=6163544004&gh_jid=6163544004) | NewRocket | Remote in USA | Fresher Job | Remote | — |
 | [Data Annotator - AI Training](https://apply.workable.com/nogigiddy/j/EEFA76F1E9/apply) | NoGigiddy | Remote in USA | Fresher Job | Remote | — |
+| [Graduate Hardware Engineer](https://jobs.lever.co/octoenergy/e8a3afb6-dad5-4820-a601-f1a549b1f827/apply) | Octopus Energy | Remote in UK, Slough, UK | Fresher Job | Remote | — |
 | [Research Engineer - AI](https://job-boards.greenhouse.io/orbisoperations/jobs/4436220009) | Orbis Operations | Remote in USA | Fresher Job | Remote | — |
 | [Research Engineer - Synthetic Data](https://jobs.ashbyhq.com/pragmatike/e51d910a-a3e6-459d-b3b5-ffa1d300c256/application?embed=true) | Pragmatike | SF, Remote in USA, Remote | Fresher Job | Remote | — |
 | [AI Trainer - Bosnian](https://job-boards.eu.greenhouse.io/prolificacademicltd/jobs/4974797101) | Prolific | Remote in USA | Fresher Job | Remote | — |
@@ -118,7 +118,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Applications Development Associate](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/IN---TDC-1-IN110/Applications-Devt-Associate_R25029948) | United Parcel Service (UPS) | Indiana | Fresher Job | Onsite | — |
 | [Forensic Regulatory Data Analyst](https://apply.workable.com/utilisave-llc-1/j/9ED27658CC/apply) | UtiliSave | Remote in USA | Fresher Job | Remote | — |
 | [Embedded Firmware Engineer](https://karman.applytojob.com/apply/ZATv9CJjd9/Embedded-Firmware-Engineer) | Utilidata | Remote in USA | Fresher Job | Remote | — |
-| [Flexport (YC W14) Is Hiring in Indonesia, India, and Thailan...](https://www.flexport.com/company/careers/) | Various | India | Fresher Job | Onsite | — |
 | [Development Engineer - Software Engineering/AI Track](https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Indianapolis-IN-USA/Early-Careers-Rotational-Program-Development-Engineer---Software-Engineering-AI-Track_260004983-1) | Viavi Solutions | Indianapolis, IN | Fresher Job | Onsite | — |
 | [Data Annotation Specialist - Object Detection](https://apply.workable.com/volga-partners/j/6371769632/apply) | Volga Partners | Remote in USA | Fresher Job | Remote | — |
 | [Business Analyst - Educational Raters - Gemini](https://apply.workable.com/weekday-1/j/A52A7967FB/apply) | Weekday AI | Remote in USA | Fresher Job | Remote | — |
@@ -129,15 +128,10 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [C++ Developer](https://job-boards.eu.greenhouse.io/thinkcellsoftware/jobs/4844280101) | think-cell | Remote in UK | Fresher Job | Remote | — |
 | [AI Tutor Chinese](https://job-boards.greenhouse.io/xai/jobs/5090180007) | xAI | Remote in USA | Fresher Job | Remote | — |
 | [AI Tutor – Estonian](https://job-boards.greenhouse.io/xai/jobs/5270902007) | xAI | Remote in USA, Remote in  | Fresher Job | Remote | — |
-| [Fundamental Cloud Computing Quiz](https://unstop.com/quiz/fundamental-cloud-computing-quiz-abes-engineering-college-1827267) | Abes Engineering College | India | Hackathon | Onsite | 2026-12-10 |
-| [The First Offer – Your Roadmap to an IT Career](https://unstop.com/workshops-webinars/the-first-offer-your-roadmap-to-an-it-career-fazo-academy-1827592) | Fazo Academy | India | Hackathon | Onsite | 2026-12-09 |
-| [Qwen Developer Meetup](https://unstop.com/workshops-webinars/qwen-developer-meetup-humanoid-builder-1827125) | Humanoid Builder | India | Hackathon | Onsite | 2026-11-29 |
-| [Battle of Bands - Passion'26 Group Music Competition](https://unstop.com/events/battle-of-bands-passion26-group-music-competition-imt-ghaziabad-1827604) | Institute of Management Tech | India | Hackathon | Onsite | 2026-12-02 |
-| [YESM : Pa-Writo ( Essay Writing Competition)](https://unstop.com/competitions/yesm-pa-writo-essay-writing-competition-jadavpur-university-kolkata-1827124) | Jadavpur University (JU), Ko | India | Hackathon | Onsite | 2027-01-15 |
-| [Offline Prototype-Ready Startup Exhibition](https://unstop.com/competitions/offline-prototype-ready-startup-exhibition-late-g-n-sapkal-college-of-engineering-nashik-1827286) | Late G N Sapkal College of E | India | Hackathon | Onsite | 2026-12-10 |
-| [QA engineers and developers Workshop](https://unstop.com/workshops-webinars/qa-engineers-and-developers-workshop-raisetech-1826488) | RaiseTech | India | Hackathon | Onsite | 2026-11-28 |
-| [Enigma 2.0 – 24-Hour National level Hackathon | Riet Jaipur](https://unstop.com/hackathons/enigma-20-24-hour-inter-college-hackathon-riet-jaipur-rajasthan-institute-of-engineering-and-technology-jaipu-1826269) | Rajasthan institute of engin | India | Hackathon | Onsite | 2026-12-15 |
-| [From Idea to Market: Product Thinking, User Research & Digit...](https://unstop.com/workshops-webinars/from-idea-to-market-product-thinking-user-research-digital-growth-sri-swarna-varahi-digital-innovatio-1827109) | Sri Swarna Varahi Digital In | India | Hackathon | Onsite | 2026-12-09 |
+| [Bet the Factory](https://unstop.com/competitions/bet-the-factory-ibs-hyderabad-1828034) | ICFAI Business School (IBS), | India | Hackathon | Onsite | 2026-12-12 |
+| [Mobile App Club Powered By ISTE - Neural Drift '26](https://unstop.com/quiz/mobile-app-club-powered-by-iste-neural-drift-26-mkumarasamy-college-of-engineering-mkce-karur-tamil-nadu-1828461) | M.Kumarasamy College of Engi | India | Hackathon | Onsite | 2026-12-26 |
+| [National-Level E-Paper Presentation- Advanced Technologies f...](https://unstop.com/competitions/national-level-e-paper-presentation-advanced-technologies-for-emerging-applications-in-physics-physithon-so-1828421) | Physithon Society, Kalindi C | India | Hackathon | Onsite | 2026-12-15 |
+| [National Finance Olympiad 2027](https://unstop.com/quiz/national-finance-olympiad-2027-shri-ram-college-of-commerce-srcc-1772202) | Shri Ram College of Commerce | India | Hackathon | Onsite | 2027-01-31 |
 | [Software Engineer Intern](https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=57946ef1-ca27-4ef4-b48d-829da2dfd217) | Acuity Insurance | Remote in USA, Sheboygan, | Internship | Remote | — |
 | [Careers at Adobe](https://careers.adobe.com/us/en/) | Adobe | India | Internship | Onsite | — |
 | [Hardware Engineer Intern - Product Lifecycle Engineering](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineering---Indianapolis--Indiana_JR37467-1) | Allegion | Indianapolis, IN | Internship | Onsite | — |
@@ -166,7 +160,6 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 | [Software Engineer Intern](https://apply.workable.com/datavisor-jobs/j/2FB6A93BF6/apply) | DataVisor | Remote in Canada | Internship | Remote | — |
 | [Data Science Intern - Summer 2027 - Program](https://job-boards.greenhouse.io/datacor/jobs/5242412007) | Datacor | Remote in USA | Internship | Remote | — |
 | [Hardware Engineer Co-op - Electrical Engineering](https://masco.wd1.myworkdayjobs.com/deltafaucet/job/US---Indiana---Indianapolis/Hardware-Engineering-Co-op--Electrical-Engineering-_REQ54344) | Delta Faucet | Indianapolis, IN | Internship | Onsite | — |
-| [Data Science Intern](https://job-boards.greenhouse.io/msfcareers/jobs/4993728008) | Doctors Without Borders | Remote / Various | Internship | Remote | — |
 | [Applied AI Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662) | DwyerOmega | Remote in USA | Internship | Remote | — |
 | [AI Intern](https://job-boards.greenhouse.io/eqtcorporation/jobs/5462562008) | EQT Corporation | Remote in USA | Internship | Remote | — |
 | [Clean Transportation Intern](https://job-boards.greenhouse.io/energysolutionsinternships/jobs/5229251007) | Energy Solutions | Remote in USA | Internship | Remote | — |
@@ -227,7 +220,7 @@ via [GitHub Actions](.github/workflows/daily_update.yml).
 ## Active Opportunities
 
 The 50 most recently added active opportunities across all categories.
-[View all 3199 on the website.](https://athul-s-369.github.io/Placement_Pulse)
+[View all 3202 on the website.](https://athul-s-369.github.io/Placement_Pulse)
 
 | Role | Company | Location | Category | Mode | Deadline |
 |------|---------|----------|----------|------|----------|
@@ -240,6 +233,9 @@ The 50 most recently added active opportunities across all categories.
 | [Enigma 2.0 – 24-Hour National level Hackathon | Riet Jaipur](https://unstop.com/hackathons/enigma-20-24-hour-inter-college-hackathon-riet-jaipur-rajasthan-institute-of-engineering-and-technology-jaipu-1826269) | Rajasthan institute of engin | India | Hackathon | Onsite | 2026-12-15 |
 | [From Idea to Market: Product Thinking, User Research & Digit...](https://unstop.com/workshops-webinars/from-idea-to-market-product-thinking-user-research-digital-growth-sri-swarna-varahi-digital-innovatio-1827109) | Sri Swarna Varahi Digital In | India | Hackathon | Onsite | 2026-12-09 |
 | [Qwen Developer Meetup](https://unstop.com/workshops-webinars/qwen-developer-meetup-humanoid-builder-1827125) | Humanoid Builder | India | Hackathon | Onsite | 2026-11-29 |
+| [National-Level E-Paper Presentation- Advanced Technologies f...](https://unstop.com/competitions/national-level-e-paper-presentation-advanced-technologies-for-emerging-applications-in-physics-physithon-so-1828421) | Physithon Society, Kalindi C | India | Hackathon | Onsite | 2026-12-15 |
+| [Mobile App Club Powered By ISTE - Neural Drift '26](https://unstop.com/quiz/mobile-app-club-powered-by-iste-neural-drift-26-mkumarasamy-college-of-engineering-mkce-karur-tamil-nadu-1828461) | M.Kumarasamy College of Engi | India | Hackathon | Onsite | 2026-12-26 |
+| [National Finance Olympiad 2027](https://unstop.com/quiz/national-finance-olympiad-2027-shri-ram-college-of-commerce-srcc-1772202) | Shri Ram College of Commerce | India | Hackathon | Onsite | 2027-01-31 |
 | [Summer Internship - Business Intelligence](https://hq-lifeway.icims.com/jobs/27218/job?mobile=true&needsRedirect=false) | Lifeway | Remote in USA | Internship | Remote | Open |
 | [Front-End Engineer Intern](https://hq-lifeway.icims.com/jobs/27216/job?mobile=true&needsRedirect=false) | Lifeway | Nashville, TN, Remote in  | Internship | Remote | Open |
 | [Product Engineering Intern](https://apply.workable.com/blueprint-health/j/6C902886A5/apply) | Blueprint AI (Mental Health) | Remote in USA | Internship | Remote | Open |
@@ -278,9 +274,6 @@ The 50 most recently added active opportunities across all categories.
 | [iCONNECT 2027 - International Conclave for Next-Gen Entrepre...](https://unstop.com/competitions/iconnect-2027-student-innovation-business-solutions-challenge-asansol-engineering-college-aec-west-bengal-1816509) | Asansol Engineering College  | India | Hackathon | Onsite | 2027-01-08 |
 | [CFA Level I FSA, Fixed Income & Derivatives Mock Test](https://unstop.com/quiz/cfa-level-i-fsa-fixed-income-derivatives-mock-test-poonji-vidya-technologies-private-limited-1822089) | Poonji Vidya Technologies Pr | India | Hackathon | Onsite | 2026-11-27 |
 | [Mogoj Dholai](https://unstop.com/hackathons/mogoj-dholai-kernel-10-department-of-information-technology-jadavpur-university-1822588) | Department of Information Te | India | Hackathon | Onsite | 2026-12-05 |
-| [Commercial Managed Services Specialist](https://ebwb.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/12379) | Hologic | Remote in UK | Fresher Job | Remote | Open |
-| [Digital Marketing & Advertisement Challenge](https://unstop.com/competitions/digital-marketing-advertisement-challenge-kaivalya-2027-indian-institute-of-management-iim-kozhikode-kochi--1818601) | Indian Institute of Manageme | India | Hackathon | Onsite | 2027-02-28 |
-| [Rajasthan Police Hackathon 2026](https://unstop.com/hackathons/rajasthan-police-hackathon-2026-rajasthan-police-rajasathana-palsa-1818639) | Rajasthan Police (राजस्थान प | India | Hackathon | Onsite | 2026-12-29 |
 
 ---
 
@@ -290,7 +283,7 @@ The 50 most recently added active opportunities across all categories.
 |----------|-------|
 | [Fresher Job](categories/fresher-job/) | 1491 |
 | [Internship](categories/internship/) | 939 |
-| [Hackathon](categories/hackathon/) | 763 |
+| [Hackathon](categories/hackathon/) | 766 |
 | [Open Source Program](categories/open-source-program/) | 2 |
 | [Fellowship](categories/fellowship/) | 2 |
 | [Student Ambassador](categories/student-ambassador/) | 2 |
@@ -340,6 +333,6 @@ The 50 most recently added active opportunities across all categories.
 
 <sub>Open-source &nbsp;·&nbsp; No paid APIs &nbsp;·&nbsp; 100% free &nbsp;·&nbsp; Built for Indian students</sub>
 
-<sub>Last generated: 2026-11-25 09:01 UTC</sub>
+<sub>Last generated: 2026-11-25 18:49 UTC</sub>
 
 </div>

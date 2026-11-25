@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Chicago, IL, St. Louis, MO, Manassas, VA, Southfield, MI, Alexandria, VA
+- **Locations:** Alexandria, VA, Augusta, ME, Chicago, IL, Columbus, OH, Manassas, VA
 
 ## Current Opportunities
 
