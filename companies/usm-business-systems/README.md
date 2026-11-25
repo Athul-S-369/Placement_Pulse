@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Chicago, IL, Bloomington, MN, Traverse City, MI, Westminster, CO, Manassas, VA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Chicago, IL, St. Louis, MO, Manassas, VA, Southfield, MI, Alexandria, VA
 
 ## Current Opportunities
 

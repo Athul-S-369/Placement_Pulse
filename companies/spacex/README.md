@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Brownsville, TX, Redmond, WA, Palo Alto, CA, Bastrop, TX, Sunnyvale, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Bastrop, TX, Texas, Sunnyvale, CA, Palo Alto, CA, Brownsville, TX
 
 ## Current Opportunities
 

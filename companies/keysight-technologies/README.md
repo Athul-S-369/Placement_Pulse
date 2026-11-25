@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Santa Rosa, CA, Santa Rosa, CA, Remote in USA, Fleet, UK, Milan, Metropolitan City of Milan, Italy, Stoke-on-Trent, UK
+- **Locations:** Stoke-on-Trent, UK, Santa Rosa, CA, Remote in USA, Santa Rosa, CA, Fleet, UK, Milan, Metropolitan City of Milan, Italy
 
 ## Current Opportunities
 

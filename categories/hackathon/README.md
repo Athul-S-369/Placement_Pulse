@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**130 active** | **628 expired** | **758 total**
+**135 active** | **628 expired** | **763 total**
 
 *Last updated: 2026-11-25*
 
@@ -10,6 +10,11 @@
 |------|---------|----------|------|----------------|----------|--------|
 | [Find Your North 2026: The Career Compass Challenge](https://unstop.com/quiz/find-your-north-2026-the-career-compass-challenge-the-north-axis-1824861) | The North Axis | India | 🏢 Onsite | — | 2026-12-13 | Unstop |
 | [AI CodeStorm 2026](https://unstop.com/hackathons/ai-codestorm-2026-proton-solutions-1826401) | Proton Solutions | India | 🏢 Onsite | — | 2027-01-31 | Unstop |
+| [Offline Prototype-Ready Startup Exhibition](https://unstop.com/competitions/offline-prototype-ready-startup-exhibition-late-g-n-sapkal-college-of-engineering-nashik-1827286) | Late G N Sapkal College of Engineering Nashik | India | 🏢 Onsite | — | 2026-12-10 | Unstop |
+| [The First Offer – Your Roadmap to an IT Career](https://unstop.com/workshops-webinars/the-first-offer-your-roadmap-to-an-it-career-fazo-academy-1827592) | Fazo Academy | India | 🏢 Onsite | — | 2026-12-09 | Unstop |
+| [Enigma 2.0 – 24-Hour National level Hackathon | Riet Jaipur](https://unstop.com/hackathons/enigma-20-24-hour-inter-college-hackathon-riet-jaipur-rajasthan-institute-of-engineering-and-technology-jaipu-1826269) | Rajasthan institute of engineering and technology, Jaipur | India | 🏢 Onsite | — | 2026-12-15 | Unstop |
+| [From Idea to Market: Product Thinking, User Research & Digital Growth](https://unstop.com/workshops-webinars/from-idea-to-market-product-thinking-user-research-digital-growth-sri-swarna-varahi-digital-innovatio-1827109) | Sri Swarna Varahi Digital Innovations | India | 🏢 Onsite | — | 2026-12-09 | Unstop |
+| [Qwen Developer Meetup](https://unstop.com/workshops-webinars/qwen-developer-meetup-humanoid-builder-1827125) | Humanoid Builder | India | 🏢 Onsite | — | 2026-11-29 | Unstop |
 | [Kshitij '26 - The Case Study Competition](https://unstop.com/competitions/kshitij-26-the-case-study-competition-xim-university-bhubaneswar-1806010) | XIM University, Bhubaneswar | India | 🏢 Onsite | — | 2026-12-12 | Unstop |
 | [OpenVerse '26](https://unstop.com/hackathons/openverse-26-campus-code-1821473) | Campus Code | India | 🏢 Onsite | — | 2027-01-01 | Unstop |
 | [Ai-Powered Website Development Workshop](https://unstop.com/workshops-webinars/idea-to-a-live-website-cookiesensei-labs-1824952) | CookieSensei Labs | India | 🏢 Onsite | — | 2026-11-28 | Unstop |
@@ -103,11 +108,6 @@
 | [Student AI Bootcamp – Sponsored by AWS](https://unstop.com/competitions/crp-student-ai-bootcamp-sponsored-by-aws-amazon-web-services-aws-1772721) | Amazon Web Services (AWS) | India | 🏢 Onsite | — | 2026-12-20 | Unstop |
 | [Entrepreneurship Unplugged: Ideas, Insights & Impact](https://unstop.com/workshops-webinars/entrepreneurship-unplugged-ideas-insights-impact-e-cell-kiet-deemed-to-be-university-1804406) | E-Cell, KIET Deemed to Be University | India | 🏢 Onsite | — | 2026-11-27 | Unstop |
 | [Market Mayhem](https://unstop.com/competitions/market-mayhem-e-summit27-iit-bhu-varanasi-iit-bhu-1798682) | Indian Institute of Technology, Banaras Hindu University (IIT - BHU) | India | 🏢 Onsite | — | 2027-01-31 | Unstop |
-| [Hacksmart 2.0](https://unstop.com/hackathons/hacksmart-20-geek-room-1799091) | Geek Room | India | 🏢 Onsite | — | 2026-12-15 | Unstop |
-| [APTI-MASTER-AI Competitive Aptitude Quiz Competition 2026](https://unstop.com/quiz/apti-master-ai-competitive-aptitude-quiz-competition-2026-matrucare-ai-1802131) | MatruCare AI | India | 🏢 Onsite | — | 2026-11-25 | Unstop |
-| [AI Vibeathon 2026: 24-Hour AI Hackathon](https://unstop.com/hackathons/ai-vibeathon-2026-24-hour-ai-hackathon-dotrepo-1789431) | DotRepo | India | 🏢 Onsite | — | 2026-12-20 | Unstop |
-| [Adaption Dataset Challenge](https://unstop.com/hackathons/adaption-dataset-challenge-hackyard-technologies-pvt-limited-1799281) | Hackyard Technologies Pvt limited | India | 🏢 Onsite | — | 2026-12-06 | Unstop |
-| [Terminal 360](https://unstop.com/competitions/terminal-360-narsee-monjee-college-of-commerce-and-economics-mumbai-1801514) | Narsee Monjee College of Commerce and Economics, Mumbai | India | 🏢 Onsite | — | 2026-12-10 | Unstop |
 
 ## Recently Expired
 
