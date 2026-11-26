@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** California City, CA, Washington, DC, Traverse City, MI, Alexandria, VA, Manassas, VA
+- **Categories:** Fresher Job, Internship
+- **Locations:** St. Louis, MO, NYC, Columbus, OH, Augusta, ME, Traverse City, MI
 
 ## Current Opportunities
 

@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Indianapolis, IN, Colorado Springs, CO, Indianapolis, IN
+- **Locations:** Indianapolis, IN, Indianapolis, IN, Colorado Springs, CO
 
 ## Current Opportunities
 

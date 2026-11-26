@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1493 active** | **0 expired** | **1493 total**
+**1495 active** | **0 expired** | **1495 total**
 
 *Last updated: 2026-11-26*
 
@@ -10,6 +10,8 @@
 |------|---------|----------|------|----------------|----------|--------|
 | [Data Engineer](https://jobs.lever.co/bluesight/8a3408a8-6909-4b66-92c1-98a5c80ba0a9/apply) | Bluesight | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Junior Software Developer](https://wellhealthtechnologiescorp.applytojob.com/apply/URnVV0S4yQ/Junior-Software-Developer) | WELLSTAR Technologies | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Data Analyst](https://job-boards.greenhouse.io/recidiviz/jobs/4717510006) | Recidiviz | Oakland, CA, Remote in USA, NYC | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Senior Hardware Product Manager](https://ats.rippling.com/framework/jobs/3902e646-7d7e-416b-bf96-3f231b65791d) | Framework | Remote in USA, Taipei City, Taiwan | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Engineer](https://eidebailly.jibeapply.com/jobs/10092?icims=1&lang=en-us) | Eide Bailly | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Forward Deployed Engineer](https://jobs.ashbyhq.com/graymatter-robotics/7f806a1c-2874-4a0b-a64c-d8e8e87822bf/application?embed=true) | GrayMatter Robotics | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [AI Product Engineer](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=caa572e4-f514-48c0-80c6-620b7465a91e) | Milliman | Brookfield, WI, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -106,5 +108,3 @@
 | [Software Engineer](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004087) | TriNet | Remote in USA, Atlanta, GA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Software Engineer](https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Associate-Software-Engineer_R2487) | Marigold | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Flexible Work - Help Improve AI - English Speakers](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990016021726) | Lifted Solutions | London, UK, Remote in USA, Remote in Ireland, Remote in Australia, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Mathematical Modeling and Simulation Analyst](https://mantech.avature.net/en_US/careers/JobDetail/66499) | ManTech | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Data Annotation Specialist - Computer Vision](https://jobs.ashbyhq.com/bobyard/5df8467f-53d5-497f-98df-ae01886cc9ed/application?embed=true) | Bobyard | SF, Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |

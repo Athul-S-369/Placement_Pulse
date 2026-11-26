@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Irvine, CA, Rochester, NY, Brooklyn, NY, Queens, NY, Albany, GA, Coppell, TX
+- **Locations:** Rochester, NY, Plainview, NY, Brooklyn, NY, Queens, NY, Albany, GA, Coppell, TX
 
 ## Current Opportunities
 

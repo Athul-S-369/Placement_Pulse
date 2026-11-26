@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**137 active** | **634 expired** | **771 total**
+**142 active** | **634 expired** | **776 total**
 
 *Last updated: 2026-11-26*
 
@@ -13,6 +13,11 @@
 | [Finaholics Concord Case Competition](https://unstop.com/competitions/finaholics-concord-case-competition-institute-of-management-technology-imt-nagpur-1828503) | Institute of Management Technology (IMT), Nagpur | India | 🏢 Onsite | — | 2026-12-11 | Unstop |
 | [AI Case Study](https://unstop.com/workshops-webinars/ai-case-study-gocrackit-1828468) | GoCrackIt | India | 🏢 Onsite | — | 2026-12-01 | Unstop |
 | [Building the Business of Tomorrow: Fintech, Digital Payments and Payment Innovation](https://unstop.com/workshops-webinars/building-the-business-of-tomorrow-fintech-digital-payments-and-payment-innovation-innowave26-centre-f-1825374) | Centre for Innovation and Entrepreneurship Development | India | 🏢 Onsite | — | 2026-11-28 | Unstop |
+| [Consultimate 11.0](https://unstop.com/competitions/consultimate-110-international-management-institute-imi-new-delhi-1829315) | International Management Institute (IMI), New Delhi | India | 🏢 Onsite | — | 2026-12-08 | Unstop |
+| [Google Gemini For Bharat](https://unstop.com/competitions/google-gemini-for-bharat-sattva-human-pvt-ltd-1824222) | Sattva human Pvt. Ltd. | India | 🏢 Onsite | — | 2026-12-07 | Unstop |
+| [PromptWars x NEXORA](https://unstop.com/hackathons/promptwars-x-nexora-promptwars-x-nexora-nexora-navyug-1817824) | NEXORA Navyug | India | 🏢 Onsite | — | 2026-12-12 | Unstop |
+| [PDH Open Tech & Innovation Challenge 2026](https://unstop.com/competitions/pdh-tech-ecosystem-chapter-builder-challenge-2026-prayagraj-devhub-1829032) | Prayagraj DevHub | India | 🏢 Onsite | — | 2026-12-31 | Unstop |
+| [Be Part of History! 3,000 Gliders World Record Attempt at NAO 2026](https://unstop.com/events/be-part-of-history-3000-gliders-world-record-attempt-at-nao-2026-centre-for-scientific-outreach-1829144) | Centre for Scientific Outreach | India | 🏢 Onsite | — | 2026-12-07 | Unstop |
 | [Find Your North 2026: The Career Compass Challenge](https://unstop.com/quiz/find-your-north-2026-the-career-compass-challenge-the-north-axis-1824861) | The North Axis | India | 🏢 Onsite | — | 2026-12-13 | Unstop |
 | [AI CodeStorm 2026](https://unstop.com/hackathons/ai-codestorm-2026-proton-solutions-1826401) | Proton Solutions | India | 🏢 Onsite | — | 2027-01-31 | Unstop |
 | [Offline Prototype-Ready Startup Exhibition](https://unstop.com/competitions/offline-prototype-ready-startup-exhibition-late-g-n-sapkal-college-of-engineering-nashik-1827286) | Late G N Sapkal College of Engineering Nashik | India | 🏢 Onsite | — | 2026-12-10 | Unstop |
@@ -103,11 +108,6 @@
 | [Make Them Famous - The 48-Hour Brand Challenge](https://unstop.com/competitions/make-them-famous-the-48-hour-brand-challenge-ooro-1806159) | Ooro | India | 🏢 Onsite | — | 2026-11-27 | Unstop |
 | [The Mandate Redline: Live Global Policy Drafting Lab (Co-Author a Published Policy Brief)](https://unstop.com/competitions/the-mandate-redline-live-global-policy-drafting-lab-co-author-a-published-policy-brief-global-youth-mandate-1806033) | Global Youth Mandate | India | 🏢 Onsite | — | 2027-06-13 | Unstop |
 | [Rabinjathon: Prime 1](https://unstop.com/hackathons/rabinjathon-prime-1-rabinja-squad-1761846) | Rabinja Squad | India | 🏢 Onsite | — | 2027-02-05 | Unstop |
-| [InkVichar-Call for Articles 2026](https://unstop.com/events/inkvichar-call-for-articles-2026-university-school-of-management-and-entrepreneurship-usmedelhi-1799177) | University School of Management and Entrepreneurship (USME),Delhi | India | 🏢 Onsite | — | 2027-01-10 | Unstop |
-| [HackKro CodeByte 2026](https://unstop.com/hackathons/hackkro-codebyte-2026-hackkro-1807297) | HackKro | India | 🏢 Onsite | — | 2026-12-07 | Unstop |
-| [National 3D Animation Challenge 2026](https://unstop.com/competitions/national-3d-animation-challenge-2026-xplo-animation-service-pvt-ltd-1806565) | Xplo Animation Service Pvt Ltd | India | 🏢 Onsite | — | 2026-12-15 | Unstop |
-| [Elite Coders Winter of Code](https://unstop.com/competitions/elite-coders-winter-of-code-jb-institute-of-engineering-and-technology-1807152) | JB Institute of Engineering and Technology | India | 🏢 Onsite | — | 2026-11-27 | Unstop |
-| [QuikCPQ AI Innovation Challenge 2027](https://unstop.com/hackathons/quikcpq-ai-innovation-challenge-2027-quik-cpq-solutions-llp-1806984) | Quik CPQ Solutions LLP | India | 🏢 Onsite | — | 2026-11-27 | Unstop |
 
 ## Recently Expired
 

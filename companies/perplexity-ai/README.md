@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** London, UK, Washington, DC, SF
+- **Categories:** Fresher Job, Internship
+- **Locations:** Washington, DC, SF, London, UK
 
 ## Current Opportunities
 

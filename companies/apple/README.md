@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** United States, Santa Clara, CA, SF, Morrisville, NC, Waltham, MA
+- **Categories:** Fresher Job, Internship
+- **Locations:** California, Lafayette, KS, Morrisville, NC, Cambridge, MA, Cupertino, CA
 
 ## Current Opportunities
 
