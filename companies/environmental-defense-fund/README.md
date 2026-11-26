@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Remote in USA, St. Petersburg, FL, Boston, MA, Washington, DC, SF, Austin, TX, Remote in USA, Raleigh, NC, NYC, Boulder, CO
+- **Categories:** Internship, Fresher Job
+- **Locations:** Boston, MA, Washington, DC, SF, Austin, TX, Remote in USA, Raleigh, NC, NYC, Boulder, CO, Remote in USA, St. Petersburg, FL
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Kansas City, MO, Kansas City, KS, Ashburn, VA, United States, Allen, TX, Pleasanton, CA, San Carlos, CA, Santa Clara, CA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Ashburn, VA, Pleasanton, CA, San Carlos, CA, Santa Clara, CA, United States, Santa Clara, CA, Nashville, TN
 
 ## Current Opportunities
 

@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Hackathon, Internship
-- **Locations:** India, Winnipeg, MB, Canada, Toronto, ON, Canada, Victoria, BC, Canada, Calgary, AB, Canada, Ottawa, ON, Canada, Vancouver, BC, Canada, London, UK, Tennessee, Chennai, Tamil Nadu, India, Indiana, Seattle, WA
+- **Categories:** Hackathon, Internship, Fresher Job
+- **Locations:** Tennessee, Chennai, Tamil Nadu, India, Indiana, Indianapolis, IN, Hyderabad, Telangana, India, Tempe, AZ, London, UK, Edinburgh, UK, Cambridge, UK, Sunnyvale, CA
 
 ## Current Opportunities
 

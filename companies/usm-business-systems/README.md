@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Traverse City, MI, Southfield, MI, Chantilly, VA, Alexandria, VA, Augusta, ME
+- **Categories:** Internship, Fresher Job
+- **Locations:** California City, CA, Washington, DC, Traverse City, MI, Alexandria, VA, Manassas, VA
 
 ## Current Opportunities
 

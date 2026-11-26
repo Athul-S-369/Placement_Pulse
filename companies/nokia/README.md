@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Naperville, IL, Canada, NYC, Sunnyvale, CA, Vancouver, BC, Canada, United States
+- **Categories:** Internship, Fresher Job
+- **Locations:** Vancouver, BC, Canada, United States, Allentown, PA, Naperville, IL, Dallas, TX, California
 
 ## Current Opportunities
 

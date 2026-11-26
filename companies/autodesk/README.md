@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Remote in Canada, Toronto, ON, Canada, Remote in Canada, Vancouver, BC, Canada, Remote in UK
+- **Categories:** Internship, Fresher Job
+- **Locations:** Vancouver, BC, Canada, Remote in UK, Remote in Canada, Toronto, ON, Canada, Remote in Canada
 
 ## Current Opportunities
 
