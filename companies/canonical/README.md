@@ -1,6 +1,6 @@
 # 🏢 Canonical
 
-**5 active opportunities** | **5 total tracked** | *Last updated: 2026-11-25*
+**5 active opportunities** | **5 total tracked** | *Last updated: 2026-11-26*
 
 ## Overview
 

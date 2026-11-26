@@ -1,11 +1,11 @@
 # 🏢 PNC Financial Services
 
-**5 active opportunities** | **5 total tracked** | *Last updated: 2026-11-25*
+**5 active opportunities** | **5 total tracked** | *Last updated: 2026-11-26*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Birmingham, AL, Dallas, TX, Pittsburgh, PA, Strongsville, OH, Remote in USA, Pittsburgh, PA, NYC, Downers Grove, IL, Pittsburgh, PA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Birmingham, AL, Dallas, TX, Pittsburgh, PA, Strongsville, OH, Downers Grove, IL, Pittsburgh, PA, NYC, Pittsburgh, PA, Remote in USA
 
 ## Current Opportunities
 

@@ -1,6 +1,6 @@
 # 🏢 Oriental Institute of Science and Technology
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-25*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-26*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Unifest](https://unstop.com/events/unifest-venture-verse-oriental-institute-of-science-and-technology-1791180) | Oriental Institute of Science and Technology | India | 🏢 Onsite | — | 2026-11-25 | Unstop |
 
 ## 📖 Interview Preparation
 

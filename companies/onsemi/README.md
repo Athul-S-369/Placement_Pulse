@@ -1,11 +1,11 @@
 # 🏢 onsemi
 
-**5 active opportunities** | **5 total tracked** | *Last updated: 2026-11-25*
+**5 active opportunities** | **5 total tracked** | *Last updated: 2026-11-26*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Wappingers Falls, NY, Fairview, OR, Scottsdale, AZ, Allen, TX, San Jose, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Fairview, OR, Wappingers Falls, NY, San Jose, CA, Allen, TX, Scottsdale, AZ
 
 ## Current Opportunities
 

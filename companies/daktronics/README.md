@@ -1,11 +1,11 @@
 # 🏢 Daktronics
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-25*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-26*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** State College, PA, Remote in USA
+- **Locations:** Remote in USA, State College, PA
 
 ## Current Opportunities
 

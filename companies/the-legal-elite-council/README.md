@@ -1,6 +1,6 @@
 # 🏢 The Legal Elite Council
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-25*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-26*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Constitutional Quiz Competition](https://unstop.com/quiz/constitutional-quiz-competition-the-legal-elite-council-1797956) | The Legal Elite Council | India | 🏢 Onsite | — | 2026-11-25 | Unstop |
 
 ## 📖 Interview Preparation
 

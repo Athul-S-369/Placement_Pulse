@@ -1,11 +1,11 @@
 # 🏢 Integrated Resources
 
-**12 active opportunities** | **12 total tracked** | *Last updated: 2026-11-25*
+**12 active opportunities** | **12 total tracked** | *Last updated: 2026-11-26*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Boston, MA, Cherry Hills Village, CO, Hickory, NC, Ambler, PA, Elmira, NY
+- **Categories:** Fresher Job, Internship
+- **Locations:** North Haven, CT, Exton, PA, Boston, MA, Milwaukee, WI, Cherry Hills Village, CO
 
 ## Current Opportunities
 

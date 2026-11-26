@@ -1,11 +1,11 @@
 # 🏢 Dexcom
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-25*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-26*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Remote in USA, San Diego, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** San Diego, CA, Remote in USA
 
 ## Current Opportunities
 

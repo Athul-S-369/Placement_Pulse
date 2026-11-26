@@ -1,11 +1,11 @@
 # 🏢 ABB
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-25*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-26*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Remote / Various, Morrisville, NC, Bedford, UK
+- **Locations:** Remote / Various, Bedford, UK, Morrisville, NC
 
 ## Current Opportunities
 

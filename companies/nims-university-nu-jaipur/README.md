@@ -1,6 +1,6 @@
 # 🏢 Nims University (NU), Jaipur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-25*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-26*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Bug Strike - Debugging Challenge (State-Level)](https://unstop.com/quiz/bug-strike-debugging-challenge-state-level-nims-university-nu-jaipur-1772269) | Nims University (NU), Jaipur | India | 🏢 Onsite | — | 2026-11-25 | Unstop |
 
 ## 📖 Interview Preparation
 

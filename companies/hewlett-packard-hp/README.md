@@ -1,10 +1,10 @@
 # 🏢 Hewlett Packard (HP)
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-25*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-26*
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
+- **Categories:** Fresher Job, Internship
 - **Locations:** Remote / Various, Vancouver, WA
 
 ## Current Opportunities

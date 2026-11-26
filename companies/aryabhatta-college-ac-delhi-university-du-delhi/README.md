@@ -1,6 +1,6 @@
 # 🏢 Aryabhatta College (AC), Delhi University (DU), Delhi
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-25*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-26*
 
 ## Overview
 

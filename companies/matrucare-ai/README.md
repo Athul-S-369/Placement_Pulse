@@ -1,6 +1,6 @@
 # 🏢 MatruCare AI
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-25*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-26*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [APTI-MASTER-AI Competitive Aptitude Quiz Competition 2026](https://unstop.com/quiz/apti-master-ai-competitive-aptitude-quiz-competition-2026-matrucare-ai-1802131) | MatruCare AI | India | 🏢 Onsite | — | 2026-11-25 | Unstop |
 
 ## 📖 Interview Preparation
 

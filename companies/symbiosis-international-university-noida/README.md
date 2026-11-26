@@ -1,6 +1,6 @@
 # 🏢 Symbiosis International University, Noida
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-25*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-26*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [NavSrijan: A Sustainability Event](https://unstop.com/competitions/navsrijan-a-sustainability-event-symbiosis-international-university-noida-1784317) | Symbiosis International University, Noida | India | 🏢 Onsite | — | 2026-11-25 | Unstop |
 
 ## 📖 Interview Preparation
 
