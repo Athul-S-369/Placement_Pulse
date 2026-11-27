@@ -1,6 +1,6 @@
 # 🏢 Indian Institute of Plantation Management, Bengaluru
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-26*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-27*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Vaak Chaturya: The Debate Competition](https://unstop.com/competitions/vaak-chaturya-the-debate-competition-nirvah-2k26-27-indian-institute-of-plantation-management-bengaluru-1806794) | Indian Institute of Plantation Management, Bengaluru | India | 🏢 Onsite | — | 2026-11-26 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,6 +1,6 @@
 # 🏢 Rajasthan institute of engineering and technology, Jaipur
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-26*
+**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-27*
 
 ## Overview
 

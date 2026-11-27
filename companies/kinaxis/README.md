@@ -1,11 +1,11 @@
 # 🏢 Kinaxis
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-26*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-27*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Ottawa, ON, Canada, Remote in Canada, Ottawa, ON, Canada, Remote in Canada
+- **Locations:** Ottawa, ON, Canada, Remote in Canada, Remote in Canada, Ottawa, ON, Canada
 
 ## Current Opportunities
 

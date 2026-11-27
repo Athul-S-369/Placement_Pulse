@@ -1,6 +1,6 @@
 # 🏢 CMR Institute of Technology (CMRIT), Bangalore
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-26*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-27*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [TEXPLORE 2026](https://unstop.com/competitions/texplore-cmr-institute-of-technology-cmrit-bangalore-1813472) | CMR Institute of Technology (CMRIT), Bangalore | India | 🏢 Onsite | — | 2026-11-26 | Unstop |
 
 ## 📖 Interview Preparation
 

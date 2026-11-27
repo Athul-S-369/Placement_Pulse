@@ -1,6 +1,6 @@
 # 🏢 Poornima Institute of Engineering & Technology (PIET), Jaipur
 
-**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-26*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-27*
 
 ## Overview
 

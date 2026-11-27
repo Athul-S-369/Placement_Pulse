@@ -1,10 +1,10 @@
 # 🏢 Wash U
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-26*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-27*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
+- **Categories:** Internship, Fresher Job
 - **Locations:** Remote in USA, St. Louis, MO
 
 ## Current Opportunities

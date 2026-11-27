@@ -1,11 +1,11 @@
 # 🏢 Integrated Resources
 
-**12 active opportunities** | **12 total tracked** | *Last updated: 2026-11-26*
+**12 active opportunities** | **12 total tracked** | *Last updated: 2026-11-27*
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Elmira, NY, Boston, MA, Cambridge, MA, Cherry Hills Village, CO, Westborough, MA
+- **Categories:** Internship, Fresher Job
+- **Locations:** Boston, MA, Elmira, NY, Birmingham, AL, Exton, PA, Cambridge, MA
 
 ## Current Opportunities
 

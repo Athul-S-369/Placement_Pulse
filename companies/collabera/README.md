@@ -1,11 +1,11 @@
 # 🏢 Collabera
 
-**9 active opportunities** | **9 total tracked** | *Last updated: 2026-11-26*
+**9 active opportunities** | **9 total tracked** | *Last updated: 2026-11-27*
 
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Madison, WI, Princeton, NJ, Alameda, CA, Radcliff, KY, Waukegan, IL
+- **Locations:** Madison, WI, Salt Lake City, UT, Princeton, NJ, Alameda, CA, Waukegan, IL
 
 ## Current Opportunities
 
