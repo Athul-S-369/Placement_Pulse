@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**142 active** | **637 expired** | **779 total**
+**146 active** | **637 expired** | **783 total**
 
 *Last updated: 2026-11-27*
 
@@ -11,6 +11,10 @@
 | [Tech Eximius 3.0](https://unstop.com/hackathons/tech-eximius-30-tech-circle-1829321) | Tech Circle | India | 🏢 Onsite | — | 2027-02-03 | Unstop |
 | [RRB NTPC & RRB Station Master Test Series 2026](https://unstop.com/quiz/rrb-ntpc-rrb-station-master-test-series-2026-iste-student-chapter-1830610) | ISTE Student chapter | India | 🏢 Onsite | — | 2026-12-11 | Unstop |
 | [Cloud Essentials & Digital Transformation](https://unstop.com/quiz/cloud-essentials-digital-transformation-aditya-university-surampalam-1830335) | Aditya university surampalam | India | 🏢 Onsite | — | 2026-12-23 | Unstop |
+| [Craft N Code Andhra Pradesh](https://unstop.com/hackathons/craft-n-code-andhra-pradesh-d3-2026-tech-fest-iiit-bhubaneswar-international-institute-of-information-technol-1831381) | International Institute of Information Technology (IIIT), Bhubaneswar | India | 🏢 Onsite | — | 2027-02-06 | Unstop |
+| [2nd International Conference on Emerging Challenges and Research Frontiers in Digital Transformation (ICECRF-2027)](https://unstop.com/conferences/2nd-international-conference-on-emerging-challenges-and-research-frontiers-in-digital-transformation-icecrf--1830708) | Vikrant University, Gwalior | India | 🏢 Onsite | — | 2027-01-05 | Unstop |
+| [AI Output Check Quiz: Find What the AI Got Wrong](https://unstop.com/quiz/ai-output-check-quiz-find-what-the-ai-got-wrong-iapqb-1827967) | IAPQB | India | 🏢 Onsite | — | 2026-12-31 | Unstop |
+| [Game On Night: Imagine The Impossible - Google Gemini Challenge](https://unstop.com/workshops-webinars/game-on-night-imagine-the-impossible-google-gemini-challenge-vivekananda-institute-of-professional-st-1830607) | Vivekananda Institute of Professional Studies (VIPS), Delhi | India | 🏢 Onsite | — | 2026-11-29 | Unstop |
 | [UNIVION: CHRONOS DE NOVO](https://unstop.com/hackathons/univion-chronos-de-novo-sieeds-1826867) | SIEEDS | India | 🏢 Onsite | — | 2027-01-16 | Unstop |
 | [NextGen Tech Quiz 2026](https://unstop.com/quiz/nextgen-tech-quiz-2026-inspire-leap-pvt-ltd-1827890) | Inspire Leap Pvt Ltd | India | 🏢 Onsite | — | 2026-12-10 | Unstop |
 | [Finaholics Concord Case Competition](https://unstop.com/competitions/finaholics-concord-case-competition-institute-of-management-technology-imt-nagpur-1828503) | Institute of Management Technology (IMT), Nagpur | India | 🏢 Onsite | — | 2026-12-11 | Unstop |
@@ -104,10 +108,6 @@
 | [L'Oréal Brandstorm 2027](https://unstop.com/competitions/crp-loreal-brandstorm-2027-loreal-1806930) | L’Oréal | India | 🏢 Onsite | — | 2027-03-02 | Unstop |
 | [ZEPP Student Shopping Quiz – Trial](https://unstop.com/quiz/zepp-student-shopping-quiz-trial-zeitgeist-retail-private-limited-1808622) | Zeitgeist Retail Private Limited | India | 🏢 Onsite | — | 2026-11-27 | Unstop |
 | [Poster Presentation Competition](https://unstop.com/conferences/poster-presentation-competition-soil-school-of-business-design-1808621) | SOIL School Of Business Design | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
-| [Code Rush – 24 Hours Hackathon](https://unstop.com/hackathons/code-rush-24-hours-hackathon-ignitron-2k26-gm-university-davanagere-1791410) | GM University Davanagere | India | 🏢 Onsite | — | 2026-11-30 | Unstop |
-| [All India Banks](https://unstop.com/competitions/all-india-banks-adhikosh27-national-institute-of-bank-management-nibm-pune-1808996) | National Institute of Bank Management (NIBM), Pune | India | 🏢 Onsite | — | 2027-01-29 | Unstop |
-| [Make Them Famous - The 48-Hour Brand Challenge](https://unstop.com/competitions/make-them-famous-the-48-hour-brand-challenge-ooro-1806159) | Ooro | India | 🏢 Onsite | — | 2026-11-27 | Unstop |
-| [The Mandate Redline: Live Global Policy Drafting Lab (Co-Author a Published Policy Brief)](https://unstop.com/competitions/the-mandate-redline-live-global-policy-drafting-lab-co-author-a-published-policy-brief-global-youth-mandate-1806033) | Global Youth Mandate | India | 🏢 Onsite | — | 2027-06-13 | Unstop |
 
 ## Recently Expired
 

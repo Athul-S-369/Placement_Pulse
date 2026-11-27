@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Cedar Rapids, IA, Longueuil, QC, Canada, McKinney, TX, Remote in USA, Richardson, TX, Fort Wayne, IN
+- **Locations:** Fort Wayne, IN, Andover, MA, Arlington, VA, Indianapolis, IN, Barrie, ON, Canada
 
 ## Current Opportunities
 

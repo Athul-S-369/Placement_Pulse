@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Cupertino, CA, United States, Lafayette, KS, Waltham, MA, San Jose, CA
+- **Locations:** California, San Jose, CA, Waltham, MA, Cupertino, CA, SF
 
 ## Current Opportunities
 

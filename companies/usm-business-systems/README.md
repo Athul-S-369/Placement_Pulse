@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Alexandria, VA, Augusta, ME, Baltimore, MD, San Antonio, TX, Jefferson City, MO
+- **Locations:** Baltimore, MD, Columbus, OH, Chicago, IL, Augusta, ME, Bloomington, MN
 
 ## Current Opportunities
 

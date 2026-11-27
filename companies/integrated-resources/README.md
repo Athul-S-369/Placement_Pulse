@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Exton, PA, Boston, MA, Elmira, NY, Milwaukee, WI, Cambridge, MA
+- **Locations:** Westborough, MA, Exton, PA, Ambler, PA, Milwaukee, WI, Cambridge, MA
 
 ## Current Opportunities
 
