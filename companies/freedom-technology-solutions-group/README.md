@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Fresher Job
-- **Locations:** Annapolis Junction, MD, St. Louis, MO
+- **Locations:** St. Louis, MO, Annapolis Junction, MD
 
 ## Current Opportunities
 

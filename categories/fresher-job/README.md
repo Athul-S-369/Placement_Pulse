@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1495 active** | **0 expired** | **1495 total**
+**1496 active** | **0 expired** | **1496 total**
 
 *Last updated: 2026-11-27*
 
@@ -8,6 +8,7 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Junior Full Stack AI Engineer](https://mogo.applytojob.com/apply/yLhCvCiypq/Junior-Full-Stack-AI-Engineer) | Orion Digital | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Engineer](https://jobs.lever.co/bluesight/8a3408a8-6909-4b66-92c1-98a5c80ba0a9/apply) | Bluesight | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Junior Software Developer](https://wellhealthtechnologiescorp.applytojob.com/apply/URnVV0S4yQ/Junior-Software-Developer) | WELLSTAR Technologies | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Analyst](https://job-boards.greenhouse.io/recidiviz/jobs/4717510006) | Recidiviz | Oakland, CA, Remote in USA, NYC | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -107,4 +108,3 @@
 | [Data Analyst - Measurement](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26228) | Pearson | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Software Engineer](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004087) | TriNet | Remote in USA, Atlanta, GA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Software Engineer](https://campaignmonitor.wd5.myworkdayjobs.com/marigold/job/Remote-United-States/Associate-Software-Engineer_R2487) | Marigold | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Flexible Work - Help Improve AI - English Speakers](https://jobs.smartrecruiters.com/LiftedanUpworkCompany/3743990016021726) | Lifted Solutions | London, UK, Remote in USA, Remote in Ireland, Remote in Australia, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |

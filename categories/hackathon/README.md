@@ -1,6 +1,6 @@
 # 🏆 Hackathon
 
-**140 active** | **637 expired** | **777 total**
+**142 active** | **637 expired** | **779 total**
 
 *Last updated: 2026-11-27*
 
@@ -9,6 +9,8 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [Tech Eximius 3.0](https://unstop.com/hackathons/tech-eximius-30-tech-circle-1829321) | Tech Circle | India | 🏢 Onsite | — | 2027-02-03 | Unstop |
+| [RRB NTPC & RRB Station Master Test Series 2026](https://unstop.com/quiz/rrb-ntpc-rrb-station-master-test-series-2026-iste-student-chapter-1830610) | ISTE Student chapter | India | 🏢 Onsite | — | 2026-12-11 | Unstop |
+| [Cloud Essentials & Digital Transformation](https://unstop.com/quiz/cloud-essentials-digital-transformation-aditya-university-surampalam-1830335) | Aditya university surampalam | India | 🏢 Onsite | — | 2026-12-23 | Unstop |
 | [UNIVION: CHRONOS DE NOVO](https://unstop.com/hackathons/univion-chronos-de-novo-sieeds-1826867) | SIEEDS | India | 🏢 Onsite | — | 2027-01-16 | Unstop |
 | [NextGen Tech Quiz 2026](https://unstop.com/quiz/nextgen-tech-quiz-2026-inspire-leap-pvt-ltd-1827890) | Inspire Leap Pvt Ltd | India | 🏢 Onsite | — | 2026-12-10 | Unstop |
 | [Finaholics Concord Case Competition](https://unstop.com/competitions/finaholics-concord-case-competition-institute-of-management-technology-imt-nagpur-1828503) | Institute of Management Technology (IMT), Nagpur | India | 🏢 Onsite | — | 2026-12-11 | Unstop |
@@ -106,8 +108,6 @@
 | [All India Banks](https://unstop.com/competitions/all-india-banks-adhikosh27-national-institute-of-bank-management-nibm-pune-1808996) | National Institute of Bank Management (NIBM), Pune | India | 🏢 Onsite | — | 2027-01-29 | Unstop |
 | [Make Them Famous - The 48-Hour Brand Challenge](https://unstop.com/competitions/make-them-famous-the-48-hour-brand-challenge-ooro-1806159) | Ooro | India | 🏢 Onsite | — | 2026-11-27 | Unstop |
 | [The Mandate Redline: Live Global Policy Drafting Lab (Co-Author a Published Policy Brief)](https://unstop.com/competitions/the-mandate-redline-live-global-policy-drafting-lab-co-author-a-published-policy-brief-global-youth-mandate-1806033) | Global Youth Mandate | India | 🏢 Onsite | — | 2027-06-13 | Unstop |
-| [Rabinjathon: Prime 1](https://unstop.com/hackathons/rabinjathon-prime-1-rabinja-squad-1761846) | Rabinja Squad | India | 🏢 Onsite | — | 2027-02-05 | Unstop |
-| [InkVichar-Call for Articles 2026](https://unstop.com/events/inkvichar-call-for-articles-2026-university-school-of-management-and-entrepreneurship-usmedelhi-1799177) | University School of Management and Entrepreneurship (USME),Delhi | India | 🏢 Onsite | — | 2027-01-10 | Unstop |
 
 ## Recently Expired
 

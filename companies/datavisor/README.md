@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Fresher Job, Internship
-- **Locations:** Mountain View, CA, Remote in Canada
+- **Categories:** Internship, Fresher Job
+- **Locations:** Remote in Canada, Mountain View, CA
 
 ## Current Opportunities
 

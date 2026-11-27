@@ -5,7 +5,7 @@
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Bluemont, VA, San Antonio, TX, Columbus, OH, Washington, DC, Dublin, OH
+- **Locations:** Alexandria, VA, Augusta, ME, Baltimore, MD, San Antonio, TX, Jefferson City, MO
 
 ## Current Opportunities
 
