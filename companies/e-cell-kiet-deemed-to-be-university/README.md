@@ -1,6 +1,6 @@
 # 🏢 E-Cell, KIET Deemed to Be University
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-27*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-28*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Entrepreneurship Unplugged: Ideas, Insights & Impact](https://unstop.com/workshops-webinars/entrepreneurship-unplugged-ideas-insights-impact-e-cell-kiet-deemed-to-be-university-1804406) | E-Cell, KIET Deemed to Be University | India | 🏢 Onsite | — | 2026-11-27 | Unstop |
 
 ## 📖 Interview Preparation
 

@@ -1,6 +1,6 @@
 # 🏢 Quik CPQ Solutions LLP
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-27*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-28*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [QuikCPQ AI Innovation Challenge 2027](https://unstop.com/hackathons/quikcpq-ai-innovation-challenge-2027-quik-cpq-solutions-llp-1806984) | Quik CPQ Solutions LLP | India | 🏢 Onsite | — | 2026-11-27 | Unstop |
 
 ## 📖 Interview Preparation
 

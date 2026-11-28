@@ -1,6 +1,6 @@
 # 🏢 JB Institute of Engineering and Technology
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-27*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-28*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [Elite Coders Winter of Code](https://unstop.com/competitions/elite-coders-winter-of-code-jb-institute-of-engineering-and-technology-1807152) | JB Institute of Engineering and Technology | India | 🏢 Onsite | — | 2026-11-27 | Unstop |
 
 ## 📖 Interview Preparation
 

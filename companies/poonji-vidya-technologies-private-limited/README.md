@@ -1,6 +1,6 @@
 # 🏢 Poonji Vidya Technologies Private Limited
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-27*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-28*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [CFA Level I FSA, Fixed Income & Derivatives Mock Test](https://unstop.com/quiz/cfa-level-i-fsa-fixed-income-derivatives-mock-test-poonji-vidya-technologies-private-limited-1822089) | Poonji Vidya Technologies Private Limited | India | 🏢 Onsite | — | 2026-11-27 | Unstop |
 
 ## 📖 Interview Preparation
 

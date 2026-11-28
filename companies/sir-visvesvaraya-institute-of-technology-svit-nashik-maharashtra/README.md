@@ -1,6 +1,6 @@
 # 🏢 Sir Visvesvaraya Institute Of Technology (SVIT), Nashik, Maharashtra
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-27*
+**0 active opportunities** | **1 total tracked** | *Last updated: 2026-11-28*
 
 ## Overview
 
@@ -11,7 +11,6 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
-| [AI Ready: From Student to AI-Enabled Professional Workshop](https://unstop.com/workshops-webinars/ai-ready-from-student-to-ai-enabled-professional-workshop-sir-visvesvaraya-institute-of-technology-sv-1807882) | Sir Visvesvaraya Institute Of Technology (SVIT), Nashik, Maharashtra | India | 🏢 Onsite | — | 2026-11-27 | Unstop |
 
 ## 📖 Interview Preparation
 

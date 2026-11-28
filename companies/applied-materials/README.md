@@ -1,11 +1,11 @@
 # 🏢 Applied Materials
 
-**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-27*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-28*
 
 ## Overview
 
 - **Categories:** Internship, Fresher Job
-- **Locations:** Santa Clara, CA, Austin, TX, Hillsboro, OR, Boise, ID, Albany, NY, Phoenix, AZ, Remote / Various
+- **Locations:** Remote / Various, Austin, TX, Hillsboro, OR, Boise, ID, Albany, NY, Phoenix, AZ, Santa Clara, CA
 
 ## Current Opportunities
 

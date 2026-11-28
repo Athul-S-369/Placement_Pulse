@@ -1,11 +1,11 @@
 # 🏢 Allegion
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-27*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-28*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Indianapolis, IN, Indianapolis, IN, Colorado Springs, CO
+- **Locations:** Indianapolis, IN, Colorado Springs, CO, Indianapolis, IN
 
 ## Current Opportunities
 
