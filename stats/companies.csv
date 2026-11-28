@@ -12,12 +12,12 @@ JP Morgan Chase,11,2026-11-28
 Oracle,10,2026-11-28
 Tesla,10,2026-11-28
 SpaceX,9,2026-11-28
+NVIDIA,9,2026-11-28
 Leidos,9,2026-11-28
 Collabera,9,2026-11-28
 Salesforce,8,2026-11-28
 Northrop Grumman,8,2026-11-28
 Jobs for Humanity,8,2026-11-28
-NVIDIA,8,2026-11-28
 Intel,8,2026-11-28
 Tenstorrent,7,2026-11-28
 BAE Systems,7,2026-11-28
@@ -136,6 +136,8 @@ CrowdGen by Appen,3,2026-11-28
 Welo Global,3,2026-11-28
 National Laboratory of the Rockies,3,2026-11-28
 GE Vernova,3,2026-11-28
+Guidehouse,3,2026-11-28
+Allegion,3,2026-11-28
 Motorola Solutions,3,2026-11-28
 Various,2,2026-11-28
 GitHub,2,2026-11-28
@@ -331,15 +333,15 @@ Voltus,2,2026-11-28
 Viavi Solutions,2,2026-11-28
 Liberty Mutual,2,2026-11-28
 Chainlink Labs,2,2026-11-28
-Guidehouse,2,2026-11-28
 CenturyLink,2,2026-11-28
 Danaher,2,2026-11-28
-Allegion,2,2026-11-28
 Barnes & Thornburg,2,2026-11-28
 LabCorp,2,2026-11-28
 ICF International,2,2026-11-28
+Elevance Health,2,2026-11-28
 ManTech,2,2026-11-28
 Kled AI,2,2026-11-28
+Cushman & Wakefield,2,2026-11-28
 neurohire.ai,2,2026-11-28
 Raydar,2,2026-11-28
 Lifeway,2,2026-11-28
@@ -2084,7 +2086,6 @@ Positron,1,2026-11-28
 Assurant,1,2026-11-28
 Jain Global,1,2026-11-28
 Datacor,1,2026-11-28
-Elevance Health,1,2026-11-28
 HighlightTA,1,2026-11-28
 CareSource,1,2026-11-28
 HubSpot,1,2026-11-28
@@ -2154,7 +2155,6 @@ Code Hive,1,2026-11-28
 "Symbiosis University of Applied Sciences (SUAS), Indore, Madhya Pradesh",1,2026-11-28
 Subtotal,1,2026-11-28
 Ascensus,1,2026-11-28
-Cushman & Wakefield,1,2026-11-28
 Netclan Explorer,1,2026-11-28
 HackQube,1,2026-11-28
 "Indian Institute of Technology (IIT), Chennai",1,2026-11-28
@@ -2467,3 +2467,4 @@ IAPQB,1,2026-11-28
 "Vivekananda Institute of Professional Studies (VIPS), Delhi",1,2026-11-28
 HireHawk,1,2026-11-28
 Imagica,1,2026-11-28
+Roche,1,2026-11-28

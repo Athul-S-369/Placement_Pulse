@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-28T00:13:03.307801Z",
+  "generated_at": "2026-11-28T08:19:54.356559Z",
   "date": "2026-11-28",
-  "total": 3226,
-  "active": 2580,
-  "new_today": 180,
-  "companies": 2468,
+  "total": 3232,
+  "active": 2586,
+  "new_today": 185,
+  "companies": 2469,
   "categories": {
-    "fresher-job": 1497,
-    "internship": 939,
+    "fresher-job": 1500,
+    "internship": 942,
     "hackathon": 784,
     "open-source-program": 2,
     "fellowship": 2,
@@ -67,6 +67,10 @@
       "count": 9
     },
     {
+      "name": "NVIDIA",
+      "count": 9
+    },
+    {
       "name": "Leidos",
       "count": 9
     },
@@ -87,17 +91,13 @@
       "count": 8
     },
     {
-      "name": "NVIDIA",
-      "count": 8
-    },
-    {
       "name": "Intel",
       "count": 8
     }
   ],
   "domain_tags": {
-    "ai-ml": 424,
-    "data-science": 221,
+    "ai-ml": 425,
+    "data-science": 223,
     "software-engineering": 494,
     "backend": 25,
     "embedded": 50,
@@ -109,7 +109,7 @@
     "cloud": 31
   },
   "work_modes": {
-    "remote": 657,
-    "onsite": 2569
+    "remote": 659,
+    "onsite": 2573
   }
 }

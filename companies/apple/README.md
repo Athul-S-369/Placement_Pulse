@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Austin, TX, Waltham, MA, United States, Gloucester, UK, California
+- **Categories:** Fresher Job, Internship
+- **Locations:** Cambridge, MA, Lafayette, KS, San Diego, CA, Beaverton, OR, Waltham, MA
 
 ## Current Opportunities
 

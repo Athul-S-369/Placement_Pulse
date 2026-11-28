@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Topeka, KS, Remote in USA, Blacksburg, VA, Wheatland, CA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Wheatland, CA, Remote in USA, Blacksburg, VA, Topeka, KS
 
 ## Current Opportunities
 

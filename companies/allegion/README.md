@@ -1,16 +1,17 @@
 # 🏢 Allegion
 
-**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-28*
+**3 active opportunities** | **3 total tracked** | *Last updated: 2026-11-28*
 
 ## Overview
 
-- **Categories:** Internship
-- **Locations:** Indianapolis, IN, Colorado Springs, CO, Indianapolis, IN
+- **Categories:** Fresher Job, Internship
+- **Locations:** Indianapolis, IN, Denver, CO, Indianapolis, IN, Colorado Springs, CO, Indianapolis, IN
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Software Systems Engineer](https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Software-Systems-Engineer---Indianapolis--IN-or-Denver--CO_JR38315) | Allegion | Indianapolis, IN, Denver, CO | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Product Data Intern - Product Data](https://allegion.wd5.myworkdayjobs.com/EarlyTalent_Careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Product-Data_JR37448) | Allegion | Indianapolis, IN, Colorado Springs, CO | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Hardware Engineer Intern - Advanced Development](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Hardware-Engineer--Advanced-Development-_JR37459-1) | Allegion | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 

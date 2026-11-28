@@ -1,6 +1,6 @@
 # 💼 Fresher Job
 
-**1497 active** | **0 expired** | **1497 total**
+**1500 active** | **0 expired** | **1500 total**
 
 *Last updated: 2026-11-28*
 
@@ -9,6 +9,9 @@
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
 | [Associate Software Engineer](https://apply.workable.com/hirehawk/j/E300AE4F78/apply) | HireHawk | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Data Analyst - Dashboard Developer](https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Data-Analyst--Dashboard-Developer-_46807) | Guidehouse | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
+| [Software Systems Engineer](https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Software-Systems-Engineer---Indianapolis--IN-or-Denver--CO_JR38315) | Allegion | Indianapolis, IN, Denver, CO | 🏢 Onsite | — | — | SimplifyJobs New Grad |
+| [Research Associate - Multiple Teams](https://cw.wd1.myworkdayjobs.com/external/job/Denver-Colorado-USA/Research-Associate---Data-Centers--Alternatives---Practice-Groups_R336908) | Cushman & Wakefield | Indianapolis, IN, Houston, TX, Nashville, TN, Austin, TX, Chicago, IL, St. Louis, MO, Phoenix, AZ, Denver, CO, Atlanta, GA | 🏢 Onsite | — | — | SimplifyJobs New Grad |
 | [Junior Full Stack AI Engineer](https://mogo.applytojob.com/apply/yLhCvCiypq/Junior-Full-Stack-AI-Engineer) | Orion Digital | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Data Engineer](https://jobs.lever.co/bluesight/8a3408a8-6909-4b66-92c1-98a5c80ba0a9/apply) | Bluesight | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Junior Software Developer](https://wellhealthtechnologiescorp.applytojob.com/apply/URnVV0S4yQ/Junior-Software-Developer) | WELLSTAR Technologies | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
@@ -105,6 +108,3 @@
 | [Software Engineer - Firefox Desktop Integrations](https://job-boards.greenhouse.io/mozilla/jobs/8268333) | Mozilla | Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Product Owner 1](https://jobs.lever.co/pditechnologies/ba03923d-fb60-4203-b85e-5e18bc046a04/apply) | PDI Technologies | Remote in USA, Alpharetta, GA | 🌐 Remote | — | — | SimplifyJobs New Grad |
 | [Associate Product Manager](https://clarioclinical.wd1.myworkdayjobs.com/en-US/clarioclinical_careers/job/Canada-Remote/Associate-Product-Manager_R18374) | Clairo | Remote in USA, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Machine Learning Scientist](https://goodpower.applytojob.com/apply/HK1iqPLsBu/Machine-Learning-Scientist) | GoodPower | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Data Analyst - Measurement](https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/26228) | Pearson | Remote in USA | 🌐 Remote | — | — | SimplifyJobs New Grad |
-| [Software Engineer](https://fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3004087) | TriNet | Remote in USA, Atlanta, GA | 🌐 Remote | — | — | SimplifyJobs New Grad |

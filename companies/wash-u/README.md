@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** St. Louis, MO, Remote in USA
+- **Categories:** Fresher Job, Internship
+- **Locations:** Remote in USA, St. Louis, MO
 
 ## Current Opportunities
 

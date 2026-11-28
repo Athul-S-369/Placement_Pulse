@@ -1,6 +1,6 @@
 # 🎓 Internship
 
-**939 active** | **0 expired** | **939 total**
+**942 active** | **0 expired** | **942 total**
 
 *Last updated: 2026-11-28*
 
@@ -8,6 +8,9 @@
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Service Data and Analytics Intern](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Indianapolis/XMLNAME-2027-Summer-Intern---Service-Data-and-Analytics_202611-129686) | Roche | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
+| [PhD Research Intern - AI for Climate and Weather Simulation](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Remote/PhD-Research-Intern--AI-for-Climate-and-Weather-Simulation---2027_JR2030004) | NVIDIA | Remote in UK, Reading, UK | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
+| [Innovation Intern](https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Innovation-Intern--Summer-2027_JR210979) | Elevance Health | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Data Foundations Intern - Data & Analytics](https://jobs-kinaxis.icims.com/jobs/36672/job?mobile=true&needsRedirect=false) | Kinaxis | Ottawa, ON, Canada, Remote in Canada | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Summer Internship - Business Intelligence](https://hq-lifeway.icims.com/jobs/27218/job?mobile=true&needsRedirect=false) | Lifeway | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Front-End Engineer Intern](https://hq-lifeway.icims.com/jobs/27216/job?mobile=true&needsRedirect=false) | Lifeway | Nashville, TN, Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
@@ -105,6 +108,3 @@
 | [Data Science Intern - Summer 2027 - Program](https://job-boards.greenhouse.io/datacor/jobs/5242412007) | Datacor | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Software Development/Engineer Intern](https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1) | CACI | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
 | [Product Analyst Intern - Housing](https://assurant.wd1.myworkdayjobs.com/en-US/Assurant_Careers/job/United-States-Virtual/Summer-2027-Intern--Product-Analyst-Intern---Housing_R-115659) | Assurant | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [ADISE Digital Innovation Intern - Cross-functional](https://dow.wd1.myworkdayjobs.com/ExternalCareers/job/Midland-MI-USA/XMLNAME-2026-2027-Campus-Internship---ADISE-Digital-Innovation---Cross-functional--PhD-_R2068777) | Dow Chemical Company | Collegeville, PA, Houston, TX, Carrollton, KY, Remote in USA, Freeport, TX, South Charleston, WV, Wilmington, DE, Plaquemine, LA, Auburn, MI, Midland, MI | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Data Scientist Intern](https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Data-Scientist--Reston--VA--Denver--CO--Remote-_R2603252) | ICF International | Remote in USA, Reston, VA, Denver, CO | 🌐 Remote | — | — | SimplifyJobs / PittCSC |
-| [Software Intern](https://myhrabc.wd5.myworkdayjobs.com/Global/job/Remote-USA/Software-Intern_R2613763) | Cencora | Remote in USA | 🌐 Remote | — | — | SimplifyJobs / PittCSC |

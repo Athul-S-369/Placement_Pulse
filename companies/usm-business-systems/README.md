@@ -4,8 +4,8 @@
 
 ## Overview
 
-- **Categories:** Internship, Fresher Job
-- **Locations:** Bluemont, VA, Dublin, OH, Manassas, VA, Alexandria, VA, San Antonio, TX
+- **Categories:** Fresher Job, Internship
+- **Locations:** Manassas, VA, California City, CA, St. Louis, MO, Chicago, IL, Dublin, OH
 
 ## Current Opportunities
 

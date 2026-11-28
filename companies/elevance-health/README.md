@@ -1,16 +1,17 @@
 # 🏢 Elevance Health
 
-**1 active opportunities** | **1 total tracked** | *Last updated: 2026-11-28*
+**2 active opportunities** | **2 total tracked** | *Last updated: 2026-11-28*
 
 ## Overview
 
 - **Categories:** Internship
-- **Locations:** Indianapolis, IN, Richmond, VA, Chicago, IL, Atlanta, GA
+- **Locations:** Indianapolis, IN, Richmond, VA, Chicago, IL, Atlanta, GA, Indianapolis, IN
 
 ## Current Opportunities
 
 | Role | Company | Location | Mode | Stipend/Salary | Deadline | Source |
 |------|---------|----------|------|----------------|----------|--------|
+| [Innovation Intern](https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/IN-INDIANAPOLIS-220-VIRGINIA-AVE/Innovation-Intern--Summer-2027_JR210979) | Elevance Health | Indianapolis, IN | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 | [Engineering Graduate Intern](https://elevancehealth.wd1.myworkdayjobs.com/ELV-ET/job/GA-ATLANTA-740-W-PEACHTREE-ST-NW/Engineering-Graduate-Intern---Summer-2027_JR209082) | Elevance Health | Indianapolis, IN, Richmond, VA, Chicago, IL, Atlanta, GA | 🏢 Onsite | — | — | SimplifyJobs / PittCSC |
 
 ## 📖 Interview Preparation
